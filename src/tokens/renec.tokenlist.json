@@ -145,6 +145,19 @@
       }
     },
     {
+      "chainId": 102,
+      "address": "DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp",
+      "symbol": "VNLA",
+      "name": "VanillaSwap Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/marv747/VanillaSwap/blob/e7e31396720c7354e831dbcc02a86860609423a7/icon-transparent5e1f.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
       "chainId": 101,
       "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
       "symbol": "reUSD",

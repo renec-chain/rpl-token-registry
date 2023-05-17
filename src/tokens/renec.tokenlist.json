@@ -236,6 +236,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Co4mpNrpMtZVmcPPVAZcVmeasuLW5XZSo3HxL6fEcv4E",
+      "name": "Metachain",
+      "symbol": "META",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw?response-content-disposition=inline%3B%20filename%3D%22Screenshot%202023-05-17%20at%2016.10.19.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202023-05-17%2520at%252016.10.19.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T091825Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=013749de8c7adf98bb4531585411562610db9868d73340b2c9913f91eb7ed21f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

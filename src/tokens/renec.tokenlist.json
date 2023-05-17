@@ -63,7 +63,8 @@
       "tags": [
         "currency"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -75,7 +76,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -87,7 +89,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -99,7 +102,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -111,7 +115,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -123,7 +128,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -135,7 +141,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -147,10 +154,10 @@
       "tags": [
         "community-token"
       ],
-        "extensions": {
+      "extensions": {
         "discord": "https://discord.gg/gVCbUqNQrZ",
         "twitter": "https://twitter.com/MemeFi01"
-		  }
+      }
     },
     {
       "chainId": 101,
@@ -162,7 +169,8 @@
       "tags": [
         "utility-token"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -174,7 +182,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -186,7 +195,8 @@
       "tags": [
         "wrapped-coin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -198,7 +208,21 @@
       "tags": [
         "wrapped-coin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BAE7d9NQ9MXyd9TC3SDiPpERMKXMxtgT3fpSFMogfpuA",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qw50eme3mkhjp85s9o5qwyywigtd?response-content-disposition=inline%3B%20filename%3D%22bitcoin.png%22%3B%20filename%2A%3DUTF-8%27%27bitcoin.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T084153Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=9752f7d3e9fb8be2cb6e7d909ad9117acd35c7b7d11f2ceb4245996bccb9517b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

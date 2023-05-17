@@ -249,6 +249,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FkQUqVZh7tbdetHSNZTyJjbNddGRccQJvqjfu3pxHMFj",
+      "name": "JackSparrow",
+      "symbol": "Arrow",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/curac9o70on1ecibtilopdfirc0s?response-content-disposition=inline%3B%20filename%3D%22arrow.png%22%3B%20filename%2A%3DUTF-8%27%27arrow.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T175823Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=e47e722517048044032e32d2541afaf21729c66a8d93e95894dd57604c6c0c72",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -223,6 +223,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "23gvCwffARjM6qwygoWieYNWtwGjZD5Zatf95tWWQ8P5",
+      "name": "NemoSwap",
+      "symbol": "NEMO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk?response-content-disposition=inline%3B%20filename%3D%22NemoSwap_Color_Final_favicon.png%22%3B%20filename%2A%3DUTF-8%27%27NemoSwap_Color_Final_favicon.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T085117Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=d100e4bbe68f7a8109e3e1a797bd0aa358e858e6224b31b9bbe33bcca225593e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

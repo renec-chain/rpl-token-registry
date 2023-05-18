@@ -353,6 +353,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GoXBZFLe7UhJp3U9F2fuWeXrA4nVG3ZbHJa7AwT3sctj",
+      "name": "PEPE ON MONEY ",
+      "symbol": "MPEP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxa4dl6iz9n3gdugzg856jb3lk2i?response-content-disposition=inline%3B%20filename%3D%22Screenshot_20230518-095543.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot_20230518-095543.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T090808Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dadf66e70ca3507925880626ef4e857eeb15c76055766668aa98e1f0f6ff6c09",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

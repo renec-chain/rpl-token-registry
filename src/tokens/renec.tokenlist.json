@@ -626,6 +626,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FcahgbwLAs2wz5RApFXYMTxU7CBcLD9yWUASHrvxhw74",
+      "name": "BAE",
+      "symbol": "BABY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xz8juu6kpnt9di56hop2heholukt?response-content-disposition=inline%3B%20filename%3D%22meme.png%22%3B%20filename%2A%3DUTF-8%27%27meme.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153727Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=291658275aa4e719698673ef2b262b4b837ad55b9fdce4a590b4a32c584368b4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

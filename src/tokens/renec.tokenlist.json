@@ -418,6 +418,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FHhdCcQhZpP3gm17v7B6UP1hpD78uy5KFCkrH9yV4ezq",
+      "name": "Dollar Coin",
+      "symbol": "DLCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/icw15s02x49lmczn8wyxgxwgio99?response-content-disposition=inline%3B%20filename%3D%22Free%20Vector%20_%20Dollar%20sign%20cartoon%20vector%20icon%20illustration_%20finance%20object%20icon%20concept%20isolated%20premium%20vector.%20flat%20cartoon%20style.%20flat%20cartoon%20style.jpg%22%3B%20filename%2A%3DUTF-8%27%27Free%2520Vector%2520_%2520Dollar%2520sign%2520cartoon%2520vector%2520icon%2520illustration_%2520finance%2520object%2520icon%2520concept%2520isolated%2520premium%2520vector.%2520flat%2520cartoon%2520style.%2520flat%2520cartoon%2520style.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T095847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c6dd0982bc83f362d7d4fdf009845fc18c1334b168ec20d4c79aa0d7bdb48cf8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

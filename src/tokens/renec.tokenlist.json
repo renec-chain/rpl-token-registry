@@ -262,6 +262,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HvLdkUWTNakJ5iey3RjAuFPQEtvsR1pE391vLtwcTjhN",
+      "name": "Banh Mi",
+      "symbol": "BaMi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/laxiqtes9fg8dzk5cjo9dx0saehf?response-content-disposition=inline%3B%20filename%3D%22d24f5add358e5c2f.png%22%3B%20filename%2A%3DUTF-8%27%27d24f5add358e5c2f.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T022743Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=56eb9953d54c3fc9dc6155861e9cfa2c685f0ac622687199abb95487c8f1daf7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

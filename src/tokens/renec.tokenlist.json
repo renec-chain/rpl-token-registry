@@ -418,6 +418,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C3rdn387kAwYPD9fLsWFYr47KSdmJXmvqQy96ToMS3P7",
+      "name": "Ghost Coin",
+      "symbol": "GSTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1yaqts1wsrl3l7owt9hq7bp74dbm?response-content-disposition=inline%3B%20filename%3D%22photo_3_2023-05-18_14-52-38.jpg%22%3B%20filename%2A%3DUTF-8%27%27photo_3_2023-05-18_14-52-38.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T094527Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3ad73203e45e4a11676d0ec5bc17e87543134888b7a0bfc3fdc0da4b5d42e56d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

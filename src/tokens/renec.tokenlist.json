@@ -535,6 +535,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2j1tT3XV3DxEPgueZHKWUdya5DtZW1bfcKzxMrUYcyyx",
+      "name": "Duck",
+      "symbol": "DUCK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5il9935j0mr8wi4ec21vxbx65ed?response-content-disposition=inline%3B%20filename%3D%22images%20%25282%2529.jpeg%22%3B%20filename%2A%3DUTF-8%27%27images%2520%25282%2529.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153208Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=403b9e164a9326f4412f41d1dfd8c59f28f0792054c1fac458b36cd256481b2a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

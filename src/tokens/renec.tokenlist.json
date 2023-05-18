@@ -340,6 +340,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "91xiRwDnBrHxmXzoskWv6H7NXCnzRmm7sRmKvkLBii3d",
+      "name": "dFantasy",
+      "symbol": "DFAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0op213fhuwvsa1vo273x3pd6w1fs?response-content-disposition=inline%3B%20filename%3D%22summer%20hot%20lyrics%20in%20the%20disert.jpg%22%3B%20filename%2A%3DUTF-8%27%27summer%2520hot%2520lyrics%2520in%2520the%2520disert.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T090647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d3504460e452e65a715e7984c17f46face5b46408291ea4efc25cb23221c430d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

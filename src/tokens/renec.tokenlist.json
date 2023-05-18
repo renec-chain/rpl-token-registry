@@ -522,6 +522,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DGLK5cezycv1h9yvwwZxs7bhjfh497SumVqKhkQZR4ev",
+      "name": "Coffee",
+      "symbol": "CF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5t4zh4dpn3egiu0lclt7irugi22c?response-content-disposition=inline%3B%20filename%3D%22a11a9add4fd5a4281eb5ce3254f8d556.jpg%22%3B%20filename%2A%3DUTF-8%27%27a11a9add4fd5a4281eb5ce3254f8d556.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153207Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9f763c1cd3d6554cadf246ceed8f0823851e90cc57d8ac30e6054c6bd46bc086",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

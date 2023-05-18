@@ -652,6 +652,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6sRh7v1FbF8T55adsd25p7aXzKti625hawQ6JDPmNNzx",
+      "name": "KENKOIN ",
+      "symbol": "KENK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t574olykilxxpxwx0b1r8ivo4noa?response-content-disposition=inline%3B%20filename%3D%2220230518_105446.jpg%22%3B%20filename%2A%3DUTF-8%27%2720230518_105446.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T154927Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7f5a1e242cd447f27d6e3d01c4d0357f1bc6798936ffd4236e5250fc413bcc5b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

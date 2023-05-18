@@ -314,6 +314,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EY7bx9NpoiUUxntsf4LQuNWMJ8x6zfYgd1N2DsG1EtxA",
+      "name": "Turtle Ninja",
+      "symbol": "NINJA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ukxlthscpq40g4zsu1njl6sk9ykw?response-content-disposition=inline%3B%20filename%3D%22teenage-mutant-ninja-turtles-logo-CA38586452-seeklogo.com.png%22%3B%20filename%2A%3DUTF-8%27%27teenage-mutant-ninja-turtles-logo-CA38586452-seeklogo.com.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T082847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0c287310d1a60c517a09d9e1c56c93da0d3817e181eb3143f09262e664f7ea4b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

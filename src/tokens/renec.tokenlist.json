@@ -496,6 +496,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7tT4h6WDGzWqSqWNS9gHgpaLxyBANu1ydwDhdc2TqXB7",
+      "name": "Babson DAO",
+      "symbol": "BDAO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ac1lxerd0o5q9ay9qbmao6c2vry5?response-content-disposition=inline%3B%20filename%3D%22B2.png%22%3B%20filename%2A%3DUTF-8%27%27B2.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9a8f824ac13ebf9da626deb9a1e8cbadf61d7b50ab7962b1cf6ba01283dafc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -483,6 +483,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FmHf1c3ns4WD7HyUpzDRzmNgAKQeHAEjxoAMiNBZv9H2",
+      "name": "Crypto Investment Insurance",
+      "symbol": "CII",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fwwe5rcot7n0b9r7wrrisnu03ah4?response-content-disposition=inline%3B%20filename%3D%22shields.png%22%3B%20filename%2A%3DUTF-8%27%27shields.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0d70b2b26c367d4effb700cbc98026620d0f5e3942a97b7044843cd8791e606a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

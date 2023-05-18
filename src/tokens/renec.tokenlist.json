@@ -275,6 +275,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3k4t8yC48T3hUmLeuGenEfcecBCfWwPj4wDhbuBBsnb1",
+      "name": "Remitano",
+      "symbol": "REM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/60069crvhljctc3opewe4hymabte?response-content-disposition=inline%3B%20filename%3D%22remitano-about.png%22%3B%20filename%2A%3DUTF-8%27%27remitano-about.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T024223Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8b4463ffd932972af6c7868d4f19afde9c162cb11fd20bb188471a1f1f03206",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

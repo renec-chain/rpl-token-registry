@@ -613,6 +613,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HscSdWFb6YgW8Y7s4Nf7myPnkTy3YPjARNEK7tWF58YQ",
+      "name": "TRINITY",
+      "symbol": "TRI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9wkyfu9e5ehpjwl7r9luf327elwl?response-content-disposition=inline%3B%20filename%3D%22trinity-logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27trinity-logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153328Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff3da9bcec622dcb3eb7e6c5e777d67c4e4c3c5a4e299c8a6ea22d338719fdef",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

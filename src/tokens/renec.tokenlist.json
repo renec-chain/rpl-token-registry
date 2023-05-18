@@ -291,19 +291,6 @@
     },
     {
       "chainId": 101,
-      "address": "3hr7yt8k9CeAQ3XXdmEFSwAcqz3zJszXe3zYnHyZMaoY",
-      "name": "TEST",
-      "symbol": "THT",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9uf1xk8nzjydohetw54rbzclzend?response-content-disposition=inline%3B%20filename%3D%22Wineass-Ios7-Redesign-Pictures.48.png%22%3B%20filename%2A%3DUTF-8%27%27Wineass-Ios7-Redesign-Pictures.48.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T074008Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2f8699f3df09c9eccdda5b40546100cb9de60f95a08bc91075bd30fd7a448f69",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "C8dEDg5siiSVKRiyZoAapbMppDsWBNK18VKqVUX2Bvv3",
       "name": "Panda token",
       "symbol": "PTK",

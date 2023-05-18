@@ -366,6 +366,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8bpaNebxWEHnNmRq8QMXs7kAYkKUMA89MAHEhtkiwi7k",
+      "name": "Jawa",
+      "symbol": "JAWA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oul3iq4t5m05e2js2336s38qzuxb?response-content-disposition=inline%3B%20filename%3D%22photo_2_2023-05-18_14-52-38.jpg%22%3B%20filename%2A%3DUTF-8%27%27photo_2_2023-05-18_14-52-38.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T093807Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0469b1f05482ae9d94f33cf2c7051d054de6f9bed244411e7423f8a6fd569970",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

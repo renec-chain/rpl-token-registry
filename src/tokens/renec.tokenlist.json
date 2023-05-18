@@ -457,6 +457,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bi7zp2gfb53vF5DsD7x43juznx6NA3H4kmTStA3E1MrW",
+      "name": "Dizzy Token",
+      "symbol": "DiZZY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5s5tw6b3roikoibjewqrq6uwh3fw?response-content-disposition=inline%3B%20filename%3D%22pepe.JPG%22%3B%20filename%2A%3DUTF-8%27%27pepe.JPG&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111607Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c8ba39637638a2a42e9d034e8bb6d632256755671704560bdd304466d2479a77",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

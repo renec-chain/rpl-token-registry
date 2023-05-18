@@ -444,6 +444,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4imnhY566Ds1xWtsenUPs5V4Q6rgc2dNx7q8i1diW8v2",
+      "name": "UPBO Forever",
+      "symbol": "UPBO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xn5lxifxq82lnlq4d8kcgfyepvtv?response-content-disposition=inline%3B%20filename%3D%22IMG_2322.JPG%22%3B%20filename%2A%3DUTF-8%27%27IMG_2322.JPG&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T110447Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3b83e972e567f97718b0ce9ecac7dff269135d3150c662c00054d6262c0df05c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

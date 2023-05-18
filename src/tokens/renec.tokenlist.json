@@ -470,6 +470,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7upNdAfxcctzpkzvod36y2ExwXdPwXYWY72u5xh2Absg",
+      "name": "Virtual Tech Systems coin",
+      "symbol": "VTSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hsb1sq7i2bkyxe7xy2ipy3sdfrwq?response-content-disposition=inline%3B%20filename%3D%2220230518_093853.jpg%22%3B%20filename%2A%3DUTF-8%27%2720230518_093853.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111607Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e49edb89e2031c5a6803dd4f09ab75b679132e8cf36cfe4f5d4502f3f8c648ba",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

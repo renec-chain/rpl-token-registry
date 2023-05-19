@@ -860,6 +860,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4dD9gK8m335rBV58sx1bqDThkYURNjpniGrrhWmDEZyp",
+      "name": "Lady",
+      "symbol": "Lady",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/teylgbh7gw0q51c5rn53ddhw3qq9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

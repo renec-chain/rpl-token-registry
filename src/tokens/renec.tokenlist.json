@@ -1042,6 +1042,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "21MfXx4gBzMXd1ZeVjoDCcPYiNC4uAafSE6CJVTdaQzR",
+      "name": "Mcoin",
+      "symbol": "MCN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1zcjqf4y76ffoqx3vr1m7sfjny51",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

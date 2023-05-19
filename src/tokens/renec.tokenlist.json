@@ -743,6 +743,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQkuwTmSX1eJ572sWmQGuGx57i3vDHvVxwbBUpGBBDhF",
+      "name": "HayRadeQua",
+      "symbol": "rade",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w5ypfvecy2vktl9mj7b8qmkmjaob",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

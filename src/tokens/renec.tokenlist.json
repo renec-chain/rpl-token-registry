@@ -925,6 +925,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ritC4taqC5RQxwNrZGT73nXfJr9xKfPDeyYNm1Pp3zK",
+      "name": "PEDOGZ",
+      "symbol": "PDZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/89mz9dagv42z2v4w885lo4tsj0p0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1016,6 +1016,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Af6ajLhYwnP9x8pc8ESZoqsqAAQ3V9W3u6tTjjkwU1bg",
+      "name": "MATERLINKS IMPA",
+      "symbol": "IMPA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t3ogw05yfue12lyn7y6bqe1agezw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

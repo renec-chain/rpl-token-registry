@@ -217,7 +217,7 @@
       "name": "NemoSwap",
       "symbol": "NEMO",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk?response-content-disposition=inline%3B%20filename%3D%22NemoSwap_Color_Final_favicon.png%22%3B%20filename%2A%3DUTF-8%27%27NemoSwap_Color_Final_favicon.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T085117Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=d100e4bbe68f7a8109e3e1a797bd0aa358e858e6224b31b9bbe33bcca225593e",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk",
       "tags": [
         "utility-token"
       ],
@@ -230,7 +230,7 @@
       "name": "Metachain",
       "symbol": "META",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw?response-content-disposition=inline%3B%20filename%3D%22Screenshot%202023-05-17%20at%2016.10.19.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202023-05-17%2520at%252016.10.19.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T091825Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=013749de8c7adf98bb4531585411562610db9868d73340b2c9913f91eb7ed21f",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw",
       "tags": [
         "utility-token"
       ],
@@ -243,7 +243,7 @@
       "name": "C3X Token",
       "symbol": "CEX",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lvqer8cebn0aq049thbziz3tst0y?response-content-disposition=inline%3B%20filename%3D%22bash.jpeg%22%3B%20filename%2A%3DUTF-8%27%27bash.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T175143Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=82f635815358f0fe8fc1694fc1427d2f48ab4601ca8f4dd9ae9bd3572d9f4f8d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lvqer8cebn0aq049thbziz3tst0y",
       "tags": [
         "utility-token"
       ],
@@ -256,7 +256,7 @@
       "name": "JackSparrow",
       "symbol": "Arrow",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/curac9o70on1ecibtilopdfirc0s?response-content-disposition=inline%3B%20filename%3D%22arrow.png%22%3B%20filename%2A%3DUTF-8%27%27arrow.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T175823Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=e47e722517048044032e32d2541afaf21729c66a8d93e95894dd57604c6c0c72",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/curac9o70on1ecibtilopdfirc0s",
       "tags": [
         "utility-token"
       ],
@@ -269,7 +269,7 @@
       "name": "Banh Mi",
       "symbol": "BaMi",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/laxiqtes9fg8dzk5cjo9dx0saehf?response-content-disposition=inline%3B%20filename%3D%22d24f5add358e5c2f.png%22%3B%20filename%2A%3DUTF-8%27%27d24f5add358e5c2f.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T022743Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=56eb9953d54c3fc9dc6155861e9cfa2c685f0ac622687199abb95487c8f1daf7",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/laxiqtes9fg8dzk5cjo9dx0saehf",
       "tags": [
         "utility-token"
       ],
@@ -282,7 +282,7 @@
       "name": "Remitano",
       "symbol": "REM",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/60069crvhljctc3opewe4hymabte?response-content-disposition=inline%3B%20filename%3D%22remitano-about.png%22%3B%20filename%2A%3DUTF-8%27%27remitano-about.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T024223Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8b4463ffd932972af6c7868d4f19afde9c162cb11fd20bb188471a1f1f03206",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/60069crvhljctc3opewe4hymabte",
       "tags": [
         "utility-token"
       ],
@@ -295,7 +295,7 @@
       "name": "PIZZA",
       "symbol": "PIZZA",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s4eqsize3zjkm55s98vzhrvd8ki5?response-content-disposition=inline%3B%20filename%3D%22st%252Csmall%252C845x845-pad%252C1000x1000%252Cf8f8f8.u3.jpg%22%3B%20filename%2A%3DUTF-8%27%27st%252Csmall%252C845x845-pad%252C1000x1000%252Cf8f8f8.u3.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T082847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=008bd995b594a15c9787ab05d4e75488dd681d11f708eb8f0f8e1ecbe65665cf",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s4eqsize3zjkm55s98vzhrvd8ki5",
       "tags": [
         "utility-token"
       ],
@@ -308,7 +308,7 @@
       "name": "Turtle Ninja",
       "symbol": "NINJA",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ukxlthscpq40g4zsu1njl6sk9ykw?response-content-disposition=inline%3B%20filename%3D%22teenage-mutant-ninja-turtles-logo-CA38586452-seeklogo.com.png%22%3B%20filename%2A%3DUTF-8%27%27teenage-mutant-ninja-turtles-logo-CA38586452-seeklogo.com.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T082847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0c287310d1a60c517a09d9e1c56c93da0d3817e181eb3143f09262e664f7ea4b",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ukxlthscpq40g4zsu1njl6sk9ykw",
       "tags": [
         "utility-token"
       ],
@@ -321,7 +321,7 @@
       "name": " king of memes",
       "symbol": "MEME",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lqrqchohb86jgvk9oriub0jatigy?response-content-disposition=inline%3B%20filename%3D%227z_cf2bb_400x400.jpg%22%3B%20filename%2A%3DUTF-8%27%277z_cf2bb_400x400.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T090647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=25ecc80556a370000a8e5c420ef7bcc4fbe044b2696bdf46d920e155076c4a18",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lqrqchohb86jgvk9oriub0jatigy",
       "tags": [
         "utility-token"
       ],
@@ -334,7 +334,7 @@
       "name": "dFantasy",
       "symbol": "DFAN",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0op213fhuwvsa1vo273x3pd6w1fs?response-content-disposition=inline%3B%20filename%3D%22summer%20hot%20lyrics%20in%20the%20disert.jpg%22%3B%20filename%2A%3DUTF-8%27%27summer%2520hot%2520lyrics%2520in%2520the%2520disert.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T090647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d3504460e452e65a715e7984c17f46face5b46408291ea4efc25cb23221c430d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0op213fhuwvsa1vo273x3pd6w1fs",
       "tags": [
         "utility-token"
       ],
@@ -347,7 +347,7 @@
       "name": "PEPE ON MONEY ",
       "symbol": "MPEP",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxa4dl6iz9n3gdugzg856jb3lk2i?response-content-disposition=inline%3B%20filename%3D%22Screenshot_20230518-095543.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot_20230518-095543.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T090808Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dadf66e70ca3507925880626ef4e857eeb15c76055766668aa98e1f0f6ff6c09",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxa4dl6iz9n3gdugzg856jb3lk2i",
       "tags": [
         "utility-token"
       ],
@@ -360,7 +360,7 @@
       "name": "Jawa",
       "symbol": "JAWA",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oul3iq4t5m05e2js2336s38qzuxb?response-content-disposition=inline%3B%20filename%3D%22photo_2_2023-05-18_14-52-38.jpg%22%3B%20filename%2A%3DUTF-8%27%27photo_2_2023-05-18_14-52-38.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T093807Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0469b1f05482ae9d94f33cf2c7051d054de6f9bed244411e7423f8a6fd569970",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oul3iq4t5m05e2js2336s38qzuxb",
       "tags": [
         "utility-token"
       ],
@@ -373,7 +373,7 @@
       "name": "vausa kingdom",
       "symbol": "VsK",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e3pn9ij97hqb4fl2dr5is5p1ej5t?response-content-disposition=inline%3B%20filename%3D%22WhatsApp%20Image%202023-05-18%20at%2011.39.12.jpeg%22%3B%20filename%2A%3DUTF-8%27%27WhatsApp%2520Image%25202023-05-18%2520at%252011.39.12.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T093847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=064f9ade80f6de6db05262d3a121956929daae3b2d98c454676eb23e326d6a7d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e3pn9ij97hqb4fl2dr5is5p1ej5t",
       "tags": [
         "utility-token"
       ],
@@ -386,7 +386,7 @@
       "name": "GAREN",
       "symbol": "GAR",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rvo09yq13nfn890srxgyvvzmo538?response-content-disposition=inline%3B%20filename%3D%22gr.png%22%3B%20filename%2A%3DUTF-8%27%27gr.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T094127Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=16125318862793c09133904aa6f430e89edbad0a70aeab9154e06de4de91e14d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rvo09yq13nfn890srxgyvvzmo538",
       "tags": [
         "utility-token"
       ],
@@ -399,7 +399,7 @@
       "name": "Ghost Coin",
       "symbol": "GSTC",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1yaqts1wsrl3l7owt9hq7bp74dbm?response-content-disposition=inline%3B%20filename%3D%22photo_3_2023-05-18_14-52-38.jpg%22%3B%20filename%2A%3DUTF-8%27%27photo_3_2023-05-18_14-52-38.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T094527Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3ad73203e45e4a11676d0ec5bc17e87543134888b7a0bfc3fdc0da4b5d42e56d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1yaqts1wsrl3l7owt9hq7bp74dbm",
       "tags": [
         "utility-token"
       ],
@@ -412,7 +412,7 @@
       "name": "Dollar Coin",
       "symbol": "DLCO",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/icw15s02x49lmczn8wyxgxwgio99?response-content-disposition=inline%3B%20filename%3D%22Free%20Vector%20_%20Dollar%20sign%20cartoon%20vector%20icon%20illustration_%20finance%20object%20icon%20concept%20isolated%20premium%20vector.%20flat%20cartoon%20style.%20flat%20cartoon%20style.jpg%22%3B%20filename%2A%3DUTF-8%27%27Free%2520Vector%2520_%2520Dollar%2520sign%2520cartoon%2520vector%2520icon%2520illustration_%2520finance%2520object%2520icon%2520concept%2520isolated%2520premium%2520vector.%2520flat%2520cartoon%2520style.%2520flat%2520cartoon%2520style.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T095847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c6dd0982bc83f362d7d4fdf009845fc18c1334b168ec20d4c79aa0d7bdb48cf8",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/icw15s02x49lmczn8wyxgxwgio99",
       "tags": [
         "utility-token"
       ],
@@ -425,7 +425,7 @@
       "name": "Panda Coin",
       "symbol": "PANDA",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ca5ilnxi7xhzdiinybrfijmhif6z?response-content-disposition=inline%3B%20filename%3D%22PandaCoin_Icon_500_Op2_Icon.png%22%3B%20filename%2A%3DUTF-8%27%27PandaCoin_Icon_500_Op2_Icon.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T100327Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1f3f175b28bfcd15b3d1f915261ea862ce8dd5c8388120b63e4e05af046c0082",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ca5ilnxi7xhzdiinybrfijmhif6z",
       "tags": [
         "utility-token"
       ],
@@ -438,7 +438,7 @@
       "name": "UPBO Forever",
       "symbol": "UPBO",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xn5lxifxq82lnlq4d8kcgfyepvtv?response-content-disposition=inline%3B%20filename%3D%22IMG_2322.JPG%22%3B%20filename%2A%3DUTF-8%27%27IMG_2322.JPG&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T110447Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3b83e972e567f97718b0ce9ecac7dff269135d3150c662c00054d6262c0df05c",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xn5lxifxq82lnlq4d8kcgfyepvtv",
       "tags": [
         "utility-token"
       ],
@@ -451,7 +451,7 @@
       "name": "Dizzy Token",
       "symbol": "DiZZY",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5s5tw6b3roikoibjewqrq6uwh3fw?response-content-disposition=inline%3B%20filename%3D%22pepe.JPG%22%3B%20filename%2A%3DUTF-8%27%27pepe.JPG&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111607Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c8ba39637638a2a42e9d034e8bb6d632256755671704560bdd304466d2479a77",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5s5tw6b3roikoibjewqrq6uwh3fw",
       "tags": [
         "utility-token"
       ],
@@ -464,7 +464,7 @@
       "name": "Virtual Tech Systems coin",
       "symbol": "VTSC",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hsb1sq7i2bkyxe7xy2ipy3sdfrwq?response-content-disposition=inline%3B%20filename%3D%2220230518_093853.jpg%22%3B%20filename%2A%3DUTF-8%27%2720230518_093853.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111607Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e49edb89e2031c5a6803dd4f09ab75b679132e8cf36cfe4f5d4502f3f8c648ba",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hsb1sq7i2bkyxe7xy2ipy3sdfrwq",
       "tags": [
         "utility-token"
       ],
@@ -477,7 +477,7 @@
       "name": "Crypto Investment Insurance",
       "symbol": "CII",
       "decimals": 1,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fwwe5rcot7n0b9r7wrrisnu03ah4?response-content-disposition=inline%3B%20filename%3D%22shields.png%22%3B%20filename%2A%3DUTF-8%27%27shields.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0d70b2b26c367d4effb700cbc98026620d0f5e3942a97b7044843cd8791e606a",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fwwe5rcot7n0b9r7wrrisnu03ah4",
       "tags": [
         "utility-token"
       ],
@@ -490,7 +490,7 @@
       "name": "Babson DAO",
       "symbol": "BDAO",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ac1lxerd0o5q9ay9qbmao6c2vry5?response-content-disposition=inline%3B%20filename%3D%22B2.png%22%3B%20filename%2A%3DUTF-8%27%27B2.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T111647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9a8f824ac13ebf9da626deb9a1e8cbadf61d7b50ab7962b1cf6ba01283dafc",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ac1lxerd0o5q9ay9qbmao6c2vry5",
       "tags": [
         "utility-token"
       ],
@@ -503,7 +503,7 @@
       "name": "Wolfverine",
       "symbol": "WOLF",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jppqbci4552a4q6zsyk2axk9ooyb?response-content-disposition=inline%3B%20filename%3D%22f0cbbfd1f5de237d2b51ae420ccfc06e.jpg%22%3B%20filename%2A%3DUTF-8%27%27f0cbbfd1f5de237d2b51ae420ccfc06e.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153207Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=400f067dacc55575f98547d14d587404638b061035019bf18e646a3c7cf07aa8",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jppqbci4552a4q6zsyk2axk9ooyb",
       "tags": [
         "utility-token"
       ],
@@ -516,7 +516,7 @@
       "name": "Coffee",
       "symbol": "CF",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5t4zh4dpn3egiu0lclt7irugi22c?response-content-disposition=inline%3B%20filename%3D%22a11a9add4fd5a4281eb5ce3254f8d556.jpg%22%3B%20filename%2A%3DUTF-8%27%27a11a9add4fd5a4281eb5ce3254f8d556.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153207Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9f763c1cd3d6554cadf246ceed8f0823851e90cc57d8ac30e6054c6bd46bc086",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5t4zh4dpn3egiu0lclt7irugi22c",
       "tags": [
         "utility-token"
       ],
@@ -529,7 +529,7 @@
       "name": "Duck",
       "symbol": "DUCK",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5il9935j0mr8wi4ec21vxbx65ed?response-content-disposition=inline%3B%20filename%3D%22images%20%25282%2529.jpeg%22%3B%20filename%2A%3DUTF-8%27%27images%2520%25282%2529.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153208Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=403b9e164a9326f4412f41d1dfd8c59f28f0792054c1fac458b36cd256481b2a",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5il9935j0mr8wi4ec21vxbx65ed",
       "tags": [
         "utility-token"
       ],
@@ -542,7 +542,7 @@
       "name": "Blog Nguyen Nam Thang",
       "symbol": "BNNT",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85xz0xovd53a3vfazk6msko25cns?response-content-disposition=inline%3B%20filename%3D%22Blognguyennamthang.png%22%3B%20filename%2A%3DUTF-8%27%27Blognguyennamthang.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153247Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=14d1d92035591351df7f03c76c979d22f72e281b2028b099a21490371c60ac3d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85xz0xovd53a3vfazk6msko25cns",
       "tags": [
         "utility-token"
       ],
@@ -555,7 +555,7 @@
       "name": "Love",
       "symbol": "LOVE",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/78cd0zbj6tebg7sqpg5eo9fkn61q?response-content-disposition=inline%3B%20filename%3D%22heart-logo-png-transparent.png%22%3B%20filename%2A%3DUTF-8%27%27heart-logo-png-transparent.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153248Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8f5af2a8eafd20ede92f4fce14fc078495ba053fd725dbd9bbb8d374212f6dd5",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/78cd0zbj6tebg7sqpg5eo9fkn61q",
       "tags": [
         "utility-token"
       ],
@@ -568,7 +568,7 @@
       "name": "Suon Bi Cha",
       "symbol": "SBC",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dv7c1eo5nfd7asxejdhybyoqvv7o?response-content-disposition=inline%3B%20filename%3D%22suonbicha.png%22%3B%20filename%2A%3DUTF-8%27%27suonbicha.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153327Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=18e1c875d69f88dca3b0b055a71761eb39073bea4764d08bf798387fdf955f50",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dv7c1eo5nfd7asxejdhybyoqvv7o",
       "tags": [
         "utility-token"
       ],
@@ -581,7 +581,7 @@
       "name": "Loofcoin",
       "symbol": "LFC",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/05433v6xdyubzig11fol7z1f3h0g?response-content-disposition=inline%3B%20filename%3D%22Loofcoin%20Logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27Loofcoin%2520Logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153327Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4e989a4b9fab00fbd7e5da8606c0a42d0509454b584344b0e3b4d97a60771f6f",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/05433v6xdyubzig11fol7z1f3h0g",
       "tags": [
         "utility-token"
       ],
@@ -594,7 +594,7 @@
       "name": "TRINITY",
       "symbol": "TRI",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9wkyfu9e5ehpjwl7r9luf327elwl?response-content-disposition=inline%3B%20filename%3D%22trinity-logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27trinity-logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153328Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff3da9bcec622dcb3eb7e6c5e777d67c4e4c3c5a4e299c8a6ea22d338719fdef",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9wkyfu9e5ehpjwl7r9luf327elwl",
       "tags": [
         "utility-token"
       ],
@@ -607,7 +607,7 @@
       "name": "BAE",
       "symbol": "BABY",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xz8juu6kpnt9di56hop2heholukt?response-content-disposition=inline%3B%20filename%3D%22meme.png%22%3B%20filename%2A%3DUTF-8%27%27meme.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T153727Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=291658275aa4e719698673ef2b262b4b837ad55b9fdce4a590b4a32c584368b4",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xz8juu6kpnt9di56hop2heholukt",
       "tags": [
         "utility-token"
       ],
@@ -620,7 +620,7 @@
       "name": "Banker Club",
       "symbol": "BAC",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6i6p4225t5nkkavylhzqvu44nuiu?response-content-disposition=inline%3B%20filename%3D%22IMG_5607.jpeg%22%3B%20filename%2A%3DUTF-8%27%27IMG_5607.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T154847Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=47b35a46af2d0a24291c78ef837b0de31e8320c61b827606c94821b038998efe",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6i6p4225t5nkkavylhzqvu44nuiu",
       "tags": [
         "utility-token"
       ],
@@ -633,7 +633,7 @@
       "name": "KENKOIN ",
       "symbol": "KENK",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t574olykilxxpxwx0b1r8ivo4noa?response-content-disposition=inline%3B%20filename%3D%2220230518_105446.jpg%22%3B%20filename%2A%3DUTF-8%27%2720230518_105446.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T154927Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7f5a1e242cd447f27d6e3d01c4d0357f1bc6798936ffd4236e5250fc413bcc5b",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t574olykilxxpxwx0b1r8ivo4noa",
       "tags": [
         "utility-token"
       ],
@@ -646,7 +646,7 @@
       "name": "Youplex",
       "symbol": "YPX",
       "decimals": 6,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwqttoqo1u7pmvc11jbaankqckws?response-content-disposition=inline%3B%20filename%3D%22play.png%22%3B%20filename%2A%3DUTF-8%27%27play.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T155007Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7f27d3c983b22b2cc038c2cec1e8976513216e64f4c2362daab2d71aff6c0614",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwqttoqo1u7pmvc11jbaankqckws",
       "tags": [
         "utility-token"
       ],
@@ -659,7 +659,7 @@
       "name": "STROLLERS",
       "symbol": "STR",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fa1kp8v1d8ak3wx4h8fcezqmj6up?response-content-disposition=inline%3B%20filename%3D%2220230518_121252_0000%255B1%255D.png%22%3B%20filename%2A%3DUTF-8%27%2720230518_121252_0000%255B1%255D.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230518T164047Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0426aea4e6532ce636eb8f2056a4eee8b82a55d9bb685faefd4025fb9782dd7e",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fa1kp8v1d8ak3wx4h8fcezqmj6up",
       "tags": [
         "utility-token"
       ],
@@ -672,7 +672,7 @@
       "name": "Bowlism Outlaw",
       "symbol": "BOWL",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lezdfbpl751we3oezlrlfe5vn4c6?response-content-disposition=inline%3B%20filename%3D%22bowlismoutlaw_avatar_of_a_man_somehow_like_Marcus_Aurelius_famo_b7276a6a-86a7-439f-ad47-1195ee298760.png%22%3B%20filename%2A%3DUTF-8%27%27bowlismoutlaw_avatar_of_a_man_somehow_like_Marcus_Aurelius_famo_b7276a6a-86a7-439f-ad47-1195ee298760.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T025247Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=868afb545c454b5e60c5bfadc57332e45fb3f7231bb59478dee314af7ab8295e",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lezdfbpl751we3oezlrlfe5vn4c6",
       "tags": [
         "utility-token"
       ],
@@ -685,7 +685,7 @@
       "name": "MEOW MEOW COIN",
       "symbol": "MEO",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eeyu62ma7nljh8efu2pakru6a87w?response-content-disposition=inline%3B%20filename%3D%22st%252Csmall%252C507x507-pad%252C600x600%252Cf8f8f8.u1.jpg%22%3B%20filename%2A%3DUTF-8%27%27st%252Csmall%252C507x507-pad%252C600x600%252Cf8f8f8.u1.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042632Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d531eef922783ccee47431665de6b5a987196f9586bc9297f127962fadc40c13",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eeyu62ma7nljh8efu2pakru6a87w",
       "tags": [
         "utility-token"
       ],
@@ -698,7 +698,7 @@
       "name": "Debis",
       "symbol": "DBS",
       "decimals": 8,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ucjl1kkvq0o4f09y8gsf5wtz2j1c?response-content-disposition=inline%3B%20filename%3D%22Debis.jpg%22%3B%20filename%2A%3DUTF-8%27%27Debis.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042712Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=13ef38ff63fd908b7c62f4625c21bd69fecea2d8fc7b70054c3f708495472b18",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ucjl1kkvq0o4f09y8gsf5wtz2j1c",
       "tags": [
         "utility-token"
       ],
@@ -711,7 +711,7 @@
       "name": "TV Transport",
       "symbol": "TVT",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1be401juui0unwkd9wfa2da2b4eo?response-content-disposition=inline%3B%20filename%3D%22logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042752Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c59d15b1642104b31a9c60e7d60065ec52f5a924a85e5af956cf34c1795a055f",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1be401juui0unwkd9wfa2da2b4eo",
       "tags": [
         "utility-token"
       ],
@@ -724,7 +724,7 @@
       "name": "VYVY",
       "symbol": "VEE",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l7u19c2ts0s6e4smmtn236jk5gqf?response-content-disposition=inline%3B%20filename%3D%22IMG_2984.JPG%22%3B%20filename%2A%3DUTF-8%27%27IMG_2984.JPG&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042752Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=6b65b855155f36ca21593718ef24425b0991a240435fd0c3cb626c3a98d5e78a",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l7u19c2ts0s6e4smmtn236jk5gqf",
       "tags": [
         "utility-token"
       ],
@@ -737,7 +737,7 @@
       "name": "NDCT Foundation Coin",
       "symbol": "NDCT",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fnssldw1rkk4f36prl45hmmjkix?response-content-disposition=inline%3B%20filename%3D%22CutePanda.jpeg%22%3B%20filename%2A%3DUTF-8%27%27CutePanda.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T045352Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=7e6e4bad248202c0f9389ab8a7b9deec6dbd50b2aae3cbf1f9c088ac442b5184",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fnssldw1rkk4f36prl45hmmjkix",
       "tags": [
         "utility-token"
       ],

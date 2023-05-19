@@ -873,6 +873,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2VdAN4qPmZyG2sD1oLs87JLGSwtWtKeco4wM7oCFVdRM",
+      "name": "MASTERLINK COFFEE",
+      "symbol": "MLCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5qs2nh323ey91a02aoxtn88hp1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -782,6 +782,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HkUYz5QQxmujKC1rjGNQTR7KQDNeDJFa9UDQkDRV2E9U",
+      "name": "Ticket VIP",
+      "symbol": "VIPP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1q6y3k2zi6oez9ae2r8lp8vc28td",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

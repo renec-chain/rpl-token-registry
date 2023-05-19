@@ -1003,6 +1003,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GGtSEJ2dxrnUwZTqKuWhHBYZieLG65KfDeWPKJmmAWv1",
+      "name": "LemonadeLoot",
+      "symbol": "LML",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hfvc38xn004lintp69u82qwmgm8f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

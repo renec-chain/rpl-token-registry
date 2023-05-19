@@ -990,6 +990,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dtgtdpb49buvY5m1DYFFdB2EUDNtX1SrTBw6gkEQkXAV",
+      "name": "BinhMyco",
+      "symbol": "BMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jqnvf83i5qpnpled981zcddhls9h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

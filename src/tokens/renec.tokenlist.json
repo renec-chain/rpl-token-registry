@@ -730,6 +730,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JE36sKeVSBY221TyPAtiq71uzGdWGtY64UBxUqj9ZgNW",
+      "name": "NDCT Foundation Coin",
+      "symbol": "NDCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fnssldw1rkk4f36prl45hmmjkix?response-content-disposition=inline%3B%20filename%3D%22CutePanda.jpeg%22%3B%20filename%2A%3DUTF-8%27%27CutePanda.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T045352Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=7e6e4bad248202c0f9389ab8a7b9deec6dbd50b2aae3cbf1f9c088ac442b5184",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

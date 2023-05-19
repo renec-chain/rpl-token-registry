@@ -821,6 +821,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FwBZc4Ymm5GJMJjpqqDao1sTYgCYP5ZoBTZq5qdy5kK7",
+      "name": "Sports Network Cryptocurrency",
+      "symbol": "SNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rpoas1mlitjtmw71z615p2dhe1c9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1029,6 +1029,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DLocpjyRrc1V62jjKDQVdwT53nc7UQANm99MaWvGPhue",
+      "name": "NGHE BANK",
+      "symbol": "NBANK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u30sqb8spkjefqny42nt85vc5p1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

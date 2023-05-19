@@ -665,6 +665,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4TdUWduRcBwPxkL4aR4AGfrd5e4hs4KaXa2FtvAKsTQ1",
+      "name": "Bowlism Outlaw",
+      "symbol": "BOWL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lezdfbpl751we3oezlrlfe5vn4c6?response-content-disposition=inline%3B%20filename%3D%22bowlismoutlaw_avatar_of_a_man_somehow_like_Marcus_Aurelius_famo_b7276a6a-86a7-439f-ad47-1195ee298760.png%22%3B%20filename%2A%3DUTF-8%27%27bowlismoutlaw_avatar_of_a_man_somehow_like_Marcus_Aurelius_famo_b7276a6a-86a7-439f-ad47-1195ee298760.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T025247Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=868afb545c454b5e60c5bfadc57332e45fb3f7231bb59478dee314af7ab8295e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

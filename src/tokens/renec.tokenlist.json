@@ -912,6 +912,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5jvn2pBtYL1LuJh8SywX7NqT1dQfe9FsJ64zx9Q84R3x",
+      "name": "CR7 Token",
+      "symbol": "CRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wv32qwzglookxm36mmyxr5v1jblm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

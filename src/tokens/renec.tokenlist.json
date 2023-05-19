@@ -795,6 +795,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "38h9f8gXFw1bXNa9LTcp9D9f51u5P53eTVetowxbLjQt",
+      "name": "Ticket",
+      "symbol": "CROWN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cz2gozia6b31uikjg1avkoopstj1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

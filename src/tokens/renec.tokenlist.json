@@ -756,6 +756,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2tckDnaR9qhE2i24pAu4kpNmw7mLQbJqVA7u42A7HEVN",
+      "name": "MASTERLINKS IMPA",
+      "symbol": "RIMPA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lzpgygz4mdsqbh6m9g35rlwc2z3k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

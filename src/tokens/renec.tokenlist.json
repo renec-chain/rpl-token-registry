@@ -951,6 +951,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5ij77hmEoSvm8Yy8dkL5jLnTTTLwhiQjLgfeCtSiWTAF",
+      "name": "TIREC",
+      "symbol": "TRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwyelqoxfw4har9wc124y223dlr4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -704,6 +704,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H5g5DL6YBbCeXKRZwdLnTuZAfKWyvyNFgZrQggqTHegq",
+      "name": "TV Transport",
+      "symbol": "TVT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1be401juui0unwkd9wfa2da2b4eo?response-content-disposition=inline%3B%20filename%3D%22logo.jpg%22%3B%20filename%2A%3DUTF-8%27%27logo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042752Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c59d15b1642104b31a9c60e7d60065ec52f5a924a85e5af956cf34c1795a055f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

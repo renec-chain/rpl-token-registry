@@ -964,6 +964,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CTgp6ALtEUDG7S1PfRDT3xDcqzvd847ySESzzakYPCp5",
+      "name": "Graphcai ",
+      "symbol": "GPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ambq04seuxxt9c2w0egvnpxis00v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

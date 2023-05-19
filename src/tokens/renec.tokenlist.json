@@ -717,6 +717,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6KQXhCMx4ZF5HAaMt2x98p3uvPiDQxiGKwhZhNF6P8aL",
+      "name": "VYVY",
+      "symbol": "VEE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l7u19c2ts0s6e4smmtn236jk5gqf?response-content-disposition=inline%3B%20filename%3D%22IMG_2984.JPG%22%3B%20filename%2A%3DUTF-8%27%27IMG_2984.JPG&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042752Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=6b65b855155f36ca21593718ef24425b0991a240435fd0c3cb626c3a98d5e78a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

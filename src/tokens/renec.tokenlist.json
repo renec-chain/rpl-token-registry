@@ -886,6 +886,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4CjFtjGovCoeGUiLyrS3SR7YiNkL8VNU6uucnhozZD9Z",
+      "name": "Cho Co Coin",
+      "symbol": "ChoCo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pbzex55e2cu1contdkfh44h8nl5i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

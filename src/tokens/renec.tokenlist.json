@@ -899,6 +899,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5sk5BFJk6JcbmBBX1ZWLMz4EwXp9Rn3xkudhAK9Xmdjr",
+      "name": "RENEC MONEY",
+      "symbol": "RENM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u3kgrp3c1b3vu6hgp0uooaobn26d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

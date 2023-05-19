@@ -808,6 +808,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cvsfsi3vyT6ZzZpDTYtM8prLmB7J3d5xZzGufLqsbzVB",
+      "name": "Tennis Coin",
+      "symbol": "TNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5p26zm5rqcz0pbidjiuzad9qfxzy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

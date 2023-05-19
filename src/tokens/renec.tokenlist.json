@@ -938,6 +938,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Emh29B2oKkfjjuniZ3yEDoYSqa72QBb49WMBQV6EzPN9",
+      "name": "MAZI DOGE",
+      "symbol": "MDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9h1cahbrzqzonietfqxz64unxgnw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

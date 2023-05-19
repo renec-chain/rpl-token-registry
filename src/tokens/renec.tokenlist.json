@@ -691,6 +691,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AEvLwFHjfcKnxE4biCEVuRnXmhmgWkDXgAUeMatSDWiW",
+      "name": "Debis",
+      "symbol": "DBS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ucjl1kkvq0o4f09y8gsf5wtz2j1c?response-content-disposition=inline%3B%20filename%3D%22Debis.jpg%22%3B%20filename%2A%3DUTF-8%27%27Debis.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042712Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=13ef38ff63fd908b7c62f4625c21bd69fecea2d8fc7b70054c3f708495472b18",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

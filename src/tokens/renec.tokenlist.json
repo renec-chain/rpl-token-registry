@@ -678,6 +678,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8A37pnjcbFhLZ9hctcwhB7Ggyraor3LJDtNLcxCjHW4N",
+      "name": "MEOW MEOW COIN",
+      "symbol": "MEO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eeyu62ma7nljh8efu2pakru6a87w?response-content-disposition=inline%3B%20filename%3D%22st%252Csmall%252C507x507-pad%252C600x600%252Cf8f8f8.u1.jpg%22%3B%20filename%2A%3DUTF-8%27%27st%252Csmall%252C507x507-pad%252C600x600%252Cf8f8f8.u1.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230519T042632Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d531eef922783ccee47431665de6b5a987196f9586bc9297f127962fadc40c13",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

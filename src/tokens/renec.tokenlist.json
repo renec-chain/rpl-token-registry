@@ -834,6 +834,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E4uRL9PA3aYZTfcodr265xv19C7eSc5Rctgh4xRFUa5Z",
+      "name": "VICOIN",
+      "symbol": "VIIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ud7lhtqg41303105ns8ohwfiulbx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

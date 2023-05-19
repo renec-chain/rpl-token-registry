@@ -769,6 +769,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dto37b9WTUU9iGekwjmvXPgJrFh3kzDosdgr2uYoNUZ2",
+      "name": "Mely",
+      "symbol": "mely",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qtf54gkq095e6rw7p7m2qrep7eqq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

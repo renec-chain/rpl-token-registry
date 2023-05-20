@@ -1224,6 +1224,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2iwRnubAjXtAn7NschM9F6hVhLHSng3sfbrr6TqVFny1",
+      "name": "PandaPump",
+      "symbol": "PMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ape9yw5hb74pxqu3pbmy2q6d5vwb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

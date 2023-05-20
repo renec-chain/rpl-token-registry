@@ -1328,6 +1328,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CdivUSfH3PHj4X98j4xXEEVdt73DkUhfxRnLrtpP2siS",
+      "name": "oracle",
+      "symbol": "ORC",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rd8iw9grnn2y95zim5nhark4fm5b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1107,6 +1107,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E6wiRm7uw5EhtVxhpbMHKJ4Rvqi49hSsq3de5qUToaZB",
+      "name": "DigitalPro CryptoNetwork",
+      "symbol": "Dgpro",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q4sjho99hu71sqhno8arifh21x02",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

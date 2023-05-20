@@ -1354,6 +1354,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8p8gSJ64Sak82C5VRb967MUC4rx1ygjWsMFkEDpchTYt",
+      "name": "DUC Foundation token",
+      "symbol": "DUC",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o5zigg7roxk0283cn5b081zq5ri7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

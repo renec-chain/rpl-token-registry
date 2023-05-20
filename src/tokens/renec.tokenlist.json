@@ -1185,6 +1185,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EGvhvyKfUZycyed1kGgkRDzqUL9fd7yxXjF2HTQoDGEk",
+      "name": "RENEC inu",
+      "symbol": "RNCI",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/12vnz27huwf207kt6s0ol0mxnonj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

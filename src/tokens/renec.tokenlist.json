@@ -1367,6 +1367,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Ki8iV87EqduUAS5sRCdyox9s6YB9JteRYQSRb17nvw6",
+      "name": "MOON",
+      "symbol": "MOON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oqnsqlnxr4w00slfj9st62uiteax",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

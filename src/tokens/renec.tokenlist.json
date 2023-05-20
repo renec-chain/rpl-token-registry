@@ -1133,6 +1133,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "31tbWtFTDDrRqNciYzSFSUuKbHn87RiPZhTJrEApq9A9",
+      "name": "kind",
+      "symbol": "KID",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y3r8bgqru6tpybuz2xdgn2q9thgr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

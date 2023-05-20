@@ -1068,6 +1068,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F9SMs8FC4NWKozeL7FoZvdKW8Zk3j8VTPT8M1osDAupE",
+      "name": "MULTILEVEL CRYPTONETWORK",
+      "symbol": "MCNET",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p53809n5ylac37xmvnlefmfe2kn0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1250,6 +1250,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BUW8MABJtCnCpVtC2kuWp9dMGvUrc3kJVRk6tqMYeKLW",
+      "name": "FrogeCoin",
+      "symbol": "FROGE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v72brvzkjdvuhp8wanasf9akszvn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

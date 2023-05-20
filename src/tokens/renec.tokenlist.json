@@ -1081,6 +1081,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DsSfC7zi6wUcwbQRngLURSD8EyV4XrR3xcK4K4qmngmh",
+      "name": "Tich",
+      "symbol": "TIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0dp2g4097xx3y8oyn8u9ttzaqab7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1120,6 +1120,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7G3oDnJ9jnB4tw6StHu666UopzrxpbgeFpuSdywNWVBj",
+      "name": "Grab Dieu Cay",
+      "symbol": "AGRAB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gv27okums7o0ilgmre94oufnb7h8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

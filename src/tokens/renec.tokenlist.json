@@ -1289,6 +1289,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2zHuvv2qyoPS2sEsY444nvUxQTYMPcsMsMNd4YkzKWNg",
+      "name": "SASDOG",
+      "symbol": "SDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/asnwjlq6c1l5l281ouq3rolqxfqw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

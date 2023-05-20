@@ -1198,6 +1198,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4eoZHd1KBEeKPRAoFE2KpKqPe1W6uC2hp6vjXKNztEjA",
+      "name": "MoonCatCoin",
+      "symbol": "MCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nzothcxj8ew7d9hmnlxihsusjwf4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

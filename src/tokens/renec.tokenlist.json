@@ -1276,6 +1276,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CQQ8qeFrdEopb8xjDFXQ1pyKQhohsWHc9xubYZtPR4oK",
+      "name": "INC",
+      "symbol": "INC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6f5y4uavfv2ocl63i0zsne6n8d0w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

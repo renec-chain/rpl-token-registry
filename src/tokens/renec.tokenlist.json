@@ -1094,6 +1094,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2PQaNhNDCwKxgEzpzzP3UC9Xu5Zee6KDW9oGDDKRTLDU",
+      "name": "DOCTOR",
+      "symbol": "DOC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uheiu1syiog5z2mrpmu0v09w3be3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

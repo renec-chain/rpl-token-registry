@@ -1055,6 +1055,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9VdT8WhdDQjhg7FEz8guELuibTPd3jGq1A9hJuCvnxiR",
+      "name": "Memeverse",
+      "symbol": "MV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5cn80zqlkh0wqj0ernyy983ueg89",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1315,6 +1315,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5nPogH3C1j1BGSopMuLfHcd2qndwV453cSPSBsLFpAQt",
+      "name": "Strawberry",
+      "symbol": "rSB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qd54elzjxpi5uwsij4uwd57scuex",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

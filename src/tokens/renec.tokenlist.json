@@ -1263,6 +1263,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FWdsoLdjHkpLCRaXnr7YeVRbxCB99K42qMNtm4dGkuJf",
+      "name": "esst ",
+      "symbol": "SST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wvkovb0s7rvvgjbrnxct4m8ahtc5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

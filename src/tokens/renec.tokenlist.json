@@ -1302,6 +1302,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HnkGvpm5ntg4JEh3cUhBuWVMtmYNLkqx4iWX3uBFWee",
+      "name": "TZ Renec minners",
+      "symbol": "TZRM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w1ed5tzp0dmztd4b3skn8gb4cv5r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

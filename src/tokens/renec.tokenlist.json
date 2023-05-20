@@ -1380,6 +1380,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9tqgjb3654VQ3KNne56ghh2S83x1gqzZfLXaZ7tQwKV",
+      "name": "Wrapped DOGESHIBA",
+      "symbol": "WDOSH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2dteufwfq7bgmmtjle9cm7i0qat9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

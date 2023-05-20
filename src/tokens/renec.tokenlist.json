@@ -1237,6 +1237,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GcGcMU8TgbyuRJEGx2TewVsg4y9yyGtUtsLedeStqwHq",
+      "name": "ShibaRenec",
+      "symbol": "SBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x0yvh5h1thl92gehy7mx8sgt1dcd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

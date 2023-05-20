@@ -1211,6 +1211,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4429h87CuYefsSByt6Ko9sUdGE93mrrZyq64ukHp6HpB",
+      "name": "RocketDoggo",
+      "symbol": "RDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/chrficnqklke2ftouox8rhl1t46n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

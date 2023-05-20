@@ -1172,6 +1172,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AgSh2E2ZeUPxhKEZ9qiwowuotp1s6VVKSAXdCBZjJJGE",
+      "name": "KaidenID",
+      "symbol": "KAIID",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bn3dlgo1a43zld3j3z4e05anygle",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

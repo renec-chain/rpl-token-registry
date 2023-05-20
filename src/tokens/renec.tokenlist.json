@@ -1146,6 +1146,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUgCNnZEu474jyZrhXtyoM3mjAGcTYraGxCmhjbPoeNS",
+      "name": "SolarBearRenec",
+      "symbol": "SLR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wwc07puoayyj5r3g22gf3giupvyx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

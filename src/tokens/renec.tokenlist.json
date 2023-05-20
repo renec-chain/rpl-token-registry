@@ -1341,6 +1341,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BvD2FciHtkWeJdCzN3izStyqDwcv2rmsYbfWoYmjQtCg",
+      "name": "SmaskMoney game",
+      "symbol": "SMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lctpiclj0ojrere48vu96pkcsxie",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

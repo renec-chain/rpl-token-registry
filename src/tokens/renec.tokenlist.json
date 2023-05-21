@@ -1471,6 +1471,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H7y4ADadmfBLDDaJmDY4LF81yPaUp69oYTr9UEN1KywV",
+      "name": "Arimis",
+      "symbol": "ARM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85faczqmozlubda52gxiojuygf4d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

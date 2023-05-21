@@ -1396,19 +1396,6 @@
     },
     {
       "chainId": 101,
-      "address": "5zEV4ZNoazdC931VU2Md2YFnmgRo6mjqi3akABQPSKiQ",
-      "name": "Braincoin",
-      "symbol": "BRC",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1dvpj82ae9hnqx76c2zo6qllwlvv",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "HPtwNYuzJZBXzqkGqmgags9oxWH88W5VNuW4grVSr7Uz",
       "name": "Tanpt",
       "symbol": "PTT",

@@ -1445,6 +1445,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C8jRcLpa1kumEg9p49EVKkPWuYz8EgD5XWmCXG4r13Jv",
+      "name": "CloudNec",
+      "symbol": "CDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l4fy3b1xjx1ttj6d78igs6wqapew",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

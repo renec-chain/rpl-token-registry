@@ -1601,6 +1601,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gqd7s2Tq2je5TSnUyWe14FLpSnmjxjeH5EeSCKwUB5kE",
+      "name": "RENEC SHIBA",
+      "symbol": "SINEC",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/avmioxpzq7kyqaxrs50se9r7jiau",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

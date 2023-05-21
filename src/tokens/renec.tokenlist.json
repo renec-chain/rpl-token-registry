@@ -1484,6 +1484,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6iCVSz4YowpFAxxP76H6vU7tLWgFQ7Ri8UVzptSwiLkm",
+      "name": "CRYSTAL ROSE",
+      "symbol": "CROSE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j58tumbkh6421rp5wyn107xt361h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

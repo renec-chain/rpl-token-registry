@@ -1497,6 +1497,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EBskFKr5Mw3Wk4DFEUFP1SLr9ofHuHH593cFYncRgx3S",
+      "name": "ROSE",
+      "symbol": "AK47",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/58w7oul5q6j2zgvspweajdnjj20g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1640,6 +1640,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQDS1WeXvbKeWWN9ZTWfwaYs4EXwW6LSNxyPBHfxd4rq",
+      "name": "Camanga Parents Legacy",
+      "symbol": "CPL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4rulsd459x19bw2o87k4ey9ngjiw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1614,6 +1614,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EQNa6TcR4SvaCyouerenSeDLDmioma2vxe9UXGDgYpDq",
+      "name": "Kilimanjaro tz",
+      "symbol": "KILI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ctkoivxtxwc83e7xijbgn3gipy4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

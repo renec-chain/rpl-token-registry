@@ -1523,6 +1523,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J8rWt9L7XWx2isXoLmAUSCGtsLqBtJoZciv3hVamkfNH",
+      "name": "MAZI LOVE",
+      "symbol": "MLE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jo4sxd9n37p8kas2d2du7li7a3sq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

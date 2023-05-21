@@ -1575,6 +1575,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HVh1pAscQzT2H7eeZzKyG2Sg1NPRF6EFvsBWkqcsQ4d9",
+      "name": "Datum Coin ",
+      "symbol": "DAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n43swe3dxscdhzyz15ejs4t81whx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1510,6 +1510,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6aQkfYK3Yhn6unVmotZRvW8KseoiB9SBi4YeMbbXyEZt",
+      "name": "Direct Relief Token",
+      "symbol": "DRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/guqcqka6r54ukiexd4spfdzd3nxo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

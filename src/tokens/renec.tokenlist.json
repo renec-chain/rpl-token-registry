@@ -1588,6 +1588,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3RuhzJCn7P8bRWqPHb3S4nR4o58d1XkED6YpsWpZ8sUD",
+      "name": "SAVE THE CHILDREN TOKEN",
+      "symbol": "STCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c57wcwhh1i37irgmh93lt4yt3y29",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

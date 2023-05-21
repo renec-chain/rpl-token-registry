@@ -1549,6 +1549,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "cBYn3WxtT5nxjBwuXmr1CX1gpMhM9mfRqGVK2dhJfbD",
+      "name": "MAZI MAN",
+      "symbol": "MMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tsf2k698z671ebehtlsrmicdju7g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

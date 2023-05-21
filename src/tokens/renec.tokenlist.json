@@ -1627,6 +1627,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5cKyNxo1hYyMRXL23CSHe4pdTKXMBcsq2QCh1RkWCtHy",
+      "name": "Great Eagle Token",
+      "symbol": "GET",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dle2zu5s9vmhq2or8ura5472zt2r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

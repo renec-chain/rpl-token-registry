@@ -1406,6 +1406,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HPtwNYuzJZBXzqkGqmgags9oxWH88W5VNuW4grVSr7Uz",
+      "name": "Tanpt",
+      "symbol": "PTT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a54mgo208bkwgf8tro6aszoof26p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

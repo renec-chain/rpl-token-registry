@@ -1653,6 +1653,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CqNbJnXMZqBXwtdZRrJDBDc9UnpntWo7Qj9iQV5r1wme",
+      "name": "Tokenomics",
+      "symbol": "TKN",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5i03nocbe1jv6szbem9pa6b7mvgf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

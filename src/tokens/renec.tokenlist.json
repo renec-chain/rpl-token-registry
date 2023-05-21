@@ -1562,6 +1562,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hmQuMzW4JEXk4avGzC5vt3Xu2C9hMgPEL93WqXWw3Jy",
+      "name": "MAZI BABY",
+      "symbol": "MBY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gucu2gzv46zzth37rdo1lh6ryl0f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

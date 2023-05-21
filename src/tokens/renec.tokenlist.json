@@ -1536,6 +1536,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "293pPMC9s6rfkZvmJDrFMq9sSwBnaiNHXmoPbP3yCme4",
+      "name": "HITWIN PREDICTS",
+      "symbol": "HWIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9guvwh1udwjrufg1yk0wgq6i7zb8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

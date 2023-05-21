@@ -1588,6 +1588,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AANWetVYysG7mtJrYXKYmrb9RGiydwRRA5LHwYeKcihy",
+      "name": "Django Unchain Talent",
+      "symbol": "DJO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oi30vz40g2rd1jdmvpgi0e7vziva",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1419,6 +1419,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GU4Cdg26PFU9EK2uDJ2vvSvTjQnNPDfuD56wkiR37H2o",
+      "name": "Mooncoin",
+      "symbol": "MOONC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jrvptm4qk5zqpjbo4chksxxtv7ds",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

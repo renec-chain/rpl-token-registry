@@ -1458,6 +1458,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2pfRAWrVVm9mLa8TbzbvgNPKwsPbcDHUyQJZmYfDLQnd",
+      "name": "AEPay Coin",
+      "symbol": "AE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dfg9ltwkj965ucj0tloq5a68j7p8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

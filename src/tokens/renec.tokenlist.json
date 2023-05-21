@@ -1432,6 +1432,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JCVHzMtP6peQkTmoW46YNHyKQuoushF4WUhapphLdnSr",
+      "name": "happy bird",
+      "symbol": "BIRD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jgkcjv5w32z6i3hdzswvr9vufa4m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

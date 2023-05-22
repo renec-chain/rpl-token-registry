@@ -1666,6 +1666,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FkuiE2HX69QcopGAXHaTZVZ7oNUaPPQF9vcwpfUNcuCW",
+      "name": "CR7 SIUUUUU",
+      "symbol": "SIUUU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1pwtlahbjv1kkw31y5ozddlmuvsn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

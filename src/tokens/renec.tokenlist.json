@@ -1692,6 +1692,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J56MhYaGGAj3AhtPeZPVMaZcPMHkn15TccW6ZYhyuf91",
+      "name": "CrashCoin",
+      "symbol": "CHCN",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i8x7dynyai1ttxg613a3kbow9j3c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

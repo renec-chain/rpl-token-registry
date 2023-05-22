@@ -1705,6 +1705,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fj1EL9LFkNgKuqN745PTGkDb5qGfdVi4nLkJvErgtQMh",
+      "name": "SHP BANK CRYPTO",
+      "symbol": "SHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gnxmg9tiezbox7k53ca4b9aa6a71",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1848,6 +1848,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3Lh1LjdZaVj8YiGXAVr9qmp1ovimn4ZiZJczBv7RzjLL",
+      "name": "PiNetworkBlog",
+      "symbol": "PNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3ih289epsis5fdr58t29gwswycg7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

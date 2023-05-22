@@ -1783,6 +1783,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B3ySSb4w6cjb2eHRoiaUcGvrttdSvNBuiDXDvhLRjUFs",
+      "name": "Pooh Token",
+      "symbol": "POOH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/knac50qj9gmu97f841buimg2mzj3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

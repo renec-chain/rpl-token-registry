@@ -1770,6 +1770,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6fyk51oQEipYZrE1E7E169UMYpo3fQJ1iTze2mWU9E9z",
+      "name": "IROKO KING",
+      "symbol": "IRK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nrcdyecfqgqaec1fxx51icx7ire2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

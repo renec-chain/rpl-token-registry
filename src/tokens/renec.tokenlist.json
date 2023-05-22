@@ -1900,6 +1900,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J6kVA7jTYFujGAtuggBBtpPPHBiZhgUdE3qiCrvGqFZZ",
+      "name": "KC",
+      "symbol": "KC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oe2u6yxfnxkf23vzbxtmy71p8lyo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

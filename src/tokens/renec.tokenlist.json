@@ -1679,6 +1679,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9BY2QELFkxtzs6E8ob3GqVHb51KwQYMGizV9NwtbAvWN",
+      "name": "Core Renec",
+      "symbol": "Crnc",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a25e9sat0rmow2avw322guzkz6tx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

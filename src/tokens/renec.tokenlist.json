@@ -1796,6 +1796,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6UeFNrG49uiJP49bxy79wD9eL9j1FFEymjq71ZiQ9VWA",
+      "name": "FIRE COIN",
+      "symbol": "FRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/32nqodoa8vnat9va4dijopxa30j8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1822,6 +1822,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9mAmV1ownPjdr8kgquXZdJ9qhsC2NsryNWddbbAKzk3X",
+      "name": "MOSA Wookies Dreamer",
+      "symbol": "MOSA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8npgwsgwispvgvjnvfm5kpljft68",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

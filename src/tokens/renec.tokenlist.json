@@ -1952,6 +1952,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6g7pZfaJNq2CwKvgbcdCxvcHmnaD8TTejVXuqr5orsEY",
+      "name": "polainu",
+      "symbol": "pln",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/acx8tscsxk1fhxsafvyfk26cn6x6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1926,6 +1926,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8KuABXWXJJwCCbNzHR3JQntc7Emw6pptKnv5vpMEp6W1",
+      "name": "FUN",
+      "symbol": "FUN",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6uh1cm47x4ve5gahu4wcpyk2w43j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

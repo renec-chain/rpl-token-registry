@@ -1861,6 +1861,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6UspTHNENZoDDxwbnWRPNxMFGS2Jk8oNye4WHiWafvJy",
+      "name": "Tplus Invest Group",
+      "symbol": "TPLUS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/22nebfrfem0zrsvwmg27gkwudqg4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

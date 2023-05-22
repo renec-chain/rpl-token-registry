@@ -1887,6 +1887,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "brXCxNcK455xXWZ3u5YiJ6u5AhxzTBD4g1SwEFFkuZt",
+      "name": "GoldCoin",
+      "symbol": "GOLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6cartt5dyva32mamr5c5naej6e7e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

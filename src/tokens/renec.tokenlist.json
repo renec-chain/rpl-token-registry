@@ -1939,6 +1939,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EqGLWRs3Pc6hz164tKF13HRdpxWspdhM5xyq4GU43wh2",
+      "name": "Millionaire Coin",
+      "symbol": "MCOIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4i9rnv4c6313437f7u2dhbjjgod0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

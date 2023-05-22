@@ -1731,6 +1731,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Pc59Kn7pDUgKoyTX5aqecmoo5BvMcTQB9bsAxTfiDg7",
+      "name": "PEPERENEC",
+      "symbol": "Peper",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cxrcpo2h0jqx4la6wq7xcccwmrbj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

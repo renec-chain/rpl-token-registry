@@ -1757,6 +1757,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BL1UMaBVkGNVQWNzGhGEwSaU61jBydEHVpk48wkvsBcb",
+      "name": "CryptoCorgi",
+      "symbol": "CORGI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1bfv5oy5mauoqst7dxxz767xl46o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

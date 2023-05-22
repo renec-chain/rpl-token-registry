@@ -1835,6 +1835,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3GddmfSkGWkkkCCvLyorKVupoeErxKCoKas3iRM6XtzQ",
+      "name": "Make Money Online",
+      "symbol": "MMO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/frux5vvnciwx2hrhev4ckio1igs6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

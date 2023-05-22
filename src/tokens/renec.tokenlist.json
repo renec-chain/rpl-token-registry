@@ -1718,6 +1718,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Ld1hPeFjRnYer8YrBDhczu4FTg1aYs6GaiFAHofJ2oE",
+      "name": "Zksync ren",
+      "symbol": "ZKR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/krpjmvytt8js9mb8bx5fayvsv0tv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -1913,6 +1913,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AQQPhfKNiH1MSqex22nKk2iDbT4vN2QLzbg5muKCCKeV",
+      "name": "shibu",
+      "symbol": "SHIBU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ztar4qx3aryhpi9mww2fhvjgw7o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

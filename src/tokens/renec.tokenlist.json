@@ -1744,6 +1744,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FdToeUUNqhqPUx4sdyJGDzhJvW63bNQm8PJULmq3ZgBp",
+      "name": "ShibaKing",
+      "symbol": "SKING",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gsqwhntocj6s39zr5rh3c3sh2myb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

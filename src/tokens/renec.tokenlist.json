@@ -1874,6 +1874,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9uWqsr6WZnVBXKci8vqy6robUVYRZrVeFcH568AKRXZE",
+      "name": "lulu",
+      "symbol": "LULU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lssyjh91wti59s8tyht06z81b50o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

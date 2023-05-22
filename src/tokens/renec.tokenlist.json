@@ -1965,6 +1965,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "247DjLcbAFjRQvPbttmde7C1e6jFpomsrMhoFrLANopR",
+      "name": "Dragon Ffy Token",
+      "symbol": "DFT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h2mkhaj6b9ai2zpbbrfzc4t9yv7e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

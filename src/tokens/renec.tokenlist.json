@@ -2030,6 +2030,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A1U33Siaby9dAL1kkabFeXyqZXC7hudcSmhTeg9xV9v1",
+      "name": "Pool",
+      "symbol": "POOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1agcoxgv42vvw632tm7n1zeh8pt0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

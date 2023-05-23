@@ -2108,6 +2108,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HFWSRYfGj8L3NqCSHh2UTu4L7RpNjZvhUBagupcYCsSr",
+      "name": "AVIVA",
+      "symbol": "AVI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gxpcivs8izm8znvntkaa13klouf0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

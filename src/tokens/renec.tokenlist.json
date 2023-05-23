@@ -1991,6 +1991,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9WKVqvxhdYh8Q5UjaeeZZ6qRuoaPqHLTVN5KZKrvcwCh",
+      "name": "Baby Shark",
+      "symbol": "BBS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0ggy1vp9wohtxdz6pp131ieo6t6k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

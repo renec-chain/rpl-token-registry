@@ -2069,6 +2069,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "32ufdNq676GsGTj3QQXAqHx9ySgLDaajJdaxMDVmardj",
+      "name": "SHTV Coin",
+      "symbol": "SHTVC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/45xlmtoq175y57erssv26q6f56ga",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -2043,6 +2043,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9fckZTkB9Zx13G483WY6tAiCL2KhnqAYtd94vTNg2G7v",
+      "name": "FCARE247",
+      "symbol": "FC247",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/crq51pwbegys5vwww5vlofrmky3i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

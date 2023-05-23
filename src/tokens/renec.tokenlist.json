@@ -2017,6 +2017,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7NYwhFJLRUhBo8r6E2wuYJ86cee4LXG1mZKJB4HQC49m",
+      "name": "ANNURY TOKEN ",
+      "symbol": "ANUT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/so9nrfyz9sfm8sc5l6tjucx8d2f5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

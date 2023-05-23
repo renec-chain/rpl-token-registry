@@ -2082,6 +2082,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BgNZK6K6dMidQ8EaeWwBgrM72LFz3JAttwUWvSgUATFJ",
+      "name": "BIGPRO Coin",
+      "symbol": "BPR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yuurctz3hnob5oexnfjn4l0287in",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

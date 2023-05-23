@@ -2121,6 +2121,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5coumXCR1qzrSxhrpfMCKsetxs1cHt1TE1neGp4srZsE",
+      "name": "NEXUS",
+      "symbol": "NEX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aygcmcp6r15vbo1hcjiz5bx89a6w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

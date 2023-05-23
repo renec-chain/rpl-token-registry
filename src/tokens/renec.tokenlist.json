@@ -1978,6 +1978,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8RxGEw45uiDfffDMJvG7bBfFpq9LA8UAex1M1u6VKeV2",
+      "name": "Whale",
+      "symbol": "WHALE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nsdow7zvtp399jfn02q5s5d9dgqs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

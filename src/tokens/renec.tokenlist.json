@@ -2056,6 +2056,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CeBu2iTwnqY8wqLMp7YkPVn95JjEQDYZJEw9FECuci2K",
+      "name": "COCKROACH COIN",
+      "symbol": "ROACH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cqjfvlzht263udri0pp41z3moqv9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

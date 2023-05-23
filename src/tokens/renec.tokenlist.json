@@ -2134,6 +2134,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3wMaa3qZFQMUzy8LFG5n8r6fDtFEqV4oyFnta22jiLRG",
+      "name": "SWALASWAP",
+      "symbol": "SWALA",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o7jxqt3d6ql5bqcd4cakv0cdmjtd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -2095,6 +2095,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NMezo7bLPSQGrBzcqQRDMXHY8r3zMa2zQ4XkUVkk9wK",
+      "name": "adalinewudsl",
+      "symbol": "grace",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4fhs190zhq7h2w6h0pgelil8dl1c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

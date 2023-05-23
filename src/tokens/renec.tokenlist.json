@@ -2004,6 +2004,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Py1G5ookonx1qmCe8ec818gD5qFqeMvYnmD3sjkfnTi",
+      "name": "hextracoin",
+      "symbol": "HXT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/izd8if82cdcdgjlcdbnh0195icyl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

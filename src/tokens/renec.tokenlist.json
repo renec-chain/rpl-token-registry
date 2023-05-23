@@ -2147,6 +2147,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3Af4GrD4fCZ6S1uArwVxwo8GgtHn6G4Ye6an8JJuZ5kz",
+      "name": " Inu Iced Milk Coffee",
+      "symbol": "IIMC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wto7i7eas0pe7lstmgm9oc1a76ah",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

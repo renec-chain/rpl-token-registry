@@ -2199,6 +2199,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BqKBgncoSH6uwHoHqArF4dofo9or3kPWP9K6WZJEMeQh",
+      "name": "BITCOPPER TOKEN",
+      "symbol": "BITCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o6jl6qupdtsyorlxv6u77gyke2bf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

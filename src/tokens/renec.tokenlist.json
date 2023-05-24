@@ -2225,6 +2225,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GB1Hg9d3KkRsGp2XFKuVGL28aCTFbBdmADLMSvh5AVvA",
+      "name": "Lemonade",
+      "symbol": "LMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u559mfx77qt5butj59tj0vjvr90a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

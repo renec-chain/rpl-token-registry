@@ -2251,6 +2251,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hiynjic5ekbZBEBU73KN5RaAdkLUcGDW6sYfST431BYt",
+      "name": "PulseChain Classic",
+      "symbol": "PLSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nbfzb8wwj9e8lwq787iwe4q6ksj9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -2186,6 +2186,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fe3q1rMW4gHGpL1wGrmq5NpkcxZg4Y2ktm5ifs1Bf5cR",
+      "name": "Happy",
+      "symbol": "HAP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gxj7cz1417bqndxdj2n9pg91z0fc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

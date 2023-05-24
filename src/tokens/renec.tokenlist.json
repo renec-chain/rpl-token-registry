@@ -2329,6 +2329,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CJLLjKp4m791xXaMySQhB9nM9RueCiNYGJjPDgy7rtTq",
+      "name": "Warrior",
+      "symbol": "WRR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mm3siyetba1v255rh0rphqagi0vp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

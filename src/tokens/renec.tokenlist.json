@@ -2173,6 +2173,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZvzYygSLU6yUUF1VGWGwmpe49B2RSfLV4mf6VwCTKs9",
+      "name": "Elites",
+      "symbol": "ELT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1tao3d4stnq5wc6a7t75uec1obwr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

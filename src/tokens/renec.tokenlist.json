@@ -2316,6 +2316,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "14gBdATCTo5k3TGZMvtm8hyGhdfQht2uc5RGeRM5rqdw",
+      "name": "BANG",
+      "symbol": "LUCIA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tqwrspu5kuu7eolcqsvdv5r99mxo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

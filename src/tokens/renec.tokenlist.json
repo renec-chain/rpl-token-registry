@@ -2160,6 +2160,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2NfKjxetMeScv9k2z5mNPbeE2u7CwmaHVCzptQBSJJ3F",
+      "name": "Kosova",
+      "symbol": "KS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l48uiwogdpigb35o06lfm84xkxdg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

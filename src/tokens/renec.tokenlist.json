@@ -2212,6 +2212,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NzsZVw9MUF723oTSTR3nNLtUNipPjhsy21xkZDGddLe",
+      "name": "AVIVA COIN",
+      "symbol": "AVIVA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/10af5bh8bxtkpgczc7dj21pc5uso",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

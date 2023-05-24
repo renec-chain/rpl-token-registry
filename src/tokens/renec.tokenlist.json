@@ -2238,6 +2238,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ELhKjrU1QNEgpQ3qeXmbhfKaa3kiXYVS3A5ZrGrV7Qsb",
+      "name": "ValorCoin",
+      "symbol": "valor",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qqpfgyfw69wmqlr0blps6dq9aduo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

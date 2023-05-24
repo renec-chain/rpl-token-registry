@@ -2277,6 +2277,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H1Cwjnq2Fyf46EDdn7VrabdL5nuqFA5nGUBbN7K19T8t",
+      "name": "Dinochrome",
+      "symbol": "Dino",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t8kcl9jqic3v082p5her5yt0gb6t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -2355,6 +2355,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5cSYAHHWNAmULDwm9W8G8vvu4DXRCAqWqV48x3q9poJf",
+      "name": "USD SHP BANK CRYPTO",
+      "symbol": "USHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2bkjzipy8556gzq9pgqiihmkr115",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

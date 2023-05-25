@@ -2381,6 +2381,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GfwLr6EFUaXxuxMCd43FLvsvAytbFsvMY9SEnp88VpYn",
+      "name": "Coffee bean",
+      "symbol": "BEAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/39idg6lbkyjo7oh49rd9ayaxclde",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

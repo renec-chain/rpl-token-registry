@@ -2368,6 +2368,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8sgQtL6eDDyYUM8EhuiuN4dn2qWcKjuZZYctNbUHjGT8",
+      "name": "Tea 4",
+      "symbol": "TEA4",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3c0fp818w8vwl5oaxvu1sjgbtjzo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

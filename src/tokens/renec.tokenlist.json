@@ -2342,6 +2342,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BWv7FZQF699uvE3T9WwHRBfoFpsyirXxteFQPwjyVds9",
+      "name": "Renec Crowd1 Foundation Coin",
+      "symbol": "RC1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o2v5hsl525okyvjoojvot6upsz9r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

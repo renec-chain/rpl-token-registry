@@ -2433,6 +2433,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EYgZmcqobBHBN78MxJgGNBi2GLLx9cGJwVy6tNbENUmR",
+      "name": "Tea",
+      "symbol": "TEA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mwvrs70sc2rwavezop2kucqd2nmx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -2537,6 +2537,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BdGD9u8mBJyzmg23WqjHnd6XTYkkA3Kq6NEAeW4Pnjyh",
+      "name": "MonkeyMoon",
+      "symbol": "MM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o8qlzvxjnj2bpc43tge03w95p1gs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

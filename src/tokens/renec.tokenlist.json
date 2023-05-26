@@ -2394,6 +2394,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "APdL6mZNx5XJtncWkwuyXY5PRa3o11JEqHzWjSUSBYE5",
+      "name": "YASUOOO",
+      "symbol": "YAH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r0e969w6oohvx1imgh08y9pj2qe4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

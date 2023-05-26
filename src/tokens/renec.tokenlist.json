@@ -2420,6 +2420,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8C4N6YbnQ8yrwrrqppA7ndKUzLUS1j4uKsmX18ZFrXdn",
+      "name": "League Of Legends Fan",
+      "symbol": "LOL",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l8lc0pxx2ixshtvk5xqj8fd06miq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

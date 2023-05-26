@@ -2407,6 +2407,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4S3HzeK9nmxyujNWhWGpb4zqbzAXZU41rByV5ZL3w9QL",
+      "name": "Nudge",
+      "symbol": "NDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ug5kdtf29af9rwfi1cuzhfrgowlr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -2511,6 +2511,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GGzQxfKCVyGNXXNPLtC5EnoRuFCogf8EvtXVLZ6uda7J",
+      "name": "GigaGator",
+      "symbol": "GGTR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/baufi4eg2yfciof03vc2nt88z4ta",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

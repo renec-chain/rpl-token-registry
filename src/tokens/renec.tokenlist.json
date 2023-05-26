@@ -2472,6 +2472,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "zqk4tpVBRDPoQdRUSHxPmyNYVvD87Ec2Ji2RrAMwGD1",
+      "name": "HEN COIN",
+      "symbol": "HNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lsg8rbwfibxsl3ibs7k7uri5j7fy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

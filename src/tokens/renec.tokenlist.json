@@ -2498,6 +2498,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ad3q614Jm61mi7DepHoo4Fy8w9fFggmdiPAM3AaqzXnM",
+      "name": "BullBear",
+      "symbol": "BBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l592euo4yovh5tek12ewh7mut68g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

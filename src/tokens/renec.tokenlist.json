@@ -2459,6 +2459,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C5nRPTi9V2TVuNhEP9AoDYQXjshP76Mavc5JFMsDRPTm",
+      "name": "CryptoChameleon",
+      "symbol": "CCN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8n7dluow6rqk87t170xshp75ozx2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

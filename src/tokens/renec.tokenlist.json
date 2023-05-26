@@ -2550,6 +2550,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6L8hBZYA3rk5e8BopZTMwrq9asfFWLn9jLTMWfmfQeMh",
+      "name": "MAIZE CORN",
+      "symbol": "MAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hjcey0dejaydnx6texh6bbcujyh4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

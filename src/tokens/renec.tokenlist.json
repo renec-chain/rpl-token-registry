@@ -2524,6 +2524,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dhvx5dnMgZmew3At5b6bji2qP4yWcQYTYrWbPzsfYir",
+      "name": "PizzaPlanet",
+      "symbol": "PZZPL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jdr8zdhx9e01yjmaz6yh7c32mihd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

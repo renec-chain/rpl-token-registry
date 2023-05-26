@@ -2485,6 +2485,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CMy2ZuSeqwVYo4hnKbTTzQGJnA7QBAzK7fcwpEtJhS6L",
+      "name": "RBALL",
+      "symbol": "RBL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x2vc1ei7gig4x71tfovhtucf4ady",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

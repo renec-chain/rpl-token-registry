@@ -2446,6 +2446,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZgF3bsrKCiKRrwQyvefM33ZgWyPCKv3a7o1AUgzVSNJ",
+      "name": "RHORSE",
+      "symbol": "RHE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4xl5ptgksh19kotbeava04qmmf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

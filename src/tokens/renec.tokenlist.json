@@ -2563,6 +2563,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GvkLa5oT4vBMHL3KFt7B5drhUbHWPi3jEi3DBmP1Wikf",
+      "name": "XL",
+      "symbol": "XL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ecegn2w3hg8x1tmgrn3t4fx7y6nx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

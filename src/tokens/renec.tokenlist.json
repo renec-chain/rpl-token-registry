@@ -2576,6 +2576,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EcTLMBszkKHfofKky2XjRMfgL4Hev1q4vhpBaz9cYSWF",
+      "name": "HE HE",
+      "symbol": "ANKRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9uqfkva3ty88nw1sdzcpw0xsfij1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

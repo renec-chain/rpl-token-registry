@@ -2602,6 +2602,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3cevVQ45oq7wQkmDaxrbQWxDfN5rRisvni5G8zaQgZJt",
+      "name": "ANMo",
+      "symbol": "ANMo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1u2zq2fj1frh1w437x01p3p4l0n5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

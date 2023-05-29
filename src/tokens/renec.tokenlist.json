@@ -2589,6 +2589,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J1NMFwzwfCZET4F8vAeWHdv7gY4AWod3WzQh7E7rLKNm",
+      "name": "Smart Renewable Energy",
+      "symbol": "SRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p49rcha2ztj3ms6gh2wgpbt0v8w9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

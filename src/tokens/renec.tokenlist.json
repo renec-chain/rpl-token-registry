@@ -2628,6 +2628,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GkFUbxRFbsqAwWjuqLAupSxAsW2XZJSeQ8LRpNyJLAcL",
+      "name": "POKEMON",
+      "symbol": "PKMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ndy73nfzwwuqji1q95pjqdoapnzw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

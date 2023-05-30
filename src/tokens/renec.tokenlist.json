@@ -2615,6 +2615,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ikadF7VFwMYzkXbaViucCxnGbuHLBfPE2NJU4kP8Qqn",
+      "name": "MEQR Coin",
+      "symbol": "MEQR",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5f71fe6v91f1j5cckl5pavecyhu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

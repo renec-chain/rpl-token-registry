@@ -2654,6 +2654,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FWAFyE2NPUkMYeVh81xWN8stSYb3Sf64sGCWHwZyRvwp",
+      "name": "MEQR Token",
+      "symbol": "ME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/avox8kiv0r1faplo0f3j1i9cyzl0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

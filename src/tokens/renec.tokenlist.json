@@ -2641,6 +2641,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "f6HtmT2pBVGx7RRpqrpj9fPEpJsd7XDg9sr2RdFTcZR",
+      "name": "Brave",
+      "symbol": "BRV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/awporjgm7opzmu1visjj1q4c56n7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

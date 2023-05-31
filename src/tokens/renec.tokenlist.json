@@ -2680,6 +2680,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "kdRak91Cn7coVsLWG4p5xzQPNSYpb3S98cM4SaXz8z5",
+      "name": "Best Street Food",
+      "symbol": "BSF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/alt91v2s6au9onpsw0hdx0j4gqpp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

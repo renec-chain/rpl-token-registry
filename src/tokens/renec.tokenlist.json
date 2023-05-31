@@ -2693,6 +2693,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EzSZMU2N7WGLrfaQPBjj6hXF4bdSvmqHTgQCwLPCCLqW",
+      "name": "CORE IN RENEC",
+      "symbol": "reCOR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gt3aw0wqgy20w64kcih7l65enxmv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

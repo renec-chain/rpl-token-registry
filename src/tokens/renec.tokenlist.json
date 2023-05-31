@@ -2706,6 +2706,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "hPCuD9CVws7YE4Db7GMzbo6zR3WfE8jc1NadpFs7eP6",
+      "name": "TradeBreka",
+      "symbol": "TB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ohqnsxul0sh8ntt0e5x5nbvngvju",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

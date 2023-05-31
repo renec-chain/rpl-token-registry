@@ -2667,6 +2667,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GPZfcYGSz8wZPgYgBsYdD8Aehjkt68awzVB2ajijzgqj",
+      "name": "Ep renec miner",
+      "symbol": "EPM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ytqcrbgiq0vzkef1bb09tyo190ku",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

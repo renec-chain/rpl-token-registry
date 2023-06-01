@@ -2719,6 +2719,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2JdtZZ2hyMKL9AmLv9Q29Rs8994wmByw1YCTc3RjP6QN",
+      "name": "Long Bo Suwon",
+      "symbol": "LBSW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gouceq01wm45p02tx5c4bervfv1t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

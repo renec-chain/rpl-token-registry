@@ -2732,6 +2732,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DWQpEYtSCRnYbKjkPVHczTptb7iT2qhKtJvFwzcCLuL",
+      "name": "RENEC Crowd1 Metaversy",
+      "symbol": "RCM",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ca72qayelkfhuqovj0q55i3b9whf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

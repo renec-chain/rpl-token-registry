@@ -2745,6 +2745,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BmuZXmy8Rxqsa4bfyZWPGSy8cKLHDuf9nvwHVSAyXoQ",
+      "name": "STROLLS",
+      "symbol": "STRS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwvgeb0afsefykaoe0cnrop9xki7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

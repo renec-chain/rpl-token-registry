@@ -1,10 +1,7 @@
 {
   "name": "Renec Token List",
   "logoURI": "https://img-portal-prod.s3.amazonaws.com/uploads/image/attachment/33974/logo512.png",
-  "keywords": [
-    "renec",
-    "spl"
-  ],
+  "keywords": ["renec", "spl"],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -60,11 +57,8 @@
       "name": "Pancake Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8/logo.png",
-      "tags": [
-        "currency"
-      ],
-      "extensions": {
-      }
+      "tags": ["currency"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -73,11 +67,8 @@
       "name": "Wrapped Tether USDT",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -86,11 +77,8 @@
       "name": "Wrapped USD Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -99,11 +87,8 @@
       "name": "Vietnam Dong",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -112,11 +97,8 @@
       "name": "Nigeria Naira",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -125,11 +107,8 @@
       "name": "Malaysia Ringgit",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -138,11 +117,8 @@
       "name": "reUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -151,9 +127,7 @@
       "name": "Meme Finance",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8/logo.png.jpg",
-      "tags": [
-        "community-token"
-      ],
+      "tags": ["community-token"],
       "extensions": {
         "discord": "https://discord.gg/gVCbUqNQrZ",
         "twitter": "https://twitter.com/MemeFi01"
@@ -166,11 +140,8 @@
       "name": "VanillaSwap Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -179,11 +150,8 @@
       "name": "reUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -192,11 +160,8 @@
       "name": "reBTC",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
-      "tags": [
-        "wrapped-coin"
-      ],
-      "extensions": {
-      }
+      "tags": ["wrapped-coin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -205,11 +170,18 @@
       "name": "reETH",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
-      "tags": [
-        "wrapped-coin"
-      ],
-      "extensions": {
-      }
+      "tags": ["wrapped-coin"],
+      "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "2kNzm2v6KR5dpzgavS2nssLV9RxogVP6py2S6doJEfuZ",
+      "symbol": "reVND",
+      "name": "reVND",
+      "decimals": 0,
+      "logoURI": "https://renec-homepage.s3.amazonaws.com/tokens/reVND.svg",
+      "tags": ["wrapped-coin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -218,11 +190,8 @@
       "symbol": "NEMO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/tl53fhpapxb5g3nydp7l3dqwbrd3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -231,11 +200,8 @@
       "symbol": "META",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/oml855vrh3qo0f8zehjw0cn3d19g",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -244,11 +210,8 @@
       "symbol": "CEX",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/dv0oev5vu2o7ow60wwasht5vr7vu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -257,11 +220,8 @@
       "symbol": "Arrow",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/e5wjybwgbjxm144vazgw26rrjvvi",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -270,11 +230,8 @@
       "symbol": "BaMi",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/45fwybqpvd8ob3cwgmazex9mykm2",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -283,11 +240,8 @@
       "symbol": "REM",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/60069crvhljctc3opewe4hymabte",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -296,11 +250,8 @@
       "symbol": "PIZZA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/0sz3smb4ipsjjud3z25khwcx84e5",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -309,11 +260,8 @@
       "symbol": "NINJA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/oezk0pn794ggg02gz1wyhe72k7rc",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -322,11 +270,8 @@
       "symbol": "MEME",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/lwcbohn2wjk3b9ps006qul0uizcr",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -335,11 +280,8 @@
       "symbol": "DFAN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/13pr1vulgv3eu16n0wngansdwckb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -348,11 +290,8 @@
       "symbol": "MPEP",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/3j12pfymudwpq853nkflagbsqcba",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -361,11 +300,8 @@
       "symbol": "JAWA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/i01beu2z66xus7pwe9udqfe3j0kk",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -374,11 +310,8 @@
       "symbol": "VsK",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/71hkuyc6ru6gb3zmfw4rllfz906s",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -387,11 +320,8 @@
       "symbol": "GAR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/qei8y5t15b9cnzc5tycty3ww19wu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -400,11 +330,8 @@
       "symbol": "GSTC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/13ly5iw2gt3aus7km4g72001wyw4",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -413,11 +340,8 @@
       "symbol": "DLCO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ijqcrz5z7vsha6rx3tzp6ngkuw0d",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -426,11 +350,8 @@
       "symbol": "PANDA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/bz52zl1o7ngae8ygyypo5r8u9239",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -439,11 +360,8 @@
       "symbol": "UPBO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gaxiw3gwf6kckipo04exen207x12",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -452,11 +370,8 @@
       "symbol": "DiZZY",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gvjgqlmswm1yq3ycepwyj96h1shw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -465,11 +380,8 @@
       "symbol": "VTSC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/73tnkmftqo6m8pnutu3cc6e0nd4p",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -478,11 +390,8 @@
       "symbol": "CII",
       "decimals": 1,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/bdaxqyrv57ma22u4b5wfr3hbai82",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -491,11 +400,8 @@
       "symbol": "BDAO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/5r8f38dyp5u294nohqdg09kx76se",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -504,11 +410,8 @@
       "symbol": "WOLF",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/c95exmzzk84oxrlgr83jnkimeym5",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -517,11 +420,8 @@
       "symbol": "CF",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/hdx1lzcomwcqzfrl8usx7izc6vfs",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -530,11 +430,8 @@
       "symbol": "DUCK",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5il9935j0mr8wi4ec21vxbx65ed",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -543,11 +440,8 @@
       "symbol": "BNNT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/qjohc4lxndjhsigal9pxs3ttpca9",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -556,11 +450,8 @@
       "symbol": "LOVE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/oe64i68lzounexg50xds4z41too5",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -569,11 +460,8 @@
       "symbol": "SBC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/2cjdmbbvgynb9ymvdnvik3anmdwl",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -582,11 +470,8 @@
       "symbol": "LFC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pqhofmqp6rvo085e6ho6gylyj08t",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -595,11 +480,8 @@
       "symbol": "TRI",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/oesd79jt7gnro0yx2h14g36c2h21",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -608,11 +490,8 @@
       "symbol": "BABY",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/adxss429pw7zecxewfnajlkbm3eu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -621,11 +500,8 @@
       "symbol": "BAC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/6x1tt30tshoqa0ealnq7p2h3nlwk",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -634,11 +510,8 @@
       "symbol": "KENK",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/enky5qigqc0r8e3gycl20a8w1o01",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -647,11 +520,8 @@
       "symbol": "YPX",
       "decimals": 6,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ao52dz81r7zi4j97gwkme806m767",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -660,11 +530,8 @@
       "symbol": "STR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/7czupozl5hnxjg9b3t1qizy2ufy9",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -673,11 +540,8 @@
       "symbol": "BOWL",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/rlpr4ouat5y6mz4rgximi976iuu2",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -686,11 +550,8 @@
       "symbol": "MEO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/3nk4rsadw02ez3wzxu5exu7ej3bg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -699,11 +560,8 @@
       "symbol": "DBS",
       "decimals": 8,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/jqb3k3swzmxoitkzcwv8iyw03x6d",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -712,11 +570,8 @@
       "symbol": "TVT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pfx0tbb67eixzqlfwoe8j9nyvw7k",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -725,11 +580,8 @@
       "symbol": "VEE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/no4vhymxgga7sc0qdvqmnz8agyni",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -738,11 +590,8 @@
       "symbol": "NDCT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/x8lyk7wq3w2el2ra9cmrqr6oq6mt",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -751,11 +600,8 @@
       "symbol": "rade",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/f0uq54fd9f5ecb0d3jdk5lk9snc1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -764,11 +610,8 @@
       "symbol": "RIMPA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/teibh2f8r5x82jeqil52qspxhr29",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -777,11 +620,8 @@
       "symbol": "mely",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/xszgfy23i9ooogniho8xz5f6bhx3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -790,11 +630,8 @@
       "symbol": "VIPP",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/h2fmz9srrzz41z3d8rb4dkyazozt",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -803,11 +640,8 @@
       "symbol": "CROWN",
       "decimals": 0,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/kp9tzl1900qy5hyaim45dwzzuj8z",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -816,11 +650,8 @@
       "symbol": "TNC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/5zxmkev8p8udppi07ob5pccw0enm",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -829,11 +660,8 @@
       "symbol": "SNC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/mt0l35b2yx1go5398zgnva3r37uh",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -842,11 +670,8 @@
       "symbol": "VIIN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ewdziumiyrzm0sfqw8nt0zd3mgll",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -855,11 +680,8 @@
       "symbol": "rPepe",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/yid85c17cqf6i5a9b7tkewzwkv4s",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -868,11 +690,8 @@
       "symbol": "Lady",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/0gfo45dfayz8ch0he3w6n3zs1mee",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -881,11 +700,8 @@
       "symbol": "MLCO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/am4t0e4i7r4hp7p55acpchnnpnk2",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -894,11 +710,8 @@
       "symbol": "ChoCo",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/f93phmm8ss2xvxm3cd93ksuy7k0z",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -907,11 +720,8 @@
       "symbol": "RENM",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/u3kgrp3c1b3vu6hgp0uooaobn26d",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -920,11 +730,8 @@
       "symbol": "CRT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/2m49je78wprdo4ciuf819mlf9og1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -933,11 +740,8 @@
       "symbol": "PDZ",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/tbukkl9nj5pch6387ilb1y3k7sib",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -946,11 +750,8 @@
       "symbol": "MDG",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/45qq58wb4av435atf82x6133thlb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -959,11 +760,8 @@
       "symbol": "TRC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/htj5pfv9xj9esjkww9u20s33jc1b",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -972,11 +770,8 @@
       "symbol": "GPC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/3h68nrtd5s14sdcfu20ho2xlsmji",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -985,11 +780,8 @@
       "symbol": "SUYA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/mv53i8rq3vw7n9jn6y8tjlv19scg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -998,11 +790,8 @@
       "symbol": "BMC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/10zwuho3xfh9ie5zgc2q27c5gsu0",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1011,11 +800,8 @@
       "symbol": "LML",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/1gomp8bbupqt43z7ons67acy0fg0",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1024,11 +810,8 @@
       "symbol": "IMPA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/x2px5o0iy5y6n8pgclv5p77mi52w",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1037,11 +820,8 @@
       "symbol": "NBANK",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/qx7uzuzl13d3qsstylop57t9xq2x",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1050,11 +830,8 @@
       "symbol": "MCN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/3yozjd0lnck239e8ul8swopro9hk",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1063,11 +840,8 @@
       "symbol": "MV",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/y5npu2v5e68gc19meiptoci8in0x",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1076,11 +850,8 @@
       "symbol": "MCNET",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/djph8gddib32rs9tlng8ulik29rz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1089,11 +860,8 @@
       "symbol": "TIC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/kezbut1dmrhtpl8z5y7wmpc41ova",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1102,11 +870,8 @@
       "symbol": "DOC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/fr47dni3c1i4vxqhtnec2fj5gasa",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1115,11 +880,8 @@
       "symbol": "Dgpro",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/rzfxglpgu0fk6mr5ritpdhp116aa",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1128,11 +890,8 @@
       "symbol": "AGRAB",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/467a5rdg3ne451icgml7vzhzna3a",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1141,11 +900,8 @@
       "symbol": "KID",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ek9tlo66u7gwvt6ov64koqxjw7n",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1154,11 +910,8 @@
       "symbol": "SLR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ha6bwnhz71x4qtb259j5fufxa1z1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1167,11 +920,8 @@
       "symbol": "MEOS",
       "decimals": 7,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/qtpjpg3vjv37lu9qak7ur0qjyena",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1180,11 +930,8 @@
       "symbol": "KAIID",
       "decimals": 7,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/vw19xagop03mg4cmrkrkts7m7wbw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1193,11 +940,8 @@
       "symbol": "RNCI",
       "decimals": 8,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/v017m60kc0mwexx4d23t1giuvyem",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1206,11 +950,8 @@
       "symbol": "MCC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/zjftsqd0de4ei5tfbru5y4bn0lzf",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1219,11 +960,8 @@
       "symbol": "RDG",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/doo07umd83qgt88qln5lokyqkysn",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1232,11 +970,8 @@
       "symbol": "PMP",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/5x1otvjtrhtdozogg4fq02cfqnh6",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1245,11 +980,8 @@
       "symbol": "SBR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/r83aez4llgbut73yem3tezw69gsw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1258,11 +990,8 @@
       "symbol": "FROGE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/d68j6jyziz03zv5jg2ijromeql93",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1271,11 +1000,8 @@
       "symbol": "SST",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/tn74uny1sur4tk54c7pfeyq53khh",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1284,11 +1010,8 @@
       "symbol": "INC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/y0mmhft5ys1pb4qmu8sawcrkmrix",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1297,11 +1020,8 @@
       "symbol": "SDG",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/i5csfpgjuonjrnkyep11e06g7eyt",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1310,11 +1030,8 @@
       "symbol": "TZRM",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/6oltf2fg6k80e0pkk617yk0pwxgg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1323,11 +1040,8 @@
       "symbol": "rSB",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/yv5ecif0dulne14tnxkmqkyd9b1x",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1336,11 +1050,8 @@
       "symbol": "ORC",
       "decimals": 7,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pd5lx8w8igdhwayhi4g4j1ny9kd3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1349,11 +1060,8 @@
       "symbol": "SMG",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/mn3o0v8sj70orizkd2sedzyqg63j",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1362,11 +1070,8 @@
       "symbol": "DUC",
       "decimals": 8,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/dlkdjwou4irglsdvi4feq34eaukp",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1375,11 +1080,8 @@
       "symbol": "MOON",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/u1tqp0hvcx6jo09skzxhz0bh6jkx",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1388,11 +1090,8 @@
       "symbol": "WDOSH",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/xg68uvilphxnjw7rxepc9vezjgxh",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1401,11 +1100,8 @@
       "symbol": "PTT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/4gggii2naxg1hd30r0a5pj9c1kcc",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1414,11 +1110,8 @@
       "symbol": "MOONC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gb61vzfcuvz1tupgxwnrgsg2voz4",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1427,11 +1120,8 @@
       "symbol": "BIRD",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/x1ygxwqnmil61xkyno0rkgef3dny",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1440,11 +1130,8 @@
       "symbol": "CDC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/q44ydu56f4tg38v8brzfymrwdtgt",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1453,11 +1140,8 @@
       "symbol": "AE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/9y26nagju6u8973wytev5gvsxbx9",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1466,11 +1150,8 @@
       "symbol": "ARM",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/s8sltai23t4ge8mznsvw066qcylh",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1479,11 +1160,8 @@
       "symbol": "CROSE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/fn3ti43us49bm424ksvtrn7txzji",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1492,11 +1170,8 @@
       "symbol": "AK47",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/fz7bhe7sqi3y15z88l8otoo1w0xv",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1505,11 +1180,8 @@
       "symbol": "DRT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ix2cnladrjt97lq29qxroab23iyg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1518,11 +1190,8 @@
       "symbol": "MLE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/bvmn6c92djpay5ojjbuehnzq4oks",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1531,11 +1200,8 @@
       "symbol": "HWIN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/1ha8qxlbgp3uneuxmcxrf74ptz01",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1544,11 +1210,8 @@
       "symbol": "MMN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/8i9lvytr43oz8zcstst8d27h66t5",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1557,11 +1220,8 @@
       "symbol": "MBY",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/7bxcqko1l4ilk1m1mg9iy5h9l2yf",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1570,11 +1230,8 @@
       "symbol": "DAC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/uauv4i9m4e2ydwtnb3cyhg9qmvls",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1583,11 +1240,8 @@
       "symbol": "STCT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/awb2qeae4c5slausppuvrezptiw5",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1596,11 +1250,8 @@
       "symbol": "DJO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/fauz6vld2w6eke3af40wdaonl73k",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1609,11 +1260,8 @@
       "symbol": "SINEC",
       "decimals": 3,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/39pxkxt2rt560whd1oagv9v6uo5k",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1622,11 +1270,8 @@
       "symbol": "KILI",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/j48ghki2iqszgf165joiwokz988b",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1635,11 +1280,8 @@
       "symbol": "GET",
       "decimals": 4,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/z6nwyhexzh0bab1c66vm1lfqmrwb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1648,11 +1290,8 @@
       "symbol": "CPL",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ju8b4ydn0x700fz5osdyaexnmqx3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1661,11 +1300,8 @@
       "symbol": "TKN",
       "decimals": 4,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/qyn9tdtbi0e8p8wl5qgbgg7khuza",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1674,11 +1310,8 @@
       "symbol": "SIUUU",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/iw2ymk0r0y4djrx4gx0zo3e56jxb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1687,11 +1320,8 @@
       "symbol": "Crnc",
       "decimals": 4,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/5gmcw7ddd7eth5ruqdprepkrut45",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1700,11 +1330,8 @@
       "symbol": "CHCN",
       "decimals": 6,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/vub182irc4rfqwx36jgj11weu6pu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1713,11 +1340,8 @@
       "symbol": "SHP",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/f4ujvyicd50j39tplwjxwwig4cgz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1726,11 +1350,8 @@
       "symbol": "ZKR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/e4wjq3hywliuhkuat0wjeq0h6o50",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1739,11 +1360,8 @@
       "symbol": "Peper",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/69gk4ek10d0vg1zhkvv06nb1cvxz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1752,11 +1370,8 @@
       "symbol": "SKING",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/fuf8hyngg4wge8sczbbis1ylp9ew",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1765,11 +1380,8 @@
       "symbol": "CORGI",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/14udb9igwzptkgvnd9unbb4cu4pw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1778,11 +1390,8 @@
       "symbol": "IRK",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pib3nuimf3l8txaqt2n889ya2jub",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1791,11 +1400,8 @@
       "symbol": "POOH",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/mezjspm2rc6759o2as3dbsifqkwc",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1804,11 +1410,8 @@
       "symbol": "FRC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/nuo8snpjd5g974bq2kyh472016ri",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1817,11 +1420,8 @@
       "symbol": "JERRY",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/xrfz7vlo9q6ach3o8227ge2x2fqb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1830,11 +1430,8 @@
       "symbol": "MOSA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/82phsixkq8knmmlesqfczbedtovc",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1843,11 +1440,8 @@
       "symbol": "MMO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/st22h1lef8m6octxgqv0w44kpv3h",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1856,11 +1450,8 @@
       "symbol": "PNB",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/960i7fh5zjcnozgumy226gk54wtp",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1869,11 +1460,8 @@
       "symbol": "TPLUS",
       "decimals": 8,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/8piydekzratc4gyd0y5gmisg4524",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1882,11 +1470,8 @@
       "symbol": "LULU",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pcu5bmomiwfurwmwtqseu5644vg0",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1895,11 +1480,8 @@
       "symbol": "GOLD",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/euzz96ml1w9r67qv8y13z2dz39fu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1908,11 +1490,8 @@
       "symbol": "KC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/7gjbf533pm0fnw0hmzn3buinewvo",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1921,11 +1500,8 @@
       "symbol": "SHIBU",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ktq0gpnbn7utmci5lojtvsuv4hj1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1934,11 +1510,8 @@
       "symbol": "FUN",
       "decimals": 4,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/kzw8deikll6gqdpu1ol9a2i92mcw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1947,11 +1520,8 @@
       "symbol": "MCOIN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/3kt5hqt72xfagjkj842taxhyf6rr",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1960,11 +1530,8 @@
       "symbol": "pln",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxmewm0qr0i13os3nmsntnc82av9",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1973,11 +1540,8 @@
       "symbol": "DFT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/06kwbyi7obdxi2rfwri7ionv9ivt",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1986,11 +1550,8 @@
       "symbol": "WHALE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/n8bq9mhdj93ew8zxcfrlf5q78quk",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -1999,11 +1560,8 @@
       "symbol": "BBS",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/vu8xsvpujswpzd8q13s8z7ub0q3r",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2012,11 +1570,8 @@
       "symbol": "HXT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/z2g3jpo5c2x1h2ke0gfxdz2eadw6",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2025,11 +1580,8 @@
       "symbol": "ANUT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/uaiu2v38saq0c78vrxapvzq08av6",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2038,11 +1590,8 @@
       "symbol": "POOL",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/2hr3bkui84x0bx8rm9krhzrxy3jp",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2051,11 +1600,8 @@
       "symbol": "FC247",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/i41ns1wtauukeuqm2on74g60f8ek",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2064,11 +1610,8 @@
       "symbol": "ROACH",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/sx0fvkrjc45ehryxklwpixh1s2in",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2077,11 +1620,8 @@
       "symbol": "SHTVC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/tfvyedtheakg8k1idm77vxu9oqrz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2090,11 +1630,8 @@
       "symbol": "BPR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/vlv6uq48uorck8hxpgc2sl78yvt4",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2103,11 +1640,8 @@
       "symbol": "grace",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/99u5dritylsm3iory5lbntg0htjb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2116,11 +1650,8 @@
       "symbol": "AVI",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1xpd4jh467psmyyes78cg7mfpeg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2129,11 +1660,8 @@
       "symbol": "NEX",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/9mxy881mfhs32rqgxb9uyayxgmms",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2142,11 +1670,8 @@
       "symbol": "SWALA",
       "decimals": 8,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/m3xmainjwqhi8lisd39gx9d5tbie",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2155,11 +1680,8 @@
       "symbol": "IIMC",
       "decimals": 2,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/rnolyvzpbz1j906djiqaesck6ycc",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2168,11 +1690,8 @@
       "symbol": "KS",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/5cjeeb6nhs8x337jv5mo7e1w9vmj",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2181,11 +1700,8 @@
       "symbol": "ELT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/r7k8p2j7rlez6sceb5deyrtp11fu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2194,11 +1710,8 @@
       "symbol": "HAP",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/kxekwn1orgw5gr98um9l1pl8d3af",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2207,11 +1720,8 @@
       "symbol": "BITCO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/0otfh1unnoq16dzxgj22ufniqv1f",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2220,11 +1730,8 @@
       "symbol": "AVIVA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/kgsqrdattzpyve57ydxkhc0jk86m",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2233,11 +1740,8 @@
       "symbol": "LMN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/kzm1wtjgr08ztz97pm2ie7pifjn8",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2246,11 +1750,8 @@
       "symbol": "valor",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/o80tdl76b6k4g10qjuldhmohjcgr",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2259,11 +1760,8 @@
       "symbol": "PLSC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pr3y9re8xdhzd1cxls846mh6cpdz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2272,11 +1770,8 @@
       "symbol": "rePAD",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/0witihg8gg38sjuj4z7qymimnlod",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2285,11 +1780,8 @@
       "symbol": "Dino",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/b8sinx8hjq09uc7b01qkgvtxbkp3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2298,11 +1790,8 @@
       "symbol": "YASUO",
       "decimals": 2,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/av6y2ezw5mdci68l46svaa8pyao1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2311,11 +1800,8 @@
       "symbol": "ZERI",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/vob9g0gd73qgfbpinee2gyyxxhdv",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2324,11 +1810,8 @@
       "symbol": "LUCIA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/4uhtj8lx4uo3gm556okhndinnmvz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2337,11 +1820,8 @@
       "symbol": "WRR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/xklnm668qt29itf21mmwcubd25ch",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2350,11 +1830,8 @@
       "symbol": "RC1",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/oydytvpfikih0ys5nkknc8k72fc0",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2363,11 +1840,8 @@
       "symbol": "USHP",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/8fwaslfr8tgnaw5h9ckof3kt2zlc",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2376,11 +1850,8 @@
       "symbol": "TEA4",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/dw7gzjqvpt7pfcb5cnztp8628t76",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2389,11 +1860,8 @@
       "symbol": "BEAN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/imt4uowuxyjg89f9iqc14ma28rcn",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2402,11 +1870,8 @@
       "symbol": "YAH",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/sy8oh71ijxeqq4m0uvfkezmsifgn",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2415,11 +1880,8 @@
       "symbol": "NDG",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/vrwstr2hj8bokeaj27zfmkdfih9i",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2428,11 +1890,8 @@
       "symbol": "LOL",
       "decimals": 0,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/s89y54ova3x3bsk75uyrxo3886nk",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2441,11 +1900,8 @@
       "symbol": "TEA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/bayln5ni4phh39va31gb17i9504y",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2454,11 +1910,8 @@
       "symbol": "RHE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gomyy2hy226rdjd95qun9z39u64k",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2467,11 +1920,8 @@
       "symbol": "CCN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/fbykg80z6pbo1rhmxx2kv13wa6lg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2480,11 +1930,8 @@
       "symbol": "HNC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/6om38hrsztub9g0gisq60zv7jcxn",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2493,11 +1940,8 @@
       "symbol": "RBL",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/hqrel6ol6pm4brnzyegi9k60zcbj",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2506,11 +1950,8 @@
       "symbol": "BBR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/4o32w4c40p8fkg33ozrqxytuodql",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2519,11 +1960,8 @@
       "symbol": "GGTR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pdcbci0ypc1itkgo7qiyza8hykne",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2532,11 +1970,8 @@
       "symbol": "PZZPL",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/xz8mfphp6vq9ihjn3n08gyljjckn",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2545,11 +1980,8 @@
       "symbol": "MM",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/4q13m4k1d1ezv8xu3uv0r364cyar",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2558,11 +1990,8 @@
       "symbol": "MAC",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/pplpstrxtl89hjtp6mci02f2nn57",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2571,11 +2000,8 @@
       "symbol": "XL",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ecegn2w3hg8x1tmgrn3t4fx7y6nx",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2584,11 +2010,8 @@
       "symbol": "ANKRE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/9uqfkva3ty88nw1sdzcpw0xsfij1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2597,11 +2020,8 @@
       "symbol": "SRE",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/p49rcha2ztj3ms6gh2wgpbt0v8w9",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2610,11 +2030,8 @@
       "symbol": "ANMo",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/1u2zq2fj1frh1w437x01p3p4l0n5",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2623,11 +2040,8 @@
       "symbol": "MEQR",
       "decimals": 2,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5f71fe6v91f1j5cckl5pavecyhu",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2636,11 +2050,8 @@
       "symbol": "PKMN",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ndy73nfzwwuqji1q95pjqdoapnzw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2649,11 +2060,8 @@
       "symbol": "BRV",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/awporjgm7opzmu1visjj1q4c56n7",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2662,11 +2070,8 @@
       "symbol": "ME",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/avox8kiv0r1faplo0f3j1i9cyzl0",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2675,11 +2080,8 @@
       "symbol": "EPM",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ytqcrbgiq0vzkef1bb09tyo190ku",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2688,11 +2090,8 @@
       "symbol": "BSF",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/alt91v2s6au9onpsw0hdx0j4gqpp",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2701,11 +2100,8 @@
       "symbol": "reCOR",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gt3aw0wqgy20w64kcih7l65enxmv",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2714,11 +2110,8 @@
       "symbol": "TB",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ohqnsxul0sh8ntt0e5x5nbvngvju",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2727,11 +2120,8 @@
       "symbol": "LBSW",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gouceq01wm45p02tx5c4bervfv1t",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2740,11 +2130,8 @@
       "symbol": "RCM",
       "decimals": 8,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/ca72qayelkfhuqovj0q55i3b9whf",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2753,11 +2140,8 @@
       "symbol": "STRS",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwvgeb0afsefykaoe0cnrop9xki7",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2766,11 +2150,8 @@
       "symbol": "HOLA",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/k40wq47ih0ybk96s1ql3gkv9fmli",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -2779,11 +2160,8 @@
       "symbol": "CYPT",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/jev9lapjn9cqvbacnibqqoxnuv83",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     }
   ],
   "version": {

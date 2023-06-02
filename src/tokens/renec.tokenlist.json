@@ -2875,6 +2875,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "66gKrumePCQdn2ED4FQmE16HawDtBoyjzTPgchEtXbeX",
+      "name": "NhaTrangclub",
+      "symbol": "NTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a06cdqss1vmf7q3ebc1jm7qg3tq8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

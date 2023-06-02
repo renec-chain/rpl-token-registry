@@ -2888,6 +2888,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bac8mVBGWtC3RJ21MbhJydCoDg9prAs7bXHxNG5BiYoW",
+      "name": "i dont know",
+      "symbol": "IDK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f0bwh3w0gorm7h3h5e71jg7c4ozx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

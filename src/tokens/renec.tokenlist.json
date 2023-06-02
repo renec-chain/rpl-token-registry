@@ -2810,6 +2810,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6jyJxJpAmw8wQRyniGGHeVKpRNZ4x14nUm2m3eFZ6hoh",
+      "name": "Kencoin ",
+      "symbol": "KEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ametg6horf5wcdyt3632m99ktkqz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

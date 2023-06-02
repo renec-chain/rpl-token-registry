@@ -2836,6 +2836,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EyXfVHDWJ4RqMycsPd2pdngdD3QLSdcpJQo7JGRRiVpM",
+      "name": "CafeCardano",
+      "symbol": "CADA",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/duoeqgrz0qz8nmmak5z7zgplhirh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

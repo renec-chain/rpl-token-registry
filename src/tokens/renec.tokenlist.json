@@ -179,7 +179,7 @@
       "symbol": "reVND",
       "name": "reVND",
       "decimals": 0,
-      "logoURI": "https://renec-homepage.s3.amazonaws.com/tokens/reVND.svg",
+      "logoURI": "https://renec-homepage.s3.amazonaws.com/tokens/reVND.png",
       "tags": ["wrapped-coin"],
       "extensions": {}
     },

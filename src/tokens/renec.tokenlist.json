@@ -2758,6 +2758,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9sVUtekuZT4uAiDyRAahjxxkGo6bpLcNBoJZe4xA3vWU",
+      "name": "Hola Amigo",
+      "symbol": "HOLA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k40wq47ih0ybk96s1ql3gkv9fmli",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

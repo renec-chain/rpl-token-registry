@@ -2771,6 +2771,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CYBkCGuSrTMoFYV1Nf5Y8dDs2MRWjxBrHUx9XjFUFGio",
+      "name": "Cryptedme",
+      "symbol": "CYPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jev9lapjn9cqvbacnibqqoxnuv83",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

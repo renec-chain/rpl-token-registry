@@ -2823,6 +2823,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EwdnqgKRhHdgk7k11BQuSkLcuKXDqSR7Zsxc2cwAe5ic",
+      "name": "Trung hoc co so",
+      "symbol": "THCS",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5uls96nry2hfh1mm5axeizaqcuoj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

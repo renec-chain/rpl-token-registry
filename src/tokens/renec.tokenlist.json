@@ -2849,6 +2849,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FXB2Jag3zBbB2PypbawDnVfFCrYXqZNhS9WUEvRh2iag",
+      "name": "ReneCat",
+      "symbol": "RNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/td2adfq5xff8kj0obggq3ro6gwhe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

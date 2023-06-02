@@ -2862,6 +2862,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9LqsATW9hNrpdGQLZyxShSdjL3cynknDbjmwqQU2hTUB",
+      "name": "RENEC JACKSON K98",
+      "symbol": "KNS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fjn7cf818jgpb7iwnze1zikicdsa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

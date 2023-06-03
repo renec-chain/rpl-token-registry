@@ -2953,6 +2953,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "52T4WDXChSfLpKphFNa4AkFr58kE8VKqZkL3jafEXhoX",
+      "name": "JolyPro",
+      "symbol": "JP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yr3vvdsuvf52hcn3son2d499le75",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

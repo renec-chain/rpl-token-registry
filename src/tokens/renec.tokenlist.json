@@ -2927,6 +2927,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "71xYyuUhZhTMRpKWgmrJVhncNz5ECYW57DMCuvUgG1j5",
+      "name": "SToken",
+      "symbol": "SCR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0kv1sek6ffkie8mono9rqjw1gyvs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

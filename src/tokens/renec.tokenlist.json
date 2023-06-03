@@ -2966,6 +2966,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5XnuX8CsiSFYPTFq31LYLTv4ojz37uRGcva6T6knLwBK",
+      "name": "EEGROUP COIN",
+      "symbol": "eeg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6oup3pvq4v7ataev87xkqw0idt8y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

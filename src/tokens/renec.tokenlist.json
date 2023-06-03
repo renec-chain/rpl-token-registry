@@ -2901,6 +2901,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8saXj5ByJnJ2fvQdD9gAkfXmzH6e9moEC9R3ZhH6F9oh",
+      "name": "Renec Penguin ",
+      "symbol": "RPGC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tobdf6a4xuabgv39krgzkss3gesf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

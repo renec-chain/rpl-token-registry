@@ -2914,6 +2914,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "79RNH96dfXHqUGEXC8MjLxWiyPcz7ScHV4sN1c6CyEwb",
+      "name": "ssim",
+      "symbol": "ssim",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fhio687ptjje7hwwg0ojwi3gvjbz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

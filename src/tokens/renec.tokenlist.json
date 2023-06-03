@@ -2940,6 +2940,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BFD62jsKMzgJrXkjwyripysMh8cnMem5TCChkHDcyGMY",
+      "name": "KhoaPug coin",
+      "symbol": "KPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b5h3f9tn1fktrtd4hht344e6jp6n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

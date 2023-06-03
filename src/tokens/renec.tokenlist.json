@@ -2979,6 +2979,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5AJFrKJrRqeqemCpu8HR8MqximiL4zMJr3XyYmaHzhPb",
+      "name": "Kolon Crystal Coin",
+      "symbol": "KCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9103nl120wajzmhrnxxupnd0wqp0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

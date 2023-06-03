@@ -2992,6 +2992,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DsaLT1gUyLMuaVCh68LzdbiLkp8YVkce9YNdAW9QNtLe",
+      "name": "COTANA",
+      "symbol": "CTA",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sb2dq052a6oj70tk0qr8d128s0t5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

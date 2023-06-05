@@ -3070,6 +3070,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BcZjZ7ffD8upBejMXPKuh7AqpUwwf9WrEpCx6915hdZX",
+      "name": "Baby RENEC",
+      "symbol": "BREN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t2lzn5gj6a8f2tr181zkgpv4dp3k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

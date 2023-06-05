@@ -3057,6 +3057,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5dnqg45mqeP6HZPrPN9H1MdWGbZPnTXtH51LD9xKA4AR",
+      "name": "Kera Token Finance",
+      "symbol": "KTF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o5idmojvnvz07q5axd9nwmp0n3zh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

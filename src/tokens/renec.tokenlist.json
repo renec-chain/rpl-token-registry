@@ -3096,6 +3096,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "mdNxA67Q7YZCpMkjoWXytou52V7P6JNmHDCdnmKp1zG",
+      "name": "20G COMMUNITY TOKEN ",
+      "symbol": "20G",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fsspfiuxe4jkcm0f3d6t73m29ktf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

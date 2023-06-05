@@ -3044,6 +3044,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "82Mn1ToeJd3xhMDNVNnSLW5ZQezb1P62kGt4MtKor8sf",
+      "name": "Sapiens Coin",
+      "symbol": "SSECA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5vlvpic3v6r6cxashm3cr6fly3z9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

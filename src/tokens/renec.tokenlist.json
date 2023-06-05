@@ -3018,6 +3018,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HqGdPGTFRoE5RFsCKHsicr7HFJq5TYdDeiWSb7M7XqkB",
+      "name": "First Stone Coin ",
+      "symbol": "FST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hed0d8dzal3puv838vyzne0k8sd7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

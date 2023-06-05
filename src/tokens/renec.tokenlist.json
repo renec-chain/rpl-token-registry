@@ -3148,6 +3148,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3UrzLMdX4JmLNsC9UqySimCFquU5TzYHB9QqCx5QtRdm",
+      "name": "Raise Wallet",
+      "symbol": "RAISE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c6ehi8e84s22qpvegqedvv0z6l34",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3187,6 +3187,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CgLEJ2XVQedZ3cZUwF1W5TUC9fLn9XtxnxDre1LcG6md",
+      "name": "TINUBU TOKEN ",
+      "symbol": "BAT3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z0axgyuknxb1zoaw0u1gk0rio999",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

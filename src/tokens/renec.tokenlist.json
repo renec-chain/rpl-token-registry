@@ -3005,6 +3005,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7f1997wgQf6stcBNxz5i5wwt9qsxQycvYCpfqo8aQ6Bm",
+      "name": "Gnt Token ",
+      "symbol": "GNT",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6vs3wlv564qwut0odekugx2zlcnb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

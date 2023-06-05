@@ -3083,6 +3083,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3Ma2ZLzVychPqGnE8nmkUrqaccSNJbn8ANpgkZFBpoN9",
+      "name": "JAGABAN",
+      "symbol": "JBAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r531lnw7enyqgf8h8alo5qz1pwam",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

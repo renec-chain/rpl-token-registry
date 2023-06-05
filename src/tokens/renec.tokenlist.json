@@ -3122,6 +3122,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGePhbHYVK2vLV8UuaKPBRV3QZcsCxDcouoA68bMVNFZ",
+      "name": "RMC",
+      "symbol": "RMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ph7ry0282c0qi7lja88w2evjixsw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

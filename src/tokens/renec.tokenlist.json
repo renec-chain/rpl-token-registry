@@ -3031,6 +3031,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Syk9J3Hqx5c2pAtBAKwAd1GHxX2XN5bTZZad2unYQH8",
+      "name": "EDCOIN ",
+      "symbol": "Edc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kxf27e0iatj6ujz4yhm3bdg4dfug",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

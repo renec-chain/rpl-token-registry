@@ -3161,6 +3161,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BpMi8g1YVuZSeEwcEe2PXaAprE3cz9CuyTkbuQd9fdfC",
+      "name": "SLY Coin ",
+      "symbol": "SLY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qwj1c80lj28xr9mwwomidkqsvh3q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

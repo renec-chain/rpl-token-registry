@@ -3109,6 +3109,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FtshCFDGD1nHPmQLJT5wQKa4UgP9GfYp7wf9hnabhsGK",
+      "name": "Kolon Century Token ",
+      "symbol": "KCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ml9arndi5yql98fx820g3cnlwjm3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

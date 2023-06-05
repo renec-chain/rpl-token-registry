@@ -3174,6 +3174,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gr4WuGHjBCzzyFQdrEkFWetK5bYhQGwREj7RMmTV4vHi",
+      "name": "CLK Token",
+      "symbol": "27",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sc2o5lmjehavi3d9g812er0m3avs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

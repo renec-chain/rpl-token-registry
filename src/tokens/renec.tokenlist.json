@@ -3252,6 +3252,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "64TCjNzxGNKipHksnEiQ2iBJxpg65Pi3gV9auFvmpvZx",
+      "name": "crypto channel coin",
+      "symbol": "CCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/14ecrb0h05jbzvy99f5hdkhwl66v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

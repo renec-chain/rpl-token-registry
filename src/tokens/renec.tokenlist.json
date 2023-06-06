@@ -3265,6 +3265,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8QVPJiMtfC32grmnYAFAzh9xTFZbxGywfWrUQSpmF9v4",
+      "name": "hoanghadrb token",
+      "symbol": "HHT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zwymsyrign0at29n9wxf10ha2o5j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3239,6 +3239,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DMit4wZ7iDNXhoxGPgEovuJ6GabaPwZQhFWA4bT3jtgL",
+      "name": "Viet Nam Coin",
+      "symbol": "VNDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yeeg5djjyqw23pqt182uplilf8my",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

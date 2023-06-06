@@ -3226,6 +3226,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AJ3SRPXSfwEPRjdj5JtHevSsFAwbphWqS4ge6gXsrzkb",
+      "name": "Renec Dong Viet",
+      "symbol": "EVND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y9q6c9gwhkouls1p7cgk6n6am7td",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

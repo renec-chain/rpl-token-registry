@@ -3213,6 +3213,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5aS1HrdYDyzsMNGxPE4mH5aSS6V8FUJi39CH323HMdS7",
+      "name": "Nam Viet Coin",
+      "symbol": "NVC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j254m79t0u473wfzvoik3ot50uss",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

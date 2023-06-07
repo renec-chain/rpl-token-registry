@@ -3304,6 +3304,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HpnTnJdvHD8i5RjtDYbzA9dGWCaK7SgeCckR8FcVzDx",
+      "name": "GOSPEL Coin",
+      "symbol": "GSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jfxbdut8qxvi2of4xxlbaj5bqvjk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

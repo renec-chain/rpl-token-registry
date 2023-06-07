@@ -3291,6 +3291,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3PnnmhoqnFXy458GJrHGDhuNTbWa9H2ArhCtYn2ASHi",
+      "name": "Jugnoo",
+      "symbol": "JGO",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6n6mpbexo9fj8t8qn1neoaiwffs9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

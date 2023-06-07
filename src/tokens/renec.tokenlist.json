@@ -3317,6 +3317,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G6B4Z9qm9zdX5NcEhMioUBWJ7qs4jW2k9Eb5hqQ6HPEB",
+      "name": "NTSNB",
+      "symbol": "NTSK",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ber5b2wkdtrqnzu416erlpk40lnb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3330,6 +3330,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6hGnSjndGnYwwNd87y2vgUmr18m95azujusZ8dtK8AxB",
+      "name": "GOGO",
+      "symbol": "GG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lrhvdwc2txdeck5sf34p3tujrpqn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

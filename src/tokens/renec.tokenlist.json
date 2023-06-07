@@ -3278,6 +3278,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AcRCcnf4mZ4UHrVZFmPNBMvneaMUF6xVgj8C7CTxwhxU",
+      "name": "Rawnec",
+      "symbol": "Rcn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iot8hprsemixtv6tpdrhznoqr57u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

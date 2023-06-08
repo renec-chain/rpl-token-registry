@@ -3421,6 +3421,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Sb95rsotR7BEuN2Mfks62bk48JLSjyeKs8v6yiVNrJ9",
+      "name": "Lamp ",
+      "symbol": "LMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gxkd9a1tmu00f6ci4m4g66r6izzp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

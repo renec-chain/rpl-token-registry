@@ -3408,6 +3408,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HHSWFFRyTuHBFSLEAEE25gujPaYXWX6ZGfiWmAqTzB7y",
+      "name": "Judenetworks",
+      "symbol": "Jnk",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8rmj8juhftfyeiimoe6z9mvcj4zv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

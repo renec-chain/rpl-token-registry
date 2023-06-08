@@ -3369,6 +3369,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GM6MoxTXquqkj2NGFFzAaVqNB4gG7a5oLPV2SfvcwzdH",
+      "name": "Moon Birds",
+      "symbol": "MNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cj9e2pf0b0jvkvo8r367zp8e2p3p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

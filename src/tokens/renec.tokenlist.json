@@ -3382,6 +3382,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4snZCZZu4R8vvgV69pLWsBAXV7khzFn6zktpivo3WDxY",
+      "name": "King JoJo Exchange ",
+      "symbol": "Kjj",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wdiiucymxz3tdo5zypdninzabjc1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

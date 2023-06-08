@@ -3356,6 +3356,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "APhQ217HQs4q8NCWd2Ni9aT7RXtmpRpwpG6LNtzkDK7L",
+      "name": "DreamToken ",
+      "symbol": "DMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y7l8cwbp65eeelvhx53tysgnph8u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

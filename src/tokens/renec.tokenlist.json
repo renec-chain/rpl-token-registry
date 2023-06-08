@@ -3395,6 +3395,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FgWEtEEvmewGtRiktv2YFpBQqhuRsGvnVgcqSxyTcwpZ",
+      "name": "VietNamDong",
+      "symbol": "VNDT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/855vasr599amf7n64wx6sc6ic02v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

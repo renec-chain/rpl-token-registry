@@ -4591,6 +4591,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H3y8qNL7ocaXMxcuRQ2wQps2ot6r3GxmTWXrTuzwZWKc",
+      "name": "Lucky Coin",
+      "symbol": "LUCK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g9ph2qfj6j76cdn7dfv8n0vn9fg4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

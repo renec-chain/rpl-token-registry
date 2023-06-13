@@ -3785,6 +3785,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3DHiEp2Xyrma235G3qZdhwgKG8mUkAPoJHfZg4TgThg",
+      "name": "Space Pet",
+      "symbol": "SPP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ki89m5av4h0e6lf56geas66xbt5z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

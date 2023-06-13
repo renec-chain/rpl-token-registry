@@ -4253,6 +4253,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2NgSdU5mEeZfUp3yRdUx5WbQUxNb8TcaxVBzCNuBrLfT",
+      "name": "Cryptedmee",
+      "symbol": "CYPTM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3he6xsxn8xvvrocbsj1iirwltaxz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

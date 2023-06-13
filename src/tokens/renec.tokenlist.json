@@ -3564,6 +3564,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GXmzNi5RJxZmgjkGa2w7MiRLbHuRDMJB7aiX7kDLj7B9",
+      "name": "Asaf FLUXXS RENEC",
+      "symbol": "ASAR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o4ceouvy5567r2e0ynvwrmmkqcl2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

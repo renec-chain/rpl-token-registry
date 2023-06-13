@@ -4292,6 +4292,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4UCPgUwc934zXbVrb6LBLJTVrH6XTN2QDj8NSn9tuNY5",
+      "name": "WARRIOR DOG",
+      "symbol": "WDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sk9yvabxsunujl7rtm7qujpcaajq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

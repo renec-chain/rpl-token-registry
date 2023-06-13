@@ -4578,6 +4578,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3TyBp4hLUNnwVSGG5KuSFE7jt3pbG8ZC2Bhsab2JweWV",
+      "name": "Ezenwa Renec Foundation Coin",
+      "symbol": "ERFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gomf7zdpj56h3uy3190ix4utdiq4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

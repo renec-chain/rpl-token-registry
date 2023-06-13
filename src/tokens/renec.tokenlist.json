@@ -3759,6 +3759,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "66T3BeaB21iHYaWmae9Wm8nevxJsi5YSqqfWyPtRkj9Y",
+      "name": "Emeraldbenbela",
+      "symbol": "EBA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kp6f4shzubpocsynxhf34kdiej9c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3486,6 +3486,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GaaiuZbVWhLKzK6zUeurFPiLuAzxEP82jnPsvwA1ucbE",
+      "name": "KHAIRAN",
+      "symbol": "KHRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sdaylnb6yplzwo8gk61iyt616da1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

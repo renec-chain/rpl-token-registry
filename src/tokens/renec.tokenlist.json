@@ -4149,6 +4149,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7kEdNzY1Q4p6ASJJQJb8CLFSbt7i54BEbcP9WGa2yxRr",
+      "name": "NHA personal coin",
+      "symbol": "NHA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gahoyohwz0ywwluclhf4wrwy7i79",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

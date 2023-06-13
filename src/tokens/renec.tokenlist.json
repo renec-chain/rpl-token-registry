@@ -4318,6 +4318,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EKW5u9LqTgGNw7zYGSrQgfV3WfroGGhpAwxvChVC2iTw",
+      "name": "mosko",
+      "symbol": "sko",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sosn3esp85d5v2jmtkjwnv05kw04",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

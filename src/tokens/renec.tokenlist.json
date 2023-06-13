@@ -4409,6 +4409,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BZCCagADaUi34hJhjC61GyYLBh2noQCEfPhkzeYHVeGA",
+      "name": "Crypto queen ",
+      "symbol": "CQN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/593gqls22g2am102v293yiowr8c0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

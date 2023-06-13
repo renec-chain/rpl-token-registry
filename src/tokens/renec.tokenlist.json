@@ -3590,6 +3590,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8QdAucpdoQY111rEi38hiTy4epZJfWP2695D8RNCTfti",
+      "name": "OPTIMISTICZ",
+      "symbol": "OPTIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0hr4lz6842qm59iii2fm7eiw86mi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

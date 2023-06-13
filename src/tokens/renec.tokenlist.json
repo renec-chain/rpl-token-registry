@@ -3980,6 +3980,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2NEAj4jbg2SDCzua6h5eAmmXFS1JjbjCvdCRYFcDQFcd",
+      "name": "FavyGee RENEC",
+      "symbol": "Favy",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z0srkahoq06pkroxhthy3aaf4c21",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

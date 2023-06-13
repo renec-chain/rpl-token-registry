@@ -3928,6 +3928,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BSoKCs8fybnzTbmgJbVdRUFpRKC8cL9sp6MQa4F6sL5C",
+      "name": "EwuosoMayowa RENEC 4634",
+      "symbol": "EM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yyc5uvfae6ue2u1jnghum3kiq2z2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

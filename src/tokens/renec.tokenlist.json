@@ -4357,6 +4357,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7MbkD4Diue1bQkcNbfTN8t2bF9cvCLcB3Dz9E41MvqHr",
+      "name": "lizjos",
+      "symbol": "lizj",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fwal7ruzt7pdc4y8yz5b2lnbplld",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4565,6 +4565,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5gWNPHz8Zizzsa1kX4XsQ7oReLee57iijJ3ABSsAv413",
+      "name": "Asaf FLUXX RENEC",
+      "symbol": "ASAFR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q7twaukwkjx3yhjll1rgs7em4z8l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

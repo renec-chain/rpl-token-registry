@@ -3863,6 +3863,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FHziuD2ngstEBn2WZqX5CPRa5qnxpa3jViqfxeDwfxbb",
+      "name": "Troy",
+      "symbol": "TNEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8or13i2lra6ofvx0rrdie2eldkvk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

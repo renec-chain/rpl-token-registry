@@ -4097,6 +4097,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CwCWKHrCaKJ2oboCGQATwzt21F3Wkqb9QPTBYSfHpywV",
+      "name": "TEMPLE ",
+      "symbol": "TEM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5374v9dq5ml6lodnzlsjrvidkoxc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

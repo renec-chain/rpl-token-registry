@@ -3967,6 +3967,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F9LabCHxbvEc15ERPj1K4c7QbGfHVN8HTskM2DB97Hbg",
+      "name": "CoreBureau",
+      "symbol": "CBU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1l39bjv5eow9j5ua8opzw82mz2zm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

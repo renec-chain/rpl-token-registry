@@ -4175,6 +4175,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CEenbdHxp1wH3qAGxVxCSUk8MWUamnmZxC7GnfUSJ23L",
+      "name": "Bizzcoin",
+      "symbol": "BZC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9szd7l9relkuhehp2ig13kblqs8m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3538,6 +3538,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FKEWDRWDsjGdLrWz3s5F5kT1QK3makfDU5a9HQrZkb8a",
+      "name": "BEECOIN",
+      "symbol": "BEE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d4ltd4hho10hzb4od7fpwxwshey3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

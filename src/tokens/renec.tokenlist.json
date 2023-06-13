@@ -3616,6 +3616,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4q4wDQh7E6KPojowWVSM24zp9Tw6ve2K5cdFVRw6pmnA",
+      "name": "Lightskingod",
+      "symbol": "LSG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rr2983h80nbd3qie1lwxw7fzc0w6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

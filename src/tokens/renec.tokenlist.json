@@ -3642,6 +3642,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5QL4KPsKuBTCjQK6MzcfoLpQ4SXSFccnVUzio1NS3ir5",
+      "name": "J12EMPIRE ",
+      "symbol": "JEMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/35wcl93nw98vqj1nlbxps3w8pmyr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

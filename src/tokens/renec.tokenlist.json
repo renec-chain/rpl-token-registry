@@ -4396,6 +4396,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GXFHerwYL9CeueWBwd6Z8sBBnnbTusAu4N68QmMu43tZ",
+      "name": "MEMEMOON",
+      "symbol": "MMM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/klbjbk8t3i95dfczj58nu8n7mbii",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4006,6 +4006,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CaMMUL1eqHr1JK9Xn7DL22pCQhY5jLPKcpC5WqY8H9f6",
+      "name": "ALISHAKIN",
+      "symbol": "ALSHK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ya6kbv91tj249jtlo92ikc2hcwxc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

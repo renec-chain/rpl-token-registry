@@ -3746,6 +3746,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EXGAp68RjonyNzr1No4y5nUvSTWMN2BbtL7ePWRr3Wpy",
+      "name": "Firepower",
+      "symbol": "Firep",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wp94c7aegc0w7x37jr2imccjux1a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

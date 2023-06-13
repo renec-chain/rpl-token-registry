@@ -4240,6 +4240,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8oh47jgL1asikJrhz8VQ9g7niv1euDqFuSoBjNsiY7UJ",
+      "name": "hawsegfarms coin",
+      "symbol": "hfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bptq65hy8kjivysqd90a96svqdin",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

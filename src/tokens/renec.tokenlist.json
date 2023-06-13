@@ -3460,6 +3460,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GuZxAmzi4RfM5ipcEoLdHsSpphhwQE2XMYscQ2AGDZNz",
+      "name": "WAR LORD",
+      "symbol": "WRD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bn50lczer96crfavqkn50p5vy15v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

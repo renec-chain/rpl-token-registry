@@ -4279,6 +4279,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AHqPMKyfyapTBCPbanezao31zt9u1VYDoDdJdJVtNLvD",
+      "name": "Tom Coin",
+      "symbol": "TOM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uxstprjta91jlqm44lzz8ivtwxc3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

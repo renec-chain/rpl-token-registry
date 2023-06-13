@@ -3850,6 +3850,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8G1vCasZ5JrrszK35A11EwB7d9xwmkNHJPUabUuctXJ5",
+      "name": "Dark Shadow ",
+      "symbol": "DKS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ltxo8o7k2295u3azps6x2ezkv1u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

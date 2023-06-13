@@ -3577,6 +3577,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5XSu3zMHoTHJh8uJPpzavtE87R3DTe9CDyayhiThPh5v",
+      "name": "Isahbali",
+      "symbol": "BALI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dw55o91xcokpwvpe3bl9wxua49hx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3811,6 +3811,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B63EZCM1Ph4sTPoj3urqddaza6fjhzAiLVrAZKGwxd1C",
+      "name": "Toby RENEC",
+      "symbol": "TBY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wtwft88agyx6hbmdq1ab7g41z70o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

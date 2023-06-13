@@ -4422,6 +4422,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AjD93bVEo5dTVQsANcjbnDVNukP1W8DFNWoJM891Wsum",
+      "name": "UNIVERSE",
+      "symbol": "VERSE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l040yats8bfvewwlmjldb71fym1s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

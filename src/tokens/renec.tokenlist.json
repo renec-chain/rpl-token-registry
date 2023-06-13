@@ -3655,6 +3655,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FideC8dxcGHoRWM59k77yY5gxtBi8PvmQaR7g51TfBua",
+      "name": "rePI",
+      "symbol": "rePi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/th9qkdgde6mqynqd7sxj9pxwq9ju",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

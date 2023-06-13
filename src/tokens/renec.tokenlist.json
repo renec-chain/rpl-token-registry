@@ -4227,6 +4227,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5XWeZAzVcqnY1otX8HvBBF6wvvPHq7QPduoZZCp7tR7a",
+      "name": "SHARK ",
+      "symbol": "SRK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rzw1rmm10z8fp87ddta0sd0bdscs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3694,6 +3694,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EaY4LTt8FW7Qyzkipcjn31Esssdh4bbU3ttMZoooXB9x",
+      "name": "Solar Renewable Energy Token",
+      "symbol": "SRET",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m4lqfecdb5xuec8stkg1ydgb6zor",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

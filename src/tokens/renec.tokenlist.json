@@ -4383,6 +4383,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6EJRGnHnP5VmYEmhVrgoLpY83DHPQnTTKZmG34pCcXUK",
+      "name": "ZERO",
+      "symbol": "ZERO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p10k3ffb6mne2ejzggy5yhph50fa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4058,6 +4058,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BM9beiVhkgtgywo4uMffMan7zZ3U2hxDge1tnd5T8KVV",
+      "name": "Vibranium",
+      "symbol": "VBN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m2n03u5b27cbjb5dvkpc0g583z4e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

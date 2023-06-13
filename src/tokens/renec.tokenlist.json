@@ -3733,6 +3733,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DX9QvcRATsUSKsBnr64ZU1fDsiyF4vjzKXF2SL3yRDi4",
+      "name": "Xplore RENEC",
+      "symbol": "Xplor",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4rdkp0jm1flbqiemmigbt957jhzh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

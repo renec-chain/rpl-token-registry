@@ -3798,6 +3798,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5AuAmtgmLnLbyStCk9TPqq6WzzccvY4EhKobz27zstZR",
+      "name": "Vatican",
+      "symbol": "VTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/noaprbtquq7dg987b9f3chb44iuh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

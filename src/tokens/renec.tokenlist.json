@@ -3525,6 +3525,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EMPjQcR74GahhepUaw9gdCvnskaS9mvbGBDVA3mHiedj",
+      "name": "AIMantis",
+      "symbol": "AMT",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g62pwjnctnh4v7szyyqtxrz989v6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

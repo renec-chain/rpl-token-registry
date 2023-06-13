@@ -3512,6 +3512,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3LM2CcgJsYbDvVC7g49ffnbsbrZyB6JsDefwZgbuEFRg",
+      "name": "Mirai Token",
+      "symbol": "MRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b9ba6tgp6ob0hxrxzat52kjjqjnv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

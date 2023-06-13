@@ -4539,6 +4539,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C8hNJGDwekEf68p7gfXMRWz7CQZWRqRhqNGtV8dfm8JB",
+      "name": "TERMIN8OR",
+      "symbol": "TERMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vnl9v8y0n02927p2of0oy32x6gx0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

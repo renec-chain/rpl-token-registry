@@ -4266,6 +4266,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B1bPyyBgFmftJDXCiP7ZZ41MPCHTZQKVopyGTvbKShKk",
+      "name": "Mine",
+      "symbol": "MN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uswunhxwnq2jsnxlwqdset1c3ik3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

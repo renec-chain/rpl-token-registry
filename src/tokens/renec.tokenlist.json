@@ -4513,6 +4513,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8qvy3qk3QCMt76azQ5djUt4FgMrYJ5Hqnu1zEuAkiuC6",
+      "name": "JESUSPIKIN ",
+      "symbol": "JEPKN",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iqoyrgcgugrb0du6vxo422z2stoy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

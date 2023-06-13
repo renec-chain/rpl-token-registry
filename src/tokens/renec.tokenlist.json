@@ -3720,6 +3720,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2R38XkqMwm8vcm9FG5irYxb2AcGkcge5P6qe8wNUUdEb",
+      "name": "Venus",
+      "symbol": "VNS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m6y2q5txanrrnllis8anihnwjyaq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

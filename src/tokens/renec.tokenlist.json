@@ -4461,6 +4461,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AvPD9nRhF2Rbz56TQ5VC6hQP1NWXxEGjSjhPpD1ewgnv",
+      "name": "User1 3276",
+      "symbol": "User1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ajf54d0n0hhz0quke88u8w7s2z1e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

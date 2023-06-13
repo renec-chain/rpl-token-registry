@@ -4123,6 +4123,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fjba4Zj4j3rGuZpuy2XWoKS2ezc9AEN7x1J85cP2Shp4",
+      "name": "Cryptic",
+      "symbol": "CPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7b7hbu9vj5qe78ad3uy9amy2689y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

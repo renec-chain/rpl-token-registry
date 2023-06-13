@@ -3707,6 +3707,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FcCvv2XeLu6bC5xBhrsDGiya3xUQij1Mf5GKEXtGJee8",
+      "name": "Waleyeff",
+      "symbol": "WFF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6v6or2agt24czyjctm3hj4hnbanu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

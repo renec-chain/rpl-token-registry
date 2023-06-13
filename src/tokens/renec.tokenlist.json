@@ -3603,6 +3603,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GqeqzEMnoK47kJoVvTkVwvwURWg4NNyChu26BXHu6yg9",
+      "name": "MUSIC TOKEN",
+      "symbol": "MUST",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j2lio0nw55orkxk0dodayo39futl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

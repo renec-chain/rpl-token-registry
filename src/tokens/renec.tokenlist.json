@@ -4500,6 +4500,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6vcjw3njgyV6jNJD1xGDG3h18BeATsWDJoJpSkYynvAe",
+      "name": "duvet RENEC",
+      "symbol": "Duvet",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/plajfyedi33j201w1zj0gaphooiy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

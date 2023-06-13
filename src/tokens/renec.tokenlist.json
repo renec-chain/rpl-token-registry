@@ -4045,6 +4045,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQWbJdPxRy6NV94GwgF4PJRM3C7q4zAE1M9ve11sfXGp",
+      "name": "Treeplepee",
+      "symbol": "3PP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vwrzwztlvan4hycux3sc168016mb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

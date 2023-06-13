@@ -4162,6 +4162,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ZhKEcDZZJJSiZRds75R52tTgEUbZ1RYmDuJKcbUgA3R",
+      "name": "Sponge coin",
+      "symbol": "HUY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pc7zuuv0516wn9q6347thftksr6z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4201,6 +4201,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "N4SLyqVX9DVQ2jiME2Y46UjkTJTiJqfpxwdqV1GmoQM",
+      "name": "GENIUS",
+      "symbol": "GENS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/alroqb5u8xmcss4077gc6s15ealg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

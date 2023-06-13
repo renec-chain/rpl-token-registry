@@ -3447,6 +3447,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6NcKS45LpcfZ9xDDduNruPGJ2jn9UNQhaUjZjuKNTorW",
+      "name": "Chisney RENEC ",
+      "symbol": "CHREN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/46aymghkzwgqoclwbwaivvv7opee",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

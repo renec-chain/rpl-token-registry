@@ -4032,6 +4032,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HgXhsJozb5PnuyAEVZcvLEKzaRHLpRhfiYhRXPohdWo8",
+      "name": "Victorz01",
+      "symbol": "VIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z30hlf57w3ogggsfswdygudlqf03",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3681,6 +3681,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BBZtkJ8NPMJY5fNGuDWKf3DFLibysZFXKFcPiMHFfDZG",
+      "name": "LUCKY MONEY",
+      "symbol": "LUCKY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/86xrv3it77f2dcrjkdce9trbhg1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

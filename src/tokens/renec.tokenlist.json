@@ -4188,6 +4188,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FUkHWMy3gpZjJb3DF8vFxWQS4AkFEMdSJEVjvP9JjJUc",
+      "name": "Ayusufdev ",
+      "symbol": "AYD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/laexgtg8es6us20c0j6l6bbzjm76",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -3434,6 +3434,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "681NmzHbhySxUsXEq4tvfZA98FTrGTadxDXWKb5e7VtP",
+      "name": "Explore RENEC",
+      "symbol": "Xpore",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qws7wlm6d9wy4n425o7anplmmdox",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

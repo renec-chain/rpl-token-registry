@@ -3772,6 +3772,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CwsRyJUT5gsVv8j1cqEfQHfg7EHAk8tQS4oJXBZ6huwu",
+      "name": "Larry",
+      "symbol": "JAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hvmmrm73ltxrltuy6kbi16aezxxg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4435,6 +4435,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7FuuUuYKk1ZeEiWb491yMR1mSQ2NBemBbHf6yDQ1i8Ui",
+      "name": "Micah op",
+      "symbol": "MCP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5jvxikb1aii4uy3qft9buese5upw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

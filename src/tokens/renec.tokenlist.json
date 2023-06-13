@@ -4136,6 +4136,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CoetGXtP5bGdTqNuj5f9KptJK5y9xtFYciE6SGJ5hKnC",
+      "name": "NXC own coin",
+      "symbol": "NXC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6b7xmiejdh2abj09rttmwvv3klkk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

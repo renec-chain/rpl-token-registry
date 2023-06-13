@@ -3941,6 +3941,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3VYumoGzPPMu6FfFedvMTi7y1DAnS3euKEFt4dYi5mGo",
+      "name": "RoskyToken ",
+      "symbol": "RSKT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zzf24djek1wdsga05deyjlczo1h9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

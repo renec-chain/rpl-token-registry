@@ -3668,6 +3668,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6SBur8F8XyUaq3baBfqew9CcLxYBVtdrnMeaunjZTatP",
+      "name": "Metaland Token ",
+      "symbol": "MLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kict5fsdkpfhopthsfq3cayfbo06",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

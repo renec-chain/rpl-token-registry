@@ -4331,6 +4331,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2SKAaiJajjQFLudMHCzoGpwsxtdzrr81MDEHCAKk6eCw",
+      "name": "ope",
+      "symbol": "ope",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3rhy43lac57hpzjymnrdw4w4r7kf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4448,6 +4448,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "APhfWWm8DK96kuLWVv6hLfmW7Ls9SAcp8AJRSXvh7mjN",
+      "name": "Okdanath",
+      "symbol": "OKD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ms448vj1pzuds0lwzktye9rd2863",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

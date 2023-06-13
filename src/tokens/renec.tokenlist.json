@@ -4344,6 +4344,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E7hqE53dei2MeGhpmBtDiKo7RhYE4eYB3UFYGGwPGHG2",
+      "name": "TYGLOBAL",
+      "symbol": "TYG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tmksgro3w061vzk9nazvgjdxvoa9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

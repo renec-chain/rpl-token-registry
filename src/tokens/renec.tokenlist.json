@@ -3954,6 +3954,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Fzv5w1enZMDWbdRm8LMQMbSvJHZnkm69SvPzktfHgaR",
+      "name": "Minjae ",
+      "symbol": "MJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/52jbgy5baiabxy0cpp0jhakgmia7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

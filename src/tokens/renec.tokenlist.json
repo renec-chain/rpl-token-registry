@@ -3993,6 +3993,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "21czSPzVoDvbSJazGRh5TiAWNBkRJCyFigv3Vr5bYwvt",
+      "name": "Skynet",
+      "symbol": "SKY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8tkb2v33az6s1ytsaxmrsncijk47",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

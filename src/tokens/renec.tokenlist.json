@@ -3915,6 +3915,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H97DM2Rtv4EQjJvXoijZ6aMrv9cEweSxVPmD7otuQvoH",
+      "name": "LennonCrypt",
+      "symbol": "Lenno",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zswfjtcanyufkj1c4coccwt9ygy9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

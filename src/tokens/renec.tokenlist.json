@@ -3837,6 +3837,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BM7JkoRifCiUrWvgfBGjRMhCG8rLBqRZqWd59ECTtKyg",
+      "name": "Kyngs algo Coin",
+      "symbol": "KaC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vrwbpc8rcin8vea9l88n90ygkv20",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

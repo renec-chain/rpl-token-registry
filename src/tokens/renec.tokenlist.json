@@ -4071,6 +4071,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EbU9BXxe4L2AoyjcRsn8oLPgBefd5TZtmPmAwQkktW6x",
+      "name": "MAINZ",
+      "symbol": "MZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vqsqi3hqbz9xz3zgcl3i3lw4x8hd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

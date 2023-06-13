@@ -4019,6 +4019,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6KUwDa5e9krTP2PvpaHUfDbVJKY6Hg23hXq3L6umAAiS",
+      "name": "JessyRENEC",
+      "symbol": "JSSY",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wgpjm18zk8k9tasp721i32jzwsbx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

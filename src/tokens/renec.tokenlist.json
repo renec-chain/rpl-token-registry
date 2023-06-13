@@ -4552,6 +4552,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GrTEuGNbmnBuLWn9c9FDpnFTBpbRjanVXnam5YsJejGj",
+      "name": "Catastrophe ",
+      "symbol": "CAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tij6nag92mrvrcbsnvausiyrtod1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

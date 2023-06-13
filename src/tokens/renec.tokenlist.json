@@ -3473,6 +3473,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H1fkaVfuewWe4eEFE2vvA9CR9UckVB9G2bk9fJdn2uwy",
+      "name": "Language",
+      "symbol": "LAG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hpiunwdv52p95s6e1xih7y6czyba",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

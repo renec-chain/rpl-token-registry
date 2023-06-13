@@ -4110,6 +4110,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AjKbS3pF68dmyfJCSmr7HJ7PrGVMSSmp4jx7YrGQ8mKj",
+      "name": "Tibet",
+      "symbol": "Tbt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mv5mcy42c2x4k313w8mf08wr3u3u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

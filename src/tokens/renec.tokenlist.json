@@ -3902,6 +3902,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "713ZiM9aCbuPFNRRp4VHSfedpQjBeECAgViVSpKSECm5",
+      "name": "JuniorT ",
+      "symbol": "JAMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ldsyvgqkn5ngi515s3il9zclsfyc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

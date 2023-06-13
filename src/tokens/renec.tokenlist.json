@@ -3876,6 +3876,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "462KBAGrss4p1BijkFEq8TevHQFGXhR9vm7oqhMmf15T",
+      "name": "King Up",
+      "symbol": "KUN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a2nteydewztrtig9ex4prcph7rem",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

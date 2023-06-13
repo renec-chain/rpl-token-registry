@@ -3551,6 +3551,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GAuAb5LVq7LnAkBndqpf6eq1vkKavnZFo1aw29T7tcJy",
+      "name": "BATCOIN",
+      "symbol": "BATC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b54ezy6bnly909kjwok88d7zcysu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

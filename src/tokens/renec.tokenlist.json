@@ -3629,6 +3629,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2QfTtyL4kUDTzXyRP6wWaw71cEwanbWtyacHLcdSxjVC",
+      "name": "TORPEDO",
+      "symbol": "TPO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0xozy0usovwad7xn87c2e6ufx56l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

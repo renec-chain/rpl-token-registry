@@ -3889,6 +3889,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5jXdVX1M13gyDFY12SZe3b5BsoCfDHhVvG4ZRp4nGSr",
+      "name": "King",
+      "symbol": "KOF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ye3psfsxwqls2xsnjv4ngxlq2nlk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

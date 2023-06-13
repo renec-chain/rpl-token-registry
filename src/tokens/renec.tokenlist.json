@@ -4526,6 +4526,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bju7PffBGpimSeNPLvfAVyr8jLfxA4WZ7hVBep1X7czE",
+      "name": "ETHEREA ELYSIUM TOKEN",
+      "symbol": "EET",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4vysjk5yfz1re28jffw2z6258bv4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

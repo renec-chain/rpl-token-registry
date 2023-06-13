@@ -4487,6 +4487,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5twRUz6Rz8ad9HfYEHVKJWX6JyrgaGPCc5GjytGMKJur",
+      "name": "Larimar",
+      "symbol": "LMR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1qaw64m3bl3aywsrjcas1dht8lge",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

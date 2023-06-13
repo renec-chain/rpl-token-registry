@@ -3499,6 +3499,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7CZCQbU6hcxhTX2AhHd4BrwV1NMbw5MYFZDT2SgAsWKY",
+      "name": "BAFFAREN",
+      "symbol": "BFF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8eyzarnrgpv6q4puwqcamw3q034u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

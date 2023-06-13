@@ -4370,6 +4370,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4nxJdTtJJAfaHbr3HsPFnebjjVnNpYKsaQEfNm5YPZ3s",
+      "name": "SAUKI",
+      "symbol": "SAUKI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d2fg7a8uu1dqzjb881tfek0bwod0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

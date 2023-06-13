@@ -4084,6 +4084,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GVPrLEC79TzxQzKuVjsT47G2WMfwurimz3mYsY2jdEdG",
+      "name": "BLACK WARRIOR DOG",
+      "symbol": "BWDO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z3h3dtm3ghkimjkce106jycc0ndn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

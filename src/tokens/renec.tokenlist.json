@@ -4474,6 +4474,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8QTb36hFCrwRM37LuheZgCTkWcXYmg97nyp83hqYmsMz",
+      "name": "Mike25",
+      "symbol": "MIK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zumolmbiexh9vp94cao1w4sgmvm5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

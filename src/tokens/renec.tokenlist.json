@@ -3824,6 +3824,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9q3UJijVjhyHRqQf7XnofzFYiH7VinHnQv5j95LvMN84",
+      "name": "Slow and steady",
+      "symbol": "SLSY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y9ke1jvnrnqdtlczzof6juxewbz7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

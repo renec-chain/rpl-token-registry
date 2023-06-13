@@ -4214,6 +4214,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Ec74ESMEvQ4Q7kyxf8oX9Lj6AXfb8Rkeyj7WWvsefdX",
+      "name": "JERRY Coin Testnet",
+      "symbol": "JET",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cernlapmie6rs5cot7svisn63xsc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

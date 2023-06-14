@@ -4695,6 +4695,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3HwnUSXQbExkTVDei2wML6Vy912VLywbd6LojpoXnLVW",
+      "name": "RENEC MOON",
+      "symbol": "RNM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0ossrx0vb98kkjt9y7777t2uadtb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

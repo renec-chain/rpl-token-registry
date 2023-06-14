@@ -4682,6 +4682,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4USvAq7CtQTBPrtuZFQxikRdgkronT3JsRQuvDPQ49qW",
+      "name": "ELDAD FOUNDATION COIN",
+      "symbol": "EFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/avelads2s0ur4t5rwlavylrizei8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

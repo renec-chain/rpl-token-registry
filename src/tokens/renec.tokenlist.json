@@ -4643,6 +4643,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4UUy12Gmd9aAeNLJNcn7XEmk1X4PpzhfgdCPSTRk3dUK",
+      "name": "Garba",
+      "symbol": "G44",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eie4w5f5ze8ztu8upc5trdbvvcza",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

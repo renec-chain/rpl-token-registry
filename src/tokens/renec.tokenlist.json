@@ -4630,6 +4630,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F1g9EtMkhLgZ1tNjvcrR6rDDQt7XrpvgNTy7MTGfsY9C",
+      "name": "Capacity ",
+      "symbol": "GHU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/btxj4zwwo92ivyf6rvcgyocwn6i9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

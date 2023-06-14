@@ -4656,6 +4656,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GL5j1Lxcrt3AMnB57oKdGUtr5ofAaSADyxjUZZhaN7dF",
+      "name": "CELINARYSYSY",
+      "symbol": "SYSY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q9e4jua2fp9r0c5p8jnnjzn2yz26",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

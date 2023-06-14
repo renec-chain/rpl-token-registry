@@ -4786,6 +4786,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2NJwS7NXosrYuBf28zhi29Y52v4rmEfwj11whNmKUZ12",
+      "name": "Myusufkt ",
+      "symbol": "GNK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rai509o7qhvymn2ad1gyruuw0jmo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4708,6 +4708,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4KKeuG2D8UzDFuCekyAeBfwVAQgK7pg2i8tVSdfWop8a",
+      "name": "Gem Token",
+      "symbol": "GEM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8q9vae2v5wlzktiz2qp50qnj3h9c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

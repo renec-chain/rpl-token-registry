@@ -4617,6 +4617,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FYXaGY7TRGehSkeAfbTfY47GKKaL3Dofk8VDHtwogq6r",
+      "name": "ANIK",
+      "symbol": "ANK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4437a2dubirvsdkzozlsg0ai801e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

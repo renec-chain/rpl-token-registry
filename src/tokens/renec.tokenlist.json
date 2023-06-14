@@ -4747,6 +4747,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HX4Go7iTjHk5Lx6skCqfjdEvHgVaVFHUd5Hfk15veskn",
+      "name": "LTE",
+      "symbol": "LTE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7lniddx4pfu1e8k2gtkpak5vdwms",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

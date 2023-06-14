@@ -4721,6 +4721,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4trR6Q21ysDrRPnkX4itGLmRVcwpy26LMzYT14vtjuHs",
+      "name": "Samia Foundation Coin ",
+      "symbol": "SFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l8bg0ff0h8332kh2qa1esynury9o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

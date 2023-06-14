@@ -4773,6 +4773,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A9jeZmPdL1QEByDxMms3wNY3hZ13PeRdcAq5TGePR9jj",
+      "name": "Mozarella",
+      "symbol": "MZR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ztfbrmvw8psohpnnara2s3i3kvl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

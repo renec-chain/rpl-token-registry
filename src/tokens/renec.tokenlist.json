@@ -4760,6 +4760,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2N2BUnBSZj3hMajKxF9Tas5GcC7rpFLRZQy4cgBejRrA",
+      "name": "Swarm",
+      "symbol": "SWM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nsauq08onp84on99hv6g5scgxkj9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

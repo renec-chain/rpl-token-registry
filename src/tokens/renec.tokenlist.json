@@ -4669,6 +4669,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AYCPpyosh7BqwSvvffjPMq9nDmULkPAZQgizN1cyM4jm",
+      "name": "Rabbit King",
+      "symbol": "RBK",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8j6s4yt8zq0b5tptvu0m52ykxcxj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

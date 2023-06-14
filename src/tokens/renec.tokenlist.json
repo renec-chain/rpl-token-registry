@@ -4734,6 +4734,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bt1x1va41gz5Zh2zyFJ1QracK1pwjR5ik4sksTK7z1X2",
+      "name": "NemoSwap Treat",
+      "symbol": "NST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ppbh75gmry6hxlaczoiwrau4g2zf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

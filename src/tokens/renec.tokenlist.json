@@ -4604,6 +4604,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GChrktezm4cZGKiNi5ExvSXvu4PePn9KwknRbBsDEVbi",
+      "name": "TOROGAME",
+      "symbol": "TOROG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/senaumhfd4mveq1jh44ssopy2bx7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

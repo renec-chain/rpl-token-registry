@@ -4812,6 +4812,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6Ttej4htgD6nyAWaXGutTSy5WUL6vxwt3CNTQTipDUY6",
+      "name": "Light token Power ",
+      "symbol": "LTP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lwz2y9m3igsgrje3v5jilfwat91p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4877,6 +4877,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5J4h1FaucdRcZu5CBXXjNEVaz3R9Q3aCpQioJVJmLP3n",
+      "name": "BOB TOKEN ",
+      "symbol": "BBT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0i8nk2hcn19syer80v2w5ub562mf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

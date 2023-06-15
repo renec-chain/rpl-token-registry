@@ -4864,6 +4864,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3zKU8K4L525cYMrBMfXxFGFp3Jm7hUo324gy8gmtC5dd",
+      "name": "MEN",
+      "symbol": "MEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dmy9wath5a75e5legs2u8rrnb9hm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

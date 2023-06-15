@@ -4851,6 +4851,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GCV393FzRBjH14MdVDqBjt1Stf4yfzcthA42E9H8ZiEP",
+      "name": "Hemmylex Token",
+      "symbol": "HEMMY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1123z0klq0ng1235kmkq5p6acm2o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

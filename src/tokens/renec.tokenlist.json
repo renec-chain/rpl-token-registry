@@ -4825,6 +4825,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "xKx6VgrJGWHgSSzEgfhSzERnDXGB7hxAw2dNERYH5XE",
+      "name": "LTP",
+      "symbol": "LTP2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/je3ovg58xrhaj9khhczr8aeezdh8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

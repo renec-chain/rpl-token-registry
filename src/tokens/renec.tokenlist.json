@@ -4838,6 +4838,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4a12QEtJbbVYVWKjHxxEkuyk6xHXg3u6kRRnRJPCQzFr",
+      "name": "Andrew Coin",
+      "symbol": "ANDRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4h58tiujegusty47hbs185vmbrq0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -4799,6 +4799,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8PyezezsBKbtQt1veQChju1k2SypN7qkopDCoWNQRRXh",
+      "name": "MASTER LINKS SANEST",
+      "symbol": "MLCS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/la8cuvymyw5s0a0d4bg5du97d8bh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

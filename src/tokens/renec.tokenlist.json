@@ -5007,6 +5007,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Nu3PeVVQvYgAYiCS2nKJjuL3X4raTLwuj4Y54FX8yCS",
+      "name": "DurianKing",
+      "symbol": "DRK",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/peirx24ow8d84dyswvzbby9ixow7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

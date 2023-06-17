@@ -4955,6 +4955,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HJhitLH7UJttKFVow7bZHUeCCKEGJ38TqjQ6C9mKaqJE",
+      "name": "Durian King",
+      "symbol": "DAK",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lg283fbbi6jlx6cgmcte2qb6brkr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

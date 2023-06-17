@@ -4942,6 +4942,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4wmnFzvnbVTZVezaot9ScyJDUTkF3St4B8rZqQFWPgb9",
+      "name": "Chinonso",
+      "symbol": "CC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jmavfyttm7rnv07cxlybhpgw0t3h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

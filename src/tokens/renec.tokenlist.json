@@ -4890,6 +4890,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5tpqbWiyRqoVirsht3vKmznjra13NtdSMPkB1MLfj9GW",
+      "name": "Brolab",
+      "symbol": "BRO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q330i8kphgffwvyjimu6637hregh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

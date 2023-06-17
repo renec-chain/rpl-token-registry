@@ -5059,6 +5059,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EXA1hkT2cC3BWgGS79RoQsdgKsXsdkV8WpC1PP6TrbQ",
+      "name": "RenBinance",
+      "symbol": "RBNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dzssfz8e7tjv2jqqxgz87p8hc16j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

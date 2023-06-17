@@ -4981,6 +4981,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2mb5wmgoYAdFzB6QsMyKA7tnmT2tqMnrYbsVMrfCgUQp",
+      "name": "RENEC LIGHT",
+      "symbol": "RNCL",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i1c46zwgzk3u6tizuprc8x4n8s8l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5072,6 +5072,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DAbwgnYtZdLGpXaCnWqBJ2AxWy7nJpa39hmL6iQbNjG4",
+      "name": "04minikiRENEC",
+      "symbol": "Mnk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l4brtwy3n86etxndbmbxpwi00vlk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

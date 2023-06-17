@@ -5111,6 +5111,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUY5ZiyR4n3qYGkwQu8HMz9MHBcH4goWFPVS7Aite535",
+      "name": "FlorBee",
+      "symbol": "Flo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/46tq62n1lx71xkyoqhsoqxwyjs0b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

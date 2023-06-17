@@ -5033,6 +5033,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5gknBkJo7DwhymdxfrN5ZZrHRpXdKeEeuVqjRpX7VMEK",
+      "name": "Syntropy",
+      "symbol": "SNP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hwjr8ym6aipbcjla3rmop9co39d3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

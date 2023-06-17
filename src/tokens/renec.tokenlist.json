@@ -5098,6 +5098,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GkDbaS67gYYA1b2T3W8rS8SRkxPVhAnjVZdgnuLmDmQN",
+      "name": "Jeremy ",
+      "symbol": "JR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85htv92cnjhbmq01aao54646r2h1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

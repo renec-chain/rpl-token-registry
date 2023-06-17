@@ -4929,6 +4929,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F5nTYrwm9yk9T54ZCdnBQFXB14wZnPJfQPkRAQtCLVBD",
+      "name": "Rawman ",
+      "symbol": "RWM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u7lyx2x4n7hmpfuxv9v5brn6hqqa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5085,6 +5085,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FU194pSehXyLdgaUkZjbzPR8WxwnSYET7oh8vjEa6oDS",
+      "name": "Fafu x",
+      "symbol": "FUX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6pxugfyuffcx5rbw2tuikdn3r5ev",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

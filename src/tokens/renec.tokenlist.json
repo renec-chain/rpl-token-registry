@@ -5124,6 +5124,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ehe7KE4vFteSSteAjqkh7MjZotVVCJHeKcwQeUPHiHZA",
+      "name": "Kiing Kanny",
+      "symbol": "KKR",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/70gnjjyerb7olqolu40fw3clg39i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

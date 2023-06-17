@@ -4994,6 +4994,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5H5gYkhLfuQJoDWZCidv4DgVoJt7ZhbS5xFXv72hfGth",
+      "name": "AGROO TOKEN ",
+      "symbol": "ART",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mzh0v5glemctgjzd8670r0m2edgu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

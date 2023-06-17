@@ -4916,6 +4916,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BVFTutdhcUEkNvvNbCfRwG9as238TGT7beFsguEyY2SP",
+      "name": "JimmyRENEC",
+      "symbol": "JMRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/beqkq3kms3a6z0bbkmabijm13c2c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5046,6 +5046,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8RTpPLFAvDMuzu28jnqBip6SG4Mt62aJoTJYqPdSdYtG",
+      "name": "Golden Gate Bridge ",
+      "symbol": "KmK",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/edftx96fqbxsal6f2gfratmnqd8e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

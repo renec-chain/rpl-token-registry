@@ -5020,6 +5020,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "72NrzCmRMPAp1MFT9nX9V31UsSJzrgeBCmv2sv6kooup",
+      "name": "Dacflamez Coin",
+      "symbol": "DFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1d3j84xo8bcvh7g91u5wzvvsvsgy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5176,6 +5176,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8aWVJVnAHiidxWGgTFJxVMdQjJy5xuMTnciX2TPoiUyn",
+      "name": "Anh va Em",
+      "symbol": "AVE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ee6at3kg6cink6s96kl3f98x44v3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

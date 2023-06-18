@@ -5163,6 +5163,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3quwUFzAMLCFdf3ysBfYrzUi29taKUSjEL3M6eaP9cwT",
+      "name": "Two Bob Coin",
+      "symbol": "TBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ijq8haxg1u7u6s3y8qa2cyskd9ia",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5137,6 +5137,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5kh3vYGtEh3fGqECCU97vSDxcNFtNpUMD8jh88tKFedD",
+      "name": "Imran Khan",
+      "symbol": "IK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n2vjigryjvr1p36jho9h57c2x9ai",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5189,6 +5189,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EUV62Azy1uX5wrXuFqwchugHHEEKJsPwMbsmyd8n9Usu",
+      "name": "Manchascoin",
+      "symbol": "M",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mk2vug3ut9ubjnt6kgjuvho01o6x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5150,6 +5150,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5xSqsp8LUxXyHRzyheyUL3LfYtnkXPLgn9h41SRCJLx5",
+      "name": "Poppy Inu",
+      "symbol": "PPI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/utzwqaaiz4apdbyu81xnyvmz9xcq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5215,6 +5215,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FSewr8MLUtaaPgAcSwzpUB5EJztrFfRPMEVGPT1jxYZS",
+      "name": "RENEC1",
+      "symbol": "Rfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wv73nccsc5supe83gs50kx3sjk37",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

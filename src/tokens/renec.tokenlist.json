@@ -5202,6 +5202,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9q7iTzwrWngff629ngduEm3afsusj3PyspFNyWJ4Xyde",
+      "name": "Donmekins Renec",
+      "symbol": "Dmr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4g114naq5xccgfssw05pszerj53s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

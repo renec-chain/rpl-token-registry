@@ -5241,6 +5241,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ynw6EAF2C9jhbVWZLR2WsfbfoYjPfqNv4wSUUrx9M47",
+      "name": "RENTRY ",
+      "symbol": "rentr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/942p81b4v3belb17f35lh25ij6rr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

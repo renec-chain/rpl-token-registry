@@ -5332,6 +5332,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EzRS4Mq29EAiksjZnfhQbuWn6Trxp8dmyUwR5q51m2zV",
+      "name": "Leopard",
+      "symbol": "LPD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jowcr30wa2r520oy88bfrsdahndr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

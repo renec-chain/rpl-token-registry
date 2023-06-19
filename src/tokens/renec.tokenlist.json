@@ -5254,6 +5254,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4mK73fmHwsAyNMYWPCKiPzVXeMorFuEFwQPDnFdQwiAr",
+      "name": "Buffalo Capital Token",
+      "symbol": "BCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xf6pp8xs6ocbmitdb4yrgn0982a7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

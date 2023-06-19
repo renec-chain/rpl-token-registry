@@ -5319,6 +5319,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BdEXF8eo1DdkKM85aC24382aXyxJa1S17GZxbLdeiUoR",
+      "name": "Oga popo",
+      "symbol": "POPO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bidggrkb08gp4xoixpqee1ohoqts",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

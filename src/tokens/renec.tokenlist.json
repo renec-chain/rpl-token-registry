@@ -5345,6 +5345,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8MSH3w9ydi3AppnJC8CQAmZQKr26PRsRFP5fENXBFFnP",
+      "name": "BLAQBOYDRE",
+      "symbol": "BQD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lohjkzf4yjkjy1i4wamo2k7okwij",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

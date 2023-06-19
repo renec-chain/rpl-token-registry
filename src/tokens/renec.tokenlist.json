@@ -5267,6 +5267,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "h8UVFSPHZpLd6Aqs1stGCVEZtaLTjDzw1jG9LBbY3j5",
+      "name": "ERNEC",
+      "symbol": "REMI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2cjoepcwljcor4js3gxhpacgl4kq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

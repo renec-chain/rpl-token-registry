@@ -5280,6 +5280,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6D4vj2VJ5KpyoaiVSmc5hnMbZSFc8LpHqsTW3TtmqA5J",
+      "name": "SEEYOUONMOON Coin",
+      "symbol": "SYOMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gaikzjn40uqmsw59dj022n0im5gy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

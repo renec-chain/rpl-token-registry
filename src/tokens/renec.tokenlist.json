@@ -5293,6 +5293,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3zdy4kDPRmGGfXXDADFyYdYvgqJoMLf5zch3Wcj8n6iE",
+      "name": "Rencat",
+      "symbol": "Rct",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8rymhuooxv3vmsctyt4gnxdsalxx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

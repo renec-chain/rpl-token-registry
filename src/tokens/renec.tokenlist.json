@@ -5306,6 +5306,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CHuCnfdfEctA6mFGnyUWWVWSJR7kVS62v2FkECg2nDQz",
+      "name": "AFroLeaD",
+      "symbol": "AFLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hc9w389sthyfsi3i20tai1fibgkc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

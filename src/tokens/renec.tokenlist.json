@@ -5228,6 +5228,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DkYSNs2EAtm7S7Q8RDHiZwSUXcRWjnTT6MVUTt1K2zB5",
+      "name": "preciousgift ",
+      "symbol": "PRGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lgsc41l1en49g5beyp3g0n8g5lkf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

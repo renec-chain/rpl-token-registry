@@ -5358,6 +5358,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5wjSVQ4QXonHowK3bezPRDs8YPsFeXvnRrECw9pJeh2y",
+      "name": "RenSamurai",
+      "symbol": "RSMR",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ss8jeapzsaxr85zarlgu7hesqo8b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

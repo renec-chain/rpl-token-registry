@@ -5371,6 +5371,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EWyYCzN4AYKXHuhPEAFT5yrQE78x8BKe7KdDwRcWMoEC",
+      "name": "Cgold",
+      "symbol": "Cgd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v2bsghnek3vqdvcqgc6i63bgml16",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

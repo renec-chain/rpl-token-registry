@@ -5540,6 +5540,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BB1bDgC7f18a4LtbGZnUGdRFsDPZWLbntzcVyox9U92i",
+      "name": "Vickyike",
+      "symbol": "Vik",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ml738pih5jit78p6awjg8lbdohe1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

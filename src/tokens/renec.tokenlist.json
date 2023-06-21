@@ -5462,6 +5462,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7NHH22XH6vHm6zRC5PvXcDVFbh6sa1YvkaZpXTZPbFKn",
+      "name": "Ratul",
+      "symbol": "RPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z4cmhavkaa0527jhpxlf3xoxhyhu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

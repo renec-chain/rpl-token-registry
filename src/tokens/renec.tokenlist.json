@@ -5397,6 +5397,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9k5kTsohn42NCPZJDHMddzbiJM6FG63ZECzAHnzKn927",
+      "name": "PewPew",
+      "symbol": "PEW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dtxftqx21yr0iufm6uv4l7yw7tux",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

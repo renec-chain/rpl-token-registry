@@ -5475,6 +5475,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bqdc2CRHuYsPwmzNBteiXEGLuUChJLouhmYXqG3dASV2",
+      "name": "BAO HAN VENTURES",
+      "symbol": "BHV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9jror25m71pccohfolcmol39oftj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

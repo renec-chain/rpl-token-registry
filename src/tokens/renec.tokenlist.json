@@ -5384,6 +5384,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DBtDDd2f23bxPGRuMaX3qZ2jte5sjT6f2GD2XZ4btiRv",
+      "name": "Smalbird token",
+      "symbol": "SBT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z0ivsg6zlc1b4ne2uqag0ekyeexf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

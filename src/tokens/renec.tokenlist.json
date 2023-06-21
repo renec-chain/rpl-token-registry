@@ -5527,6 +5527,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2WWxaodRCmvWXemWBfUeGp9zKeNmiJHZMpGg81bdKFCy",
+      "name": "MILITANTZ CLUB TOKEN",
+      "symbol": "MTZ",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a01w7dterdnykc2fdhw3ra7ksh2c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

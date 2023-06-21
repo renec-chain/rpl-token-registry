@@ -5410,6 +5410,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9hCTt2M4zr2UtZw2o8sYH6CrxegwUuekN9MjH7nX2ona",
+      "name": "test5",
+      "symbol": "tests",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v14cxnmw97im7n3j13vxlyb7r9sg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

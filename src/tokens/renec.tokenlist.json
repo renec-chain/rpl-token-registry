@@ -5449,6 +5449,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9hzcpn3RFLitKcimNHfDc8ByxbeyJu6fqACAT3GNMTfz",
+      "name": "RECRPTO REVOLUTION TOKEN",
+      "symbol": "reCRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lg4yacz4uz9j88vnsczsdbjamdl7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

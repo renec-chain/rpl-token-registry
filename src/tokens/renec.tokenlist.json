@@ -5436,6 +5436,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "e5HWTTxLxBM3UxKc1XcsU436T8sogvxXyTJg9WmYvyj",
+      "name": "Sak1e",
+      "symbol": "SK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5ypsjyc71y3tzmtp5r34wx1zqua8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

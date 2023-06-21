@@ -5423,6 +5423,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7N9BmdUprbCWzjf72GqFNdty9JgCAjSFNuow1U9jHwgn",
+      "name": "RenecDogman",
+      "symbol": "RDOG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9b8e6tefdhotew7ati4kzmbmrdrg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5514,6 +5514,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hcpyt1RkSdoafgZ2at3nZ8Jyx4yTwgTpdFCRjNnWvALA",
+      "name": "RENspeed",
+      "symbol": "RNSpd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pzj2xgw02onavy8ydtragu2ckla9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5501,6 +5501,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EPQ2uNj3AqLPhJ8JxkCBFk8FWK6EFYFd42jf8hEWV4J6",
+      "name": "Mattjoe",
+      "symbol": "MAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z91a69qamtkih0p5e4d0coughbpm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5553,6 +5553,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5JweHBsgLpsh14JpmAUgqmDagRV97UnvQUhjdrQCkRZQ",
+      "name": "WALEED COIN",
+      "symbol": "WLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3efv7x926anxuld4waw9vthp50go",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

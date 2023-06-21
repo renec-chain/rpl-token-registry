@@ -5488,6 +5488,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FzbgSWjnGFANyVwHDphkn2G8CuiWRa9N6Ab8tAGt2yiq",
+      "name": "Beauty",
+      "symbol": "BAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ghy14x85d7qllpqu5jeucqzum19b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

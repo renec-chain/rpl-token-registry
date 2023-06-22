@@ -5592,6 +5592,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3orySUjkp3T4RSvjp6NnHqxuw21zUhyPGamMCURKEXk9",
+      "name": "RachelleNirvana",
+      "symbol": "RNA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/32n5c9qlxndbvipypwha39t4o88s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

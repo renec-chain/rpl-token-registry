@@ -5579,6 +5579,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ABMdNoYJJjj7tSh2A5B8NgUnjhjdv8aNur9ndi3SKdzj",
+      "name": "9Rq6yMmRwXnnmFmnGjf8f1vaAKNvkgEU8kY99dzax9mW",
+      "symbol": "Polo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wpw9326p8ldmed92yk2qw73cu89b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

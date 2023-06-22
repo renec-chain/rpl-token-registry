@@ -5605,6 +5605,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FT2aUHGCefzTiNukVcMeMQxtZWpiuqiqUjy3p4EWwWhk",
+      "name": "Mister P",
+      "symbol": "MSP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tlprods422h2vj0u8n5zo6kvj7vr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

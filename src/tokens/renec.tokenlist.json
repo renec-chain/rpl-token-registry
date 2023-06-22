@@ -5618,6 +5618,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2chSbGzXFHPgcjKQTAGWRw5ucCsph4L96uP1XLm1wSKU",
+      "name": "PumpWin ",
+      "symbol": "PPW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2xucmkr2r0bb8al80p9fcbz8u7o0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

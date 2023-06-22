@@ -5566,6 +5566,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8AYXBnyLYj3mD23zWwi91YMBpwTCAmXojQFs9hJJLbzw",
+      "name": "juliet coin",
+      "symbol": "jtc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c4482pritvdo0zr4c0bzb2zpzuyk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

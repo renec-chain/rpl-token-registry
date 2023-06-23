@@ -5631,6 +5631,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AMwrAP7J4eGrK6wcDB6KmZHgnJ23WKNDHXsFmfUfhkQi",
+      "name": "REST",
+      "symbol": "Rst",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9k3uv7d0yx3rebntne0w10kgbeb5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

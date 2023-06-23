@@ -5657,6 +5657,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5fAQtPVP3NAXjTvxtwmAurf8PwG1rp3Gz7SZskmTA65U",
+      "name": "SMARTH",
+      "symbol": "SMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ec4koubm3dw2ayxwkxuneavm05xw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5644,6 +5644,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4xsAskfKRLB555fpdb9EqNahH1NRNhSjnXoLhdu4d3L9",
+      "name": "Amazingr token",
+      "symbol": "AMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d8gwed6qak4312qenm9me3ddc2c9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

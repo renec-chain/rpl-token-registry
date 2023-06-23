@@ -5683,6 +5683,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Mx8EdDSf5M3p4RdRU4jTe29jMR72LhpdCRgwg2x3XKE",
+      "name": "Easy01",
+      "symbol": "Easy",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ag8olxbnflu1ojkiyaq6hpt2uvq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

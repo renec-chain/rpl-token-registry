@@ -5670,6 +5670,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8yEkGRND2ZmTL2qpKkaGK1jpxLiCsnnBzkJF29ZNCv7q",
+      "name": "FUTURE",
+      "symbol": "FUT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6dujzgi6n0pj6insv7c9ob3bgcbi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5748,6 +5748,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2o1kLe8chshrdQJgkTzXXMoAnATtFp2eAdy9YKNudARA",
+      "name": "WEB3 RENEC FOUNDATION ",
+      "symbol": "rWEB3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/auo6dgp0rbg9v4nh6dqb76a4ibqe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

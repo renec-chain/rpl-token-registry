@@ -5787,6 +5787,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BJ2H5LGh5QpnFwxokUcYTBkqoKwKoiPxY3Lnuk7xsprV",
+      "name": "TeChNet Estate Coin",
+      "symbol": "TCNEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/px8pz6hyzi12lks471rcylwhxpyw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

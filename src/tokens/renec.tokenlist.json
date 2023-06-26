@@ -5813,6 +5813,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3myCs8CabhPm5fwfTkRjqJAfTigjRVuTzzbr2jcDhBkm",
+      "name": "SKcon",
+      "symbol": "SKc",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3xs99zugyu74xc74pya76ev7oows",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

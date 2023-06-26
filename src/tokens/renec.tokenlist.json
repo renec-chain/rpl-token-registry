@@ -5709,6 +5709,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7hweevkKaveSaAAPDScUeQ8ZAnGwJ8G3vcnFkzGEdTmL",
+      "name": "GOST",
+      "symbol": "GST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h2nf5ng41lcx7v5q99eaufapl4nr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

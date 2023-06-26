@@ -5852,6 +5852,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AxMZK34qkK4NhsZkpSdN6RhuLh8hqbudafgHHhBSu3hi",
+      "name": "MONEY RECEH",
+      "symbol": "RECEH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k9ftga6qqjjoyl0s15iur7bdn2i9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

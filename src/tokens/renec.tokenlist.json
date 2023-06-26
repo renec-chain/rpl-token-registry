@@ -5761,6 +5761,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6mDKEJTYGaVdVkPHBctFUU9C2cP2mx2sgdCzPRanQ6ZK",
+      "name": "AIRLA",
+      "symbol": "AIR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o9szz90z6l37n10hg50c9inmsssg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

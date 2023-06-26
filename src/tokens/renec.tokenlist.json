@@ -5722,6 +5722,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4Uno6mxf7NnxqXXj3e3pjSQSCkH62BXGvv8ioZzmEh5V",
+      "name": "Nova Token",
+      "symbol": "9",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dhfneyinjytpgut86ol3q4nxf164",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

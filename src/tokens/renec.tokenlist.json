@@ -5800,6 +5800,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FJwxdgWKZ6HAETCq2B68pPpffNyKH1BhuP1NsU5sc8UH",
+      "name": "Arewa Token",
+      "symbol": "ARW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vokcr70ygn54984qyhdd7qd9fwoj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

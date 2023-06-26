@@ -5735,6 +5735,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HWCowKijPKhxVTs6fcTeL9TQc5tih3GcXNHsh5ZLQdeN",
+      "name": "Alcryptawee ",
+      "symbol": "APW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u3u3i4k7ip7khskndfevaev0yube",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5878,6 +5878,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B2FWMnTHudoQ3F4pdHtviughgT9B3b9S3Er3QKymtFYc",
+      "name": "Eazzy",
+      "symbol": "ERC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oip8ft2qpcv7pdpb4mnhhuhbqg26",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

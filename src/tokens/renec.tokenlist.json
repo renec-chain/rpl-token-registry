@@ -5774,6 +5774,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8wQU5ZLRCprkadSKfc5G3iYbRyKa1cPj6Sq6bEnNX2rE",
+      "name": "Somesh",
+      "symbol": "SH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qldxaodkyokfwbtfzc1uo8576lz7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

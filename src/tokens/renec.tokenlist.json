@@ -5865,6 +5865,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ArHeGnUjs1hACPM8jMnMKAZJBZXhCg5b9ZMqomoT5KHu",
+      "name": "RENEC Ai",
+      "symbol": "RAi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/prpsmykqr99gaf8tbwl1g93t1oxy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

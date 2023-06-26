@@ -5826,6 +5826,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "39yDgCTJAiVZjaH3y46QL6cGJWMcfjgjN2wJu3w3EZUk",
+      "name": "BONDEX ",
+      "symbol": "BNDX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6xvg925tekm4e26dl7vivvdmfniv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5696,6 +5696,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gg393WrzJxyDBJjUjti2f9szmxN4k4ZLYry5rtFqnMCS",
+      "name": "ZIKZAK COIN",
+      "symbol": "ZZK",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ge4moq0ep9eyj0gybxcdjk363bbt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

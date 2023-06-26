@@ -5839,6 +5839,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DeBB3ghoysS3XrhD7bQo74XpDQbusmg8AL6NuEvjXXsN",
+      "name": "alpha",
+      "symbol": "ADT",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rxcjq5ynqyghjvn6yngwddgd3q2l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

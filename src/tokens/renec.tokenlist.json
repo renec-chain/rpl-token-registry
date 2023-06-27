@@ -5930,6 +5930,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J9ovyigojLRPjYohTS2ddmG6wPrt2THc9t1HaN4ej3dJ",
+      "name": "Hawsegfarms Foundation coin",
+      "symbol": "hffc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/53oyo1oxtqxy7zdl3xe98ovk8jjl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

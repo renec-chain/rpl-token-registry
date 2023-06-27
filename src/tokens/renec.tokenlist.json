@@ -5891,6 +5891,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3rANz2Gv6hXQrJgtLMHDLtQRnDwKon2mvBjn9uxKGzxP",
+      "name": "SM",
+      "symbol": "SM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vnmvatrha5sdeqoasf7v6l6sem9k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

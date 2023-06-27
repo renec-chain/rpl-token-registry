@@ -5969,6 +5969,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9kYUZtVwU4FnCL2Q2eHEbGo9g2c2sbTvvCNQ7aJw5XpV",
+      "name": "OPLINE",
+      "symbol": "OLE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3lk1ami4v2kqs3x3dbk8t40uxk3o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5995,6 +5995,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "73BVSj7y2pnqWcZKHa6PZJeoUEeRn8iy3v4orsmV92du",
+      "name": "Iceberg",
+      "symbol": "ICB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xkbpbflyz583bp5janxz7otfn574",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

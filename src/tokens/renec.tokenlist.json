@@ -5917,6 +5917,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F7ZdZvcFAQ65gAMKYxVyMbVjT7eTjF4h8u6hWUkTFKXX",
+      "name": "Mbee Sheep",
+      "symbol": "MBEE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ev9029juatrmepj4tu4snf6fwa0p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

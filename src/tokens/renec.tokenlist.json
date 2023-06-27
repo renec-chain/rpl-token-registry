@@ -6008,6 +6008,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8APr8LDDzsvef48L99LdvLok1cUaNZ64RjLV5h55YNQJ",
+      "name": "Three tokens",
+      "symbol": "TNDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k1k5gn0w7olpu34w5kam8ke5nea8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5904,6 +5904,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BQrTZAYz9a35E6AykdzfKWUDhbU5yNyn9PzWxuUTXcxk",
+      "name": "TARAJE",
+      "symbol": "TRJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ndle7ehemasrq6m7sqvm019yksue",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

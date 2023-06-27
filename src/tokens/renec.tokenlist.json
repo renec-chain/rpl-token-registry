@@ -5982,6 +5982,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EQj4seq6MxP5wXG9qojZpvuK9ZQPSgpTSzhbP2s4qAHA",
+      "name": "Hankagi",
+      "symbol": "HAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o4y3yl0t0zfcqi7ejvbson42558c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6021,6 +6021,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CHQof4uV2cohkMW6vJ5kdo2Ux8GM1WZUFZRwZqpjKaaV",
+      "name": "Ashevy",
+      "symbol": "Ash",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e9490q3icu5479kax2pl65bmuh9c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

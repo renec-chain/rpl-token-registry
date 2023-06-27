@@ -5956,6 +5956,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9tCTBEEhTicRMrwhLGy4yxf1TWhgsixZudGxqr7TWgUG",
+      "name": "OMEGA",
+      "symbol": "OMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rify8nt1zak339iibxnyt617c4wg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -5943,6 +5943,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BKQ6xcagkVbTvHavCvzvHSBmRLeRxpeedS4rxyony2eK",
+      "name": "JoeMesh Vortex ",
+      "symbol": "JMV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jq6p2svvcztgoft3c12x3l0k3gu6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

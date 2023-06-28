@@ -6047,6 +6047,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6HutieKfPZQ8cQSvbRoaEBX6RiNVDKV1ykTiQLfxG2yx",
+      "name": "Nigeria fire coin",
+      "symbol": "NFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/78orxd78gr3tgspc63r08z7ubpf5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

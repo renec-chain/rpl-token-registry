@@ -6034,6 +6034,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DdqVRzBzNDvpfsTv6n2V3BQPu9dyZQBJcNqnChauubQV",
+      "name": "WORLD VIRTUAL COIN ",
+      "symbol": "WVC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jgaqtyicauxbeqw0stlfca65svq3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

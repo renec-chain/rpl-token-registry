@@ -6060,6 +6060,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4vYZmz9cuMvkjqTGxQLNNri6YBmGR9k5YqrANZuFAfCs",
+      "name": "HABIMOSE",
+      "symbol": "HABI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0e90g5hgjmm2yrzzijh4lhkiwp9m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

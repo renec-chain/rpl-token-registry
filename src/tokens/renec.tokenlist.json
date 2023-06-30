@@ -6086,6 +6086,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3eT5iM8unsBSX3reTk8xZeGdk3kZFVBg2BGxFVa2pSe5",
+      "name": "Faviee",
+      "symbol": "Fav",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m2pdlpnl3zpijf2o5xr78womql3l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

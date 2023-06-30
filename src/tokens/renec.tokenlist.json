@@ -6099,6 +6099,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DXqpdTQ49n8YkVZPB6Q85e4fBFdenNEkA2GWrCZ33ycB",
+      "name": "Kingsoo RENEC ",
+      "symbol": "KRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/to5s45fn06qxghs0jy6rdw2sw7t7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

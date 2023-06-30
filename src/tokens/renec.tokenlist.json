@@ -6125,6 +6125,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "56Q5KV56MtHZiRj5xgcWJuZEtYB41J4vE3vETojKNpJL",
+      "name": "Pablocoin",
+      "symbol": "PBC",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lp4o15rjxthdro19n29p64shloz1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

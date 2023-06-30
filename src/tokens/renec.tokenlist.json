@@ -6112,6 +6112,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ER61h6uyT2y5sFkiEXwbHugdceRTnpB56WQdr5MyTGoH",
+      "name": "Sprint coin ",
+      "symbol": "Asdfg",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9gun2xw2zks2klhrllblahxjnd18",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

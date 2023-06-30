@@ -6151,6 +6151,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ehS6gp4mxAGdMhSb56o1z7PKVNmM5tsuJcPmaHgg6Yg",
+      "name": "HIHIHAHA",
+      "symbol": "HHA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x1rgo9cukl9u03g3qmth2ameuhrd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

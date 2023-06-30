@@ -6073,6 +6073,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5qmhggPgeQE4nq35RQCCoyAtngaidK6frGrX3kSNoCcW",
+      "name": "INDX",
+      "symbol": "INDX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/amofimdb9pldkrenjv3j4yxc57xc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

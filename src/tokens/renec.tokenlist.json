@@ -6138,6 +6138,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7juGZx8v5TQbbfKLkgn5gAQkWrocWoKADVYXegtBi6Jm",
+      "name": "Test ID 1",
+      "symbol": "TID",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tirizb1g5lnbnkhfyc85c8ucm71w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

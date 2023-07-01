@@ -6346,6 +6346,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9wNgeMa7dutLgMSXYDxKHmkUYutKoBNBq98Sxekdv49T",
+      "name": "To The Moon",
+      "symbol": "SMoon",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5w6hsmzxjigz7b419svskc68r4p4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

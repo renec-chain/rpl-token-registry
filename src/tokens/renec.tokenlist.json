@@ -6398,6 +6398,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6KuntRQb7yPoK2wX5MmcuWgVJfc9XiYso4Y3vbbxZ3Mh",
+      "name": "REN Legacy Coin",
+      "symbol": "RELC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jodvr0rwc4s2d7nvmfd9sxnuo5ya",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

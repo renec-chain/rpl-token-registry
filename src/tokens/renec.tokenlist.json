@@ -6372,6 +6372,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ee6tZiAbEBHgAcQEhziUGjeWmZjQahzGMuNmzUZSwHNT",
+      "name": "RENEC Tiger GOLD",
+      "symbol": "RG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6whwgz6pykc538wfgdmftk4z5kid",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

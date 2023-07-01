@@ -6268,6 +6268,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E1LBRD9H6KK3UXPrhL3t7HUgFrdU6dTHBqHyC4rwWDsV",
+      "name": "Trypher",
+      "symbol": "TRP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e8jmpl62odxnr4uyde8sdsz2zkmw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

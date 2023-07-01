@@ -6411,6 +6411,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3qiGHfb8VwKUZtX8cSCnncHFtVXomidx1xtHKPkQzbC1",
+      "name": "TRUNGTIEUcoin",
+      "symbol": "TTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2btyhzj9fpf8ngslhsl83h9heor8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

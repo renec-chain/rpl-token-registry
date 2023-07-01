@@ -6242,6 +6242,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JCaxcQ1dGjRsPEjzuonomUMoe4UhKENNgo34MdwhtcdM",
+      "name": "MR CORE ",
+      "symbol": "MRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wlsgdzx8ztx6ay8opk5dkea8z72p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

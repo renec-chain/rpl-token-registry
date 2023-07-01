@@ -6333,6 +6333,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2izwdX4N6zEJj8LknrBRp6eC6Y2U45ssamUV2j6sw4Wd",
+      "name": "JUTSU",
+      "symbol": "41246",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hkbg9hpk4adyyv8h1p0ogp4n5d0l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

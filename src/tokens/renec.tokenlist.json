@@ -6424,6 +6424,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NwVvBokJKPB5N29XcoZ71aJqvqBphrtVkmXC1bpZijg",
+      "name": "Trungtjeutoken",
+      "symbol": "TTT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lgko399z9nrioihv6wv85e0jlw8x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

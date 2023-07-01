@@ -6216,6 +6216,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7owaLn7WQhP3n2dEr2ptPugNnsMSPnSCYH2ReqtvAMYP",
+      "name": "TRUNGTJEU",
+      "symbol": "TT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s3xkbm5pox2zeyp3hr6s2ngtdxz1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

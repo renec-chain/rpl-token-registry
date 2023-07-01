@@ -6385,6 +6385,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7QVSVor53LUr7vcG6pur3akWYU44j3BHMXDiF1eKcffU",
+      "name": "LepakBelakang",
+      "symbol": "LBG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jv684r31n07yvzr1826k4f6wcdox",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

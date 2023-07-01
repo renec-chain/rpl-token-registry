@@ -6203,6 +6203,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E3mRZq15HKnePiM6bGdTTEYZbWoxAeTtytkfEom4L22i",
+      "name": "RenD",
+      "symbol": "Ren",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5ef1vcicrr8scevnhw2rge6rvg0p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

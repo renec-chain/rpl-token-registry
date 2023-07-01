@@ -6255,6 +6255,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "71W7EJ8iAVUNqLGDF4eHLyokNx9MsU4ca28kWUbngHTV",
+      "name": "WealthPeakTeam",
+      "symbol": "WPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aykzlehuehh83q40sy0c8tmoqxek",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

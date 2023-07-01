@@ -6229,6 +6229,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8So3TSjpUkzGqVQXzaLT8MtBDDZEibipQyen3Q7aacCd",
+      "name": "BIZZER ",
+      "symbol": "BZR",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m7xwiypm2i2uuak3loot4bf75sa8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

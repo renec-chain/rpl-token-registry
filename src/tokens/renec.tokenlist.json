@@ -6177,6 +6177,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "57LQRBZNJqhKvFQocj4SEbL2JspK91tLu8mEQNdP6nJG",
+      "name": "Swift",
+      "symbol": "SWIFT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gvrc768z25fnz4dgi6v9spfh4y9r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

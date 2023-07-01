@@ -6294,6 +6294,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EpD3ffqhrECiUZw3RMPkazkGy6fhzYBuwv1RxqNS7CNM",
+      "name": "RENEC EAGLE COIN",
+      "symbol": "REC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oz1s1g17uptd5dbldgwlsp02rici",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

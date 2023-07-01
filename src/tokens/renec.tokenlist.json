@@ -6190,6 +6190,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GhjCqEWpg3gk1mSmVUQekKWQy5dQBexzdtUP18JZgZjV",
+      "name": "pelohsoe",
+      "symbol": "PLS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j80z9g4m3h3vn9hnycdxjsoiixpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6307,6 +6307,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZMhyxTyqTAejouUDa1KT6Uxs74RTtssV2MnCZe2K6Ch",
+      "name": "RENEC BULL COIN",
+      "symbol": "RBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n36iu3yfaahxxhcpse561xybfc86",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

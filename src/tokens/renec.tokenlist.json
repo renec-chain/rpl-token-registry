@@ -6320,6 +6320,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "YJeV5Lz4Dw71ru1ufUQm7M3BfshP4A8nJxDP5Pzqzda",
+      "name": "RENEC LION COIN",
+      "symbol": "RLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p9bt3bu9w8qc66awuds1g7t7uohe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6437,6 +6437,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DGqL5HYscWy2sZ6zEr5gZ883cN9bCdaPFUdxgDMLEPZG",
+      "name": "Meadow",
+      "symbol": "MED",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z04idgz2hiua3fyz8633fwsr0c4p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

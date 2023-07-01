@@ -6281,6 +6281,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7UszxgLXzvquTLSGibmpuFtuRnuE9qgqBFDRJqXwnLE2",
+      "name": "Binancepay",
+      "symbol": "BIPAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1tt11jekkt2w5n3ie0gpyn4lfqmc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

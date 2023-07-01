@@ -6359,6 +6359,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9WvF3t1dyYg8W6jr78e1TZ2Yef2pHpPak6UvyujVFpUg",
+      "name": "Artificial intelligence in Renec",
+      "symbol": "reAI",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v2h16ujoz6xnt0xfvzchywpo4jrg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

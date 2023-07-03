@@ -6528,6 +6528,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F7aeV6iL9SwijesP5HdzUCTkrrX3kw4auCRigHkGjjMt",
+      "name": "RENEC CITY COIN",
+      "symbol": "RCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g1hkaghdux9qby1ib2rme8rigwn0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

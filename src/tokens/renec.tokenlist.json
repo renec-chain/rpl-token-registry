@@ -6463,6 +6463,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BuVjTq4dKx4Qsykm27cEVTGb5creFALLH2mbsdTT6CuX",
+      "name": "PHONG",
+      "symbol": "PHO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zh5ehusz5uiay9xqjntjuplpll69",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

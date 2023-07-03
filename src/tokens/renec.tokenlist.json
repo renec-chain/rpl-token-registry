@@ -6515,6 +6515,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3YmjPCxJqnDh7CguQt56a3dxwiRRbV7kdxToxGuy8ReH",
+      "name": "Rain",
+      "symbol": "RAN",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v7jhl6xd523hdkii7fuy7d036mwt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

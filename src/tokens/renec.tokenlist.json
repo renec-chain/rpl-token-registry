@@ -6476,6 +6476,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8KCVDZ9aTme3gjCECR27zK3tSD1KL6Bz6AzjdYycXTNy",
+      "name": "NemoDex Coin",
+      "symbol": "NDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/35gyf0nqspays6bh1vw5vxm1dogf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

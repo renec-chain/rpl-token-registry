@@ -6541,6 +6541,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EhWLPJ2W2kbV62gwncvr5hpNUXrm3kFSiwgDbMre2Jxg",
+      "name": "sonic",
+      "symbol": "sonic",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u92y4axhxdp6tsgzayi7s4z06su6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

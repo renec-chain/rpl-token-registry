@@ -6450,6 +6450,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6UAZhYz1HAV4QkYL6GNApEQPGs17pDuzECwWgKp2CqDe",
+      "name": "Rabbit Melon ",
+      "symbol": "RBM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vh2eormh6apav66eneb8rzawu63z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6502,6 +6502,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BdxhsvgTWz7c28QbnLYgYdkmiVqSfa6HrwATzcYB4LD",
+      "name": "Rendemy",
+      "symbol": "RND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jieh0l35uh8g107q9f1phbxu1xos",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

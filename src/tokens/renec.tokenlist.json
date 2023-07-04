@@ -6606,6 +6606,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JidQeUhYP2gNg1vEjVeAorNxyhR8LYy3xkDyFGG4WH2",
+      "name": "PEPE RENEC",
+      "symbol": "PEPES",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z4ldveupmzsbfnn3ytbh3txwedxz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

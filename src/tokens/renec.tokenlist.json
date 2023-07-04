@@ -6593,6 +6593,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8o1idoRpNbvWmfYtCpRqcSTsvwwHy1E51kx4kgbRrumo",
+      "name": "Gibson ",
+      "symbol": "Ocg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5y4qpkpm5v8qlftty8hmbk96sgw7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6619,6 +6619,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CDgYWR8BvykUEVStNxoiC66kkWNVxfbuvE8aCfCaJu7s",
+      "name": "Nibit pigeon ",
+      "symbol": "8",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j93fgkzslt12rfer865tbd46hprj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

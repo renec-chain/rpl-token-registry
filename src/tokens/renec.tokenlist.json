@@ -6580,6 +6580,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BPhpzdZEpZUmFa7JhPwfhGzUx3s8Gyb9VWX2N6XKxfG",
+      "name": "Coin",
+      "symbol": "James",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lv6m8tr3zhxxs3ohup93ykt2i3ex",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

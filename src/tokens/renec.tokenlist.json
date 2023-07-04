@@ -6567,6 +6567,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "zPHTvN2pJYYVtDp3XQXyszJG5CJNpquwVoDrpqungm3",
+      "name": "Rabbit Melon",
+      "symbol": "Ramlo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ld6u23c7fokq2pwmlthwnvy9cgog",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

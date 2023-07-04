@@ -6554,6 +6554,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FW9x7oJMoCoFoBtdxutdhM4uetDdit5pUnkEyJSb2SJn",
+      "name": "FAVOURED BAT ",
+      "symbol": "FAB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m6vrpkfiqhpjot70eoo0htp9jh3n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

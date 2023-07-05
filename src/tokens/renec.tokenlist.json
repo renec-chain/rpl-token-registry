@@ -6645,6 +6645,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9G1HvtHtkxmwLxpxXPkHwZnvwNcWhDJzr71rw2xnJ8iP",
+      "name": "PEPE FOR RENEC",
+      "symbol": "rePEP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/voxir0sn0clxtj2iqlg76metc39g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

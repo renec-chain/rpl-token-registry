@@ -6632,6 +6632,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FaHjbHszJCzgvUKzDp6VwaETbXkgBtmELFVnorWWQWZq",
+      "name": "TX",
+      "symbol": "X",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wphbfyfexijd1btzddr0bby6m8xq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6658,6 +6658,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A5Jwe5gpjiuJN1ZiiXT3ZaUBuw8jjaomoAUwpudvcqwg",
+      "name": "RENEC Instancy coin",
+      "symbol": "INSTA",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/79ulpyn9105vjgg730x5sd3elgt5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

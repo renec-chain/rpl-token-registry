@@ -6710,6 +6710,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4S2dxeLoApx9AHGU7mhujX4fkPtiBDtknJLfB6KgyKnq",
+      "name": "Mockingjay",
+      "symbol": "MKJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lh7zherjyfec25nkv6vvz60x4ko9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

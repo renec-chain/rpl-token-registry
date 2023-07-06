@@ -6749,6 +6749,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "43YrmtAm4gU42G8nywRKWUPkqPsBEibn9b8VxB7G4gGi",
+      "name": "RENECID",
+      "symbol": "reID",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tmp72mkr9qor5tvs4vnq7iac63wo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

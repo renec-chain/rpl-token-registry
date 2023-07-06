@@ -6736,6 +6736,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FKZyKRCcqxCJUAAp3v39LJGq1S2ge1zbEuwUayshiNPC",
+      "name": "abc",
+      "symbol": "ggg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x6ft0d1k9gues7ibuhtys5204mvq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

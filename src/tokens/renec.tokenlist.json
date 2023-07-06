@@ -6775,6 +6775,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CDwXnRSXfgYwmJWbt5VpFggBnSuPtxZmpnFFEbfS5mUc",
+      "name": "Hash Stone Renection",
+      "symbol": "HSR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5ifxgxacp22ialw8c0cdguryod9e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

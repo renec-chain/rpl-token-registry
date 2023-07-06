@@ -6762,6 +6762,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8vCL4FrTpzNhkqfA8fEUYVrCLfTYXSYkBbFVJN73gDyy",
+      "name": "Simple Coin",
+      "symbol": "SME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aea2eqdjfn0sulgctzn5j25t91qn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6723,6 +6723,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EVfidHeKrYeUeRjncf7cTmm7nZjLxrNQg7edcDniGTSe",
+      "name": "agvaagg",
+      "symbol": "agg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/otfo9sd7cas7kj5ruduydv9un9if",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

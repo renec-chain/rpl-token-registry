@@ -6684,6 +6684,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Ci4j69sr6VthYmwLqgceyafDuAdPdFwg4GwFtsLYDjT",
+      "name": "eZyX1 Renec Foundation ",
+      "symbol": "EYX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i1pbsyt4zoy6gh3lfqecyh29ko1c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6671,6 +6671,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BpiAhtJXUJpn9JnYqjeMupwicEsivyJL5aWZ9PEEBTP1",
+      "name": "Hard Luck Inc ",
+      "symbol": "Hard",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5e2lcspjfl3n923inle8gst0ci9v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

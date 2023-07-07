@@ -6788,6 +6788,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HbrQU9DR9zPsjBsXyxeDE6sMK2Y5MGr6KvTGwQE9e5Q9",
+      "name": "Rendemy Testnet 1",
+      "symbol": "RNDT1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pytomm2fz5ff1adk9dy62kl9ybpi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

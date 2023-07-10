@@ -6827,6 +6827,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EeBafskPtoaLgSRo4nkhUXzPgAbj3i6zc3uoNQcf7vYP",
+      "name": "Demon RENEC",
+      "symbol": "DSRNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gj6lbvz4facxzst00xj3rk4hngqw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

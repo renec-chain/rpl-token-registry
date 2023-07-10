@@ -7048,6 +7048,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4XQv96W7UbwrQYLaRngWggVCf6bJmXKBkfjKRfEyDPqE",
+      "name": "LAMNHUNG",
+      "symbol": "lamle",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fwf6d3fza41cdxqaysdued4i4jk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

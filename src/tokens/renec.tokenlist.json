@@ -7061,6 +7061,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "b3VDoZAeczcadriLrC3CVTfHyJL7n1Ch9LVFJ39haED",
+      "name": "LIEN QUAN MOBILE",
+      "symbol": "lelam",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gyo2xemfdh4dnx0l3h7eciwzzisz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

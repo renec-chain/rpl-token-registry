@@ -6970,6 +6970,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3tii5eG8RpAyrqydLU4y2eMgFDhKtgQtQ8Nx3XUszBwu",
+      "name": "Bowrenec ",
+      "symbol": "Bowre",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kyga7a82zjrj6g87vxhj9zto2jtx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

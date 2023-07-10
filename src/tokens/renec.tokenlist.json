@@ -7035,6 +7035,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "H78zoHTCCAfdxHaRsfCHdbsThD3ooPmY92AZvdJ9gFzV",
+      "name": "tt12",
+      "symbol": "tt12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qnwq1ii3rurzin55m618cz4try3g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

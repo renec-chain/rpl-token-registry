@@ -7100,6 +7100,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EMUGF3JZvRSYnojgZzLzCxjZ6ghqsbqtbv7vtTeQ352h",
+      "name": "DEANDRE",
+      "symbol": "DRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rfqi9odrqd1h6apd1qkufz0vpupd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

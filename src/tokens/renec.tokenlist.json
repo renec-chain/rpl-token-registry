@@ -6853,6 +6853,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8aBRrDjkHepakukibFXotdvCctaeCNQEBqzxcRRv5fLw",
+      "name": "Test aja",
+      "symbol": "TA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wdn3qpoox4sjaq2s5xd09i6smrzz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

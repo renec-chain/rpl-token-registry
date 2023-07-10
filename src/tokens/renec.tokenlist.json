@@ -6957,6 +6957,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GUuKyFVHdt56sZ7NKMH7vAC5SzoXDUaKVudGqQWTYK9Y",
+      "name": "Ubyahaya",
+      "symbol": "Uby08",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3pyb8pngqbh59nbvj0xf34pdmwlk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

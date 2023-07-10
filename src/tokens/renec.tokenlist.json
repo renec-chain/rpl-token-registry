@@ -6983,6 +6983,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7w6HycbTMysrWNGfZqXqoHuNeg8Rf4sR7VLeuSKQwQff",
+      "name": "Rak ",
+      "symbol": "Rakre",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pkga75jm7ters05h3w459hcsyt0z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

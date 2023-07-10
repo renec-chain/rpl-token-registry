@@ -6944,6 +6944,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FJ22gAxhYXwohoo5U57u4YAS6Cp3qqf53zuDAeMPZjVm",
+      "name": "United tech token coin",
+      "symbol": "Uttc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rb1jb5odywjcixqb50q0cdfhygvm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

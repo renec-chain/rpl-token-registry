@@ -6931,6 +6931,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gtice2SSem4BUaAfpCkD6qwth1w5ZrQJi9QjkrpXK2wE",
+      "name": "Renecgold",
+      "symbol": "RNG",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/42050c6c5y45l5rl4aohw72uc78e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

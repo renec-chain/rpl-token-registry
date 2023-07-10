@@ -6879,6 +6879,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4DpvnxvxzuwhZsJfQ2HeEUw2fUGMWRCTAQJknVeSw92j",
+      "name": "Wrapped Millix",
+      "symbol": "WMLX",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kq2380bow6mo39hdaja9jrbel4v4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

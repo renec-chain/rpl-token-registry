@@ -7087,6 +7087,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9R6C8WF7nK7ZGBJkRxmJULXQtzpaG7psAory9o3HDS9W",
+      "name": "NereConix",
+      "symbol": "NcX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kank02wqs1f7kw4px6vso9ftmick",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

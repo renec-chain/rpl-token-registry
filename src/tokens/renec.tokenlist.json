@@ -6892,6 +6892,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4V7GswfNsn7VFfzzkPA9DSyt3yR538GmhJU4i6JUxA1K",
+      "name": "Millix",
+      "symbol": "MLX",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/frl76lpoisqtkudxbelpda64mvbf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

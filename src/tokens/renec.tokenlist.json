@@ -7074,6 +7074,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5B9FzfzsmaZ1ApiccHBgfUkmgJuq1SwrFWYivcUtMG8i",
+      "name": "U FO",
+      "symbol": "UFO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u7kflqzxd5pffx7bny5ko8ct4efq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

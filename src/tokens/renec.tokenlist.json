@@ -7126,6 +7126,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GsBaXQH3zkggcgyLqAVMK2qkzHotaiLRKho7motLSyHn",
+      "name": "AURA IN RENEC",
+      "symbol": "AURA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0h06u0g1g5up73e1d2nkcsstlo2j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -6801,6 +6801,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7nKNedyjwpMyr51PcgexW4g2joRS5ofS9Hs58R8paJiH",
+      "name": "vicvn",
+      "symbol": "vicvn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3frvovxob1r0xvtydxh8btk8mmpo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

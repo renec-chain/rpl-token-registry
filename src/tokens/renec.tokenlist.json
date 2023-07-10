@@ -6996,6 +6996,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AnxhNxqbiznEYqQWvykZjAcF9FA6JD9FWxcTrZxtDJAW",
+      "name": "Bitcoin Evolve",
+      "symbol": "BITE",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fu1d01q7sc9p8hes1uvru60swgre",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

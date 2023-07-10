@@ -7113,6 +7113,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ACFJiv7fi9X9a4pcYXZYE6LcRy1n5QozDtLY5GuUTdaD",
+      "name": "BEADCOIN ",
+      "symbol": "BDC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k0rpou9s6kqo43qpx3iljxhxeba8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

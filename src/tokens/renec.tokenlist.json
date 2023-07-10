@@ -6918,6 +6918,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EdXLZUWgrnmHJtMCaCUFgmf82Ry3y8DgqUwdh9mmwrjT",
+      "name": "COINRN",
+      "symbol": "PHN",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wprd53yvdhjkrccf87mqnl5ubxbd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

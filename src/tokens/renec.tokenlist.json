@@ -6866,6 +6866,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BDQTiQL3Cfh9YwFgdWS63dV3EwbPvCARv5g2Pwb5uY9n",
+      "name": "CBDC",
+      "symbol": "CBDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/al0sj43m6b5t8x2cb2jezt1ns2m8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

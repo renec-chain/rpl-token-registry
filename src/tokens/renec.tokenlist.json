@@ -7022,6 +7022,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8FsAbcgYFQM4Yw5PK5KmfpC7R39g9KUWCAWVRkxc5kF7",
+      "name": "tt11",
+      "symbol": "tt11",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mwiu9yku7vty15raqgs74x9u6l8n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

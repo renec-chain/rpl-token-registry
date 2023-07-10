@@ -7139,6 +7139,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "58S3fBA7LTV9nqtR9D7Gxh5DpZymnhianY9VAz8HibkK",
+      "name": "YOHA",
+      "symbol": "AHOY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/untpjjvmcp3ag16wu18wh0q1ymtv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

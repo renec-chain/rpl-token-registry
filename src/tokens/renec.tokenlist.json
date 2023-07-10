@@ -6840,6 +6840,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B8JaBcoBy1ViKRYsLETECUZQ3twQ3md5txKbDZ9x3zgp",
+      "name": "Colin",
+      "symbol": "COL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f5xsd61xvtapcp0ka65p5at3h39u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

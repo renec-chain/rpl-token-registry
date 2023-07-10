@@ -6814,6 +6814,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HL7Hf1ncqDQap4EKtUsFaaUKhSJWD4U4fkc6GYxdoRE5",
+      "name": "Hiphip",
+      "symbol": "Mysel",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v402tuhlnqj7x7al4688xowlfgdg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

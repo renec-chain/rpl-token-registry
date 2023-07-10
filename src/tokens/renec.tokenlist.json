@@ -7009,6 +7009,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5BsAG7jtf6rp44TZtFC666U2PerJAc1uYPPQDgSHGbUY",
+      "name": "Messi",
+      "symbol": "LM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kv35hxsba9mynxyvn1q9glerwbla",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

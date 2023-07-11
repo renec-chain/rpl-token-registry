@@ -7178,6 +7178,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6GASiSuSLjmF1Mb8UpBXRT2j9kDDSVVfeANE5apdQ6S8",
+      "name": "Manchester token ",
+      "symbol": "MT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/har8oxafkifw28q8ahoxddtxp1yh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

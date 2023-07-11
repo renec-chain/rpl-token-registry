@@ -7165,6 +7165,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8eMtoxcCbUmGnxATHrY6j7MEy22M2cjTC31G2zqCr5TM",
+      "name": "Ezra Coin",
+      "symbol": "Ezc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9d34yymkvtz8dxixz1zn15znxmcz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

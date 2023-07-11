@@ -7230,6 +7230,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "95PnDwR4n4uB5d6obmHKCasTEHFyML22crfxYcVdJpPD",
+      "name": "Trc20",
+      "symbol": "RENC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zj3jz1u1d54e42yaugfd33t25r1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

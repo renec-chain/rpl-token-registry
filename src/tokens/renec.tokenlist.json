@@ -7191,6 +7191,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3WuUxy6KEYgogf7ef5CmPp3kXRfQWLFXGZsPkyKWsima",
+      "name": "MAC",
+      "symbol": "MAC11",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oz4mzdc0xiyri1dturf8vlu7l8cv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

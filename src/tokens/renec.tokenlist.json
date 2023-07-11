@@ -7269,6 +7269,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FGy31rVKGPrDt853mjNsrAAQ2ANbjud6vLFDoA27PWX8",
+      "name": "Swiftie Coin",
+      "symbol": "Sw1ft",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lf73ag25w15cyxjtcgp1cij3q42k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

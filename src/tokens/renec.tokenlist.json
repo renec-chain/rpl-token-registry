@@ -7243,6 +7243,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6hyrJrv5sbuXRXzUkL7TiRZqskHqAauAbBixPL6pyMZ",
+      "name": "BRAVO",
+      "symbol": "BRAVO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/miuu0s8a4dq4ya1a7w7bcwxro82k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

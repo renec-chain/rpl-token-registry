@@ -7204,6 +7204,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FSw5xWE7Fiv5gMGLnsASQt5dhnrYkq4ggao89U48fjL9",
+      "name": "ROC",
+      "symbol": "ROC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bj2775sqewymdz4v9nc17pdz1f1u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

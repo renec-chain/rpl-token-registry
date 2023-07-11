@@ -7217,6 +7217,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AoczUdxxTBgAnByRRvrsjo95RLY59iSkrjezYJY6yzR6",
+      "name": "FLASH",
+      "symbol": "FLASH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fgdduytaxjp548o3j6obu1lrlkfd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

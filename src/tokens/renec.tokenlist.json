@@ -7256,6 +7256,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ceeo74mep8A7wLgbo2UAwfreSvXsG9CQoS8PBpH7YZbr",
+      "name": "BLINK Coin",
+      "symbol": "BL1NK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yuz6jxpn1s8zpberw8rmlra5lli4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

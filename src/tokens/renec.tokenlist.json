@@ -7152,6 +7152,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GRDSZrDuQf5DfZmvwkG6dMK3Mj3sxP9J3U3KsNsmL41N",
+      "name": "Png",
+      "symbol": "500",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/djosgt3iwaqb11hfl00d9a9t19cq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

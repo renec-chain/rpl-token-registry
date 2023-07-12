@@ -7295,6 +7295,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9pY81FwoaXm5Amcj9BG38KS5dwufsWT4hKkaZv9P113X",
+      "name": "RENEC CITY",
+      "symbol": "CITY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a8od0uxcfzk9rjvqul70scs26ujo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

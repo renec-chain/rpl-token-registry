@@ -7285,19 +7285,6 @@
     },
     {
       "chainId": 101,
-      "address": "CNkhSNNkgEhs8E6BpqAig66hEixX1hv5tB43Pnkvters",
-      "name": "renecabc",
-      "symbol": "reABC",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tczqhd2tse8oobcyl0dss3d9ieh3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "9pY81FwoaXm5Amcj9BG38KS5dwufsWT4hKkaZv9P113X",
       "name": "RENEC CITY",
       "symbol": "CITY",

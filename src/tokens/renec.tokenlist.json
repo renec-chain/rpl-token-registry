@@ -7282,6 +7282,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ymRw3a5H75K21j1XDvT6GLa3ao9LF413ep7pmKsCodN",
+      "name": "YODA RENEC",
+      "symbol": "YODA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fz3f9atfmiwhztdzq9er5fwwkqcq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

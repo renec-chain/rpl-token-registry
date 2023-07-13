@@ -7295,6 +7295,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FVbWU9RkJqtxSaZ5rfbBNwRiFgKnYxfiJFRpjD8LSCwP",
+      "name": "Honeywhaleior",
+      "symbol": "Hw",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xy44phce3xqxmjn21mdhos73ildr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

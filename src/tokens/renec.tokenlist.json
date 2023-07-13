@@ -7308,6 +7308,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C97DtgYPkA5hmGFVYRMdtrWsKKJKsmoqnoPfxtRjQrzU",
+      "name": "Honeywhale finance coin",
+      "symbol": "Hwfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4qcal9ufjwdezjw4ubx5co6vniwj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

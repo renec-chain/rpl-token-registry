@@ -7321,6 +7321,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FTuZnDi8qPQJy1iHW7YUAWeXHJjh9VAGDvSRCqY9z8KU",
+      "name": "Four Token",
+      "symbol": "FTT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rfwmzf03eg7iammhv30it1wbkzq8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

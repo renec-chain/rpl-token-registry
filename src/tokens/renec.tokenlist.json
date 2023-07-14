@@ -7360,6 +7360,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "aCkw6veHGwZHr7R21LVC4aQ6gkRw8992KfbLjQidEQg",
+      "name": "Help Take Token",
+      "symbol": "HTT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5ktb6pziek6ly8iiv35fzfjjk0xh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

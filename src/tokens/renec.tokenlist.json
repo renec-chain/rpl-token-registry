@@ -7347,6 +7347,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3m2spErLSApERvRTSYZ7kidhMKxsDMXHMEvHTdWYniCM",
+      "name": "BitCoin 2",
+      "symbol": "BTC2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eq970tpfcb7kigm9yeudx4uelnl0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

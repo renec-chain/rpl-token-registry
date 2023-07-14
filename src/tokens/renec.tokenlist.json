@@ -7386,6 +7386,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ffh4nykpFGmt5uwxmN1dNny6emQQXUcoweFPsKwVHSg1",
+      "name": "SHIFU RENEC",
+      "symbol": "SHIFU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i1bm3up7uxubxrrw61ixehzm8jlc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

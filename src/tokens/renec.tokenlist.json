@@ -7334,6 +7334,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "75qLfT7wA1NP1rHL5gCeXRX1sjS3eDBbUVvUrdfAECSy",
+      "name": "Ethereum 2",
+      "symbol": "ETH2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fdak3x5cehg8sb6541naoe6akq2x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

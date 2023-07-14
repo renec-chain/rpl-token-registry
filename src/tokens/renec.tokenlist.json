@@ -7399,6 +7399,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cut9fznpyHaEu3d9boKySLmLHerg2x2Z3xkWhMg5attA",
+      "name": "WORLD DIGITAL COIN",
+      "symbol": "WDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2dvbq9reg2u4igtq78ashx2bnocf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

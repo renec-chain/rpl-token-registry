@@ -7412,6 +7412,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9wNJibFPUMraWu5q5R9zPh26dAsp9D5oxFQdeWFuKXea",
+      "name": "123",
+      "symbol": "2123",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/woz42tbltcf6ghodbsw3oqgvnpse",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

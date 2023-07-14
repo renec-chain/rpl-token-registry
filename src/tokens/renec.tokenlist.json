@@ -7373,6 +7373,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6RnyR4Ry4ctWWZmbonAggm43xibTQxdZt7QsDBa3pbZg",
+      "name": "Pink Fan",
+      "symbol": "PIF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/12d54fpvfjiu9jll2g9q64z880v0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

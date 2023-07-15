@@ -6167,19 +6167,6 @@
     },
     {
       "chainId": 101,
-      "address": "5SPBhGHGjV13YNZu6WUumDoTHjY1SoFvNa4trk6oEvBZ",
-      "name": "BLINK",
-      "symbol": "BLINK",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jwvhyr6zu39mwufdaa76yjy5s24y",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "GhjCqEWpg3gk1mSmVUQekKWQy5dQBexzdtUP18JZgZjV",
       "name": "pelohsoe",
       "symbol": "PLS",

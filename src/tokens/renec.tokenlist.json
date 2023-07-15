@@ -7399,6 +7399,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "18U321kGMVqazgCEefZ4J9219Xq8JoA4RzUemZ3M5nS",
+      "name": "Subway",
+      "symbol": "SUB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ejuaxbn277io73rewpv15ih478k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

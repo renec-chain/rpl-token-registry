@@ -7412,6 +7412,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FjCEzzz6UDu3az7ai3xvheoK5cpcv97fNwMo9xakfDrz",
+      "name": "Hawawu Islamic Foundation Coin",
+      "symbol": "HFIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5dwkr45gu1edyyirppa39soenjbq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

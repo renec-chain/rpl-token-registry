@@ -7425,6 +7425,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D6WTwCDtnh2GvbaPv7nZe2UGShgG6NLzYcq4onVG82gk",
+      "name": "DEMON WALLET LINK ",
+      "symbol": "DLINK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3sns8p61n359qq8p4hjtjv2cu0bk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

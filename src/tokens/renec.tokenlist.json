@@ -7438,6 +7438,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4YrD6UvMedizH7N2tcPhNVj5teigDFx9s5RgF6YFzyZw",
+      "name": "DEMON WALLET LOVERS COIN",
+      "symbol": "DLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3u2sq5be7eoaijqh0i36u32hjufw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

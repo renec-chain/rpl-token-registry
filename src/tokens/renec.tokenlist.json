@@ -7451,6 +7451,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4XGmfEZuMpaHG5WL7mXkeL6RTS5eRNPsxcRoWYu1mu5y",
+      "name": "Bi Net KP",
+      "symbol": "BNK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gti1skahkt76w6zszd5xiub20o3a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

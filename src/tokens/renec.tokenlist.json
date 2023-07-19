@@ -7464,6 +7464,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PqsxQZ1aGEYyTigMrodiFdprCUBzrkf7jymPCMvSHHs",
+      "name": "xzxczxc",
+      "symbol": "zxczx",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fo9a0o2mqm67e6lciiyebwkrrc1d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -7503,6 +7503,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3JbNWXoBJxKDbVv78aNf2jc3EeaMYrdTbfjeBR2N2th7",
+      "name": "Mark Zuckerberg Token",
+      "symbol": "MZT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3mtm11r8j6kj1dpeb5i5lq8bg7oq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

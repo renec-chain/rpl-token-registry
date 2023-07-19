@@ -7490,6 +7490,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6oLJ1JZffyFw8F79fkwFeSriSTvuPYkDb5d1V7mbVAyv",
+      "name": "Elon Musk Token",
+      "symbol": "EMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fuqrowdfo4jq94nrw7bnvriclntm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

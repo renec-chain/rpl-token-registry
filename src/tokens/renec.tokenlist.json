@@ -7477,6 +7477,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2bUZQ8z5vuA5azPfHMzAZuzdRhfV1PZS5tgBKdY553ZF",
+      "name": "HEHE",
+      "symbol": "HEHE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ah0xg6g293jb9a40obprbuzl2azu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

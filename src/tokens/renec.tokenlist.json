@@ -7516,6 +7516,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5LXKrvYVMsgxxnzFj2UA6VEiCwd6rmNzf8uNjRqPxrAf",
+      "name": "Web3chimpz ",
+      "symbol": "WBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1c9wt4ynreku13gc8bcxaspb2jl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

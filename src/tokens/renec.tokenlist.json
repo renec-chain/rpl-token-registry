@@ -7581,6 +7581,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G66b9n87tkUfF4fseRV3ruaQ2gt9V8PK6MjTjiq7mJGi",
+      "name": "Hoa Hoa Panda",
+      "symbol": "HHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vfujt6y3yqe9klmllzzd8dzifmz4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

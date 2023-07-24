@@ -7542,6 +7542,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9U3ucoVKoHJMEUXyk1W5HfkYpVtNnsaqdnngbKrSGY5D",
+      "name": "Courage",
+      "symbol": "CUG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f2153pqsym8mjyx7eklixt0krt1z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

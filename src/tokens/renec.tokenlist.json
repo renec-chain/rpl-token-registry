@@ -7594,6 +7594,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3imm8aPKmpic4FpaDAaZ7e3e4mhckEXcDpvV87Tt6yCV",
+      "name": "Brown Panda",
+      "symbol": "BP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i7qmf3ui8wrbzoed0b6hy6did1lt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

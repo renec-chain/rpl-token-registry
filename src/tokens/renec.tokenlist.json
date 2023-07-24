@@ -7607,6 +7607,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3CoZeWbgLKMF4C2VDisBXEjTjm7jhDxQ5zBKoxwJ6RHC",
+      "name": "Help Token",
+      "symbol": "HTP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ilvjimexy3mp13icymwpp3919hc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

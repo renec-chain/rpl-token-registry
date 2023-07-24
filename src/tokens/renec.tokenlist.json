@@ -7555,6 +7555,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B3cAZ8rzEWjaeB9tUCBeTSDE9ww52hTsB16Ri5DEf8dw",
+      "name": "SUCCESS KID TOKEN ",
+      "symbol": "SKT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u1a42l4w820aeg2e470lbuz2mqcm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

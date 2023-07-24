@@ -7620,6 +7620,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F2C3EWdwU5HZHQZ6h6UmFGJNaWgT3D8tAe7KodURT3Z4",
+      "name": "Melic",
+      "symbol": "MLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j47rec6gd5g6ygfh1rhegads2m4d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

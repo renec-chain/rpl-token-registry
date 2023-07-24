@@ -7568,6 +7568,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7LT6CxDjqTnYgJ2n4YPmgwCi1yChp5qw2ppv8ymTusJr",
+      "name": "BLISS",
+      "symbol": "BLISS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q051ma91c6oaoftkk9yo6u6bs6ig",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -7633,6 +7633,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GqMWdNMLztB5cbrDL1BcmevamDxASXKqWKtVxzkFmoRH",
+      "name": "Die HARD Coin",
+      "symbol": "DiHD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pafkz50fg10wl85vyumua3nnyw11",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

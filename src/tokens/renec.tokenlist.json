@@ -7646,6 +7646,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "62vHGDrP3XJtCwkpFPttnjrbhwcjk4bKJ2PRDQu7qkf7",
+      "name": "Cat Fan",
+      "symbol": "CATF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/acpzqxcfjznuhhvffdyvh1u8chy9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

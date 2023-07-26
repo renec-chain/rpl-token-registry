@@ -7672,6 +7672,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7mUrJ8Tuk6HaGw7Sy3zisKpqnM4PBKTQdeXgyA7fiMJC",
+      "name": "Korupsirek",
+      "symbol": "KPK",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s6f1eengqqxh8i2gpm1rwmatbuo1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

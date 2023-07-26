@@ -7685,6 +7685,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BBD3ugvehMRsokip5h27ymotyeZXWqpSQTpEhrshheHB",
+      "name": "Wrapped Bitcoin Cash ",
+      "symbol": "WBCH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nb2i1uznvktl3uidrl1d3b4qgl45",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

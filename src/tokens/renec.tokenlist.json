@@ -7659,6 +7659,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HWghLZWspVFdaCCWxKRP5ekU7ikqbCatKgYHawFpn9Y",
+      "name": "BDT",
+      "symbol": "Bangl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1c85ql26emgxlrzinpv8p81u08n9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

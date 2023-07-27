@@ -7698,6 +7698,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3Yufyv9WonrDjTubRpnu4bFx14xmVbtjxQMX6F6HivSP",
+      "name": "Music Code Coin",
+      "symbol": "MuC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ablw3z8n7usqjk40ypg3tat445eb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

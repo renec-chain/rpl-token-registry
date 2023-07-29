@@ -7711,6 +7711,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GHhc1bKAqPJM9DWGf5vn1hacHdnSRARiALzwKVBNsSkU",
+      "name": "Elon Musk X ",
+      "symbol": "EMX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b5bmopurxn52y2fhj567n1k3rmmn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

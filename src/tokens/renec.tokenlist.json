@@ -7724,6 +7724,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AMe1ERKaVdkn1ewR4AyPhRMQioGnuyxag65GVDaTEW2K",
+      "name": "BANANA",
+      "symbol": "BANA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/obsypl5oiw5agjsmloogcpotp2s2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

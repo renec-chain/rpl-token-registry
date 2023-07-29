@@ -7737,6 +7737,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BUrSAUgfQHGMBMtPQxXpLVkeY1Fb7CevPmj68ch3Et1i",
+      "name": "vytoken",
+      "symbol": "vypro",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kto1to2503dd7ajcq7n7o5gueawd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

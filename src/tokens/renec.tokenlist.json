@@ -7776,6 +7776,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B9jQmcsGpXgdN4KnTZgJ5syngtVvJhRqtJ3nEi3CJ6Nx",
+      "name": "RENEC Community Coin",
+      "symbol": "RCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jrqfahvv0zxzu67rqhn3ycoft59a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

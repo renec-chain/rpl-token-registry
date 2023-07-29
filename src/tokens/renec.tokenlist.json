@@ -7763,6 +7763,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2SkVWBBn5UG4BjJguNNwaYPpR2huwCCSFZ943evr9hoe",
+      "name": "STEVEY",
+      "symbol": "STV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/od6e5mwgql74vtye91zw4q8pymp7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

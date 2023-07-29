@@ -7750,6 +7750,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ArRBrtykw8uypB4yfEUS7HviUnHJEF1fDKwcnQDPnBsF",
+      "name": "ABC123",
+      "symbol": "ABC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u5vdr3cgxpbfb605fobgq4j464jw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

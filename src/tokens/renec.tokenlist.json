@@ -7789,6 +7789,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3CnQty1b2zh34nsyTa4fuVypnYu8naCKycgx7SnXddtU",
+      "name": "GAMED",
+      "symbol": "GMD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6f2vrnk4aww7wee9ddhfxcaa4rq6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -7802,6 +7802,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NVCcPYgU98kxpZnNM9nebif6fCvw7nQbnV6Gokxb62G",
+      "name": "Brain",
+      "symbol": "BRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wjlt4vwopnizi6eensdir16fqtfz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

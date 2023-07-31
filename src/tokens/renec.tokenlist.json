@@ -7815,6 +7815,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TynhYYZWV5TaEdSamHMLmD9qwVY9aWBcNCVTzThKGM8",
+      "name": "AGB Token",
+      "symbol": "AGB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zeldeyd4jvxd0l7yqud3hr955dwc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

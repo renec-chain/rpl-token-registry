@@ -7828,6 +7828,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "wRhj6LBXjmpHMpXAte7da3Ap4wgZNs97fxnrWpkaAF9",
+      "name": "AeA",
+      "symbol": "AeeAB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/by7pbynj8p8s6rr85tyhfikobjye",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

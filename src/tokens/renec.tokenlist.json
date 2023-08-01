@@ -7841,6 +7841,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "962wLYcKKzP51w1yP8qhAYrAwnKXqfjvtMuGSvte54a5",
+      "name": "RAKGH",
+      "symbol": "RDGG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wbun5rk7y7a2pspuyljdqk53mjsn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

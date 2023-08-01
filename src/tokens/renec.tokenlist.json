@@ -7893,6 +7893,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CS4eADbE9ixAdyoHERoGrasYdQjBBE6tHyAZSsE3dJR6",
+      "name": "Renec Dollar",
+      "symbol": "rUsd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2ynp4qcrgqlav1do380rcc7zrzwk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

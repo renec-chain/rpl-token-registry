@@ -7854,6 +7854,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fe1YFPwPKeRSw8pEzsadJmfGLRUhBavVGuhFb3z96GTX",
+      "name": "IRE EMINICOIN ",
+      "symbol": "IREE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mqhwdetv1e0hm6egr1xl6nshhsd4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

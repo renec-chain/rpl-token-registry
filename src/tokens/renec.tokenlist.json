@@ -7880,6 +7880,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DgfbCfH7ptM5pWf4rWvx1sBeM5v2r1JwuV3DgQYSyJYb",
+      "name": "BirTawilCoin",
+      "symbol": "BIWL",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0iwueg7tocbh493oznjh7gkp2957",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

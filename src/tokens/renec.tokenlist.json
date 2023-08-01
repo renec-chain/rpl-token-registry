@@ -7867,6 +7867,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FUAWpAXGsTbd9DmA4QDKM459aerYHSzfZK3WgU6RL8QA",
+      "name": "Victorz0",
+      "symbol": "VIC0",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c7cr7w1jr8kfkh3c78fnzfqnxcqv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -7906,6 +7906,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2XZAphs75Rbd3Um5M68oDVKJ6qvgiRcRawh2qXXYNqKQ",
+      "name": "Renec Vietnam Dong",
+      "symbol": "rVnd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/edh0dzmai8ogskoql4fc2926vwja",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

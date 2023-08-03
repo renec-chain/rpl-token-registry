@@ -7958,6 +7958,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CCyYRExVgRDFdVMzfdoo5troTfRQhwmU9GiTV11NzB14",
+      "name": "NEMOSWAP NET",
+      "symbol": "NNET",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3e3oguh1723hqshf2acv35p2nb01",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

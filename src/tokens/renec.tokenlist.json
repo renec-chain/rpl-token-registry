@@ -7919,6 +7919,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7nNWxRzKbvmf9NEvbDKuPRZJ8zH5mimDZzeAaJ1pC6MY",
+      "name": "RENEC RELATIONSHIP  COIN",
+      "symbol": "RRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/midpcj93bqm5low63d5e9dabo4qe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

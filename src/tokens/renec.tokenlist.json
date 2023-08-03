@@ -7932,6 +7932,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E6pY6jNehrcAY4aNQr9EMq3A8Zv1bzrTsiZwcZMVvehB",
+      "name": "PAY ME",
+      "symbol": "PAYME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wvoaal6wl3f57lzera6ybts0bzlb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

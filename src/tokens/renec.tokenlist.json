@@ -7945,6 +7945,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DDJLzEf4baNtKgezLvdPSSrnmXY5SYHDrcGdoUcJXsZw",
+      "name": "RENEC SEA SHIP",
+      "symbol": "RSS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2rtxnurgwgzux3e8ph228u6eu2yb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

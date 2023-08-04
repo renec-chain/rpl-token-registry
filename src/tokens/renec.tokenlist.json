@@ -7984,6 +7984,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Y1DmEEfbH4UETjBfpiA3xqxixGtCUV1RhF6h5yAWrcH",
+      "name": "RENEC DOGE COIN",
+      "symbol": "RDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dn7pvq8gm3klgnx3es2fvt4181zd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

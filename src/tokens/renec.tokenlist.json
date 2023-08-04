@@ -7971,6 +7971,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HNpuBCX7GAHL1BtuoBt7zpKfp7zuQ8Ri7ywfbj5ADMV4",
+      "name": "RENEC ISLAMIC COIN",
+      "symbol": "RIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/82u0r6ajq05k6nkj0cjygq4r6wjl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

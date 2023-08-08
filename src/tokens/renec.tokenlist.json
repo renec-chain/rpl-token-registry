@@ -7997,6 +7997,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZmSK8PpBmMpPFR1vyQBJRSrYdUNaLWqndxGjkBQBevn",
+      "name": "TERCOIN",
+      "symbol": "TER",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qdx1ki6ptgzvd8gt6e3899kb2hnn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

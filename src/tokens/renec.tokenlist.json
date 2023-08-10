@@ -8062,6 +8062,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4CJeNFHr2CfB21JKaAPyMBX5TFtixEm2GKVDf1xbg5Gc",
+      "name": "Funny Renec Coin",
+      "symbol": "FNR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0tv34e1i5nxkqdgopaq419kiz51i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

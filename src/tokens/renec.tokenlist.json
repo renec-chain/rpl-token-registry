@@ -8036,6 +8036,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2yMd8DbgCq4jsKCU8giDdvWd9u3dctksAejaf2bGWPfc",
+      "name": "reVM",
+      "symbol": "reVM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/llm31gy4644j0ull6xnu9ppv2kur",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

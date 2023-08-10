@@ -8049,6 +8049,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HxZJcfsw9UxBzhpmqrf2zD8TmGcS2aRMWbeDHpRk7ZYN",
+      "name": "Funny Coin",
+      "symbol": "FNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q0e2rnx2n5h8ptf5gxzqodmwon3n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

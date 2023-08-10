@@ -8010,6 +8010,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "27i2GPAhEHm7k4j3WSJFq7arfH2gNGemgqALDXwfJ5kp",
+      "name": "VICTORY TOKEN",
+      "symbol": "VIT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3xmf0c32h7gdmdvgnsblnl98m6mm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

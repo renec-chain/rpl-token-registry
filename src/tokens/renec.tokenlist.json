@@ -8023,6 +8023,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9F835NW59bi81u3tZf5xUDYdtrjBB83QfWv5JvvLtcXv",
+      "name": "San San",
+      "symbol": "SAN",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/go44aigvx9d49kk72iq43274oo10",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

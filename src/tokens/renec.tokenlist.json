@@ -8075,6 +8075,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "b6kHpi3ywmb1YeB4Fs6TGwiqvneW3BGR2aEBWB9C3k2",
+      "name": "TESATR",
+      "symbol": "GAWFS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qkjrnz2ssko2cz4fsn4tjqwou0s5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

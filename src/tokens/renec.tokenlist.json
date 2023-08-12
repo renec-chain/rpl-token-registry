@@ -8101,6 +8101,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BieoK5VPcVcaUezGdWsmRy5ERiiihj2CrByeA6rQRTiV",
+      "name": "Fika",
+      "symbol": "FIKA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/krkien74d9w2sislafedsgurcgmm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

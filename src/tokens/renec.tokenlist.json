@@ -8140,6 +8140,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUdyZSajNT64HpC3Sx6uEvCN4FGzvE7u8HhLk919Sqbz",
+      "name": "UNIX",
+      "symbol": "UNIX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fjlyltvx1nww93daf6yi8i04t0oj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

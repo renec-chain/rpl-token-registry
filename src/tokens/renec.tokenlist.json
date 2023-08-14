@@ -8127,6 +8127,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Be9y5442XfQhr4XuYPoPT9ZmVmqQ15umBbuwHTmFR4wC",
+      "name": "SKULL",
+      "symbol": "SU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a5zem1387jvbzuo6t7rfh5dlbxs1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

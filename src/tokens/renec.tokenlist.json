@@ -8114,6 +8114,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "35LD1PKwuvhLmb5QXQYnwDUjoy3qyJNxgZb2qtiHvPna",
+      "name": "XRENEC",
+      "symbol": "XRNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k7t14v8cm2ydlyxph3jltgoh0kp4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

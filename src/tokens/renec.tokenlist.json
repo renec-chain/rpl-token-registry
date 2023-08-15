@@ -8179,6 +8179,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gx1h1eJBmNYweFQtEMJjRPFYgyA8hkUQ9kE1f4WYLJ1R",
+      "name": "Xcoin",
+      "symbol": "6",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/378lxve4tsl9m052ktoz3c8tpg1b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

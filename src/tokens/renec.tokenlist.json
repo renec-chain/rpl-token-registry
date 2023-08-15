@@ -8192,6 +8192,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7PRJrXYhq8VgGygRGZusrbPM5Vo9E5jYn2mibj1FoLTE",
+      "name": "Agro Ville",
+      "symbol": "AVT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/84772g32o45kkc8eie6tpo68s2gn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

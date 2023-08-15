@@ -8218,6 +8218,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5bXL6vqqVsd6xf8hokMzHCrg7UPP5kEtyGhznGyeU9Ge",
+      "name": "teasst",
+      "symbol": "Tares",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8dv1mp58alzvg5pp0yi7iucb0575",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8166,6 +8166,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BnDZktScXFF5uGFFtwV8VNexraKf2zBFz54WxpqvkVxS",
+      "name": "Sweeble",
+      "symbol": "SWB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kh5j8u822yy1yutxd07puiwd4g5q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

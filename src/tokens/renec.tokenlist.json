@@ -8205,6 +8205,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ZY7z9hrBRQyAiT6mtXGtmpM12tDiNsAxpWye6V7zE5A",
+      "name": "ICE",
+      "symbol": "3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hy3emzaupm35s085xts1x2brqia9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

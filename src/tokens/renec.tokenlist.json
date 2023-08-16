@@ -8257,6 +8257,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GJVQAJLo8pq5YxtQhkZxSoLVoAmRroHatyKJ8tPY6aaT",
+      "name": "Good Farmer",
+      "symbol": "GFM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/72fcbyd8g6efb5r5wp1jaulbsynx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

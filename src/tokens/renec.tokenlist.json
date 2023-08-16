@@ -8309,6 +8309,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8qCKLVKvrQ2dMatgz8UxTkDpZ7mkqFaZdxCd888BX5kJ",
+      "name": "tata",
+      "symbol": "tata",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gf7pp6qzapyu4hlxo71zztji7qu2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8296,6 +8296,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GptGbSZnA4Lp7rtJz5WZsoxiz9Xeasj1ZXx77Z9yYscG",
+      "name": "12",
+      "symbol": "22",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m5khqou3gr2mj9fqcngkm2n3hf2m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

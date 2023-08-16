@@ -8244,6 +8244,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HzR44hbCPzF6AahXkg5UrmgQxriHB2BcuJA2RnLCXzuq",
+      "name": "HD Coin",
+      "symbol": "HDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8wan6ucer4hx5yqliu6qfooyhw4m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

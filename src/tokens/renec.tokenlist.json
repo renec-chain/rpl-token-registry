@@ -8270,6 +8270,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5HvRAwbhkWLa3xmrhWTs2izHS2bsRJBSSYp5HVKCCJbw",
+      "name": "TIEN VIET NAM",
+      "symbol": "TVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/irtww5tsz51hg8a2cq4e5egj8ful",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

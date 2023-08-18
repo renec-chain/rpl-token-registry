@@ -8335,6 +8335,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6i6qnsFsABF3YbvbEFZDCduwgNQ32SSWPX4qxnyVCaWq",
+      "name": "VFS",
+      "symbol": "5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p5ubg4afqxk8yw3z3qywy76bb1pw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

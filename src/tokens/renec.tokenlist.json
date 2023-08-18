@@ -8361,6 +8361,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dh4Ezfo8REroWh33LsJ6LyKMAaqnKTv6SJ7AKc9tyZKM",
+      "name": "METAHA",
+      "symbol": "MTH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j02zjf8d2prj0q7dosvut4c0v0l2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

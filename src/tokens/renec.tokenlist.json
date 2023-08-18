@@ -8348,6 +8348,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8epsKYRSE2KSvy4BQXZp4Y6JqVnkig4GwVridhwufrcf",
+      "name": "Test1",
+      "symbol": "Test1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bb5dd26fzfzshe05xaflyrde8n0l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8374,6 +8374,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6URHScmtT5zwpWRhoo2edNhHSBeF2fbzFvZduERsfnwz",
+      "name": "DONG XU VIET NAM ",
+      "symbol": "DXVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nq4pseuizf6wl8i2dr0r4yd38z72",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

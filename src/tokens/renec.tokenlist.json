@@ -8387,6 +8387,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5nbRnABydmmWi7e69dwxS6TLVsKpkpzohwTcdbznS2U7",
+      "name": "HD Token",
+      "symbol": "HD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8r1wm0q161wkh0rzva9p82q8isk8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

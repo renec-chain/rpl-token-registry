@@ -8400,6 +8400,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "u9pZTMupgKwtPwWtBLTitZKdYrxertv6f6pUghHV8TA",
+      "name": "Province",
+      "symbol": "PVC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/azxsrnp2jnedkirqzeqq6lkjh3lg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

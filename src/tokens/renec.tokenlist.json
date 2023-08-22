@@ -8413,6 +8413,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GiserW4K22MAPgZYJyoXdpdCrpZahTZZDRG5bw9ESXNE",
+      "name": "VINFAST TOKEN",
+      "symbol": "VFS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/awkxo7f0qac58mi39il45fwybdn2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

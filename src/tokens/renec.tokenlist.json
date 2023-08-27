@@ -8439,6 +8439,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E3Ui7oNvKXg5BQTLFK6MtFRpnaKqCHCZpEtfQBhaAe7h",
+      "name": "LCM ",
+      "symbol": "LCM",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ub55tsj6s8fkgdmgukvtabyv3v0i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

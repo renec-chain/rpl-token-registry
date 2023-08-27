@@ -8478,6 +8478,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gqjojv9bWZ31KGqfWD5vT35JUF1tcW1zm3gPoFG4GURk",
+      "name": "Zalo Token",
+      "symbol": "Z",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2hnsxli9nuomildg2f6wdelqocx0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

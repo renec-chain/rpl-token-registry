@@ -8465,6 +8465,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8NFFvxp4yWZ7dHVM2J3KbzWwHzRJScRhebaK93mT7QBB",
+      "name": "PinKan",
+      "symbol": "PK",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cp0p43ketawsqu7aaz0e5i1zta83",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

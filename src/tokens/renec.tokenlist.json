@@ -8452,6 +8452,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7sn8QsjpPfaJfGB48Pmu9iRUbHeRxX2tKFaP3Jgq6QWy",
+      "name": "PinKanWod",
+      "symbol": "PIN",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/et1m03u0xxg23jiu2bmapupy7x6l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

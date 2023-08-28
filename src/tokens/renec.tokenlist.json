@@ -8491,6 +8491,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3DR4u9MFP2kVjewfbZFVV9vAxFFJk4ekLmjWJiL87JbW",
+      "name": "DOMINION TOKEN",
+      "symbol": "ALPHA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/62k5els2bxg69oizngolnsg88t7u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

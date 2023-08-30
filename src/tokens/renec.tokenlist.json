@@ -8517,6 +8517,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J8W4wgbdvXcTVt52jCV3gcQWKBaEjNzem92rd2syf9sq",
+      "name": "QUEENS COIN",
+      "symbol": "QC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y2xyd0n590fsc04jyswodv4yq6lm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

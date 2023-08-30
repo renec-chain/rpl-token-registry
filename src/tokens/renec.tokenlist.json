@@ -8556,6 +8556,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ccf2dpNPRdGi1dnuwy47REhkc7uJwTKA1uzc5mTivXro",
+      "name": "Rich Miles",
+      "symbol": "RMS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ez36bcflwtr7oalxxp9epjs40jbc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8504,6 +8504,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "13ahXEpXh9aRR1Gk1WB8JsigBk3pvB2PQXZvyaM8rva8",
+      "name": "BILLIONAIRE COIN",
+      "symbol": "BC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/slayh2pnfnp01gmb67osf9r0v7il",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

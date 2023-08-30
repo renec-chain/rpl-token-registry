@@ -8530,6 +8530,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HBpVHby7Hd9Sb2oybRmd2McaceG7UNyPKKbmrNN5c2dm",
+      "name": "RENEC KINGS COIN",
+      "symbol": "RKC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fr277cqyp3c7hd6t6u0draebdml2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

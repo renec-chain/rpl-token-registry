@@ -8543,6 +8543,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J2BrHTzC2X97RfqLoGQRAy6uyZsyoJ1NFY2sSHNzW2P9",
+      "name": "MeTisone",
+      "symbol": "MTO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jv37ojn5dxoxq9tpj0doh9qcv1c2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

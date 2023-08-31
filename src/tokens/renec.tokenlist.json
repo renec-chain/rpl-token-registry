@@ -8582,6 +8582,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8mDj93MZW1fRgA7JoYsk3DzDi4RFG6QFSCsPJg1HLTRU",
+      "name": "LEO",
+      "symbol": "LEOz",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l4yixtmvbxo4nwckobzs3fiwms7c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

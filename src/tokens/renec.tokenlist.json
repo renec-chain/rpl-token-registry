@@ -8569,6 +8569,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "35NyPFAAJ1A6QS7YDVLf2mJqBc4sQDTW5XzHECPJM1gp",
+      "name": "Sagittarius",
+      "symbol": "SGT",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qmad95x0oujp8jyx5fcr4k9w9380",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

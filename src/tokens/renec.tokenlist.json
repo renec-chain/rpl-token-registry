@@ -8725,6 +8725,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQdvH2FdzeQh3tdDsWJjM76txtbSBsNJ2wkXWxAY7E1p",
+      "name": "EA",
+      "symbol": "MiNEA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lrzbr25jz013cga72yhtwg54190n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

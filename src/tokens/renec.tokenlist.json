@@ -8673,6 +8673,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BwGFcPZXaEh8QJdunBeZiRZ3zoD586M1sqZCJ25tvxMR",
+      "name": "Cherry010416",
+      "symbol": "GHN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vjjr5ixw13cwcxrqdu2mkxatl2ga",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

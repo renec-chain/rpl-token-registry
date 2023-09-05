@@ -8699,6 +8699,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ExoSgZkAWK9m8pz4KjHUpDMCWWcnYaPFtroihpPtHj19",
+      "name": "Farmers universal coin ",
+      "symbol": "FUNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rznw8jz8vvdzuhzhd39p8ic2vz6i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

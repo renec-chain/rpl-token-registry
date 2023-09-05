@@ -8764,6 +8764,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5kuhfhbXxxsgTZ1QCfq4FCtyLjCNS735AqeYg1KhCvUo",
+      "name": "LMF ",
+      "symbol": "1880",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hrkmisiidnq7i8fnjplghxqvirvr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

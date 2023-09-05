@@ -8634,6 +8634,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8T3yaiAUtFWLxDhTRz7sMqmycgKoEToRxTaVpATAndHp",
+      "name": "Meric coin foundation ",
+      "symbol": "MCF",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/24o4dh83o1x84inj9w749qk2zhiz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

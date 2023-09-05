@@ -8712,6 +8712,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5FS4667XoMtpQhmBbdnT6sobqtfecqJWRUafdJxypgna",
+      "name": "Nigerian Naira Token",
+      "symbol": "NGNT",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/52o2jpqpd3klnp5ugnon7hw0vdnz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8660,6 +8660,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B8HaULqSWsaj2rQs5Ay7WHzv5T4LU6ktThB4GDkvCXRx",
+      "name": "Eagle coin foundation ",
+      "symbol": "ECF",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pwipkspsm2v9znmuodgjmld2npwz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

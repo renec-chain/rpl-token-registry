@@ -8686,6 +8686,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ck65WRDY8fcHLkvYXgMkDfeDuYktqaJXFNK6wzuP2YJk",
+      "name": "okbaby",
+      "symbol": "thank",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v7aao8r9itbnlg7ghorpu8ovhq1w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8647,6 +8647,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "RisunKzBBSpg55swNkF3ysgBdEhzaDDBmWVnf7pZXPK",
+      "name": "TUMINIX FOUNDATION TOKEN",
+      "symbol": "TUX",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d05xeg1qkgz7mvxpwp1zir6p93hu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8738,6 +8738,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8hXT3ybDh1NGkicgqA6DN7X6xUWgoiTtDqSNxDjLQDXH",
+      "name": "MiNEAR",
+      "symbol": "MnE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l11sklsu4tismpqk5mjwct5robkz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

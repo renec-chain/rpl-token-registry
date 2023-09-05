@@ -8595,6 +8595,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CXSdc4sLFCvureMcf73dYu61bGj7J2T1Yc3ThJzMRq1A",
+      "name": "Mercyme coin",
+      "symbol": "MMC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3nrt2hp467ihmcyeqnfveopckq2o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

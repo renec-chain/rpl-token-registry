@@ -8621,6 +8621,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3a4fewzci4x18FEMqhy8aTxrXQcAGTZeBNxyGt9pQBNg",
+      "name": "FINANCIAL BRIDGE CAPITAL",
+      "symbol": "FBCN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ru5ulvn0j86amqd5c20515nee2ll",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

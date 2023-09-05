@@ -8608,6 +8608,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ATfCcNJDLEnD5spqNBg2pV4syiha6hJvicwFPmo5pY7v",
+      "name": "Filo Coin",
+      "symbol": "FIC",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vid5cj71qd5luo1l29ixb4exbrs2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

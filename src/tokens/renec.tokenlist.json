@@ -8777,6 +8777,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "66dm7FVw8WNy7z5k8RjQK9GrFGCeupfphuHNnknM8N76",
+      "name": "BomBot",
+      "symbol": "BBP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i5va5r0wsqyto2lp5dy6fgdnidqm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

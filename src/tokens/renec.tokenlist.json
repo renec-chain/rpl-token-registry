@@ -8751,6 +8751,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EPDdbDj171pT8wPB1vBdvrKbADqtyX3StjwFaNGZfG39",
+      "name": "Warrior Of Love",
+      "symbol": "WOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2s7v1knk8lw98g4v7rd27lf6fmc2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

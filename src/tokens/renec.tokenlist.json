@@ -8790,6 +8790,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fjibmbe4Vm7NCnaGgdmWDrN37PjstDn44URUpwupah5s",
+      "name": "EGG COIN",
+      "symbol": "EGG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mr1c01mq7ycwzn0h93ho9ixy2hub",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

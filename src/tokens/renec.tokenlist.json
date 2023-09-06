@@ -8803,6 +8803,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H3NKFcJvduif1hez9fWjaUJfrgdFtrCSFiXc5tfoAenU",
+      "name": "SINYOBANGOR",
+      "symbol": "SINYO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/psmzaz3gps002j76gr8hezov92nu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

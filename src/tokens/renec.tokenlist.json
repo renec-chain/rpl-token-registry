@@ -8829,6 +8829,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GFcJ4zPx9Qr2KWiAVTuGE6LCcvqjvFUYTc3RETn4ZM9V",
+      "name": "ceETH",
+      "symbol": "ceETH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lf93qo0q5e5nm045yycbmh731uey",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

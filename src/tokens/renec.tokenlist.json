@@ -8842,6 +8842,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D9TGeBP8asFPtwggRmNJmWJgcsuydRRUfvoGxwyRQtvM",
+      "name": "ceUSD",
+      "symbol": "ceUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j8ebw6bomj9iwblek31lnkgmw9tb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

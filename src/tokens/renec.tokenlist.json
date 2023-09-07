@@ -8855,6 +8855,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BnrBHg3wJd84aWGogxEKZwTXQkUUAgd8r56sqpcjtQWE",
+      "name": "HNAG COIN",
+      "symbol": "HNAG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vz2pltu7a2t9jukq9js8oyhpmdca",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

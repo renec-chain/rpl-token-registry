@@ -8816,6 +8816,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "58ZSmi6UgXs8CZjJF6TzrVPVTPUpDjhdNsWZ9NZfaqYY",
+      "name": "ceBTC",
+      "symbol": "ceBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k7kk7ns1xpbyjs30hsooznckivg4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

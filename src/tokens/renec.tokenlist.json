@@ -8881,6 +8881,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GfJxqYFfppWLW3x2tpu6sWLk7Cd4cfmSRDLkZCrokf1Z",
+      "name": "VIAN BIRD FARM",
+      "symbol": "VBF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b274ixmc5lrxsfnyjzj25vhulrua",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8933,6 +8933,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Lkt9CFAJPHZ5pPvTVWPTm5ZueXy5iq37P6RSK857jFj",
+      "name": "reUSD Test",
+      "symbol": "teUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dk1sopeue33ql8arpcbj2byyzxai",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

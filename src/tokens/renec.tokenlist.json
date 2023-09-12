@@ -8920,6 +8920,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BJSVwwHHWDjtkUChBYY9wGALXwb87rV9xfpB1XrvCroK",
+      "name": "reETH test",
+      "symbol": "teETH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lqfpg6jegz5oak4jchciviagr85x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8907,6 +8907,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AQnJiioM7o1QHtQ1A6WHh12naG9o4KXpYs7pvpRGwBp4",
+      "name": "reBTC test",
+      "symbol": "teBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oh3u7ie8q7iuwqklpvc5ck64po2z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

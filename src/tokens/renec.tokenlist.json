@@ -8894,6 +8894,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BvRb7J7jYgQWwFTTF9FcrLsxgD8e7HtDS5XyDAcyFkK3",
+      "name": "PIBEAR",
+      "symbol": "PB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cnpho5qfmyj3g90kfyvd7ny7cvup",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

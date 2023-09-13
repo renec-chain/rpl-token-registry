@@ -8972,6 +8972,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5vZA5sSy69fxVdkZYeVSWEkvwUjPYXM98bCyiAVPW1rz",
+      "name": "Lovebird Coin",
+      "symbol": "LBC",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eiuav147w8kqlt4kxwuoryj52qa3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8959,6 +8959,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Zw7hLQWP3HKcAsyLECWMqonGXp4tZAXjuwi9tYWN6FF",
+      "name": "Tom Meo Coin",
+      "symbol": "TMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5ptoqevzmwwjsakv2s1p9ii29wuh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -8946,6 +8946,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5115YbArz1UwaCNgw1aKrhgyXGqoxLRTrrTe1hE5PDUP",
+      "name": "Question block chain ",
+      "symbol": "QBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ngv3u1yarku39qr94q5uumpygc8x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

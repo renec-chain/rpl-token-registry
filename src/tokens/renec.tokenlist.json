@@ -8985,6 +8985,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2BUgh1QMQ98jJ9ywuUsvtmDTCX4BbxDTTzF6dukFS7Se",
+      "name": "HEIPTOS",
+      "symbol": "HPTS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kbe2quxwzd8mvvwal4nxl1regxf4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

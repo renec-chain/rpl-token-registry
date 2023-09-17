@@ -8998,6 +8998,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EYY44y4DSxSgi4TZ6psKV3xYbXM7ZpJe44hicGUrM3m3",
+      "name": "CRAVEN",
+      "symbol": "CV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/idsxy19wixbimqtl8voq89qssdaa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9011,6 +9011,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BBuNHyZJSR2H53CcGMpxPdNMiSXk93QEVk5t4cPBUwZ",
+      "name": "Remendo",
+      "symbol": "Rmd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lbus5cyai4arjeg3qicjlnnrlohk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

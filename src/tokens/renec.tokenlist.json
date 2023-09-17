@@ -9024,6 +9024,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DVDi7QjH8eyf7FRKfq99cRjgbhJaxkbgNKAVUtiaNmLi",
+      "name": "FREELANCER COIN",
+      "symbol": "FLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rhd2azkdws2178cq8u6mljdrw370",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

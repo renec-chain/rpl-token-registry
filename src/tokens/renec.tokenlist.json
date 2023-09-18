@@ -9037,6 +9037,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H4HsrmJfN7Ja64LjRTdHPfZn9W46MfLtU45Cj6CVP8Zd",
+      "name": "TRIEU TRAI TIM",
+      "symbol": "3T",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/be7uiziqc8aiipxo0ldlvh202d30",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9089,6 +9089,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BxbsoFhK61HqTTE6711cYanp2JtdMGekSSjZPTHyZzxX",
+      "name": "Fcom",
+      "symbol": "Fcom",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gfpqc8ercuzy3alrtek21lg2zf6f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9063,6 +9063,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "764GyJ6SWv6V34Lh5G11MVum9J3PgJ3ACREjA3SakUru",
+      "name": "Amexlifecoin",
+      "symbol": "AMF",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jp86bulfq8pkdw9ceckppwul4icg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

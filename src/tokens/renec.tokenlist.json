@@ -9050,6 +9050,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5wBZcUYChzUPpbCfHs4ALpDXC8YdozeCprAFWysNSYZo",
+      "name": "Key ",
+      "symbol": "Key",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1lvogw0sckzsz5adfczxblb2mh6b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9076,6 +9076,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hd9GQydEWceKSwhQWkWPL47C87Ni6QwE3tXUW5KfG9t8",
+      "name": "SPARTAN",
+      "symbol": "SP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8lq5x52p4igrtvt6xx05v7qxkl8c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

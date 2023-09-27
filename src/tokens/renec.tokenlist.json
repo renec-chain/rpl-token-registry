@@ -9128,7 +9128,20 @@
       ],
       "extensions": {
       }
-    } 
+    },
+    {
+      "chainId": 101,
+      "address": "7kKvUXYH7WuHoxXY62t3LYcvpsDQTXjNgUs1wrdnW2Rz",
+      "name": "BIAFRA COIN",
+      "symbol": "BF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rpke9my4rr05hqoi7xjqkgjsz355",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    }
   ],
   "version": {
     "major": 0,

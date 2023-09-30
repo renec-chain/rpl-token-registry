@@ -9141,6 +9141,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7coRkjjNq8hXbw4oEjQ5BGS1XtH2csBMdbNH3ipPzbWb",
+      "name": "BXT Coin",
+      "symbol": "reBXT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/udoqh8adth282j4rymtqldisov4c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

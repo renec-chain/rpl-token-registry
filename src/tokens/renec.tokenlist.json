@@ -9193,6 +9193,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gj6L8yfL5uUXUUYyH1igVaxQP9pyc2vttEguyJrWaHky",
+      "name": "Temo",
+      "symbol": "Twmo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jo51pyn30hkhzcuk0l5dbdgkn5o7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

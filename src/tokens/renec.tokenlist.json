@@ -9180,6 +9180,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DZ77vCBk2DdiyRYRXvtgYBjU14DVSLejxGdpMxTe1fTT",
+      "name": "Bitcoin Crypto Earn",
+      "symbol": "EBTC",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ms9wg446hs952my3sj2syk2jpntt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

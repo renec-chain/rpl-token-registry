@@ -9167,6 +9167,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CDLEJGC2vhVdW81tdV81XzGLThki9ShfczHu4ejDhWJ6",
+      "name": "DOG COIN",
+      "symbol": "DO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hr4ur95o06rbgapnfxy84xwai0dt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

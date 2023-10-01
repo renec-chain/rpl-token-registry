@@ -9154,6 +9154,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GJbUZFTBt3u8NJgfVixLJqY8u9bMEEh7bQmyNWB9z12L",
+      "name": "BitcoinRenec",
+      "symbol": "BREC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i2udze29f8oy3ieaqg35531heyvc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

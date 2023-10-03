@@ -9206,6 +9206,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FRT4UaAzxrSsq3LmuXmdD5dzB9MnfbHtQsuvMetNiA9f",
+      "name": "Lux",
+      "symbol": "LUX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ulabik1v1an2zpt1k74lmn2tkwq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

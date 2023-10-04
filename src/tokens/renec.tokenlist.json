@@ -9219,6 +9219,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ienzk37LHnDogHKVzxEZRrA8DbEhnDKfgSTGeeWffpT",
+      "name": "Elon Musk",
+      "symbol": "ELO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o4v5f8rxx1uk0ttq713c9xi39644",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

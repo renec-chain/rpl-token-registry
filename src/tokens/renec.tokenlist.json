@@ -9232,6 +9232,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "1344WqCJX733eitiUDXxGVoSkGFJNDsvAbjR9wwpDBWJ",
+      "name": "Whatstik",
+      "symbol": "WTIK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6zskqgqern1tn3c2po533mzvoibn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9245,6 +9245,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9YeDQunFpQiSXei3hGbQBd5U9mwiqVrwQFK7KvSvkZCk",
+      "name": "CxdZEkNGii37KfxA1dVdgaE5pYe4VfRFUKj7tcVHFLEt",
+      "symbol": "8899",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fkm3ca3oatiltgyaly5g4g8dk84",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

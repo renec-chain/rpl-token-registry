@@ -9258,6 +9258,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4sLLfv871QjVnTviUbyJWRtjMtu9SmEGwExxU8LF2gqB",
+      "name": "Coinmarkettik",
+      "symbol": "COTIK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/umwioampqm72624dp5nsf01slvf4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

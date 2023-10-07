@@ -9284,6 +9284,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "49bhovFtcwVsjNEJEhXcfnLmeX27Q7GCdcKFjLvyJdYW",
+      "name": "Cristiano Ronaldo Coin",
+      "symbol": "CRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rfg4yoqf2persppv7d7o00qe564d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

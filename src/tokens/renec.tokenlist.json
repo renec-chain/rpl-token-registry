@@ -9271,6 +9271,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Et3QymyBiBFwqhPRGCV6NwADXHqihxsagKtLSQwvqR7L",
+      "name": "HealthGO Token",
+      "symbol": "HGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vt48qzqdejmzdusr9c44681833cs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

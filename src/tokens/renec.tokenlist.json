@@ -9297,6 +9297,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "59YqTRB7NVv2NMngi7KdHtJskjvK3eLV4hufasuC6jvZ",
+      "name": "Lionel Messi Coin",
+      "symbol": "LMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/542yhm4nh5oljawsapl0bzpxp23z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

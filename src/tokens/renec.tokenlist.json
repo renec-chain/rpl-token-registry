@@ -9323,6 +9323,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D1RYpoCbBqenzHgWZZoRNp3JGWQniarqJndH7Z61D5Kp",
+      "name": "Kids Panda",
+      "symbol": "KP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iuvfoquvr8unf7nqkljw0bpqarwz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

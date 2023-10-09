@@ -9336,6 +9336,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EEfXhABbSPvprenWZkT5xQkR8UfMjjD644qzQ43keKCu",
+      "name": "ECO Bharat",
+      "symbol": "BHT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2oo1gfq8xihz4vgcg6h5w2h8ss3s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

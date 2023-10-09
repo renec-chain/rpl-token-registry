@@ -9362,6 +9362,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FLRT2bcXwbVaGU3bYePySEq58By42foFhCiYU2726BM5",
+      "name": "Fabaraodo",
+      "symbol": "FGI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4gggkengmd2le74j096wyd2yl2e3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

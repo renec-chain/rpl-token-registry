@@ -9349,6 +9349,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H9Frs78QyLkY6Hi9aBTtfow3ts4gq5984KWAF3z14K7Q",
+      "name": "Astro",
+      "symbol": "AST",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xshldvy2b8zvt8p09kf3dganfn0z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

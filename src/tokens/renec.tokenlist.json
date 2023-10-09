@@ -9310,6 +9310,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7FUT2v3WS4KwHzn9ocDYzB3mwxK2MRGmHHmhRg5g6Y8v",
+      "name": "Gold Fish",
+      "symbol": "GF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7ntohrckzoesohlhabra8ry0kecr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

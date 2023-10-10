@@ -9388,6 +9388,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ce1k61e3YokM943TgHDkt8VX2PXYNasLBTiMQGvSMMqr",
+      "name": "PTR",
+      "symbol": "PTR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kwj94yu97fgvx67uq6dea33z5dqo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

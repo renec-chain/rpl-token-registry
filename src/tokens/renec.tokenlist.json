@@ -9375,6 +9375,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "62RsUzL3wycEZyamSchoH6fPiZgDq4gyFcZ2FjDfzipc",
+      "name": "Dhanya",
+      "symbol": "DHA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zb1ni0pjk0m4mwa83rfvcrbus1wk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

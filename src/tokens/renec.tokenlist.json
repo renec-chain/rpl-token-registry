@@ -9830,6 +9830,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6aujhVDdJ4ri8SrW4BNeoEsJ5u8nZtz5fgEnpm9a2REb",
+      "name": "Putki mara",
+      "symbol": "PTKM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j669jyuw5efpxcussy7qq0thv5up",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

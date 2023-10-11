@@ -9739,6 +9739,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "37K6jpyFCcHa2yLne92eU6ZZabs2Tg6B4gZZzW58qpcr",
+      "name": "Ben 10",
+      "symbol": "BN10",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/suh5y9ksfhnj5hodlc7gelmdem4b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10142,6 +10142,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AJX7PSWwCXWKtkTqJ7zPStYiFbzqCWhijeizBbtYqa8S",
+      "name": "RNC Network",
+      "symbol": "rRNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8lihm3xn0p9f7z3g3nkj7hmtsh2b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

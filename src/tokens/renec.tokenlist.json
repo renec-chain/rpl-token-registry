@@ -10545,6 +10545,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7NpXkAgoQV3WqWUVksz86FfbCheJpM3VvHoMRtWD9FbW",
+      "name": "YUMMY",
+      "symbol": "YUM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fdwpx2yas1d6iuwzq0sfkcawd04k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

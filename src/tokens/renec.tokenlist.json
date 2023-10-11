@@ -9544,6 +9544,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9P7W45neeFhWbqZP98PS9gjNuk9oA5jBTsCLsdciarEA",
+      "name": "Anas",
+      "symbol": "Mns",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qep9pbg8ziqby7g5asctiwc2q3uk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

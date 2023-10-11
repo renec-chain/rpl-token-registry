@@ -10064,6 +10064,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGMw93UaG9y6sp1YWkRMKeYLiJxx2xHY17aDjtM3BkdW",
+      "name": "RenDoge",
+      "symbol": "Rdoge",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yn1ggastz07uaewxnd5qwi0cjtij",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

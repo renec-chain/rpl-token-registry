@@ -10480,6 +10480,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9uxkxy7rLAbGpcoxenVTMVH4sFfTJjudi1338zDZ4BbG",
+      "name": "FUEL NETWORK",
+      "symbol": "FUEL",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2imzfup8uks6bpaef3i4iyfpfy63",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

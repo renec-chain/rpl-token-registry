@@ -9609,6 +9609,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "83QL8Pzg1zFTXYEHFeCAaXQBAQx9Nk85Dvy8kcqLdFvR",
+      "name": "Gorarenec",
+      "symbol": "8",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/smadzvbyz4u7bhzlmwdvpx237l3n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

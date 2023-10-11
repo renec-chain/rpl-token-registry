@@ -10285,6 +10285,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2rTu7dLcm9zZpUiRfcgyDZU64q8iabz5WJ2CUuByU8Kb",
+      "name": "TK",
+      "symbol": "THI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0g2s1q7plrxremqib2yop1qub4vi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

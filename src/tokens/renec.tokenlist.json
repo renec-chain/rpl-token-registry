@@ -9427,6 +9427,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CgfoUk72txjggfxaDkkFL5RqFvkPGcsSA4Csh3s9JWX8",
+      "name": "Cryptodz",
+      "symbol": "CRDZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/atuylbokhhfdvfph99wpd7yycbxy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

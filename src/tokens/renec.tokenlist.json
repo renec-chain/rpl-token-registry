@@ -10402,6 +10402,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "E64T3pBovAhasE6tuLBjRpZf4HhKPtNBqyLWAAc6qxca",
+      "name": "Canberk",
+      "symbol": "CY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v2j1uxcgvt6yz61vrw5ysa7mj3xn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

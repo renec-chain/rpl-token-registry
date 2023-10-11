@@ -10636,6 +10636,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "H7spUuMDJAyWPzUChp6CujdayiCY5vAwVh9JEWyyBNE6",
+      "name": "baby",
+      "symbol": "bb",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z2kym1gdn5l41k7ye8aquwpnqhks",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

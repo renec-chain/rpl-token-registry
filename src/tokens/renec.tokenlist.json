@@ -10818,6 +10818,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "92HtVXaLuhMhPAd7mtKyq9cGZmVcgz5JfPEdRED17rqM",
+      "name": "BLACK MAGIC ",
+      "symbol": "BLM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jops87k28ytjw75igwismqj932yh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

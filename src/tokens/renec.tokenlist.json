@@ -10181,6 +10181,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2qQanPeu4bxe1D55PMaJGm5qoD2rBtRxc4AmxnRwCUUo",
+      "name": "Vemnom",
+      "symbol": "Venon",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/thohgq5dlot6d8p67b2r7qr94ry4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

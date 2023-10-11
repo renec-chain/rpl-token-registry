@@ -9414,6 +9414,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GNnC8ycYdT9Du7UamPDZxYhGNjj5vFfcWhsea2hfa62J",
+      "name": "RENEC ETHER",
+      "symbol": "Rth",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/92tmypcuf9vp11vlt1de3nuiue15",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10675,6 +10675,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8x38RxAVosN11dh8VNk7nL5rmAC4QTDcWqEUMbHmKVAW",
+      "name": "676u",
+      "symbol": "yuyuy",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sz2kdri0og1ximmagg1sip2jtssd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

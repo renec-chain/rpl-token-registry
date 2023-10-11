@@ -10025,6 +10025,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AxBcwf9n886jsRnVD2SDFJGxdb6oPVAAfLT776nQjXjz",
+      "name": "Space X",
+      "symbol": "SPCX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cp2wj7c6kwy5ofzf0qa1gbv1xu0x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

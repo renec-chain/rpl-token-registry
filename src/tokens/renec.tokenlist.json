@@ -10649,6 +10649,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DNG8yHVB9gFa9b66E1mcGzKrQ7qRrfRcW1Ti6BuVvAAw",
+      "name": "Bella",
+      "symbol": "BEL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ag1f0kxkz50i3gregt42rwjnzn5q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

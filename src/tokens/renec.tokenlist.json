@@ -10597,6 +10597,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "29cfaoCAXJhTF9LTbrxM3C3hLAQnLnsyHV5PC3rhjSuC",
+      "name": "BINARY",
+      "symbol": "BIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ddgnhagc8slk4k0xdp3itzxhd9c3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

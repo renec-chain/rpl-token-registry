@@ -9440,6 +9440,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GQU6ZA3H4dGW8DYauFJnaQRPK2bdFjuK4K5pGoFxdjLR",
+      "name": "RENEC GAMING",
+      "symbol": "RGM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kfwtjif6tkjt18ykcpy6o3p62aei",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

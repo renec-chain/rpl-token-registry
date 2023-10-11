@@ -9973,6 +9973,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8xUobzmKrPkYZApwAubATp8WK4XHR5165j752B5Kz44s",
+      "name": "BullRun",
+      "symbol": "BUR1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ya9vonavffjuis1mzuiasvda7m2i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

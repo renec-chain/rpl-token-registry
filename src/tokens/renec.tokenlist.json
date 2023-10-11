@@ -10857,6 +10857,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3jEjC1dr3Zy5ruhTJRRhtQyFoNdGUwD3MzRkVeoBcrca",
+      "name": "Federal University Dutse",
+      "symbol": "FUD",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5bwp3syg959rz2ubd5xrpvrmkgku",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

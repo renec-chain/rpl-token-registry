@@ -10116,6 +10116,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EPkoZJuNGHmkZgq6pnLKU2GVu3veMwYvn6894YQvEu21",
+      "name": "RE",
+      "symbol": "REC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/072afr41m2559quo0klb6q2ur5ie",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

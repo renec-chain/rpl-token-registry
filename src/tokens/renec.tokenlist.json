@@ -9622,6 +9622,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7SXMYWHEn4H3rooYefLMfntRnwKnrnoBpYWUXb4pmxz5",
+      "name": "SARAY",
+      "symbol": "SRY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ksqf8x448k641ntiewh84pgvzn5z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

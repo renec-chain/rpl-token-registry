@@ -9401,6 +9401,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EVkGVJUB4pQWeUdyLCQ3nfVH9Z8BzN7J6kfNiiHmdgro",
+      "name": "RENECeth",
+      "symbol": "Ethr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p9zgdt032v0kyzd6x0mdxalrurvi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

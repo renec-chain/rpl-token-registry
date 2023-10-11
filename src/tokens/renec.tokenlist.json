@@ -10194,6 +10194,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9LxeZ2q78nsLKCRdEK4K1qumnXnNde9RqLprSfbDARZB",
+      "name": "Tiktoken",
+      "symbol": "Tik",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aqiafcek7x5ltfr0imkfourwdmau",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

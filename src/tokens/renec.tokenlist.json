@@ -10740,6 +10740,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2423n9hqM4tDzX9KiYQgTrjM68Tvh93Awr6cNsLBEGUa",
+      "name": "maa",
+      "symbol": "MAA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2ybea83wdtkk8h9qnfxq3hdouxa5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

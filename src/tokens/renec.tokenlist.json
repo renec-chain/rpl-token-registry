@@ -9661,6 +9661,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FS7SKAvGKZg2Hv6VBmqGA3aKaR1B5GAbKGUDB5PRFKwg",
+      "name": "TEMPER",
+      "symbol": "TEM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ufq9zv2jq7d56nh1iks0s0ft7rym",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

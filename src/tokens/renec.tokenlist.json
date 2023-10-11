@@ -9752,6 +9752,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DGxDkmUre6UTLVfvKFdiDzPwhBzBE83Q59Arjt8sKoXb",
+      "name": "Honey Coins",
+      "symbol": "HNY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xt8lfeiy28521ricgcse8tdsvlua",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

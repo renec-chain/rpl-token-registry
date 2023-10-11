@@ -9778,6 +9778,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3PfheyEsm6RSMQHfP7zoSW3tvVsyc59cxvvjuuLZTZbj",
+      "name": "Naira Stable Coin",
+      "symbol": "NGN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kvhlutp8f7mo3f2pp869spb3yj96",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

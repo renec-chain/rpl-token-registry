@@ -10051,6 +10051,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "A2yVkBGsiTNQfNLwNMjUT8ZrnJAt5RJMb7BgV4yf2EWg",
+      "name": "Bullshark",
+      "symbol": "RFC24",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ssgmxu1g24iserx240ec7nwpwwbx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

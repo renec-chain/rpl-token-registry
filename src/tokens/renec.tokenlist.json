@@ -9895,6 +9895,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DeGJxAwJcShXYfMQ5HqDmi1hpEHJoDFRnajcvTHPZyim",
+      "name": "Peacecoin",
+      "symbol": "PC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y17ldlocbzhmvli1fu6p0ei1g4kr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

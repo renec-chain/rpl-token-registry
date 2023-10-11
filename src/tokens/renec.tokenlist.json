@@ -10038,6 +10038,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6w28M6JnjPQUniVeaX8kNd7js6Y1tkfjtbGYJQiFjo4D",
+      "name": "PGN",
+      "symbol": "PGN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dyyzmp5bmfpiq67kp6dvccnf9b47",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

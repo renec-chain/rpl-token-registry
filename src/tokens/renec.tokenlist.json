@@ -9505,6 +9505,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5YEX3WRnV9TN47J5gdSAUbhA65EsA6GTzvCHuACjcM1N",
+      "name": "NAMTRAN",
+      "symbol": "TDN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8uwxtkrh1t6dbv42balzjwvkaqf9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10350,6 +10350,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CGU8Hjp58USxr9DjV3NEkKyemnYpt5rZARerLzABWa6r",
+      "name": "meomuop",
+      "symbol": "MEP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xe66da9j3buhe148lwv9xrfx83hg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10103,6 +10103,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5DWEdYLPQ3aea1XcSkXgpa6BBK2Sk3TMDRj74zotfsQ1",
+      "name": "Weedgirl",
+      "symbol": "Wdgir",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kl3lbscvfa70qbun1bapraj3i5mi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

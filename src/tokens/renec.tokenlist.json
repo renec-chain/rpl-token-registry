@@ -10610,6 +10610,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9B2QbPwfSFUsH2HeV34HLwvJ5Y1a1fagjQoTScLdwKup",
+      "name": "Shiba Wrong",
+      "symbol": "SHBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ph0mje9fop8cna2rz53ns3tzfuzo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

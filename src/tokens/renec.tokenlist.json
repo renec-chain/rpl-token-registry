@@ -10506,6 +10506,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "F8JvqqijHcPwHqFy6p1pfvQTbVeReTzDzZJHvnNMcGwm",
+      "name": "Hatuyencoin",
+      "symbol": "Hatuy",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eoomc2dghoj9wg6xisvqqg6k0fvl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

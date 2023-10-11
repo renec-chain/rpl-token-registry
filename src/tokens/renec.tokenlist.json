@@ -9648,6 +9648,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "C6zZJMSBSfsa8Pq6e8Fs5G6Ukx46FiSnuzicqXEcQqUo",
+      "name": "reNGN",
+      "symbol": "rNGN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4gi924tbxwodq4y8tfdvqp478yx2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

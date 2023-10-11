@@ -9583,6 +9583,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4MjBZH4hzkArhCNRxgnUfKLt4SvWRBotTXq4cqctRBgx",
+      "name": "Test",
+      "symbol": "Test",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1uhu2ojfeyabp8uw8f2i4eav05rp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

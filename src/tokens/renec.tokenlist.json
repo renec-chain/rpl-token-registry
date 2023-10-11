@@ -10207,6 +10207,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8A5AgSMN6yCqMkRSuBaCLFvLw8QCfS6yzVU5AKE5QTgz",
+      "name": "aptosx",
+      "symbol": "apot",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cmoipqpz54kub3ct76m6icka8zpq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10129,6 +10129,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8oYVj3cwB7tUXEKnXShpzwB5qa6aGpQmTxp6N77fKDjs",
+      "name": "Sei Vietnam",
+      "symbol": "sei",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4slll5m2rri4xom2qnypytd6olax",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

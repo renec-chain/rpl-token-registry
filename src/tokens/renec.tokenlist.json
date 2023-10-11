@@ -9947,6 +9947,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AFFVAZ3fjFkMYmQhJKfd3WpU3jjXDiN6ihbpiTAzDefS",
+      "name": "BATTER LIFE",
+      "symbol": "BLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q45fj4g07qlqq2duh84oiv2mig0k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

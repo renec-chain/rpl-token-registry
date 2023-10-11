@@ -10623,6 +10623,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bm6uVWW6pGrrfqKuk8Smmuysf6nyZRj7ekPaWZ9zNqff",
+      "name": "RUNER",
+      "symbol": "RUN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/odsj229d0hrn49ikwzsa73p60u9g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

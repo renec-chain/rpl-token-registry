@@ -9934,6 +9934,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "J7rCeDKp6LTocDcoVxiGphc4TdAEYBPiQcjbwq17QsR6",
+      "name": "Renec shadow",
+      "symbol": "RSh",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ffmcaqkiiypa4celzrhwpnj5qzvy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

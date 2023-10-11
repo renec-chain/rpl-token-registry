@@ -10493,6 +10493,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D7kthj3rCR8VjtevzPnWM6PaQUe2L7jV4xyh5bbnXLGY",
+      "name": "444",
+      "symbol": "444",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lj34zw42ruftyr1vgmabh32vpvvp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

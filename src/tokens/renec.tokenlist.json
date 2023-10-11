@@ -10220,6 +10220,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7cwwzjg1RJXXcngd8mXf6CQCqYj6fWH6dMw7CGjRPsGx",
+      "name": "egrenec",
+      "symbol": "eg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cezovz5u23kglaj58s0tigjq98bg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

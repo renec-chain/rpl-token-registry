@@ -10844,6 +10844,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2HBMp2y4ika7AR5W2PnhYRoE7fS992oTAZdxn83WEwXY",
+      "name": "LEGEND",
+      "symbol": "LGND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uun044qn6o26crla7ba01kx4npo8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

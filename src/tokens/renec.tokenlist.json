@@ -10415,6 +10415,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8YtFQNtSbfdpe9C5vin4jRLR3sJ2TsAKyEmMXQGHsARx",
+      "name": "LAZYBOYM",
+      "symbol": "LZBM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7o68rdgztpesv3bqkkycjud4mjuj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

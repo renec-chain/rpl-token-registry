@@ -10584,6 +10584,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5q9ULVwRiVM64T6mszoJSpFf8ZvJKe6FzPvjdEVrp6Pu",
+      "name": "Renec foundation",
+      "symbol": "Resu5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ukqdz7vmct30ga1sbg9oqzev2jlu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

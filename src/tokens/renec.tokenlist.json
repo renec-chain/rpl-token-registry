@@ -10168,6 +10168,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5jfeK3urVUzBeUpEACz2RR2bDjAf3zDe4nqknXNisLVj",
+      "name": "bhagwan dass",
+      "symbol": "BD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wnvx8574v6tub65eceszxxgw78dh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

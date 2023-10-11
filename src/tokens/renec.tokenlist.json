@@ -9726,6 +9726,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8yLMfVSiqXorQ87nHnG9onoSA479o44zxTpp3GQMyov8",
+      "name": "Rshiba inu",
+      "symbol": "Rshib",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ekaxeyj7aanj36nrvhq7pnjld0vl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10337,6 +10337,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5yduUHCjVTjNz6hids7FgwGpkE9gtpHUMzet8ECtdUg8",
+      "name": "airbig",
+      "symbol": "AIB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/axawl4lsozs1a1lxqatf1seq3g8o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

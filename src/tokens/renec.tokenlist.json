@@ -10259,6 +10259,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A4urURvM2u3LsxiJe8eEi5bMnb94k7zZdyZMtkBDeVtQ",
+      "name": "OGINI",
+      "symbol": "OGINI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6fc24i9g5lejqlldrwvb2vtm4c03",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

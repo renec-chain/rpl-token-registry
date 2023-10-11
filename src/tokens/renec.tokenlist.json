@@ -9713,6 +9713,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EkwaP9ASFPavnKKvrfcXwSLJXmEtNXkLoDVbP4GDFuNz",
+      "name": "Wrap RENEC coin",
+      "symbol": "wRNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q3braqmvkjyxk091i55e3vtxpmk0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

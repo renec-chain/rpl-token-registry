@@ -10870,6 +10870,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AWdTxBniw6vLMJVtCvDZGd2X2oPKzgvM1wWBpa7GNNCe",
+      "name": "Good Coin",
+      "symbol": "GDN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b72c2n7l75ykfgc95d5sqi7ocuui",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9466,6 +9466,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "E113CmGLsqvmbDNPYfzMGGRsxMr4VFgeYQNtt9PK2CbJ",
+      "name": "RENEC FOUNDATION COIN",
+      "symbol": "COINS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f8iefnfwk394n7nu7zaduw4t0sgl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

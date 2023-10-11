@@ -10233,6 +10233,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D5P93BSJDzxsukA3Zc1ugYLzDF371QtXW36Gd4fMJj2d",
+      "name": "SAMAKUS",
+      "symbol": "SAMA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kyfjed7pqxn05jrtxns5lofrelk3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

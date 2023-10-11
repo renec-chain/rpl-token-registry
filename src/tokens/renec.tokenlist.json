@@ -10077,6 +10077,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Jywh8mkC7TXxGxaK6B97L1duMwyxHHcJ4LqpXz2VDVH",
+      "name": "Hongdieu",
+      "symbol": "NN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mgxrrfth1vo8wt8inqizw3xkv6lj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

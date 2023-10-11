@@ -9817,6 +9817,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AZp4L8JKavqdpkt1YyLyv72tK3tpNkAqc2hthMCg82Kn",
+      "name": "AVSR",
+      "symbol": "AVR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rb5pvp98dvvhy68wdx7m6l5sdy9q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

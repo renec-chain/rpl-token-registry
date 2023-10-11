@@ -9700,6 +9700,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3MEz1gVDpEN6ckyuxQ899dzd69psxtsQ6APDbwKqyJJZ",
+      "name": "Nailstoken",
+      "symbol": "Nails",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xm6a6t8jw4a9se9eym7ys5wpw3o2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

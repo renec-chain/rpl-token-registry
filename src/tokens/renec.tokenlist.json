@@ -9765,6 +9765,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9naywt4JkXoGbNpDq7yqzwL1pkBtRChe2Ku96y4s3SDz",
+      "name": "Sleep Bunny",
+      "symbol": "SBUNY",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e7g4alnm60wodq7iewp0o24lvbma",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10883,6 +10883,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AgSb8AiyBETHNtmfgSR3PMsTuZ5jLZGFVkHLBjfHgazj",
+      "name": "access ",
+      "symbol": "Aces",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3x4brcv73iopq0lcljw6b214wiyw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

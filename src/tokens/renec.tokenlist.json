@@ -9921,6 +9921,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AkbST94FD4uhxWjeotbpbiwKCiJY5xHzNPLR7qqkP1Tq",
+      "name": "Renec US Dollar",
+      "symbol": "USDR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a72vqel1bkff5zts0eyu5dp5uibk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

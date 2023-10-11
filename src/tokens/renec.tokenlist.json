@@ -10467,6 +10467,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D642WsAB2wX4486tauue7qLBWzKkGuR4PLh26HgUrBB9",
+      "name": "ripon",
+      "symbol": "rpn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8m0rv27iewtd1epp8sig84n6w5pn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

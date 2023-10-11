@@ -10779,6 +10779,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FiS4rd3Xn6HWBCQBfSgdGLuFMCUBxKYcAb8ovfXBzGtB",
+      "name": "X TOKEN",
+      "symbol": "XTN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/34any2wk8uj9guqx7cweguyws9tv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10324,6 +10324,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HoymCVd1D8H8h4wTX59PBDGrXt63k9LBUyLjDzqtR8Hu",
+      "name": "wep3",
+      "symbol": "WEP3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zlvytjokanrcny9usntrw5zymm53",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

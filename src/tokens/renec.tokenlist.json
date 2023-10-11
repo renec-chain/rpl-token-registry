@@ -10701,6 +10701,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HVTqaGUYkoPvBkKp61PRtWmX1zCMiyf9hfdKPoXf9oFk",
+      "name": "1ghjgj",
+      "symbol": "ghjgj",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/56570t7tfun7q8bctz68f6fjui31",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

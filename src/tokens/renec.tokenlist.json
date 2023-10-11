@@ -10766,6 +10766,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "33Ap6ps8fy9H5RqdtpUf1Pcy7PeFfuNfY1b7rYTwwe3s",
+      "name": "goat",
+      "symbol": "GOT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hwknqvuzwyx8fvnds9rtj19t5r2j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

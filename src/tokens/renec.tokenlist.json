@@ -10012,6 +10012,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "69sp963zZ9MLmCPC3aXXyq3EinrKGRzgP94qZjEwQ1rx",
+      "name": "jawapro finance",
+      "symbol": "JWP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cu0fpy4nsjssq101zqletvzlzsd4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

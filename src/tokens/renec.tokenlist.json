@@ -9882,6 +9882,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HUe9mrdpqqG8UqMBMMMe6jvDFJVMW6xNehGUje1oQvZa",
+      "name": "rajukk",
+      "symbol": "RAJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ijsvm2bavf8dem6s4hk0q8117m0q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

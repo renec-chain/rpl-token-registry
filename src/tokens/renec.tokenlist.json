@@ -10662,6 +10662,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4NEPNpXguag26i5jjzAdNAVk7ri7bHs1qsgL596nb13J",
+      "name": "444r",
+      "symbol": "dtg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/70t80iwn162hv4bjw1maj29rri5m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

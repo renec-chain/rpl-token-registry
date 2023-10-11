@@ -10155,6 +10155,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GpBscKUYLBeDqzqKVN6vfMNLjfDeLQG1ckbfUjXyLCGL",
+      "name": "Than Barber Shop",
+      "symbol": "TBS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gszzh6my85jlnxppumcixjr3uc4r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

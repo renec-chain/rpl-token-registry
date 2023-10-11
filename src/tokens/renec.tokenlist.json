@@ -9791,6 +9791,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Ey5XWNSHU8yhVBuJHbsRixCGVdLT9AQKsFPdBWJ7w4HJ",
+      "name": "FARMING ",
+      "symbol": "FRMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1r11lvpimpue1uggt6jwsuf1g8c8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -176,7 +176,7 @@
       "chainId": 101,
       "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
       "symbol": "reUSD",
-      "name": "reUSD",
+      "name": "USDT (reUSD)",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
       "tags": [
@@ -189,7 +189,7 @@
       "chainId": 101,
       "address": "GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4",
       "symbol": "reBTC",
-      "name": "reBTC",
+      "name": "BTC (reBTC)",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
       "tags": [
@@ -202,7 +202,7 @@
       "chainId": 101,
       "address": "GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL",
       "symbol": "reETH",
-      "name": "reETH",
+      "name": "ETH (reETH)",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
       "tags": [

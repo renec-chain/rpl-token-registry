@@ -9986,6 +9986,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bgs4RGKtdM3gSrjBo63dV4taEzZKnigscpxz1UMi7QQQ",
+      "name": "Dodge",
+      "symbol": "DOGDE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6l12gj4lpzvb264nh0mmjc7q7l4i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

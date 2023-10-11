@@ -9908,6 +9908,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CT8gzBvZe94nfQamw9XhwWG1Taatoq6KJQns6wXrgsPF",
+      "name": "Gift Haven Coin",
+      "symbol": "Gift",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gjsrxdj9ckcfl520bpnfw51t3frv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

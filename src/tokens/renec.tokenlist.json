@@ -10389,6 +10389,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5ZLrvNT58yfCcXKEWCZPkadJg3NpJWgUmZmVhv6ikrr7",
+      "name": "Aule",
+      "symbol": "19",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2qqrdlway137xf9sfrrdhkrk8xtx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

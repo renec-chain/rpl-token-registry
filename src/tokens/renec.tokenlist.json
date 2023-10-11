@@ -10311,6 +10311,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BVFps7V2eP8h58DkRg1rWnj5sUQbwfJwwoNQ1kDJhSuS",
+      "name": "Live Token",
+      "symbol": "LIV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/olnix9n57j7qoi61bj1j224zddmm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10688,6 +10688,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4NEfnyY3thjd5wkPuem9Mk564xL3qLk81dcuB2CGbBTp",
+      "name": "76867uyk",
+      "symbol": "yukyu",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nqj7uyqabrrriypjqgm28em4t4ei",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

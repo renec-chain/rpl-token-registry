@@ -10831,6 +10831,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2sW9kgDZRRhZMNYP3vrNhhPVd2jdRvPUwvJr3RfEZkoz",
+      "name": "OKX",
+      "symbol": "OKX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/37ff79qxgoe9vwtntcqmj9tcc8ua",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

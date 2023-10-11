@@ -9570,6 +9570,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FAutRF8B6rMXBgPBeMqqzAUQmn8hH3rNpTXggtUvnMS5",
+      "name": "PLUTO BV",
+      "symbol": "PBV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/94b9du8n0ri0c40gtm0gn1yyrzbu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -9518,6 +9518,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bk3S6PWW3j2SNps8CA6ztZD6RX727Zco6nxz3r3BDPnC",
+      "name": "Vizz",
+      "symbol": "VZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t3zt7jmh4zq39llgfbgnpbujkyyn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

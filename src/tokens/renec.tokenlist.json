@@ -10571,6 +10571,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6BNiUKta3XajQDzdFHGzmwW9wMcHYiK1KwWGUStJBgaY",
+      "name": "Demoni",
+      "symbol": "DMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zohflytfsufk8khb70ntzdf1ao54",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

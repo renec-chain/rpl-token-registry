@@ -9804,6 +9804,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3HCo9AhkPLkbBUUpshwdmxxfCCFXmWGgsgMbZ9mFQQVh",
+      "name": "2030",
+      "symbol": "2030",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5dhnek8ldajfm5g9944qizpqrqrt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

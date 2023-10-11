@@ -9856,6 +9856,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7h6ge5VxEx2SbPAnoyVA2KMYguqC6vdXYE2XhV6UUhbo",
+      "name": "Daveconect ",
+      "symbol": "Dave",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/12ayi4chnsw36ibmgwhm2aiy8wxg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

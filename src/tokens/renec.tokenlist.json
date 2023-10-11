@@ -9635,6 +9635,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BTYdaZxNbj5wFNsSoLab8Uwv9xkk7CdVpNB1k2D4NVxM",
+      "name": "Qordinates",
+      "symbol": "QORD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ucqcmzo9kekux3rilp1ifgqjlrm0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

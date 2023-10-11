@@ -10441,6 +10441,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5tt3c1e4VUhsmFz16mR5KduMNxVBYoZTnzeKoMBpUKLx",
+      "name": "NomuraLend",
+      "symbol": "Nmld",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q5037uv5iwvzratcwlgrljn65ryk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

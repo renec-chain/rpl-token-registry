@@ -10090,6 +10090,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B3dmhrtkEfsg1fdEJKq1qj6qcJF7ffzkWq25NfTqFxhA",
+      "name": "Bitren",
+      "symbol": "Bitn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/676te3rwgf3s0x93i60qwnivm68u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10727,6 +10727,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9wdpM8zXxnsAFjy3aXXfBDRBv3STMB27TU4s8RTKXqoN",
+      "name": "BANDIT",
+      "symbol": "BDT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lbs4o2lij3blnaw6ss3riuaohdme",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

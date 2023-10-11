@@ -10805,6 +10805,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Ht7NwMXbnErGdMVWNnmbGryEEE2bTY492HQz9aKLaM7E",
+      "name": "BARBIE DOLL",
+      "symbol": "BRBD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j1zw0epjc88p5noebhh5ases0zaf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

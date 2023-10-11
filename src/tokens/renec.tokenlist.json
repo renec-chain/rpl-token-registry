@@ -9843,6 +9843,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CoHjHAbvbqy7zboRkqucCPEijyQzBXZCuFtJ7mjYPN81",
+      "name": "Farabi",
+      "symbol": "FAR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7sydxj52hfdnyy705fkno673ucht",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

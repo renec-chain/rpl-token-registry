@@ -10519,6 +10519,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "APATWQ2fiPD3GB7MGJ9Njei79ZD5oEaNbqSc1kStUPK5",
+      "name": "Jonh",
+      "symbol": "JON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7dzqahdxp0pf8hda57da8p9ehwhx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

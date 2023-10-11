@@ -10454,6 +10454,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AwkNohsGzjshnbLHrNrGGdPjuEpy8AxukF3bGGs8RSaw",
+      "name": "AWOBA",
+      "symbol": "AWO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uobp0b451w108mlb7d2ah4q00wwy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

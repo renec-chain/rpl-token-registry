@@ -9674,6 +9674,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "J2HGVj1HPxwKSEe9oWdr8Z7vtgjRpLAP9pMtV7UUj5GG",
+      "name": "siam islam",
+      "symbol": "sim",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rr7pf6davdar70x6k5jw6iokw71p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

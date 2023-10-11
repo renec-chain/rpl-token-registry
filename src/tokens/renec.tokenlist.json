@@ -10376,6 +10376,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3fLZWorSDarEVowKuHvLGyYh75ScqFeWjtk9bcJTknXP",
+      "name": "Swimrenc",
+      "symbol": "SWM",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hqvs6uerp0epy7in38izefnq2euo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

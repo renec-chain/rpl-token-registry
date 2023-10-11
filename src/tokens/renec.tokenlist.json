@@ -9557,6 +9557,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GKW2GJmJgv2YSDkup9dSk8Zoc2tFdDRmAxTWtSi8RGgr",
+      "name": "RENEC REFINE TOKEN",
+      "symbol": "RRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jkppjx59e8j2yibvognuiclm6wrh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

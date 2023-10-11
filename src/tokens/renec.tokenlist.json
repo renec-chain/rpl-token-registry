@@ -10246,6 +10246,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CepuEEwn7MFvo6SRdMHAesTBqDWZjvg6SDDaGpV9GZ5t",
+      "name": "SAM",
+      "symbol": "SAMTO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/napyc9zz9d1t8rrivymjd5ejyrwb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

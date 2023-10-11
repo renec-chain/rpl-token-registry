@@ -9596,6 +9596,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DnJNpb3DfkY4iFPhBVJBMUV49vufrqWjAfvj6gz2MTmL",
+      "name": "Cuongmt",
+      "symbol": "CMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zjvs5dgbenxk6nd4rukbq8mrtoj9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

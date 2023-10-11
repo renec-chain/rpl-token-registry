@@ -9869,6 +9869,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8tsnbQegyGgEocNUWzu9iVqhMbGs4uyAq2npGRrGGEnr",
+      "name": "Beastren",
+      "symbol": "Bstn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w81qealdq90a3lj5jgcu9n66l8gl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

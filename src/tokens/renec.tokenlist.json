@@ -10428,6 +10428,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FtQsnDHnDJAWFRjY2hkzpjNyYXF1mrzXo4oGa297CqUb",
+      "name": "Sardar",
+      "symbol": "STI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k5n2430k37jxl2py81odeguaj30p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

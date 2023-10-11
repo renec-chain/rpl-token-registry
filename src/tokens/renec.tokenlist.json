@@ -9531,6 +9531,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3iK2c6EEvmzH1RD6zg9dgbdzNWCUfJK2yacoV2Jmff9M",
+      "name": "CallOfDuty",
+      "symbol": "CODM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8g1jsieba0a2x5fbi6qzfnczoisv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

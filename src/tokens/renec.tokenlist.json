@@ -9492,6 +9492,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bqfup3Zdk9EpvDrPuGM9yNBQzL7RvEz9qRqn6ZQyarY7",
+      "name": "Vermaji",
+      "symbol": "VMJI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hl5q4nzb9hndrt82l7r88jbrk7lz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

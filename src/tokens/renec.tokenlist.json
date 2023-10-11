@@ -10714,6 +10714,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4WbzSFgf5279ZDvmg9BLBGfywbuGrh3EpDFA5rtFmsW3",
+      "name": "ko lnaf",
+      "symbol": "KOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ynxbwh706vrlwj3h1r0nbtykm3ml",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

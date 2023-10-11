@@ -9960,6 +9960,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9ifMX1SKsCDr7Lq4iAnPtzNYnjxbbx2xRM8kbdjGsoKn",
+      "name": "majito",
+      "symbol": "MJT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u6entfq6rtnucyjm1gm4u7bi01a1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10363,6 +10363,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "C2L8A8MVNEgBGijbm5gCZVvwmo3161Bdxb9dya4P9wDf",
+      "name": "Binance",
+      "symbol": "bnb1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ayjfmf6ddpw3ymcytft15fx7y6sh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

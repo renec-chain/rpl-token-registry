@@ -10792,6 +10792,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AKL1ggSaNa5rLvfiEuTGe9uJarcyWNjrR6Eb1v3EYuqN",
+      "name": "Hope",
+      "symbol": "HOP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ohn9s8w4plz26klxr56ldg1e77zo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

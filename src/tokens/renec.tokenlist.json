@@ -9479,6 +9479,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "72kkptJuT6gLyXCGcxw4pWE4zbaVGBshM33ATpaaTFGB",
+      "name": "Satoshi ",
+      "symbol": "STS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vkd5feoq128z661xvny3zy69uaq9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

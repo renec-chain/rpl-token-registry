@@ -10272,6 +10272,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9DyBoKrtHX4uKG3hpm2WTSQPQgfYMuR3XVLBCesrmFDn",
+      "name": "vkh",
+      "symbol": "vkh",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yezfy456b962es5tr5jxbql88oj2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

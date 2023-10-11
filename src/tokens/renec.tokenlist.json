@@ -9687,6 +9687,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3wQAKpzraha6XBxWSED3yehbuVTAgQTzNdstUtoePw4H",
+      "name": "Lenhtong9999",
+      "symbol": "TTL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2p3pyhsj6u9n1oe1m82wt7irh6ze",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

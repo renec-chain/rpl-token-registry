@@ -9453,6 +9453,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DMFWHikkhiQJ3F3ZM3LMF8x1qZ46LdjLG53ZwQpHNRpC",
+      "name": "Stylo ",
+      "symbol": "Syo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6z4g8qx9o43vnpum0wd4vlyg5tk7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

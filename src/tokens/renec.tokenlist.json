@@ -11208,6 +11208,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GFmnmkyUzqPUEZAF4etmLP3hLVoXt6cFrKgWsYaJ6bsj",
+      "name": "sanju",
+      "symbol": "SAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/md0x1jlqatwmu04bbxw1apuc45im",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

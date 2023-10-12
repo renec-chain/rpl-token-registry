@@ -11156,6 +11156,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "29SVLkXEazBX5s883N1zdgPknKu22PaLQ3ky4B2GqLcd",
+      "name": "fantaxy",
+      "symbol": "faty",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p8qpzqy25hrdniqg5bbobh0ss7ij",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

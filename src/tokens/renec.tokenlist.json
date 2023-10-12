@@ -11273,6 +11273,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "627cGfC78WFo8fZtCfk6aTtZtsAqfTW3simv9GJNPf69",
+      "name": "TeslaCOIN",
+      "symbol": "TC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m9cx47thv39xz3toza78ukx6m5co",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10948,6 +10948,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GJyJ5b7vw7FvnuNJeifivLpvcfbZ3dp3kF3XdkXcsVyk",
+      "name": "KONTOL",
+      "symbol": "KTL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nqzt7zu0frvsc3pzikrc6p4iu92i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

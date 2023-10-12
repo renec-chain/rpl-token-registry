@@ -11247,6 +11247,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9g7racta4xNVWWGgut6D86EhQJ1qYeTRumiufLV6TcnJ",
+      "name": "CAnto SHIBS",
+      "symbol": "CSHS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kxb19vs6l41stwaht6d1h3y4wcwt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

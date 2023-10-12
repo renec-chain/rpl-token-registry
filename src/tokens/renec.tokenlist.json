@@ -11299,6 +11299,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8JpzTZZ2KCZ7ZiGBcoyuLwLJLjBGpskekmdw2dYGcCJ4",
+      "name": "Lend",
+      "symbol": "Lnd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j6zip6rrdcm9bzdp4lib4y4u0zkk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

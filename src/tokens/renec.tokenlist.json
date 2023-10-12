@@ -10987,6 +10987,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CmtRS62sZetdipbmGq6SaDm6U2forRMdwsnXWjCBxDRW",
+      "name": "renecxx",
+      "symbol": "18",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fp7bgkqtvwmf3q7bvuepz0r562ho",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11000,6 +11000,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6BgSHdvKLyyuj6sKQSaf4dKftYwqyB4zK3hEe1GuJm19",
+      "name": "ShareToken",
+      "symbol": "SHR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i1dkl9fs8v2tzwwyn1j8tv2rpncm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

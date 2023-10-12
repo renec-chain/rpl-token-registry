@@ -11104,6 +11104,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7RaiF8u2UpRNqb3u8RNMCAQwFCBv7xxaBybfNb5mEXkn",
+      "name": "PUBG ",
+      "symbol": "PG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ee5oa7zgaiewde0lwoy53kpsrnky",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

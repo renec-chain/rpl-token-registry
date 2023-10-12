@@ -11117,6 +11117,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5bYmuxBfWGwuvgsG2hnDKxUQcZbzZXrNcmFBSTNf4sof",
+      "name": "Shelite",
+      "symbol": "SLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zrs9j4qrih7u14k1peq67iieqxqb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

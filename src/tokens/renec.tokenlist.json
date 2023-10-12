@@ -11143,6 +11143,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3CcwcBd8dPhG12Z9foLX6kQCBfkibXdMGesrZeb6ktAW",
+      "name": "Gold spot",
+      "symbol": "Xau",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qc21nw7ylvicr6heu7vj7aro5y9i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

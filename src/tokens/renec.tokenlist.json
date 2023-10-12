@@ -11182,6 +11182,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AYyU6WXHgs99CCFz8cR5NDNLzENjWvrKvrs8Y848qziX",
+      "name": "Azuri King",
+      "symbol": "AZRK",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zvkxyy3j4qkycf251087m22uxqi4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

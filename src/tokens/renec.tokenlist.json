@@ -11065,6 +11065,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FH6c5z6uEo4rthbEmThick9QPqQyz5Es3tV9X6sFk8Cj",
+      "name": "LeBird",
+      "symbol": "LeB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nbej70gitvfeykie4rz9pxw1234w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

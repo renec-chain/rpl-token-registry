@@ -11169,6 +11169,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8DAdkk2J7VjmMHvy1NcR1y4y7FZfuPNjSPsqeNiWGLkf",
+      "name": "Kinetu",
+      "symbol": "KIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8h3207y8cxado1x51tkg9bz75vw6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

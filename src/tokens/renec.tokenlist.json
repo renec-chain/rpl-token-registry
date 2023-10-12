@@ -11013,6 +11013,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4Diz1jgv9YwDFTEv7vLNDsDGXgh4eXL6cX9nKCziwwQa",
+      "name": "Skipadeyonphotography",
+      "symbol": "SDP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9kswwlhs1cf8ecwt5n9j9jcv4c9s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

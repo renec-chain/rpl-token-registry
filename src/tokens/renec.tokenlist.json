@@ -11195,6 +11195,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "95iRKCnqo1gdmw5rP9PG8XJ9ANNcQC8hd7J6cmtmfNAN",
+      "name": "amardeep",
+      "symbol": "AMR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9efk916amz75g6pvbynpclr795kw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

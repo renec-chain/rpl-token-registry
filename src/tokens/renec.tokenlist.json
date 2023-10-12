@@ -10961,6 +10961,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "78azTw1oFTqMFcT8mfa2tQMR9uXRC6D8eAfR7UranUxb",
+      "name": "Centralized ",
+      "symbol": "CNTLZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ka7d8xr0a1p9bqm2gdy62yn9uwwp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

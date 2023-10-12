@@ -10896,6 +10896,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EFMp4rkyXdWp9kkTbapKxKc8RXVdrY9rg7aK8WCqVQXM",
+      "name": "Gojo",
+      "symbol": "GJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h0qeobvbdcp2ptpuvep0cikknnol",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11039,6 +11039,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EKts3i3ZnHokxwLSRrS62rr3T7NsfaR7auHsC5q3NLXG",
+      "name": "Slend",
+      "symbol": "Sld",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6ifixuj7iupx9037bf8x16nt1341",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

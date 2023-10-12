@@ -10922,6 +10922,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "oKgwMNPK8VrhuKHn4hYtAiqjCN9stxL36G8ThhoaeXm",
+      "name": "Run under Guard",
+      "symbol": "RUG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3xbppp04xjxn5vo6jo2ftatz9ifc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

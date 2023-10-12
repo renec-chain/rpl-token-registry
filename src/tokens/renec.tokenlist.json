@@ -10935,6 +10935,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HwSr9LWkcV36EJp1iskEWdKr59x4VjeiU9PtcUi9d14D",
+      "name": "Euro",
+      "symbol": "Eur",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yw19m45pdtcu513tffutmm4ow3kx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

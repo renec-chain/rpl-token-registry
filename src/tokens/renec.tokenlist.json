@@ -11078,6 +11078,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "76x2EnTtyHujU8FCJiypcSyfaFssV8fpgbFpTewnaAQ8",
+      "name": "LendCore",
+      "symbol": "Lend",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bwj24taynqt0nrqflgzs6dw67x7d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

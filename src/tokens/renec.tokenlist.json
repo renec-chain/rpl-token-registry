@@ -11260,6 +11260,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AvNTFqL4BqxwL6F6orVfLPdkXyNsrV1c57NVSdNciQ2k",
+      "name": "VND",
+      "symbol": "VND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j4wtyoouef5ahya7lt35vg1cjvso",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

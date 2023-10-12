@@ -11234,6 +11234,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "53EgMWeH47upyhY3NaGMwJLsbGQWQW3aN2rCFiV7fTg1",
+      "name": "Rader Zing",
+      "symbol": "RDZ",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9lzkyidicjp44rb8hwbz1i2o014t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10974,6 +10974,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "J93Ty6MU1jZkMCRVNtzPdHdNaabHrkVkG4RTmpMKZMqy",
+      "name": "COOLA",
+      "symbol": "COOL",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qwskhdopob6vujkl1p7sh6ptn3o9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

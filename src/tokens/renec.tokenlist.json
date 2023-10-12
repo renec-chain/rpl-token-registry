@@ -11286,6 +11286,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6nfzTR4iw6ifFFcdncJvQrFXsotkNyMhVJX3cnsf2tSE",
+      "name": "RENEC BEAUTY",
+      "symbol": "RBT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jbx005jk90q133apkzcje1bv0gyt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -10909,6 +10909,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FF8XbkR7TN2KCtxaGmaoZJVkGuusz1twdcTGG5rPGoct",
+      "name": "EXEM FORCE",
+      "symbol": "EXEM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u9lhgm52v0r7nnaayvsqtxi1phw9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

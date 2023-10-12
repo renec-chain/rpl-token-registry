@@ -11312,6 +11312,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7uJd6965WyXbRJhb3xSYuVDSuG1PFTEXHZuuKZymo7ah",
+      "name": "ZONE",
+      "symbol": "1000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d0dk9cp0d10e0eo7vcaqxzlzb3y7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

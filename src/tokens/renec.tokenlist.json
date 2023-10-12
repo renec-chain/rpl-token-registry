@@ -11221,6 +11221,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HNsceyRrDtihGF4WBXMxXxGM7zxVZCcrFjG4fzNP9DHF",
+      "name": "kina siba",
+      "symbol": "KSH",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kmf9k5ay3dgdui470tuhowav4afo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

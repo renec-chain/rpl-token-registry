@@ -11130,6 +11130,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9K1Vjfy5qnasBcj4WfFqZf9MTvbinL1q5dPPeAji5jmA",
+      "name": "Luna token",
+      "symbol": "LUnoo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/63imz2o1mhyno0ouxce1salds97h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

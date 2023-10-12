@@ -11026,6 +11026,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4vqYb2aQhMNzfmN9T8LxZVN85Cw9u8MpeeLF3KBPvEA9",
+      "name": "Meme",
+      "symbol": "MM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ony4qfi0ik7hynawh85s1b3wxo94",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

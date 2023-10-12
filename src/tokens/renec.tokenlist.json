@@ -11091,6 +11091,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "37UZoVPovYbqfSLwzezW4g5bRxwrMKFJfDHbvMaL3X6S",
+      "name": "ogbonnav7",
+      "symbol": "og7",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mp1b1ze2gbst0503pylmclh9r9jh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

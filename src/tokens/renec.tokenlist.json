@@ -11052,6 +11052,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7gXm6yuRFfjHMtaZNGeVj4kqRvbe2JgD2tqgTG9DgnNk",
+      "name": "Oran",
+      "symbol": "Oran",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8mh5r9wplpmo8uums0p5snmnij8v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

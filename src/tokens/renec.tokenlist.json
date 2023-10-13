@@ -11429,6 +11429,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AjzZA62PHmeawDT4euXXQH2dWb4hDx4cjJiAPJcQ8sx4",
+      "name": "AiLend",
+      "symbol": "Ailen",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dmwey4lsimh6jijnd521o65eipsn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

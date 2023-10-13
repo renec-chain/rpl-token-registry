@@ -11533,6 +11533,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FtpUezqKAFwLe5Ue5LLisoLGAsZqACiBUJSxDndNBHgS",
+      "name": "LendEuro",
+      "symbol": "LEuro",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lhlej2699gxfpuf86po3e0n3i0rh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

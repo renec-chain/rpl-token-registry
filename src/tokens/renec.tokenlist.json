@@ -11364,6 +11364,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BL58zk2eaaUCE5MhXSQuJazGMKNtKwpRE8RBoBe1hyur",
+      "name": "Farm Boss Token",
+      "symbol": "FRB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s6act6vfbreg3o8w15j18rbmsmg9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

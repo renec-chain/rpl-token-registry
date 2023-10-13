@@ -11468,6 +11468,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "KKGNeHSiDdijmm7wuZGrnJhDDQBV9F6yRp6QNgQYUYg",
+      "name": "CamHa",
+      "symbol": "CHL88",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qqttq4x7d89d8r50zos6j7djv36y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

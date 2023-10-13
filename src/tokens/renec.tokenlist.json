@@ -11338,6 +11338,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HeB1t4TqE57NGCjtrn3Rq7iSvQx2zMc59fsZYNgreb9d",
+      "name": "The Rock",
+      "symbol": "Rock",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l9yc1tx46ik3w6tnxarfnskpw3r7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

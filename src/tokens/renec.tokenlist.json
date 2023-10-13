@@ -11494,6 +11494,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FWk9QaxXAJF4xJMovd4mpMLgXJrEFk6yTnhJpxGJRJ6p",
+      "name": "Only Zone",
+      "symbol": "ONZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cf5748filk19v229km4ryakx1qz7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11403,6 +11403,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6Y6J3Tdbqmadv12QwMpmu4pZuvrWqcTbDuqXoWe3VrDG",
+      "name": "Opaa",
+      "symbol": "OPA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zqgyey1c1cii76apio3ft024241g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

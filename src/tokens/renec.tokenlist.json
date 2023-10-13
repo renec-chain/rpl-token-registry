@@ -11377,6 +11377,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GbWuDuYePLSBB7dmYVWLsydQgtgkeHSk3wmQM8d5VgD1",
+      "name": "lx",
+      "symbol": "lxo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fe7dnn8jssw1w2a4mdi5ovj55nvq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

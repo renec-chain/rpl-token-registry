@@ -11390,6 +11390,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8Js5Lsfd54ZRBQDHRR8pZND4Ds2CMEBkbm9M68j9V7qQ",
+      "name": "DONG BAC",
+      "symbol": "BAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bofd6xrxbifv8z3nnduxue62u3k1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

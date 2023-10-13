@@ -11520,6 +11520,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4tfKThg62ayCAARZgWrERGNtDTgXDWA2F839xub2QqRh",
+      "name": "Crown",
+      "symbol": "Crn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zu8d32f6dnlehxuw5q0vivzsfdhr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

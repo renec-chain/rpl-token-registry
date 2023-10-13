@@ -11455,6 +11455,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "838LMNQyjuMX9yWpU5wQe9zhnBGNdZhBrJCXFWJUjm9b",
+      "name": "DeFi Pulse Index",
+      "symbol": "DPI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b4clt9l50trrado7hwltxw9m8ck9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

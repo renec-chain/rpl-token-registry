@@ -11351,6 +11351,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CjBosPA5x1sbpm7fhLtMPRPTey5JT1arRuBpnxZRFH51",
+      "name": "Famouscoin",
+      "symbol": "Fc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/49dvwuz62w07vxhhhrhqeuk6zasn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

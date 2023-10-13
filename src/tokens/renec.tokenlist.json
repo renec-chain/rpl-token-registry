@@ -11442,6 +11442,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BHHdbDU2ixT9TnpFEEemr7r6rt6gvtBXMNk4crNcx1J7",
+      "name": "RenCatapult",
+      "symbol": "Renca",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hiedlju0romr6cxcnd4d06z7fb1x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

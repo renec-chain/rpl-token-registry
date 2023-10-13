@@ -11481,6 +11481,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2RPHFNsSVbJGZaeVeudHqeyiXQLGwzMRhSNDagwoPqcZ",
+      "name": "Rendoge",
+      "symbol": "Rdg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nti0np8dyblz3a6u3a5ee0zdkm7s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

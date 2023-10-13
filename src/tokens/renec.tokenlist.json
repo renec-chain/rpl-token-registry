@@ -11325,6 +11325,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ARjMcpT9bSB8tN5ctf2QSzkqVkDUtLK7tzNKKwGVvMrV",
+      "name": "zro",
+      "symbol": "10001",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/whovtm0qrape40fppa8m33tu0dt3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

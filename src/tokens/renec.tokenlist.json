@@ -11507,6 +11507,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BFPq9fia1hxEnPugTZvpXxfp24fw65qtVUyMtdMYya29",
+      "name": "Coipuco",
+      "symbol": "Cpc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w7vrs3jcywx1dtnxvacprgvobu4g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

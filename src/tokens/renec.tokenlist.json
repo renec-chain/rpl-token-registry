@@ -11416,6 +11416,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3rPdNV4UN2XvRE1MMqZR46ZzCb6GNUwAAo8g1DMMAuHN",
+      "name": "Wong Shiba",
+      "symbol": "WSHB",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/819tc5tf5fisk2kf8m9e2vhmh8hs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

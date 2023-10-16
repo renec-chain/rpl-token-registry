@@ -11962,6 +11962,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7KTm5qhRgreSpbRFKq9cn6hff7HNkd5Qe776tNKcm2Ez",
+      "name": "favour",
+      "symbol": "fae",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kg04n2d3itiv4alx6meq02b8y0k6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

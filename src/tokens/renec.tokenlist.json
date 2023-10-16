@@ -11897,6 +11897,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ex2dQ2ESNR5hcQbnigKeatbk9vZsBhS8AhE1AuemZBB4",
+      "name": "Bitcoin ",
+      "symbol": "Bt",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ru29tnkpa8nt5eexiu877bqgs3d2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

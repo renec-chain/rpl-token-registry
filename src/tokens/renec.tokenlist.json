@@ -11598,6 +11598,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5LknHRayyAZz4FAyaKC7cLdnpyQJyVjbZq9eeXV21xSd",
+      "name": "Bee income lenders",
+      "symbol": "Bils",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dzbe23ab69s2gg56kb6jxkq8dlsa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12196,6 +12196,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "u1QkRuuhkva8G9HSbDSZ9vXqY2TtPkb59NKfzFK3kdL",
+      "name": "Armis lenders",
+      "symbol": "Arend",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lgyo0n40hre5howg9eobfmhcwxjl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

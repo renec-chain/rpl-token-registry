@@ -11832,6 +11832,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AbnYBvLAEUj1D1BCaDNLEZoVAfA87HCeh21pQozUJgTQ",
+      "name": "SPARTHA",
+      "symbol": "SPA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ks2sy6kqzjxpy7r7tgx459vcujwc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

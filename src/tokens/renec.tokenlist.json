@@ -11689,6 +11689,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8ChoeaPy5pK362S91JnDhBGaCBUWvGzbSeKej1DJPZuH",
+      "name": "Bitcoin Ultra",
+      "symbol": "btcai",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/isgfosl542wh4jobsr4xuaw3gtvl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

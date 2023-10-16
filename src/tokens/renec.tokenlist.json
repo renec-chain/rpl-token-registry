@@ -12209,6 +12209,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3nWPTovp9KZuHgfmgBhLXQNvXqWTQkQ9PC7V21juN4jV",
+      "name": "Black rock token",
+      "symbol": "Bkt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9kurhlqgy78a6qbahsm5ml1iqsyd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

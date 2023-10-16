@@ -11754,6 +11754,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Fyc3EFuynv35AXeBnyWHspUtVRTdLA4C1UVNNqjMCJ6X",
+      "name": "Ravel",
+      "symbol": "Rvl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lf8a72ejyk9jir829fk8u7bhoqlt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

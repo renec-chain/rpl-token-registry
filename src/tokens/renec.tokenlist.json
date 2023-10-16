@@ -11663,6 +11663,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6fmp4s7mPuFhJgEXGYpLXi96fdKFUn7e3R7gUCB2ayGE",
+      "name": "ZOIDSWILDARENA",
+      "symbol": "ZWA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jjd1u01ynebdldjlvj4r8fym8wce",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

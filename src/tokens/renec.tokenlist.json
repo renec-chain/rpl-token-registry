@@ -11793,6 +11793,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E7aK3LsN4L2n9f8voWKzby6spHD2fn3Du5s8vT8Cd8Xu",
+      "name": "Layerzero",
+      "symbol": "Zro",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/beumaj3fk8yeefwhg10x4fuqzvob",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

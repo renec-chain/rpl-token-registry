@@ -11819,6 +11819,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3gswc1aTGbqdDC14prteV3CVnr5FjT8ZnHNxVz8r2LE1",
+      "name": "Rene",
+      "symbol": "16",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kktou9l93yy06yvc17m276b6llxo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

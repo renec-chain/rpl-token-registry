@@ -12092,6 +12092,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6B2cL3YEoFAtK9sNExh79i6ZGCxig8Xtqfpw9KFpmZbU",
+      "name": "kingsman",
+      "symbol": "5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lvrurxe52jkk0ti12he0gtwygjuf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

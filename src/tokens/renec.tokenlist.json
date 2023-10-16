@@ -11715,6 +11715,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "F81pT6MA8HDs9BJKVY8PnuCKveSywQeaBrANEXjEaFhx",
+      "name": "LMG696",
+      "symbol": "LMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z02xsxvwxger7lpqha402g50gu9r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

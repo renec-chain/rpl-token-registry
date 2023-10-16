@@ -12144,6 +12144,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Hrsr9itWJK6Bh5ZKmgC3jn9xJCjDEchd5xQhhgb4o4gX",
+      "name": "Junipero token",
+      "symbol": "JPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7x1s1ef3jnm1jtt01efvtplm1asq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

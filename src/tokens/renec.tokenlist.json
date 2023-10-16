@@ -11988,6 +11988,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FU7H2V6YJKUA1XQ3UJQHeWiLDYdehTwWASx2m6s7o7sR",
+      "name": "KOlHENA",
+      "symbol": "KLH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/111adqcctdw2p0lv16nlljh8uawt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

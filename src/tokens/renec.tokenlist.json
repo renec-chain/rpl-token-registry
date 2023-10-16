@@ -12248,6 +12248,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FuSEApYMsnz9wsU2WP871wa9aV72sonKXUD6jjwavqzZ",
+      "name": "Berl mall",
+      "symbol": "Beml",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g52uttfyz2ywqpjuwb9lxksj9tdo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11637,6 +11637,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2nn9vcnfpjP28a9oSqvJjFQmpjSM4RyruEw2TxFsG18e",
+      "name": "reEt",
+      "symbol": "reEt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zbr4is6klzuesfup9m8e62ct78as",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12040,6 +12040,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BqoRCsFUtBhvpK4Ycga3T7dyC5yLQCiZXTb26G4jAF4p",
+      "name": "COJ WAY",
+      "symbol": "COJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nnj4rnyn3qk7kgti25a29by0qmjk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

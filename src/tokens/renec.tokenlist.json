@@ -12131,6 +12131,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fk3rhWiEsBMB6dHsc46NUqjPfyRzQ1tW7xFihVtYcWSN",
+      "name": "Zamba 5oo",
+      "symbol": "Zamb5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xlwnr4si3oyb06rtqw6lutstjshf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11624,6 +11624,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "hN4DmSL3R21ruU25AFdGUjckZ8aGfLUcgFEtvjjsY5o",
+      "name": "Ren crown",
+      "symbol": "RenC",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a6ky13bnem7go71ak9cgl9jc4fba",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

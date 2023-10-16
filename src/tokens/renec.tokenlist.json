@@ -12183,6 +12183,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EnUp4wktVrTpWT9d3gxGABQ5w7g9Q2U6yr6FmmtcK5UB",
+      "name": "MRH",
+      "symbol": "Mrh",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yw23q0roxjt7ijvnnwx4u0ynf0gf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

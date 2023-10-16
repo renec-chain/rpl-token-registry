@@ -11975,6 +11975,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AqSdiNYeS49pjwaeuDMqsWMTSjjkHi4oHpgVMiXLN24L",
+      "name": "YUMI",
+      "symbol": "02",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/osnbtbwm8qu1kmn7oo0p4leq9yq3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

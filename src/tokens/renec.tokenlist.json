@@ -12079,6 +12079,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HW65KvfFmvKY4pF6Wsa6P86w8kjHjfGzzGEYzvDNwYJE",
+      "name": "Only Zone Nft",
+      "symbol": "onf",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s61ie2b0hdx0r8d5w422z4gb998t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

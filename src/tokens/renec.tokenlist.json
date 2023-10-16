@@ -11858,6 +11858,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "45ueJBEk8k99aVqcnGqYH3YYbF2n8Qo5PjXXRpK3AxJ2",
+      "name": "Fams lenders",
+      "symbol": "Flend",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ewsstmawuqehh9pz4syq6ksrtwxa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

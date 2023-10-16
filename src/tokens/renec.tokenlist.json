@@ -12157,6 +12157,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "28M2sreqJUN4Ectuskwh6kmXBpC9iiaCJRDuUGHX6TeG",
+      "name": "Mises",
+      "symbol": "MB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nws2gazh5k6w91z3npnzei82t1tn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

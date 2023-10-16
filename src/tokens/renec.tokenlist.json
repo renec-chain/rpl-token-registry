@@ -11845,6 +11845,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AUqtmkA6Xet7Nq4CbETFbnC5hWd4WyZjKKQ8aGVpLgTZ",
+      "name": "Moonlend",
+      "symbol": "Mld",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/66h9mg1ieksa2eek1chxhpbstypf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

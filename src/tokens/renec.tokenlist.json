@@ -12118,6 +12118,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GqATk9xVoL6dHSAob6b44Jubxpe8GX6NJtpzAoiCQSV",
+      "name": "City centre token",
+      "symbol": "Cctn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qp2h32gf9xu9cqpy84x0iduecwmu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

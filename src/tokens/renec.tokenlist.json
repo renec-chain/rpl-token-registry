@@ -11650,6 +11650,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FdmqncEYPP6HEwB22Xfum1DLQdgKxXHF7wAvaW5FYgK7",
+      "name": "artist",
+      "symbol": "arts",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/40yrpfe3m9hzyok6uaurzgmcrjxn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

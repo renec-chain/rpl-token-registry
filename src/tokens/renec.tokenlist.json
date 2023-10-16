@@ -11702,6 +11702,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "mJP5bqY9aMmZ4CxtsP7PL9JvG3jMNPk2y6MbnZiVuEa",
+      "name": "reADA",
+      "symbol": "reADA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q3zoo912acodoi4hnnlwiov99oww",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

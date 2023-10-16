@@ -12105,6 +12105,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6zNzgh432qMQtEUypQBagvgABFKyhizMRY3EYMBrHNuC",
+      "name": "HM",
+      "symbol": "96357",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y97tn293lnx21k6tsnanbbeu0kwz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

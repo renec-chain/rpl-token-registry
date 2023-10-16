@@ -11923,6 +11923,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3fHGwWyWRTm32HbsVjwvofDyA9bk7PH2p64gU5VuTeS2",
+      "name": "XCoin",
+      "symbol": "Xcoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xqppadkgn00tg91memq04fn19blj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

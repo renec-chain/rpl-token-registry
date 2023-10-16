@@ -12027,6 +12027,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4DVhHJodccDgZbFpwZHMFWDsTKBFUAbW2PWiFU8PAoCp",
+      "name": "ShiaBot",
+      "symbol": "SHB",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oxzoe13hyukaas28ekrmvs3h651c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

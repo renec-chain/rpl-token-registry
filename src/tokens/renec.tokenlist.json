@@ -12222,6 +12222,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3MhHMgeqmGGZJa4QYNc1waA3LFdsrDuJVAgLts9L8JFQ",
+      "name": "Star ren",
+      "symbol": "StarR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/18g76ho9kvtn6jjusxo8svsdcn5z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

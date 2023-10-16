@@ -11884,6 +11884,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DQqbdJnCkN3jLqYEZE9EGrqmjNDEuz3XczKC6HrTrb2V",
+      "name": "Worldcoin",
+      "symbol": "Wldc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v6wcta83nr5esz1e8e1v6ydgf5e3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

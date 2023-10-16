@@ -11910,6 +11910,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6jfTbRxB2fi4o3oRgDk2xvRWW6B7dbv3grwNVPdLqb2Y",
+      "name": "Linkind",
+      "symbol": "LNKD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/thilmfp7iguwtpf9lldc63pao9ld",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

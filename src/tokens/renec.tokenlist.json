@@ -11780,6 +11780,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NbMnyC3RBJSd4YYKcmnKyZBuueaexV9jvvWUjzH5CN1",
+      "name": "Zksync",
+      "symbol": "Zks",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w40i4yzjzzi0sbyglplzwt0alhx4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11936,6 +11936,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9yaEMnG2sK1hiTtNXcY4EG7cbcNa82K7FDVRNHHGBMAQ",
+      "name": "Take task",
+      "symbol": "TTK",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pyep9afd7t1zmy8v35h89txl3sih",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

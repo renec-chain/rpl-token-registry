@@ -12170,6 +12170,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5aSLKbyqNbaz5XQAMUdC8dBW2DQCWnSwt681BXcQQhkp",
+      "name": "RENEC ODOGWU COIN",
+      "symbol": "RFC12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jt1w921yzzs6t92xkz7tio3c055f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

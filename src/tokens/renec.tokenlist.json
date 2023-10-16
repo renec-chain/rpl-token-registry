@@ -11871,6 +11871,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DMXNLVFWJvVKQ66sWnpRVQVoUaycwEHtkRJ68aYuKGN3",
+      "name": "DEXCLUB",
+      "symbol": "DC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pmrhzlq9s24qgu4u4chj6ua32xfj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12066,6 +12066,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2trXzA5Vy6x9hy4C1chqgpVeYFQqVaLw89JTyemkVUwM",
+      "name": "Flying Maten ",
+      "symbol": "FTMN",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6kyq9fo5c24eyxwbk4abyxbestcz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

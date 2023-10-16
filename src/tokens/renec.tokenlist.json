@@ -12053,6 +12053,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GXUgr19jkh4EFR2rxx34phW32NkQ2ZgdZwJxTNdj48wT",
+      "name": "Doge pin coin",
+      "symbol": "DDC",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/60yvwsue34xivf69syuwvfz5p6ii",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

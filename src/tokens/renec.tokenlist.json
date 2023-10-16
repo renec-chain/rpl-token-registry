@@ -11546,6 +11546,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BVyNZxKyDCTgKNybFtg8q7XNgaZhGRneJD48F1DKuM8n",
+      "name": "Lion",
+      "symbol": "LON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zc8203qzmjjfz694eliqhjg7jus2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

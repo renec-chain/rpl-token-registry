@@ -11767,6 +11767,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bq9dPR7Nzgtg84JbUNnBjg5cvXUMdm1Frj9qDHqoxQyk",
+      "name": "GREAT CRYPTO",
+      "symbol": "GC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dzs01lz71y9y3blbv07sk4xcduqb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -11611,6 +11611,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "24i1uinpgoQhrqUvvJTwfKg1KpVcz59C72oQ7zFvVYQZ",
+      "name": "English coin",
+      "symbol": "Enc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v26hc6vx9ft9zzwk4mddyusm8fms",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

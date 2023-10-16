@@ -11572,6 +11572,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2RQKPuk9EYsAr1xwuGSkLRh2jXxjkSLTHdSm3NiUxqG3",
+      "name": "Game lend token",
+      "symbol": "Glt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a4ndfq7t1n7790j0rflkujgrzayq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

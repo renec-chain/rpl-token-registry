@@ -11728,6 +11728,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ARCr9BBnrCsZbqaTcUrbAKGs8jSyjrRgXh9T5zBJZZJY",
+      "name": "Arj Coin",
+      "symbol": "ARJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9c4v2imtww4jfd995zbgthn5pmmd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

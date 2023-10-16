@@ -11585,6 +11585,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GryAfeAeuimhq4h3dJt2g2yqTyjRWJxDboovvktfVbdB",
+      "name": "GOD",
+      "symbol": "GOD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q9vnmgmy3ir9ivnbm4ig70ie6gz4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

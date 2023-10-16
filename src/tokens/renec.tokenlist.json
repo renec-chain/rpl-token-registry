@@ -11741,6 +11741,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "58y1Z6Tqs7xvzrF1rhZQ6Mbji7eFssD6icL4MzNRiyQc",
+      "name": "Yunus coin",
+      "symbol": "YUS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qr61x3i0gowgf3sloewxu52spmzt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

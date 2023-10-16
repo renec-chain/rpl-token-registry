@@ -11806,6 +11806,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "mQetgvjVCENbv4yyBukC3QEzZoahPseCTV3uTsEHVY9",
+      "name": "STAY ON CRYPTO ",
+      "symbol": "SNO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/verccqpu9hnoqz3o3h3nyf0o0mnk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

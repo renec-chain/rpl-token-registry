@@ -12261,6 +12261,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3frinBY3BW5rZBPYdNqUHZY1fGfKExNYH1KsyHiBuNpJ",
+      "name": "imdboy",
+      "symbol": "AD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g8nu3qezneaqt1jnx7tqz9ehroio",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

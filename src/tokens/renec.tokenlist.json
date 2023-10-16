@@ -11559,6 +11559,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3GpKxFMvN33GFhCY7fbp7iPhSK4eTM2aeXsvQnZXiBTr",
+      "name": "Ai ld",
+      "symbol": "Aild",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fr3ca4kzhbarkfyavkru7fkd2d9g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

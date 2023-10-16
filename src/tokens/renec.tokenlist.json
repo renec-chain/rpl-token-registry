@@ -11949,6 +11949,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Gjvd12ZHW1MKdXj2wCMWhtW7PGDu7yxJNwvrU2nAdHFs",
+      "name": "Billionaire Coin",
+      "symbol": "BLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kykg9b7i09hjpp0dtv2e7ccs2iab",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

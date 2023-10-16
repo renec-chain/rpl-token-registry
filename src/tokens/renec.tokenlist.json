@@ -12235,6 +12235,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "YBuzdNDjeWfx87YZStiSCBFpK7k1h1GgeyUCyyuTuhj",
+      "name": "Fast money lenders",
+      "symbol": "Fml",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3jcp59vsrkuyuq5xlttn55hxvfgq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

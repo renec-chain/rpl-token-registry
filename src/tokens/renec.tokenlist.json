@@ -11676,6 +11676,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DP4X8wUkMYuryuj3af11YTNaqcwvbG11k71NA4pVpZC7",
+      "name": "CRAPAI",
+      "symbol": "CRPAI",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/inskr45zcyr3z2lez9p6r60b9gbc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

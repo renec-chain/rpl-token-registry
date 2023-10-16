@@ -12001,6 +12001,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4A9cmmsyGLxGphyKnYD3riPH348JZyzqmZVodZdQKNmR",
+      "name": "Ooge dog",
+      "symbol": "OGD",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zrkvrvmaq4a34zt5b0qitskub0p8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12274,6 +12274,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ZJXHtnvj94soYYcWeh7LaMgb87qYm7p2EEQ1EVabH29",
+      "name": "NIGGA",
+      "symbol": "NIGGA",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j4v8ryf1qee88escrsfih4k56dt7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

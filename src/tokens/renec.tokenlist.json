@@ -12339,6 +12339,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9T15V4a4ArURFizhgf91gyVegj5huCVFGiHA58VtFZE",
+      "name": "Rena",
+      "symbol": "Rn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rcmm7fvnl8cvij5ga2i0g9z81qhp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

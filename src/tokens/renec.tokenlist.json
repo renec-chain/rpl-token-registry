@@ -12287,6 +12287,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4kPYv2zwKv91D3DTEd6SFtkNQ4BBb5caMsQJYRrR6DSZ",
+      "name": "AKATSUKI",
+      "symbol": "AKTS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8pw1p7bjzmh6yvy5wtz01jy6ay35",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

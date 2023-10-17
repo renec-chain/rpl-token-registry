@@ -12313,6 +12313,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "APy2BC9SLY9tPQp2mbFvAH3FL6XzsJ4x3DZqx14oVnYD",
+      "name": "nfthuntersbr",
+      "symbol": "nfttr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lqfoxwbmonulbi0xnbep2un357c9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

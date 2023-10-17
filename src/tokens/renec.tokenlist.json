@@ -12300,6 +12300,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "dYWeEtTL8aMYbmFtpbqfY142sF9VGoHNqG6kL2tmXeq",
+      "name": "PAIN",
+      "symbol": "PAIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gzwn1xo4zb7oz20xk2hcjsjk23ti",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

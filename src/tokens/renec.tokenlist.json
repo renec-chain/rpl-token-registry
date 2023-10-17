@@ -12326,6 +12326,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "93BgR1VMrwvCEZrFfZmddQJqgTqdmMSF1B58CYsB9g2U",
+      "name": "Lion foundation ",
+      "symbol": "Leon",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l8z8x6joavx1j7a428xp77o6c63y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

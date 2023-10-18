@@ -12352,6 +12352,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3okMKQ9JjzzLTiSqTEqmZQC2Pj7SmjhoYgvpP5maw2vc",
+      "name": "Remitano Ambassador Coin",
+      "symbol": "RAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mytiio583dchst1dr0zngd6a6ziv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

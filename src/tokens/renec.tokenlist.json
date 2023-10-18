@@ -12365,6 +12365,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HTPqj8iP1HTZS6VRpfVtRv2sEssi5yrx6KgSnCfgTStD",
+      "name": "Jenny123",
+      "symbol": "JEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gez3jqcq2jct4njsp78rlorg235z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

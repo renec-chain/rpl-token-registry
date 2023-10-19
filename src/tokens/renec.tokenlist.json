@@ -12404,6 +12404,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4up4xyQHNpjpJ3bhhCYFPQ5iGpRAXjESFDtWvDjg2LAv",
+      "name": "eBay lend",
+      "symbol": "Ebay",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uvggve072xa55i3bup5x7o75dii3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

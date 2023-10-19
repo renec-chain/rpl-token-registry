@@ -12378,6 +12378,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3qtPhws5AxCGB5uZA7CadygW3PD7oTNeLqU48k5QEwNL",
+      "name": "Hyoe",
+      "symbol": "Hyp",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2n3uq670x3ipj4t9dvyao5l57osp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

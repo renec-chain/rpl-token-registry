@@ -12469,6 +12469,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HTkqrqzv2teLTLenrtMhWWnD7iHxRT8RmxhYQQCpFzma",
+      "name": "Unity",
+      "symbol": "UNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x1i7f8y685wxr0ixwiipqvk0k0gc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

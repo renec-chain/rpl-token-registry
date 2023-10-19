@@ -12456,6 +12456,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8SDiDRVz8hPATbLUzvEPothw8xCtTcJFhgJg8NfkFNGN",
+      "name": "RenTrosa",
+      "symbol": "RenT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h25f04vgawa3hfij9b1eihdhtn2j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

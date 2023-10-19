@@ -12417,6 +12417,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5jqgTev7fzMuGTEyL5JF35ww5bLc1ALCtoVKZGxJxT9D",
+      "name": "X Coin",
+      "symbol": "XXX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zi7t8ri7uifu26inwzj2pln6njet",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

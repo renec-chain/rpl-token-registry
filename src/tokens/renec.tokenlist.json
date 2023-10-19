@@ -12391,6 +12391,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D4vm4fnwDzaviMpLGaFboxFJGxPSaPMRJQYBh66TSuZD",
+      "name": "HAUSA",
+      "symbol": "HSA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2lfvsozobqell4kqj130uqkoj690",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

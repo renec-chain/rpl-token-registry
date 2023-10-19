@@ -12443,6 +12443,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EckEt2252awTa64iz2tVD32LsjFpSborJ6qZae22uxMV",
+      "name": "tasa",
+      "symbol": "ts",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ysvoce33vi9ivwya1bl6fl1snetx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

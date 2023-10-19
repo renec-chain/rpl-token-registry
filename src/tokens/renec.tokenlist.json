@@ -12482,6 +12482,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DQHdBoem7t6h8mcmqCuMuqpqZE5VPAx59fdaFFQVVdNg",
+      "name": "BetUk lending",
+      "symbol": "BUkl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uhbdgu9twta7h0rf291jj55rquv2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

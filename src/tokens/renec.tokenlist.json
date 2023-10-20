@@ -12573,6 +12573,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "28uqFzjxKv35M3BjrUNHeu7tJrQ1RvkQPjNzkAr8BEUR",
+      "name": "JinxCrypto ",
+      "symbol": "T",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7wkmkpp9p7ae5vinjxnxwfxmr4v5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

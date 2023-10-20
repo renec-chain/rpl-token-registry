@@ -12521,6 +12521,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "84KH4MRsuTfczPnhNHibTNZNXoAoB4FHaNMgUrm5WcXs",
+      "name": "sanbay27",
+      "symbol": "rfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8g3zej33twc5c36f8ally2wc1i5a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

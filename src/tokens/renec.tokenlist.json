@@ -12508,6 +12508,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AqSwU8i1vRA2C8o3YRcRb3nrNMvrsci3r47r2oJPdawP",
+      "name": "Segs Foundation coin",
+      "symbol": "ssfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9io6zmt5uq5180l5x6cqthextylk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

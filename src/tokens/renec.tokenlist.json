@@ -12599,6 +12599,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3A829aNzCmrJWtCtZGUkaR4f6VmTzbBF9W1oV4Gtm1PB",
+      "name": "RenecDoge",
+      "symbol": "RENDO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/clsd2yydcq5cjcz436hbz5r2g0cc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

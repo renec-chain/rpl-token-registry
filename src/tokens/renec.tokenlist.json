@@ -12560,6 +12560,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JALgAmJZGpjh3JtTicKv8nYEjfEPFVPTWdK9XkobZPPb",
+      "name": "Mango",
+      "symbol": "MAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0js7k6uzjjqlohx44zj173usd7vu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

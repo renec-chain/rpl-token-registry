@@ -12586,6 +12586,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "31f8HoXQAYBXWsLToic5k63SY4GMzDLbaFwEoa5sYGZw",
+      "name": "Marathon ",
+      "symbol": "MATH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zjnt8f5m7i717yrc0et4qw3dw984",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

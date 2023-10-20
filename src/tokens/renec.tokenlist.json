@@ -12547,6 +12547,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pDvCxpFEtDePFoosyBYTXeBTviYDAZUJqxEwWo8uQtX",
+      "name": "RENT",
+      "symbol": "RNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dnwrbovjumnllicsoncy5t36vde0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

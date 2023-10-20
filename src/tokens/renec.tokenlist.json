@@ -12534,6 +12534,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Z3Zfy33fWtJ17SFqkyttW99e9fHM28M7HccQomeH7FB",
+      "name": "Nobility",
+      "symbol": "NBLTY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yju4lc0hhckf7zeecylu806rn7pl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12495,6 +12495,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6e3bK34ZXheKPFGyZirve23yCbEB8zS3kbt3aYy79SN1",
+      "name": "HawsegFarms Coin Pro",
+      "symbol": "hfcp",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/txuvahusmtnhxtfr307hs773jopa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

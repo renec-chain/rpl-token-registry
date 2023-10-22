@@ -12638,6 +12638,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3AKSfCexo9qsTujznAst2Sx311mXmJNRD1VrQsmepSpd",
+      "name": "babyrenec",
+      "symbol": "bren",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e0upzs3r40sgp8ertej1nhk5k7s7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12651,6 +12651,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2ibZ75aga9ricVtrwQsnD2EeTJ4HocHQjBFu2HRHqELR",
+      "name": "Long2024",
+      "symbol": "LONG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j5bxk4nsnujux0kkc4yutp0ulnku",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

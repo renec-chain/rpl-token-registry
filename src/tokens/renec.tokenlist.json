@@ -12612,6 +12612,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EbgC8Hqn1ZaJNrtKngqyi61PV77cBDo9QDRSYCtLV2ij",
+      "name": "RENEC PAY",
+      "symbol": "RPAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8t5v6m7saf2k4s1ag95e8ixj0wnr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

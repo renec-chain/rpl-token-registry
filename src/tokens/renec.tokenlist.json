@@ -12625,6 +12625,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7cxw6T3X13h86QvQ4fTP1epUVejMoYYpTNXZ1xzm1y1M",
+      "name": "TALENTIA",
+      "symbol": "TLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/igd6sqtw0d3dnrvtjwwoi3r19opz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

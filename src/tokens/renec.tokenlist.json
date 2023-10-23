@@ -12664,6 +12664,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BXPvvMosGBDDU7wrK6Q4DeA9Qw56ttXzgeg4qtioVgh3",
+      "name": "Maxxxf1",
+      "symbol": "MD",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/swvu9tid0x9b7lvwre245s1j91fj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

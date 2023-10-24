@@ -12742,6 +12742,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2KiLyJBBCNE6ZkZGua1Dky68NKaZmA8wbRbYjQPDakhg",
+      "name": "easy token",
+      "symbol": "ezzz",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qhn8xq0bgrym7hvzqoonxmxzmcfj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12677,6 +12677,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FUi1JYerp5KzDTXjqkUnxWhLNybmYGFXrC8iR4JP4WRF",
+      "name": "RenecCore",
+      "symbol": "RC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e06hzh4wbpnssknfatdg4b3dpz3p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

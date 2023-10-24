@@ -12690,6 +12690,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GNF2NB8RPb2DHCYxnyd959nRh1otVMtvHCyr535bhfqq",
+      "name": "Gilo",
+      "symbol": "GLO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vbyjlu5udpk1olg80mesjgeeh6no",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

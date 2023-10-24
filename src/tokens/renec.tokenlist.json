@@ -12716,6 +12716,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GQXj8irPBPPqn7U4STMwks7jktvgFgMxgfD8DNHStXws",
+      "name": "Design Coin",
+      "symbol": "DSGN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bq18zcr1t9kmy5ckywpyyim0wf77",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

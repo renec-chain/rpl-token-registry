@@ -12729,6 +12729,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "94rbRM7uqRrwiNy4Gee6QpYLbmX9XVDmDtjh3usf1XDm",
+      "name": "Meny lend",
+      "symbol": "Mnl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7mtxlyzp8p55pj1248g1i3vi2e0p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12703,6 +12703,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G5tQ5Tj2PaZVQebX7XPr9xzuzqfaVRn5GpiVKVUMnEKE",
+      "name": "ALTCOINS CO",
+      "symbol": "ALTS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qg9f4bjqanz1awxfqc29n7w2hb21",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

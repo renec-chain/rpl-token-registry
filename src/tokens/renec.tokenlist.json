@@ -13132,6 +13132,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EfuZoGeG3Mm7D1k1nMjpE19cPEUvHC4btFbJndQQbKZF",
+      "name": "NISA",
+      "symbol": "NISA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/31jqmb98h8iy9rw0q6kjhqcawk28",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

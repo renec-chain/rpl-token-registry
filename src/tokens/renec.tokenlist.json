@@ -12911,6 +12911,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5TWWodNwUHHGiLZqS7hF8FFuPiWbSznYojQqWQ8isncx",
+      "name": "VNDFlex",
+      "symbol": "VNDF",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gbz6beeuo0mnmwqmraxubdpi3vrd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

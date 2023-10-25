@@ -12794,6 +12794,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9qMgDr12sZfhDdR7yq8kjptEJE8PCzayCegKwKyxWVkY",
+      "name": "EliteBite Chat",
+      "symbol": "EBcha",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hmv341p69pfed005dkx2ajjtxak6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

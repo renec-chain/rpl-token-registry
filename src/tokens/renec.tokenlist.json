@@ -13067,6 +13067,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G34q18jybaveFRopQBRT3RUEgXC2ph1D2ksZyxmpMKQx",
+      "name": "Trxx",
+      "symbol": "Trxx",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r4vhftoajbsv627kvbbndem89vvg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

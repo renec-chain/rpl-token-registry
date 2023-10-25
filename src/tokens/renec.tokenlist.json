@@ -13015,6 +13015,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5Fe7UtLnzyzmynK9vLWX66Nqz6T18BBXhTNbFE9rExry",
+      "name": "SAIF ALI ",
+      "symbol": "SAIF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cs0cvp02cle1ep20taaprzbuf1sp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

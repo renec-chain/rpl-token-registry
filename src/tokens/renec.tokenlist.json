@@ -12976,6 +12976,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hc2xQrpUQ11sghq55Fb5vGPY991yYpA9wpGofnXx4Fzu",
+      "name": "El Professor",
+      "symbol": "PROF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v3cxvbum6hwuiybo7llya3zevoce",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

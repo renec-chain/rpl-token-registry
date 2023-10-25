@@ -13028,6 +13028,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FbPuRd3Sfs9J1RAU5x8RFeTrZhK5Z8JjiS6L8Rdq8mYf",
+      "name": "NemoDex",
+      "symbol": "NDex",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/62nu37uehjtvpm0kmdrxyquzfaao",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

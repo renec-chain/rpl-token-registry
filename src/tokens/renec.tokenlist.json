@@ -13041,6 +13041,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5pWcgT8QATHkE3Lef9PNMcnZESvmTvuLxu7ox6e87WQc",
+      "name": "TIENDONG",
+      "symbol": "TIEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/du0lehlx5rvqfjqom00lm07v73fe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

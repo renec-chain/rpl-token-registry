@@ -13184,6 +13184,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DghcoGZCdBuu3pSR5pyjTTc63N1458eEef7LUwfPaZwp",
+      "name": "tera",
+      "symbol": "TER",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pajuqj8q64djxinhf429qbgy2zrm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13106,6 +13106,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4u54nKBxv2qyEiu283DtAXrGtnJAyuXBubN2t7uX4YSJ",
+      "name": "Defi",
+      "symbol": "DFF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pb9zxkoa4hlhohk7o6fle5zvss6n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

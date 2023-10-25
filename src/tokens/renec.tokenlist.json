@@ -12950,6 +12950,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "81oYGwjzZxBH7avHQxpnsjBTFbt2JowzCqPNvwALniWa",
+      "name": "Jakir",
+      "symbol": "56560",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mc8f1tnowfyfliehaurk1dk386wz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

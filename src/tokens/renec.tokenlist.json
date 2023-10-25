@@ -12885,6 +12885,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7wV1PTfkm8iXc6CWSQzkshQ7wNb9naNByBcc9khYJDJv",
+      "name": "Blue Fenix Testing Token",
+      "symbol": "BFXT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5z0mqcn2zyym562plho73cebvlp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

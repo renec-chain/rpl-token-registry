@@ -13002,6 +13002,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AL6Rgp3r1XdUXB8Tq6ssoAfKwJ2xrTaGyERrry77hoh2",
+      "name": "dsgn by kanah",
+      "symbol": "KDSGN",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fs0wp3hz88x78tgu4o7rnfwgs74v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

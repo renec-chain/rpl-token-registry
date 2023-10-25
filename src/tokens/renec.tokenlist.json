@@ -12833,6 +12833,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J1h4c5VnAiWKLaxsxR3aUNxBXNjFH3AUYRVLYE5ZruwV",
+      "name": "Shofar",
+      "symbol": "SfR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uima8hj4la89cxrdh5mo6y80n69e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

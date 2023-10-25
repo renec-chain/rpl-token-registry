@@ -12898,6 +12898,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Nvm9a92cr2davZoynQrJ46ED7A5Ed33UpQAcYKSdAJP",
+      "name": "Super Ren token",
+      "symbol": "SRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fx5bnln1akei7gurlzloqxa5sa56",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

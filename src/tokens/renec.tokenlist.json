@@ -12859,6 +12859,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Em3y9984CU7BP8qokzPGDVNsBZLb2umfyEPVnCJrrKyK",
+      "name": "Rukkys token",
+      "symbol": "RUT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0ahs4g50n8p2aqukwdb3zpgbpfva",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13171,6 +13171,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7DJC4LFp7yamydM4U5bHYCUVD11TA624fNLwCCx7MucH",
+      "name": "BD MUSIC SONG",
+      "symbol": "BMS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x7ofka965i32k48bvgf82e5bj8sy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

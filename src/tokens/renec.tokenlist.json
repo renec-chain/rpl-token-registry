@@ -12807,6 +12807,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CxmQF28X4EiYNLzL8x3Ltw94xbwbqitv5PCzQZ4Eakex",
+      "name": "Rhemlitechpay ",
+      "symbol": "RTP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x8oi66i7kk6x29ttjvif91chxglr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

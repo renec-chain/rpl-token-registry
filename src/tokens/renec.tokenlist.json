@@ -13093,6 +13093,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "34KZCWRrnpSFabtdRM4hymYqVS9cM1yVrLHr3GqCLBVk",
+      "name": "MAI",
+      "symbol": "MAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iltvwtrb5h3dvs0321q9yh1gd3ih",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

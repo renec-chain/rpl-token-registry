@@ -13197,6 +13197,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2LWg8YWsPVQHEWsdYBPj3nNRSR5SbwdyuTvxnHHV11ET",
+      "name": "Tip Coin",
+      "symbol": "Tip",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b50wl4gnj2ciy9tzfbt2bxtip1bx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

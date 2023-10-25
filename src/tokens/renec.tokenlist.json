@@ -12820,6 +12820,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQDKmfGy2rG9bDUPYuVryEVP1XPAW7Gmds2Xk7ZbQms7",
+      "name": "You Only Live Once",
+      "symbol": "YOLO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bpep7s66tmntzqht38cir7xya01d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

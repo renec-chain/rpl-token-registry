@@ -13145,6 +13145,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5f1qjmJKRLqwDSUPdpyTadT2pGJT5c8tg3oTZafK8jn6",
+      "name": "Lend Trading Gold",
+      "symbol": "LTG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0vxtiu37tdurule117qhvd6vsq3l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

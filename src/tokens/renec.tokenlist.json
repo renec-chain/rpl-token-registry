@@ -13054,6 +13054,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DCnmj1VnqCmbLkxH5GQYZqFaBS955riy2brebmabt5CT",
+      "name": "B Braun token",
+      "symbol": "Bbt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mfcjs56ff6v8l9jukbzzzx34xom3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

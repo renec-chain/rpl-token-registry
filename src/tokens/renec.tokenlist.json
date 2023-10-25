@@ -13080,6 +13080,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9DsWV1BDXcLoWLN8vjpLevG4WyVC2qN3fRDsVT6kYcLm",
+      "name": "The FOUNDATION ",
+      "symbol": "Found",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oallcnn4qyfsl30ik3z0u28llpsj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

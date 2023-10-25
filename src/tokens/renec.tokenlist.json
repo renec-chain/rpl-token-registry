@@ -13158,6 +13158,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EdHwFMyYLXXhAxup8z8o9GHZEr43N4Xrypz2td7frihJ",
+      "name": "Sam Luci Token",
+      "symbol": "LUSM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iqoh3j93v1nb2y12nlznkqa6hnbp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

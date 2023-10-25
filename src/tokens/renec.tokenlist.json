@@ -12989,6 +12989,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CuxBMfz2kHoEvYYLAMREeXeYC7SAfjCHxSKbQPNeHrjm",
+      "name": "Sextoy",
+      "symbol": "sxt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2g0jcwu61cqdhriald9s3sskosmh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

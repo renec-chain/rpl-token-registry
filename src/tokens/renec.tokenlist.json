@@ -12781,6 +12781,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BKeE4vWB5NsYFjm8oqsHmP9xuD9oYsb4esiHGRKUDR7w",
+      "name": "Doge lend foundation",
+      "symbol": "DLF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lv7e2gx102d5t0ec3vf1bpn5hxy4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

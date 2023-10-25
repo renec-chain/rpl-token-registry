@@ -12872,6 +12872,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3V7RXs4bWHHuWYNhqMreGezsr6W66neNXvWosweMyJbh",
+      "name": "Binance ",
+      "symbol": "BINAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e2zykkj0dx9lr6tg0akps51qcz4i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

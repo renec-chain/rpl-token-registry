@@ -12937,6 +12937,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "33UJaR9hzHkpb4GUn13naMkQ2GauXAN3Z2k2EGc6pbVi",
+      "name": "Ta",
+      "symbol": "Ta",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d8isyu59z1fu4h3ooc2debprnost",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

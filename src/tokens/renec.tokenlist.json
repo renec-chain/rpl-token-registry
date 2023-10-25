@@ -12924,6 +12924,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6CZL7bfeg3pYmwBXHtJjyB1Ln1TSmz2QwwmAw6htJjwa",
+      "name": "Querl",
+      "symbol": "QRL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rjynpdmfhe6z1jmflne92wwgz1yd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

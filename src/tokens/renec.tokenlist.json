@@ -12846,6 +12846,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CM1cXRGR5ixs2VmEmFdm2azA5CFXzcaM3gyA3CaHUGWP",
+      "name": "Twitter lend token",
+      "symbol": "Tlt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vqvm7k5gnqoxse0lgyv1l4yjjksi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

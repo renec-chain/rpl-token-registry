@@ -12755,6 +12755,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "PBT5c6DzHXLiRChZEGvYVTnEZZnsayTL2kpMFCzVYfj",
+      "name": "Eagle lending",
+      "symbol": "Egl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/80902qc2oqfwzwilm531534wkm9m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

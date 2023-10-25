@@ -12963,6 +12963,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3LxRRNgyCz5ohcKR8xBa9Ctx3VCHtNDjMnqBhoDQ4qAB",
+      "name": "WomenTT",
+      "symbol": "WTT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3qgayhvdtge6i5wox86i0c12mngq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

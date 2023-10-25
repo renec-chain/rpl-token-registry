@@ -13119,6 +13119,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6pKDdxQZF5XXvSarb6b3eAYxRBXqKUYQ6pEkkk2y3fc2",
+      "name": "Cecko DEN",
+      "symbol": "CKDN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k4edvt538sfdmdvr6i60vce5dqkl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -12768,6 +12768,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5o5dGKwNzAScY5YQA3HgoGgzd9FHF4AynbHXc5ZLYe71",
+      "name": "Long usdt",
+      "symbol": "Lusdt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/njag4995tshvvxllx7itdsidew6c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

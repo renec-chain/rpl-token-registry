@@ -13262,6 +13262,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5kmmcwEjZ3bSDrZbh7w6uc5m3v2tG9VHQM15ACwAAc7M",
+      "name": "WuE CC",
+      "symbol": "WCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9k3ng1wau7n4tjk5455u7ticbfvh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

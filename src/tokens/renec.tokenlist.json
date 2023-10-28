@@ -13249,6 +13249,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7XtFszq94Qux4go1rM9W1oYSYbcy5sisgpzMtdQoziYa",
+      "name": "Virgin money",
+      "symbol": "Vgm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/09mv457tzj80v66yianymih7wlxt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

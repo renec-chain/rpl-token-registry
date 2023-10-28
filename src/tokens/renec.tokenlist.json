@@ -13353,6 +13353,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6g5EcX6frgzt8EeJ4CVXTQU8B955HnBA6UA11BDxLu6N",
+      "name": "Renec Gold",
+      "symbol": "RGold",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iu97yb5zp2rpc7c6s2v7kcn848qp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

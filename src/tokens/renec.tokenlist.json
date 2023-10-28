@@ -13210,6 +13210,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7v4g1HmiEE1hy8t3kR3usB3eWetHkSHEyzr733U2gRoF",
+      "name": "Gram",
+      "symbol": "GRM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fmh9jtooc7ci57u0yuv1sr65m2q4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

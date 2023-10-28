@@ -13405,6 +13405,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "B2an6GRUEQq96BvXzCTkn5KarpoK4Wg6Ad6UfGJBRSZF",
+      "name": "MyTrustFx token",
+      "symbol": "MTFX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nmna4ln2ek0e19ep1l5aapcqnl8a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

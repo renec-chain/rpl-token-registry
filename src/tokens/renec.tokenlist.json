@@ -13392,6 +13392,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HdqzWKvcpdRYc7ABbo5n4m3a5KR1M4wh1TzdWrskzP1Y",
+      "name": "TVN",
+      "symbol": "ON",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kq2llcroeayyii2lc8gcfhrjh105",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13314,6 +13314,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9E2Lwt4o3DCxMjiziMH6nHwsUdhw6cZr2B9VoBk7tSfq",
+      "name": "Truce market",
+      "symbol": "Tumk",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7c0ixz0umx76zlm1uosw827p1dav",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

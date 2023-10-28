@@ -13327,6 +13327,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2bCWcPpTBQkV6wRk7s12nbmkf1WMqXGcPKnFHzgdPdPb",
+      "name": "LE VAN THINH HOPITAL",
+      "symbol": "LVT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/euyk2z1dz8ga3rsy8jbib0ddpnsy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

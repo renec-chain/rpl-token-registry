@@ -13431,6 +13431,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GKuZLViqsZphy69awPQorwbFfB9htFFqfEuo6cX4DfAf",
+      "name": "Piggy Token",
+      "symbol": "PIG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lkh3o327b0becl71dlbkahxuf15c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

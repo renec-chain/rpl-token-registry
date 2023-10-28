@@ -13288,6 +13288,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GqoDAXzB3rMevJBsEUeJBzVwgJrtJAiEmdpMMpGBgMsv",
+      "name": "Donut",
+      "symbol": "DONUT",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lfg4buj955m9xhdoe89q6our23v4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

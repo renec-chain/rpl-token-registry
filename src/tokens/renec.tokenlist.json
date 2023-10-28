@@ -13301,6 +13301,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7gZMeYXrxSjfDP7tSMGHLBsPgQ1ax4bzjSsu4WNhKhDB",
+      "name": "Superjosti doge inu ",
+      "symbol": "JOSTI",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vrzlqu9c5ku9un3ryw9j24uqq4uo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

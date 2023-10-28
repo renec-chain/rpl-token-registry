@@ -13379,6 +13379,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7nScbj22UhsGmkrDBEBusNp5aReNg5sQc4RLeUdsPeBY",
+      "name": "ONE",
+      "symbol": "GCM",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j5pbw3s2s7zza576ftnp5by5nuls",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

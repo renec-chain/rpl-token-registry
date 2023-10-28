@@ -13275,6 +13275,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BcnCaMKaFeTvgLREsYwg8DG2MQBTM9w8MkqFLpaFT31V",
+      "name": "CoreDAO",
+      "symbol": "C0RE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dy4w9ako5kzkli7jigohd69mozkq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13418,6 +13418,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BtVuchbmX4TZazRHLMR1z8k5dmnL9k49YQ2GHChQrMHn",
+      "name": "B2 LEND",
+      "symbol": "B2L",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/at0katxvc4y17jkpxginzjwv1w75",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

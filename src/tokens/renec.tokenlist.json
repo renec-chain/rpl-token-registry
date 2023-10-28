@@ -13236,6 +13236,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7gt7FgS16Ksm3r48jrkDcTzhBW3RUAEriHGHyN4TVrNF",
+      "name": "VPLUG",
+      "symbol": "VEEP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/itjzia3c3zr5pf5m161jdev5ao2y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

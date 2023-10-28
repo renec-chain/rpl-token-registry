@@ -13223,6 +13223,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GoqgLvGaux3NDXYfqJaNsKzqj6TKTq4tLmbaCDUZRpbj",
+      "name": "Pixie Pals Testing Token",
+      "symbol": "PPLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cfypumpnik3fs0u8xay3fyb4u8ze",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

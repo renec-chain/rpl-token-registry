@@ -13340,6 +13340,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AjqdPngVHQ6BWJ8CQikvqng3FVXhF6DwkvBZLjkNMCTn",
+      "name": "Krypton Currency",
+      "symbol": "KR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vyrdsxp7kzq18gq2kulih4onlecp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

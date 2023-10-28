@@ -13366,6 +13366,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5CSNrTWjVUaKbFH2FJV2EkcpvCvz9kyhb4zsPSVfF1T3",
+      "name": "Renc coin",
+      "symbol": "Mahuu",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sk1c0vl765nuvo3wbikf5iirq087",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

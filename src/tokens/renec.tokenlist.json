@@ -13691,6 +13691,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BEWPD9j29vkrYFVxKiyznvtmR5WLS7CtmRAGiAPTcjM",
+      "name": "Renco",
+      "symbol": "Zrnco",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/omstdzr3tzwjkt7tkzx218ei7swk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

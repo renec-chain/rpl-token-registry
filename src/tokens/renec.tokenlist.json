@@ -13600,6 +13600,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G4bh4fiVyuLUhZQao9Qy5BaobMnbNNKk4kUyFZ2HuysR",
+      "name": "Rasistor",
+      "symbol": "RSTR",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aywijux4ofj36n3wg4n44lzqd8yq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

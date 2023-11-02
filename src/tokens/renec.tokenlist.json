@@ -14029,6 +14029,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "52BfFT5kmbDEPXHUPdFLCSMXMxSjLo9NBLufcySNNZen",
+      "name": "FEY010",
+      "symbol": "010",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k4ge3fas6tfa3uvcegta6grb081d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

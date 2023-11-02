@@ -14263,6 +14263,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FbFgmL1EKHMRkGMB2x5XBJ124GyTsMK4uzfUA6bNAcn4",
+      "name": "USDV",
+      "symbol": "USDV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u047vspspct46o3ljw0mqfn96d51",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

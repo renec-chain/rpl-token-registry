@@ -13834,6 +13834,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ikSueNrPQZNPeWQvLaj5LiNtp2SPdN1z6yi8baMsz7c",
+      "name": "M",
+      "symbol": "Game",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/joudb0o6rzy8e87900yc3zwpvgf2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

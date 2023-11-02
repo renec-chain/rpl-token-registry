@@ -13964,6 +13964,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F5cy5151ZR5zjzMr1UBLCBJNPYc8LWFxzhz1Xx5w8i6i",
+      "name": "De public ",
+      "symbol": "dp",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k0qcsaj1u0vv9bipua9bqorfm1zt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

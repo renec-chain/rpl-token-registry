@@ -13730,6 +13730,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2HjvgcPH39YtqgRoX1tk9Jy1HWH5hs6Q5BD2f6xpb9gz",
+      "name": "Mini stop",
+      "symbol": "Mnp",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rv2gnhw5xnfhpk5vr0912fss1qoi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

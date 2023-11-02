@@ -13574,6 +13574,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8FSfaGN6W2X2H5xgPBPi8Bn72SWpK5hqLGeVNTqFK377",
+      "name": "TTcoin",
+      "symbol": "TC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b83s9ykc1obgv9vsbkzrygdm60tu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

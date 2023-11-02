@@ -13704,6 +13704,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "cCUBNBi6mbvsMX39DQwLv43Rjpun44KM1aDZ45HqhNS",
+      "name": "FAMILY",
+      "symbol": "FML",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lga2nqusoj0p161xyf7411xp2os7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

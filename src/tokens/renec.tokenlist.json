@@ -14250,6 +14250,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "WzH337R2SaaS6b1bDKEvMPZQaoGRZEtu1BEKUG5J2ED",
+      "name": "Kez coin",
+      "symbol": "Kez",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yi9edwsz0dvm6q76bg543j98d5zr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

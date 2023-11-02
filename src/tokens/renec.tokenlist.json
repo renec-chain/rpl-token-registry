@@ -13639,6 +13639,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Hcbe9EPigwdoh5V8NkgKuu7FMutwzhwjieYNbmZbjPGR",
+      "name": "Spolry token",
+      "symbol": "Spry",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7zl07y0am1n0a8ynmg12ccp6qxqj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

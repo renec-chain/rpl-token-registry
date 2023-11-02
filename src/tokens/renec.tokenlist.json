@@ -13873,6 +13873,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BPiq5wYRG9x75Lf9r47WVsiNRBAN78MfgC8HqMuLPGmy",
+      "name": "Onus lend",
+      "symbol": "Onld",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hbchfn01eo439l0o3awzuhm9l3qw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

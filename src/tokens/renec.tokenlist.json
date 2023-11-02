@@ -14237,6 +14237,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GGF2axUPYddcWqzjfM2LAyu56qqkFiDP8i47Rksdqcjg",
+      "name": "USDC",
+      "symbol": "USDTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bn8iqyxeddunc9zrk327ybnma41b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

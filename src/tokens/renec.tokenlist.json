@@ -14159,6 +14159,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F7zzgV2PD81pEuLFe1Eqh5wnemcDD99yRKQP3AvFus9y",
+      "name": "ReUSD",
+      "symbol": "RUD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/czt8w8zhim93ykwltc453xkh2egf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

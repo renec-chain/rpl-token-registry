@@ -13795,6 +13795,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EPYuVaJEzYwSXvkY9mAHBjmCVTJkT3xQ6pQbdnPY6hWh",
+      "name": "FredCoin",
+      "symbol": "FCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wb9ys0y7n6cwypmfnl0fjp86w48l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

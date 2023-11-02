@@ -13717,6 +13717,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Aj8RQyeSAbbzgbXMvWZwXQrUDkfHvi6dkqPb5NzctbtV",
+      "name": "PZR",
+      "symbol": "3763",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lxirnzfklyoq75k7nl82ldc74xf7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

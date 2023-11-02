@@ -14289,6 +14289,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8u1AaEauoKiZ4HzuyovGEkmjxEf6S96qrPTnyguXUYSF",
+      "name": "QUEST ",
+      "symbol": "QEST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yeqdq55c9mwx0ne50c6a54fe881k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

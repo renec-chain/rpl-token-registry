@@ -13808,6 +13808,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FAXsyELsr3udxdY2y4L7U3taB6X7g4jEJ9JFiCTkQCJQ",
+      "name": "Amiru3g",
+      "symbol": "AMIR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/278c4cn5bqsijtiozz4j3ekx950s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

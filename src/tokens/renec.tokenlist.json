@@ -13990,6 +13990,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3mhfA6p4i3PQBra6ExtdTkwWuuJmdv2oNEzyXE2wTBsz",
+      "name": "Viju Token",
+      "symbol": "VJT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p1ov2ufgo5lljgstltp6ayho73x7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

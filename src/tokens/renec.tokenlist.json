@@ -14185,6 +14185,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HFpbWUjJiKWXTsZhMc9Y5CXhK8SUbEbzkGRs5Np3bpDh",
+      "name": "Kachinedum ",
+      "symbol": "Kachi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m5v8dwnm3nambubn88oilez49q7e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

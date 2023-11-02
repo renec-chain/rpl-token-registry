@@ -14068,6 +14068,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "N1fyn7YNsjAvu68nYWWEn5vktkoZ5s49hQsVyZRMmq4",
+      "name": "RNC",
+      "symbol": "KGMCM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qc6hccnqxp7prv25hsxh7sjhpupu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

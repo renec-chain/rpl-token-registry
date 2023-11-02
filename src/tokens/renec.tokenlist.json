@@ -13886,6 +13886,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "F2tMvt4ggYtcwRKSFEdzG9ihW7QWaE6ZNqmbx8Bf56tR",
+      "name": "Lend dogecoin",
+      "symbol": "Ldog",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/01y0tgcoabnvkc9va5fh6qdu3o27",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

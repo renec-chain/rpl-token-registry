@@ -13548,6 +13548,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6LkuF98H9UkSsoHPu2yZWmHrb7fMfxroyUa2SFudbpu2",
+      "name": "Biten",
+      "symbol": "BTN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7e22y4x59dhla83wm7pcd5jv4lcc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

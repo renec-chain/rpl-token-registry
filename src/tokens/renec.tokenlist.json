@@ -13847,6 +13847,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6rvh9XngDuTeqrQqxeVn8gXSneCEYpWaxKEKzzo9Q2yb",
+      "name": "GLend",
+      "symbol": "Glend",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6d40hgqgdhmc70tjkuzgu6gcuowr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

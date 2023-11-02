@@ -14224,6 +14224,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DjLZREvA222BFDD1T5prT9nvyxNfYNJB5FvRYUmbyxF1",
+      "name": "GM",
+      "symbol": "Gm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1o5k6qsyey4ievzpxewtmo9e0dlp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

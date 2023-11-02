@@ -13587,6 +13587,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EYw1Ho5Y4VK5Cp34Ynp8x2VCgkkRupMHZ95X1z7oRJjQ",
+      "name": "Omega Network",
+      "symbol": "OMEGA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ta7nme4phisbpaum9m3v2fp4n8m7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

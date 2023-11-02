@@ -14094,6 +14094,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZTcL8jKXrs9oyQGdymBR4XGap8QiLEQbuWDYpgPHRSn",
+      "name": "Rekcoin",
+      "symbol": "RK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gpm5vta6092zxn5o66iz6l5df8v1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13535,6 +13535,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9NSiEwZm8cLSWNieUphBUe9fB1q2ikuZ4LUftpEdUfbc",
+      "name": "MBCash ",
+      "symbol": "MCASH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xy41iix58speb2z4qyrzgr31k8bj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

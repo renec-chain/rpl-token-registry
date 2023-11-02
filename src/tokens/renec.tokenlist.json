@@ -13860,6 +13860,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "68zeKmiECit6yaZ2Hw67BB2Mhk1HsM3mzt1eSwES1mef",
+      "name": "Vanten",
+      "symbol": "Vtn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9dexsk7xqrg7i6xxt5vy97qn4hzp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

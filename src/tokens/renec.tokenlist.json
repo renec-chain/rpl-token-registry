@@ -14328,6 +14328,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CCNi9nessPK5fVqxfsShiwSuiLM8zJXtbTnYittpUpfc",
+      "name": "BTRenec",
+      "symbol": "MVL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bemcr3iiyf6lhthdk7gnyqzffurj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14016,6 +14016,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxerAt6NezHZo9wCLdspDf78fU7VPrD4WY7v9QdfLriz",
+      "name": "NL071",
+      "symbol": "EUR",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m7yej9h9720e92fuw99gdzyvpyxl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

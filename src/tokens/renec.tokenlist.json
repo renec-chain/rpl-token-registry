@@ -13912,6 +13912,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dxa5aS5wXPd4hQukCeaeAVSWAU4xcsHX83ybZNbYNHR4",
+      "name": "Amadou",
+      "symbol": "Sagar",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lc0xk1f19jzzbjtpj4bcr3rlhmxb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14042,6 +14042,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4dQ6qU2rvs5dtorJH2hyPKXUV7Kfb6a2Pxdvs6k1u58U",
+      "name": "FLOWER",
+      "symbol": "ROS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mx5zjp1ksf90k366e1u26hnfsaee",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

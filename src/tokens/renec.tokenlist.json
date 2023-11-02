@@ -13951,6 +13951,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "32vn9nC9zbXhviQ3rgWwcdRSekjGa4LdxXWL5uupPnpB",
+      "name": "OX",
+      "symbol": "OX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o7hcg35usw3ms6k173yoe0vtkwsn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

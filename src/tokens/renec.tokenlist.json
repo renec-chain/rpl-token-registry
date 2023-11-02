@@ -13444,6 +13444,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "dMueSbm7yG7KevvPBTWLohAs1vYuQyV8RAR9wVrdPEn",
+      "name": "AAbmcrVXp4FXkbqRgTa5mCL5ry8TAo2Mf29CjWbaZjY6",
+      "symbol": "CARAX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4twdnj56nue55edyqekotzc8x38a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

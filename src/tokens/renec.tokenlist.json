@@ -13613,6 +13613,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5eFpbuNZKFUf4uwRTKvcQ7gYaXy3vVhsY56YGpBYwXPc",
+      "name": "Insitecrypto token",
+      "symbol": "Itc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jykxpm8kwuekn1bwvs696a17napx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

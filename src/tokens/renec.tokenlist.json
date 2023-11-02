@@ -13821,6 +13821,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3Wsha497mw8nZbn3QN3ruC6jjaGSoFpgythJM6GCom68",
+      "name": "MSC TOKEN ",
+      "symbol": "MCTOK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c5ty1kmu5rtjufse0wcg1gca3f8c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

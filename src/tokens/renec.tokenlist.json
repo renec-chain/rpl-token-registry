@@ -14081,6 +14081,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AMmzYGP1oftKeiCu23VhwjGArBYBF4GdRgyG5bAjRXRh",
+      "name": "Lowfayza",
+      "symbol": "LOW",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ozsfmhcgz9rtftyiqqbs10ozod8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

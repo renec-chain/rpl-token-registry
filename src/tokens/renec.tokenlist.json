@@ -14133,6 +14133,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fk6TwsRUS3WwPVPNg8yeHkWZX4Ydvr5FsZB3fSDbi2fR",
+      "name": "BIBO",
+      "symbol": "12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d0nepw8fjx3n95qetngzd5ov7kny",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

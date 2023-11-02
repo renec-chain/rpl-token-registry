@@ -13899,6 +13899,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9BEJJ6dgMoZSeTJ6VMBXFscqQ6rK2hkUmhvWQgpT9DYW",
+      "name": "Nftfans token",
+      "symbol": "Nftf",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pr4tz3jbxu27d4y7qw5l746vgbls",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

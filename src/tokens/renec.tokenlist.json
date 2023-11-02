@@ -13652,6 +13652,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8AVF8cfNDrMqLwCgcV5fbWeXYanbfVN65wZiMjCeooB2",
+      "name": "HAIM football",
+      "symbol": "HAIMB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6kvym4zqdxqoxyb5i1abvqqm3954",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

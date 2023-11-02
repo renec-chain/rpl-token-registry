@@ -14172,6 +14172,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FtpKND3A5tqSgJjAKdR66mQvMWvTZsacAQhZd9u3jkBq",
+      "name": "E20",
+      "symbol": "E20",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9i318sf2kbuu530xvsdvu692pd3l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

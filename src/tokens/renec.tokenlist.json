@@ -14055,6 +14055,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D3Ndnu1yef9LAB7b1KpqZvq2Nc3B7opS5Lhxv1P5CQVS",
+      "name": "Wrapped Cheatmoon",
+      "symbol": "wCTM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lawmf6k49ugfdxlnd3dqhpwp58wd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

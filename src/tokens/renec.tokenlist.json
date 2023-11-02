@@ -14003,6 +14003,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3WtbEw2sioYrF3JNXoYfEx9U3xNjX3pkuvfarQEKf1Mj",
+      "name": "KRm",
+      "symbol": "10000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3wd7ohfg682ojt9tat1x9gclxat1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

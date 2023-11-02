@@ -13522,6 +13522,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3eLAKE2a2D7b4NKvehiKfY56QaXiwcxroVBsPJckVGy3",
+      "name": "ABTECH",
+      "symbol": "ABY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/splncpbtutcw02hkgorvnbdu0lnn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

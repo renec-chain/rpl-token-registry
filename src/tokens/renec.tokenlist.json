@@ -14302,6 +14302,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "s9bFu76RfDsNmvU8FQVTr4A5tB5thJuoxP6CT79NuTa",
+      "name": "Zero gravity ",
+      "symbol": "ZG",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vgtzkd1akry40w8onwjmp1xm1nyj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

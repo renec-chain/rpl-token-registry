@@ -14107,6 +14107,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DZEKPuq4XYwzYXWunUw3LAnVdLsJznqwoJkiUePoHhhf",
+      "name": "ROUND GOLD",
+      "symbol": "RNG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bd3rscb73b6wn3rb1vse3m1fb5jw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

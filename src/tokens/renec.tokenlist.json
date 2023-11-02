@@ -14198,6 +14198,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hxz8NvXfAZUJg7iaRsHVYAcGDjmpqbqz3mqxJ5fy5uWV",
+      "name": "Wrapped Omega ",
+      "symbol": "wOMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ezthach5u6uep2647w6w2xur0jvv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

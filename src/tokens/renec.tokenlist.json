@@ -13470,6 +13470,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5osYomTZQhGhjjsYML2Wksp5sm6MtBN8bvRTh6VbY9cu",
+      "name": "Encho RENEC",
+      "symbol": "RFC9",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4a6uqt0e50lvqynmw9n0iwpn5hd7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

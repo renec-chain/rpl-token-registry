@@ -14276,6 +14276,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "H6tqEfupPYVmg39woefLP13ipixk21XurBGxTDPr4bsc",
+      "name": "Btcrenec",
+      "symbol": "BTR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x1bhzurcyouimcx26born642focq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

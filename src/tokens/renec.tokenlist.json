@@ -14315,6 +14315,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "C6eYF8yBqwU2UJ8zeRqRm2t1YuSB5EnCLKqDFo6WPAAK",
+      "name": "Cat",
+      "symbol": "Catl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6369vz29o0v4awyvjq3xbb40lxwf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

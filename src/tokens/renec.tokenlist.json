@@ -13665,6 +13665,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CAZmMM6b5vxZQQU79UdwT2ng2yxRRSMun2P5GjV7Nftw",
+      "name": "Ren token",
+      "symbol": "Ren",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/osyym5mrpwkdm9v0eh59db27a971",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

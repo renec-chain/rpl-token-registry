@@ -13977,6 +13977,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "56ZjCTz78Xk4gr3Enp12i1HaUAin91hYggxbnZ7CoydK",
+      "name": "Sinners Foundation Coin",
+      "symbol": "SFC",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vj78280i45z7xwho5fz8p7etxt6w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13782,6 +13782,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Crbd6H2pv3QPkeeokiSWCXk5AEvFoU1kXS1Wtu7xmRaM",
+      "name": "Ducklend",
+      "symbol": "Dlend",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x326vdazanc0pfb779rt126dejcd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

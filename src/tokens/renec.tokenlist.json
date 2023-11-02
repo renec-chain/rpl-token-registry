@@ -13756,6 +13756,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "74m5PqUvCFb5vv12ahxNsx5qVKR4zFqWQ6dgt7HwC6E1",
+      "name": "SeiLend",
+      "symbol": "SeiL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oigyo0gq1ygach0hf3kml7el6pyb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

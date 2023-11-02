@@ -13743,6 +13743,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9oUVxfLrU2L6fM1DvMQVNBZBdJ5iWipVEwP7u9W3wEFS",
+      "name": "Pump btc",
+      "symbol": "Pbtc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fuwdkem1k10fdrfnbmqo2pnmez98",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

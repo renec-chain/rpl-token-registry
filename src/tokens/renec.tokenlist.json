@@ -13769,6 +13769,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "C6znmu51g5nRnXfH2DdTik9Kw6zG3rAfQsoNXi16paUL",
+      "name": "Mega coin",
+      "symbol": "Mgal",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pgn9e7shpt9eb0z5ctt7dbkublpb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

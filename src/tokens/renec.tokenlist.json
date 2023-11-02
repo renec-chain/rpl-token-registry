@@ -14341,6 +14341,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C9f4gnL6vZiXZX3ErrzzsmksGc6QyoFt1x4QQhYuYbkL",
+      "name": "Shiba Renec Inu",
+      "symbol": "SRI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k99zq83ccb3mxko4vuhmszbfvsai",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

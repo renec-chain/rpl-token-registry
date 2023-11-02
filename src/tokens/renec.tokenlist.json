@@ -14146,6 +14146,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6UJ4hgFzpPXbWfiFDVyKH6S7fXDsrZbCxsZxUqfUmmJY",
+      "name": "GOLD",
+      "symbol": "GOLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x3evu05ceqzuhfkjqvjcfd8n8yfz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

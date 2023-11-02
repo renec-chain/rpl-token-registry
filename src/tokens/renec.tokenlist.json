@@ -13938,6 +13938,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hn11zFu4m7ZspRKWsMRVePTG1SWVGPqFscoh4MfxUq41",
+      "name": "Baby Renec 2",
+      "symbol": "BBR2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ngdzn3ouonnias4bnj6mypf7y6j1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

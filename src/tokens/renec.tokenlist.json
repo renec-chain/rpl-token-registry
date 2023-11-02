@@ -13678,6 +13678,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G1W2FWqz5cih9kchCaC7ryu1JH2cKVkfT7nLkPP2aYwU",
+      "name": "Starlink ",
+      "symbol": "5588",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yhh2uijtoa63j79veoervs0fre3l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

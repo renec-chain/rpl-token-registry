@@ -14211,6 +14211,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9ELiSfha29HUESKNvDnHc61WKdoJEoe1Fr3VYAFT9u8G",
+      "name": "PERLOV",
+      "symbol": "PLV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c6g2i33jx8p3awm36j304ndloldu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

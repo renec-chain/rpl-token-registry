@@ -13457,6 +13457,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F47f3ti6ia6hbU7kKZCjRF2Qk8ZrP8RAn9MEKbGHU8Uh",
+      "name": " ALITA",
+      "symbol": "ATBA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/35hulgg40gu38gyaycxvq5g7xv6m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -13925,6 +13925,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BgSgrbMyQoHVXkRSirtG6n8xhMpsVSUUhboGJ4H75V1q",
+      "name": "Recoin",
+      "symbol": "RECOI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d89dpe7p0anvob2rmevg3j63mou7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

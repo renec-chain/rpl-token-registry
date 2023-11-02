@@ -13496,6 +13496,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HteyP1RXa2PT7cegZDotqX79EEx16LyvAZYD4YZgFJvD",
+      "name": "Wrapped American",
+      "symbol": "wAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/byq3ba896mms9p06u2wayogf5aje",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

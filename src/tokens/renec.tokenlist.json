@@ -13561,6 +13561,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2rXsdTMhWR82nZ6TsRfzQCS1jUQxr3c6bpyX9MErQrKo",
+      "name": "U2U ",
+      "symbol": "U2U",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/73ccervwu7rith5u118lzlvrn8cm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

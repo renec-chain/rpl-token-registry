@@ -14367,6 +14367,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8zK2E7TncVHyUmtHbDiPNEq92DNDweHEjFpVqssiVSd5",
+      "name": "Wrapped SCAI",
+      "symbol": "wSCAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/95yix58n50e8ykcamhuuf7j3nkvb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

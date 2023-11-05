@@ -14562,6 +14562,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6boT5AxFSvAuvNzjrK1Uo545Rk2CmV6Zm3C6nXyH5cCk",
+      "name": "Infercoin",
+      "symbol": "Inf",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1k6l4ixaj77mcxs6bohigknimmrz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

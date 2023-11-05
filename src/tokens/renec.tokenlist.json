@@ -14406,6 +14406,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "87oDRKjwgBZeK2jWggjAcZkNGV2GG44SG8jkSrASVevu",
+      "name": "uncolove",
+      "symbol": "UL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nj4fqm3ra7a7fzgq69l7n4f0e24f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

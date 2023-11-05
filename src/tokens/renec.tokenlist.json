@@ -14419,6 +14419,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CBHbjuTfK5vYvijWcibQqKbJCHV8Gd1NsvNV7Jy4g9Du",
+      "name": "Farabi SH",
+      "symbol": "FRH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0mb1dtgfiashq3gg1jyq4zpochug",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

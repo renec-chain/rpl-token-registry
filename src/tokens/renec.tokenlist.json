@@ -14471,6 +14471,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2gBad1ZaFsN9USjcizRbDHoWzEuohrygW1vMNkW1nakc",
+      "name": "Anko P",
+      "symbol": "AP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ygjv0e07bh1s3lb7k2uf3c3908hc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14497,6 +14497,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9e5n2K93VwX3qnwfdJihh7BwhwMn9hPEdfXJCUGnPNL6",
+      "name": "FEG",
+      "symbol": "FEG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h0dxy3ambyl1cc625v87der6imyc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

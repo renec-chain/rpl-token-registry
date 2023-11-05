@@ -14601,6 +14601,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7dnbU3pBdr2WfgMffA3DquW26BQHP7wTsLuN9e68SoL9",
+      "name": "Wrapped Atlantis",
+      "symbol": "wATC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a2ihbt03khyxn6gbaz1jpyia46do",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

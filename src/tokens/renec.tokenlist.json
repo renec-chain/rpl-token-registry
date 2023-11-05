@@ -14549,6 +14549,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EQZ6KQ694DucovnG3qWdK8RggUJWH2F75HqUoTQDFqGF",
+      "name": "ALI BKD",
+      "symbol": "AB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2xy0x3r0znh6z4j5epbgsnzbi6gg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14510,6 +14510,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9vNR2HmSgmGsC2b7TSnDqu1EsaL4qQjngsTtZxwEFZ2y",
+      "name": "Ordinals",
+      "symbol": "ORDI2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mkodkm5rfbs9vdypwvbn7f043ha8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

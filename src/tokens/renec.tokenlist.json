@@ -14458,6 +14458,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6NedbnTCKCgrh2csBusA9xJSZmhb6xkTcAegghz9KkAk",
+      "name": "Epistle",
+      "symbol": "7LE",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2kwvsm98wqdp5dhds3ndcdjtdj9b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

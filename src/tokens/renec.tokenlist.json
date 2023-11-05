@@ -14393,6 +14393,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8iLBMLWuNeQqejcDWy5A3XZUomF3muDY9srruPQXV2Ey",
+      "name": "Quoctrinh",
+      "symbol": "Quoct",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rgnmmopzbirb9vqr0txd57guxlyj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

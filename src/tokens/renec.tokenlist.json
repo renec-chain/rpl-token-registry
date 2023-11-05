@@ -14354,6 +14354,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2dnZJemueRiVQwzgdaX7VAWGZ3dMnSCExgcZJVK8vMcG",
+      "name": "FakeSol",
+      "symbol": "fkSOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/irnv6umiw202yj467q1h5zwx9ca2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

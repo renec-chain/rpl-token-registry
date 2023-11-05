@@ -14380,6 +14380,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2KqQmFPubp1CFvbP58c2RHRK6wkoUVvVAvXW7UHU79TH",
+      "name": "Blue Water Network",
+      "symbol": "BWN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gwkn2bva79tjkzai1m18lhvo3y2j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

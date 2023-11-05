@@ -14484,6 +14484,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6kX74tebdDj2NexTxtQAmULPMxuYDR2qHX4FWNhiVPC4",
+      "name": "Zeno token ",
+      "symbol": "ZNO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/siphya8tt0xwq5up1kbp01ciyblc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

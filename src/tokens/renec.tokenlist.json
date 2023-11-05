@@ -14614,6 +14614,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B1uVG5Wq5y6CijYn3JKC9A7fwfngjHySVXfN5KvntTPd",
+      "name": "Pools",
+      "symbol": "POOLS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r80xf1zrkzxpe8u77qn8ws8r0rym",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

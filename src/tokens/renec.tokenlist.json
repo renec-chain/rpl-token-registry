@@ -14588,6 +14588,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H1eAAZuaBfjuDhudJkM2f6xAqdbuiHDPzYArhyRRoUQC",
+      "name": "Gunner ",
+      "symbol": "GNRs",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l8xb46lgkn9n8pcglw463y006rbt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14536,6 +14536,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HTPQ4xdd7mwCdTyqSvxD3RBXhqsAKrJVLkc72zQLjPKB",
+      "name": "Nhabggh",
+      "symbol": "Vhxhy",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yoo7jdm0vgehl4wwwnlxsinletx7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

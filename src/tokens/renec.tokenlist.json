@@ -14627,6 +14627,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2dmx17bPG8epikNB82BQaSheXzUnYHoxwNNY8BVDSBuK",
+      "name": "Assetcoin",
+      "symbol": "Ac",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jqqi1ga8aexig4156nhksc9dn62k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

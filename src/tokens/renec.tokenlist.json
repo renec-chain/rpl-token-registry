@@ -14445,6 +14445,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6uok8KUndn1ayxM3Y7wC2wKrT87vwpyhv44J9KDK6jcQ",
+      "name": "BNB EASY MONEY",
+      "symbol": "15",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2tdnnn008d2brubhowepku7a38ox",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

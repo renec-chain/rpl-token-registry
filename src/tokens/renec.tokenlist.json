@@ -14523,6 +14523,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "84NSXtL7fX15UfGxJGSdBGUJDVyfbGJnc2qSyasY2TmV",
+      "name": "Marvin",
+      "symbol": "MAV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/giy2lhcgoctyzzvh1126rdj00u82",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

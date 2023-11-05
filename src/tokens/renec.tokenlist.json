@@ -14432,6 +14432,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9mxCdR1WYqrHAjQpfDgwv2gphKqGK1snXe2Yk37uJ3w4",
+      "name": "Cryptoearlyoff",
+      "symbol": "CEO",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1yylz7eu5j4gngqzpwl5tsrqc25n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

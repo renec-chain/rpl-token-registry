@@ -14679,6 +14679,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gdis9ZkBWed6MUoEHyLePdKvDbHesMwM6Sax7TraS5Lo",
+      "name": "Ghetto",
+      "symbol": "GHT",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iog91hizu425ttrw6u25z6atz2ps",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

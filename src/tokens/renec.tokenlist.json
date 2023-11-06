@@ -14692,6 +14692,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "12stqXiju4rN9h6v94d95ayhcfpCMbVcF2NT349p1SND",
+      "name": "Empowered Foundation",
+      "symbol": "EMF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rs9wf1aajc2h18x0q56tlrybsvil",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

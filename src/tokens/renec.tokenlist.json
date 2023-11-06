@@ -14666,6 +14666,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HfKyDZKzZvZpbvxaLN1gHTNYsCfuqfKuspzjEc2xhSVQ",
+      "name": "Willson coin",
+      "symbol": "Wsc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bptabuhiznlj4n5llmvjgh37e4oq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

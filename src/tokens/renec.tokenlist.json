@@ -14653,6 +14653,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A8nveUQTx61BUHnMdhZZsrdsHK8zGsY6eeNDyYsSGD71",
+      "name": "TAMAM",
+      "symbol": "MDR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3hunflqwev0whiugmjl8uvdeglje",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

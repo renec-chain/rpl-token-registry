@@ -14744,6 +14744,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HrTJ5RREroUWdAzC53P5guPRmXSQ4DH26BFRbTWGWMio",
+      "name": "Kenyan Hustler",
+      "symbol": "KE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0ohfc6i1tzjl62b7vtgesz0wpy95",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14770,6 +14770,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9BuZV5suzzTqcnALfgG1v4VcEjW3upHgZXSFty6V17ek",
+      "name": "USD",
+      "symbol": "USDio",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f28og0yizujg5xqd0ae9roic2oih",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

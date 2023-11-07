@@ -14718,6 +14718,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BsvYwZJWNviHNYKYTjzD24xnpLkgTfcPhiKQUceFB1oV",
+      "name": "Yasuo",
+      "symbol": "YS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kaexkrspt1bngemug3owdddro3ve",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

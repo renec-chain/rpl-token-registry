@@ -14731,6 +14731,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AT9VhNkLVvMUZNGpoqswHa6mKFUPTqaj2BWxBtmnGYC9",
+      "name": "High",
+      "symbol": "HGH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tu0nwfc28m646gmvjemnhysnzjrf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

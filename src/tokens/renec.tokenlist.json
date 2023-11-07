@@ -14757,6 +14757,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6vrya65vLcT9K3EBknd7N7ULbxiEL7B5GbeLqhtZVXum",
+      "name": "Vular",
+      "symbol": "VLR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/byy53p0gtzlpwjcr04q5il4vr8t1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

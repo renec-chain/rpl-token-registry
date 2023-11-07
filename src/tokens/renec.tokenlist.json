@@ -14705,6 +14705,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BKVx7rEbNHLAMD1AR4Xdp7qCeAJAhjCsfYhpk3TsWSL2",
+      "name": "VBX",
+      "symbol": "VBX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gh9i77g8x796jx7iyrskg2m3qumv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

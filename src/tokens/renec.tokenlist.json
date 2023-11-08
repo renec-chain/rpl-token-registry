@@ -14796,6 +14796,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GhfB589Azbk1s6yfkfDy4t7fDUt71cGjY7i9j2A8PUJf",
+      "name": "RENEC PEPE",
+      "symbol": "RPP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f5o4tq85e3icqyy43187dvjlbg7l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

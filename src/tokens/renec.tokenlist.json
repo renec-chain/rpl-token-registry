@@ -15134,6 +15134,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Hsmb5qWz3CANBVVLAYzmbqe4J4q7yd25Eg2B89YtHE13",
+      "name": "Fear",
+      "symbol": "Fear",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f26a8za7s7ki0ma1xz3fn3dbn9oy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

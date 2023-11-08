@@ -15212,6 +15212,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3agtJ9VLp9Gh31JNA1HJDqb8xQ1dXhKax8y9EihTfoXS",
+      "name": "Life Saver Coin ",
+      "symbol": "LSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gotjemf9w9c8r8dz0pyoe7suqt7x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

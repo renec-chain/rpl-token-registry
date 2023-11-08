@@ -15017,6 +15017,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FXdywuoRHjPYdUn8q37V1XK7CLddPhYto5qDAxpqe9Ee",
+      "name": "Opotunity",
+      "symbol": "OPO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ym02qlc11w585ampuvf9bnldk86s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

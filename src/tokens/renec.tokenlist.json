@@ -15238,6 +15238,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2iBcjcqvnmiEcTnDgvtWwHCT1KdZtH36ENY8bPVUpsUL",
+      "name": "RENEC DOGE",
+      "symbol": "reDOG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6gya6h2alip6wmj9e6qk1s9vby3m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14835,6 +14835,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CQZKGZ8xUCHUYh8k1MZtuVds6MCcpZpZzLDneFihX3V7",
+      "name": "Naij",
+      "symbol": "NG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/23nzuwkqnolnityfg84jdnfxm7aw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

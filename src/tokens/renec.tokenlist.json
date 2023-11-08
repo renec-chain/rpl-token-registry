@@ -15147,6 +15147,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "25AUNqaaSFQe3awqnXHpy6agTixfhzbxgRKWNMVSjARS",
+      "name": "IzuToken",
+      "symbol": "IZT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6hhesgwvsauv12tg6kc3ipiexcon",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

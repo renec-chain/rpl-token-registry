@@ -14861,6 +14861,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Gof6QbaKVKLbiL1Pmj4qZGPgBiwXXz8vJ3Wzp4X39wD6",
+      "name": "Easy Token",
+      "symbol": "EvhtN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ysxh6oiyaew3gppmya6oncp61bu4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

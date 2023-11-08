@@ -15108,6 +15108,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GPHM7PSwLERppACMB8YhX8gYNWUKr3dQGGVG1KjU6sSe",
+      "name": "aer1os",
+      "symbol": "AERO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xmwmcsj8shmj5jj5yzlaalj1y5vn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

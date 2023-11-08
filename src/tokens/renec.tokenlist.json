@@ -15043,6 +15043,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3HPzPZMYKPEfqrQm5RLaQhVAcKAAqtwJDEQ5bCgGtzZd",
+      "name": "Islamic coin ",
+      "symbol": "ISLM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uo7l7o82ejcpkq3uqsgqvorcmb90",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

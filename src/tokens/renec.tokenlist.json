@@ -14952,6 +14952,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7P1xT31CXhoYywtffM1s6QxiqK5uNpC15YMe2mW7FHqN",
+      "name": "Abubakar foundation ",
+      "symbol": "aka",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3zoldifm3v7w12ou143n2fzrjckw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

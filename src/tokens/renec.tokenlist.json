@@ -15095,6 +15095,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8qgvPE669pw5ztHfjDQPargo3XTVEdNkxLdribpT4mQx",
+      "name": "Billicat",
+      "symbol": "Bcat",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ti8808ec3gbb9xwd9r71lko18sj4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

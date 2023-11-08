@@ -15225,6 +15225,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "A6oKxs21ZFSdpM662KmNy6DsUhoAqEQchZDxY2Em8MEW",
+      "name": "hkv",
+      "symbol": "hkv",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9bgz7tx2s7l13rflqln8r5hxnz1r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

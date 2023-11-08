@@ -15173,6 +15173,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8MBfpooFxDqW7yCpLxUDAFe9f7aVjLmTxW3EYpAiz8Mb",
+      "name": "Sui Token",
+      "symbol": "Sui21",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5vnbma4jd790imomy9c734w59pye",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

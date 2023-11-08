@@ -14887,6 +14887,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DFRrCzRfN3hCgS6nwTmiPPUbr6jTaohAUqi6tbmbYZLf",
+      "name": "Foundation",
+      "symbol": "egRFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kp4oxy2zzocmnuz959ouhc19n3j4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14822,6 +14822,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J6NtfKtT2w8ewAUQ8daM1LuhwEVYjQekZyXBng7zagS4",
+      "name": "Dreamoon",
+      "symbol": "DRM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ktx5qgdowsxok7502ytg07j7masv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

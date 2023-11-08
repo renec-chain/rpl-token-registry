@@ -14809,6 +14809,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Si3Fk92b8nnPP7KY1UjihuVo8fiGtwug58eHS6iXL9Z",
+      "name": "EasyEx Token ",
+      "symbol": "ASY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/idznz1uhar0cmdzb6vg60g55fmo6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

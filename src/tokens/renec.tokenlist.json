@@ -15264,6 +15264,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Y8cBEyapP8Z8TXYcgLCr3Du9wED6Q8CsabEeZ9hDb5M",
+      "name": "Skeletal",
+      "symbol": "Sktl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oisp2g8089uz2kn8gbttoiipkkor",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

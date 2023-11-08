@@ -15160,6 +15160,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EyzdeKUwNJwsybvxUcVRfXnXAeuU8vQENwjpFi4odqQP",
+      "name": "Lido DAO Token",
+      "symbol": "LDO1",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ltisgq55dmlmuzq2jv769tkkuei1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14900,6 +14900,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BqvskNW11NMLyL9FqzNKc8nS2LStBTvPAVDEsznNvCUQ",
+      "name": "Web3S",
+      "symbol": "10000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h3nx6mdlofpny5etuvaunveylros",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14926,6 +14926,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D6b4wNB6CEmWuvR18onkUSrwdbGUy76vJ3zfPh9Z1HDu",
+      "name": "Black mirror",
+      "symbol": "Blck",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4tpr7lpye5ii90ravnmx5kmar1tk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14939,6 +14939,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FspLuBwDVJ3Y1rTbCptjmULvGMkERW9GLU1W57Rimdnr",
+      "name": "Chair Coin ",
+      "symbol": "CHC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3kg8c4ohg5dnee3k9pdy8ru1hzmf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

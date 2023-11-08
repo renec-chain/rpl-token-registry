@@ -14991,6 +14991,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "63yVYhsHu4bTE3itquHq2yWuZpYj894HJetpdJ5KQtFQ",
+      "name": "PUHOANG",
+      "symbol": "HOANG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7p86yybznfoo531y2lzu0a4l5pck",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

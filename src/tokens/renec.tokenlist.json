@@ -15121,6 +15121,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CErpHPR2vx9VrpQhQZZNwGvnVHiavSbewKpt5VvWb6RG",
+      "name": "rBTC",
+      "symbol": "rcBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mvtajm79mv9811kactjel9nng5hb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

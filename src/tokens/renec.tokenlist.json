@@ -15056,6 +15056,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3JPj1KNVnpiJfDYETMabxFU1kQJbb4X8hAY2PruhxdAC",
+      "name": "ELpadrone",
+      "symbol": "ELP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/27i5ay511nfwfh88limfcmxvg6ra",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15030,6 +15030,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CugnT4zmMAuzik6JJAMWBFFcpKLp2wA21Tsb16diWQvF",
+      "name": "ABCE",
+      "symbol": "abce",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/19i39w1abux4ju97kduet8n8fc07",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

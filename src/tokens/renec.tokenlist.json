@@ -15069,6 +15069,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2RKMMnUXjmHntxR5KnBEqtn2zP1fBEP2UdBGxaVaVAHH",
+      "name": "aneo discount token",
+      "symbol": "adt",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6v7ocq7ah26yx385w2l0mt4kmexp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

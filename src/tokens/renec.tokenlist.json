@@ -15004,6 +15004,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "77ysGiR3y386768q2VrRCjgDVwFgkSKnoj5CCmXS4LYj",
+      "name": "decentcore",
+      "symbol": "DEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/92djdzkkm3qgf4bps67vbzlljmpt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15082,6 +15082,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CgysXdWNgjcJWE1FqrgNAWRKanBdrX9ndCRmGEbpJLXU",
+      "name": "samcoin",
+      "symbol": "SAM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7tpmvtdtvhhx1u0t8oxa43k1kklk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14913,6 +14913,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9EBZbMfAHFZTwUwvx9f4ftfdfod8L6nbWhNBhkTVvsio",
+      "name": "TESLA ",
+      "symbol": "TSL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dr46whxa333b3ckmq0rg59p6m5yp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

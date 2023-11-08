@@ -14965,6 +14965,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HENR9DCjkWb17VWATLgP73iKqzscfdAhmWCt7LhaXN4X",
+      "name": "India Token",
+      "symbol": "IND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ft7ua6ws44nojbg5yd29fuuf763b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

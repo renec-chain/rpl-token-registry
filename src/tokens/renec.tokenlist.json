@@ -14783,6 +14783,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D7MqFmT6zNFFQ12LAkrBDVh83hbzZ976MKVxbSUe3en",
+      "name": "MSC",
+      "symbol": "MSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qpoyka24r8d35g6pxqfl4q50r8dk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

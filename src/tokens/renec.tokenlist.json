@@ -14874,6 +14874,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Xd1mPm8LCKrTXhW9NKctCfRXPeL7pNsVF3YzyGzpS74",
+      "name": "Izzy Coin",
+      "symbol": "ICN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/prgzzjtt9ma3cdts825zn19u0bn5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

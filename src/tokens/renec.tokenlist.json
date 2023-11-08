@@ -15186,6 +15186,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AW9bzzYyMFGJf8yeB1mAqHoDjLvomV12Nbei1jy1AxK1",
+      "name": "asmhawk",
+      "symbol": "ASM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g271vow3g31ps0w1zjm6oacsntkv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -14978,6 +14978,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EN7gBb2CoEXVgB9wfy6GaLnPrasc9Vn9tTVtHWyeWWi9",
+      "name": "Eyelend",
+      "symbol": "Eyel",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y890tg4ffwb2sqtudnj4l1fpgbtr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

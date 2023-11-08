@@ -15199,6 +15199,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HiHX8e1hy1ZWhkNCEMqniB9p6yC2BbUh8XuBS8zVmzMS",
+      "name": "Forestlifetoken",
+      "symbol": "FLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vulyygedrzgswzvvmjdcay2l9bof",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

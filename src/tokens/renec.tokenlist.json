@@ -14848,6 +14848,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7NLevLpRdJvaVJoVqMDtxHmE51PVra2YsuNRX69PBGqH",
+      "name": "BULL ",
+      "symbol": "BUL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g23ux8n438cqassed944zwlw2keu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15251,6 +15251,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DQaYydQLzQCbjcKLAKh3odUxVgHRsFmrwy5SQy95bdGt",
+      "name": "reCoredao",
+      "symbol": "Cor",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b2xo2hfl2mcxge80wy8zqwtudn2l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

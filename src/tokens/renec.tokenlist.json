@@ -15342,6 +15342,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8oGymSRkstJ64ABUxxVH1gGgF8xJ2vFsVpdFPzYSDZAX",
+      "name": "RICH TOKEN ",
+      "symbol": "RT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/accqdibcmd46b2yppovxp0b3t0d8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

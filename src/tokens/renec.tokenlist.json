@@ -15355,6 +15355,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8fcz6VgiyoZ7E5qqH1gMgBjDGUmspKtBjFZQzFn5xcZJ",
+      "name": "Smart Lock ",
+      "symbol": "SML",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zpu6whpzt400i86y6ufooz0suje8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

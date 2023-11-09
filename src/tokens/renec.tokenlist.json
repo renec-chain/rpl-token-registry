@@ -15303,6 +15303,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D8RCmzSUuzosCDyZDK2b7ag6FUH59HSrzCw5suQ9o7yx",
+      "name": "PughE ",
+      "symbol": "Tenki",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zh6hg16pnw47xmu3v2bcmbgrokm6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

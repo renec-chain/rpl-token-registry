@@ -15368,6 +15368,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9bCkdH8yzkzQb7CYFKJnKUgukHjwaj4sC46TQf1QbLo8",
+      "name": "Maizane1",
+      "symbol": "MZN1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t2empranp0ecde79ifrxi15cs9uj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

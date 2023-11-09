@@ -15290,6 +15290,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FQrzSXK6YHhrwcVqUu97yJNM3yXmTQAdpzPEjwnaf7Ab",
+      "name": "Renec Diamond",
+      "symbol": "RENDI",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0nhv1hfugihapxksbvlhc64loxbs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

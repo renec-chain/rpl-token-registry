@@ -15316,6 +15316,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E2BFJJKyC6txXYYRDABWYPDSJQocfVPUGbS63srtrxrw",
+      "name": "Crypto Media House Nft Coin",
+      "symbol": "CMHC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4z2pltwadufl5gcec04ee0hft281",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

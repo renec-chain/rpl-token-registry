@@ -15381,6 +15381,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gw1D2mUPg9DzMctGrk1XaV67F4Wb28vDgQiQEuCZWVgJ",
+      "name": "RenecBaby",
+      "symbol": "NRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hd7eukohev5uiqkdf5ao60ot4udu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

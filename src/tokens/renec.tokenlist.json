@@ -15329,6 +15329,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EkK84tYePeTeCkcChGeMGZxu9AqP99yTHXXLSbB9sEG3",
+      "name": "Render token ",
+      "symbol": "RDT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zk2dfvduue8jy3mco37zm9fg3woc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

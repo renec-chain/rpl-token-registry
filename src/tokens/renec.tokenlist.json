@@ -15277,6 +15277,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FDYw8H9qxrjXNkB16Ho5dZWqu5VmoPpEeFgMzhkFfDSp",
+      "name": "born",
+      "symbol": "BRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rgshln0rc90kbfa5uw0yca0p8up6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

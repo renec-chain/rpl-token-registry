@@ -15732,6 +15732,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ARL7h2FAt5LbnF2T5z4mYHuRHnnja8maa68BuvCza13w",
+      "name": "VNR",
+      "symbol": "6789",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5psaci2k55xykds20dje4x6pegfq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15537,6 +15537,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7gFtDgdCd2cSRmRqnThmGZoJ9CWPnSoLzoSUEPuHyTyu",
+      "name": "REAL PARADISE ",
+      "symbol": "RPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/62qxrsesq6xd8rnvo740y8wb4tqv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

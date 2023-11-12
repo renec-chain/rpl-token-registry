@@ -15485,6 +15485,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGD6V73VXAJrG5cwG47jTLecFktHQW6ud8FaRBYY9NuL",
+      "name": "Renecon",
+      "symbol": "Con",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/50086s56j04lcenspi6g0kns864k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

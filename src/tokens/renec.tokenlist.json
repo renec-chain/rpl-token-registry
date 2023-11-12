@@ -15433,6 +15433,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GbKTQyq2skAcuAqx2nVUwxmPQB3pjgH9S8CP33fdFjyj",
+      "name": "1Link",
+      "symbol": "1Link",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kq89riz8nqtup69p3q4vhe1xz8xh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

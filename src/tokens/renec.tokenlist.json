@@ -15407,6 +15407,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9uWGf4Mzor7BhF2LZgjNiRV9HLbu29oTXxWEnNMcwCqv",
+      "name": "aFREEka",
+      "symbol": "FREE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/69h4kjzw9tb411bcwef3ozt7s7iy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

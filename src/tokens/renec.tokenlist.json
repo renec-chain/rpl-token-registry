@@ -15654,6 +15654,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "tM1PC95jmwcQDf35jRU8GfaQz39CF2a45bLbqBwsDGx",
+      "name": "RENEC SART",
+      "symbol": "RNCS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j0fcvpubtlq1hhunq5drll13n7gu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

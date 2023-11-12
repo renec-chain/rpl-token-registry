@@ -15758,6 +15758,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ywsiX3Wn2tNL8LUiiS6FWsnKtweWgSP6n3BFZNavwcs",
+      "name": "Rubik Cube",
+      "symbol": "AHA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7gt2u2gmeumsfjc1zzrmdia3wf8w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

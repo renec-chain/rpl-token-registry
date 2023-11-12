@@ -15615,6 +15615,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9tWNZrDGJ9VBbnkjuHFq51H387Ex6yajHsJg5NqN2WvC",
+      "name": "Tbbt",
+      "symbol": "Tbbt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m01sgtxyg7iu99wc8w6r7mxfsbg9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15823,6 +15823,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AeW8H9LAUHvDrDoj8bV5L4b4PXN41yGnCXkpPp1fEt5n",
+      "name": "Fegos",
+      "symbol": "FGS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u4x6v4r2a2l9n6yafepiucxu27mo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

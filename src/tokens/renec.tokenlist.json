@@ -15745,6 +15745,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EdN2VKY5srKQMmWqHpaHm9rEL7tr8tKcaa9SK95sx1Wz",
+      "name": "BUSDT",
+      "symbol": "BUSDT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j8c6pr0dukqukh21td4w2d68qnjt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

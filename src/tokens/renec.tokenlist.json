@@ -15992,6 +15992,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GUcXHRKiYtWgaHr5DKpAmVC335zBJwEo1qD2dNW6f8dJ",
+      "name": "RENEC  MOTHERS TOKEN",
+      "symbol": "RM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ipxjxt2gf5epp2vs1t4knbjxg057",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

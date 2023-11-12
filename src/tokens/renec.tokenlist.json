@@ -15641,6 +15641,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D4EPjZJGUgCa8LsteTfPdFJTn2nTmMxHLVHCRwVDxg4g",
+      "name": "TON",
+      "symbol": "10",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/irgklfexc1pdb3otfh7ombft1p8v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

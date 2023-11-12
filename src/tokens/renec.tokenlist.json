@@ -15875,6 +15875,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BKMNG4ypomPd6MBxtUtF6sdf2qQ2fssdS5y7VgRnk39c",
+      "name": "Nuna",
+      "symbol": "Nn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/myxlc8zswx48hete35xozxb2c083",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

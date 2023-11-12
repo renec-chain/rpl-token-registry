@@ -15472,6 +15472,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4JY3MigfxNFWVGB2ckCsSwv8D6fDaQv6rtkgVT4rLDri",
+      "name": "Amin",
+      "symbol": "6589",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ahnsio81kbb72q2u795qbhn2691n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

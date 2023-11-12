@@ -15550,6 +15550,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BLUSpF8xAAvHLfXDJpeCJRqY4BFVZU18k5w9JVUzvX1r",
+      "name": "JETCOIN",
+      "symbol": "JETZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wwddnkne7y6chy7da69jr76guxw1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

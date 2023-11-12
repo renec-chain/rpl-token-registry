@@ -15667,6 +15667,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9RRAMvHzyBzruXcAHAk3F9sFhD6AHfba1Wkyo5ArnMrc",
+      "name": "Palestine Liberation Coin",
+      "symbol": "PLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/azhfq5mg510a31gdxx90shfacudt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

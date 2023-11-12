@@ -15420,6 +15420,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EFpsXSinedGkZvijPmSEjHHF15NLMNxne8AsPnyev1zs",
+      "name": "Amfi",
+      "symbol": "27329",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nbfyd22x23qfpc2bv99xrayix2ls",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15589,6 +15589,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6jcBskiCgyPitFLQdpZZcNN8q55x8D23mUyrJWPc63Q3",
+      "name": "BCD",
+      "symbol": "BCD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hg0mfhfyien57j2oagmq8gjn60hv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15966,6 +15966,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AuAms9hH48oD22Ru5BPKwFxuD7KKddaLWiCdmELVT5A2",
+      "name": "Ronald",
+      "symbol": "RNLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4730zihmdrpwxwfc61r8xrlxoyeq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

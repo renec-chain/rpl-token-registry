@@ -15524,6 +15524,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4CT13EkUJe1Mo4oB1ED4QXHCtcyyNyMwRtSQizzWbXGu",
+      "name": "ok",
+      "symbol": "DGSTH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mvcedxg62uxyo88bjubpd76mkkrb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

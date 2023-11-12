@@ -15459,6 +15459,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ALizcpQ618LifX1wuziJs8qfRrbPReP2rCovuaKHwwsa",
+      "name": "Haycube005 ",
+      "symbol": "Hay05",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f20m54m8crukju12qmqgzhfanhv8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

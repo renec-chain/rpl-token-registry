@@ -15602,6 +15602,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G9GUym8Lu8CuwVefJUCrbij2J9FKaSmVoPVU1Y69V7rQ",
+      "name": "LYNS NEC",
+      "symbol": "LEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ta4m86v052iqr18e6h8vl4x2ge6n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

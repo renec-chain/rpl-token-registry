@@ -15771,6 +15771,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4fjiZRsg9dN2dd5qCHqJ7BeScwzXA1UZqAegVEmWXztn",
+      "name": "SIKITECH DAO",
+      "symbol": "SIKI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rc6dx74wphxba0bo8ug7vfh4xqkc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15693,6 +15693,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5TVwhrTnwRYSfVzstYCJJqqcDsfM2RdDLgdkskWjVgUc",
+      "name": "bird",
+      "symbol": "07060",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sxe50kz0xwkbrdd9s5jdqzwo0dis",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

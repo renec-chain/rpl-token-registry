@@ -15953,6 +15953,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Y87JQerC96CBMRnRgtrcCbqAFMLghYTJ3fZTZJRrTrt",
+      "name": "Tiago",
+      "symbol": "Tiago",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/49njw1u95begjyq107fgp7png4ut",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

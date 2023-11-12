@@ -15394,6 +15394,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CwVn3teS1f7UrAhJvZ3Kca6wGP1GLTG4DWkmrJC87E6J",
+      "name": "Drdreh",
+      "symbol": "DRD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0a3bwcux8vtwzhlnuo494zisq9tq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

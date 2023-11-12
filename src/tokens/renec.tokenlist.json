@@ -15706,6 +15706,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6AW5MrKPqjKodgo3tKXoHxPNdkX7EiCYyoQd3ME37cSn",
+      "name": "Ainun",
+      "symbol": "Ainun",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6pg41jfujfr08fsz35tmes13z4os",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

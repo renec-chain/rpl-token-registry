@@ -15862,6 +15862,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DxMNrMuxp6PuEJzh36sJmv7Zv9dxVxHuSGLwFeDMknmA",
+      "name": "Badger",
+      "symbol": "HONEY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g9mgwbyahu4dxpv4jgeo7cdave9i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

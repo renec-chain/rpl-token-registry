@@ -15849,6 +15849,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3b7NWLU2fDGBV2STLSd4zLhoHeV2F7BRD9gmAbux1dB2",
+      "name": "rPEPE",
+      "symbol": "rPEPE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/slsrtud1ij7njodjsp5qfnqfggrf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

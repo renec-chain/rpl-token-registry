@@ -15836,6 +15836,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3mS7bRUkRkGxpDrkQqmZr7xTw4qfg8AWinALv8GiTs6",
+      "name": "TRUST PROTOCOL",
+      "symbol": "TPN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0o8ij7n30a0bct6jxy5thclr8rm7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

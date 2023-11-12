@@ -15914,6 +15914,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "384tBwoSyxaGhxyA9PcwaGTtZ6sMqeqXaq531YFx2pYH",
+      "name": "Dovi",
+      "symbol": "DOVI",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lpsojqkrsexn74en2fohgr5v7hj7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

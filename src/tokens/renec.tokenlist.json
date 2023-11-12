@@ -15888,6 +15888,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "THRgrFVcm2uBiXD8Yxn57sdCC6jm12NfnTpQVw25K7k",
+      "name": "Usama foundation ",
+      "symbol": "42249",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jq0eke2ntyvktzl74bhc149wzmds",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

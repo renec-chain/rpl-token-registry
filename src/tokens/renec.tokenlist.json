@@ -15511,6 +15511,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AsFEYcggFFc2marMBmDQxPUQdmnqUnbGkR8pAdhSKxqv",
+      "name": "New digital world ",
+      "symbol": "NDW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hdpfz7yxo2jd65t8l4pmk75tct1r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

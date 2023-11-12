@@ -15940,6 +15940,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DJX6DXLvAQUBjRPZvYChEwZhZ6Hafto2Jbm3PsrqDqTv",
+      "name": "Zion renec foundation ",
+      "symbol": "Zrf",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/02ked26g21qyvyes8s2t2ujifbcg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

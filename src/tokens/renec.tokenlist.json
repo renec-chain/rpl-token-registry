@@ -15979,6 +15979,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3FcQTyoqDu656MArhdpGDGVyCe646EHBC3HyrAMRy1Sj",
+      "name": "Bila coin ",
+      "symbol": "PPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y4o63jlmn6a1j09tlkilysip0gq4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

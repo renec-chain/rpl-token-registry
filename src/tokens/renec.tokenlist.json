@@ -15498,6 +15498,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DsxQft3kYBttWWPtFiouPzTvoNtMvJPt4XbFbKJ9dFKf",
+      "name": "DogeToken",
+      "symbol": "DOTO",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x4ouw2yxt95hi64py117mq7arftz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

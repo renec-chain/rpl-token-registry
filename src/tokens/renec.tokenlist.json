@@ -15901,6 +15901,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H2jxW1cpyWKDTWpCqUwmbsLwGiBa9ZyyLkMcURC9P54w",
+      "name": "SHARE",
+      "symbol": "SHARE",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d48e7ncj1ia3ce10wimtpv7p592b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

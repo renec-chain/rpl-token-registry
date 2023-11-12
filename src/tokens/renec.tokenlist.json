@@ -15576,6 +15576,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D93sPHCPZve6eLt16cRS6Jk7vm2HXMYieruYVezaxERP",
+      "name": "FGN renec",
+      "symbol": "Zai3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hweqlsz8ft6pksfi8ux9fio1g9ds",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

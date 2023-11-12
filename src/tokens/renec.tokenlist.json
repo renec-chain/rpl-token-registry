@@ -15927,6 +15927,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8chJZB3kSiTXX9ozfoJ7kK6xdxjKSbbn4VmuntTCTHhx",
+      "name": "Sendgoto10",
+      "symbol": "Send",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4j3wwgjkusll6ldxqgj6qv9q0hxc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

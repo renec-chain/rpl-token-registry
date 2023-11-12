@@ -15563,6 +15563,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CbmafUBkgZMAhyPUtAUSriWDmkq2C4TEyqBQwqMnn24c",
+      "name": "TIGER",
+      "symbol": "TIG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ohd946gkk1u0tl6nzieghd2bmnst",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15810,6 +15810,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ESCQqhSnEwvxuGB6TTwauak1ea1zf8V3WmZNyQZosPTe",
+      "name": "Diamond Boyz Coin",
+      "symbol": "DBZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h3cn8urqa9pw4fsbw9uiwwl27yqv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

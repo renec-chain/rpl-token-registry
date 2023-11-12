@@ -15628,6 +15628,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "rhPx4mDLPGVhBw7sc6kozkXK92WzsBE76XhWRGmVRR8",
+      "name": "GEM SHARE COIN",
+      "symbol": "GS",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6n6gshgsi80u8edmpxrebp7opedv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

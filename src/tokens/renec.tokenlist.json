@@ -15446,6 +15446,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HsQ4b3rC2J4mVHTNKwWSSDrXwJNgPga57c7UBmQipuic",
+      "name": "BEEM",
+      "symbol": "BEM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v9tya6m337p8ydj2xaa9nnnai48h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

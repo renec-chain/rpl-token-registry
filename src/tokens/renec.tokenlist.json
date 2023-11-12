@@ -16005,6 +16005,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GTVPjQtmyvC4J1q6ybk2qLAk9THaybkRjEJ3Dd2Rec4x",
+      "name": "Naira Satoshi Version",
+      "symbol": "NGNSV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ouv7ubzkmgeumy1pc5ek2hr41zzu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -15784,6 +15784,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EbHpM8bF9pPZ4xXfBwtTu3L8N41bQWQVBpbBW5RJe4ux",
+      "name": "Govca foundation ",
+      "symbol": "Govca",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b066zvdy6wzsvplghspbsqig9why",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

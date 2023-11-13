@@ -16239,6 +16239,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7PyvA4dP7ydVRaEZKEV3J96saYmNPFX6WXFHEawK58YT",
+      "name": "GX Token",
+      "symbol": "GX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4hpynmxhs9c30gangr3k0mar9axi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

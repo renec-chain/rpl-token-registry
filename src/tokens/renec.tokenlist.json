@@ -16174,6 +16174,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HaeFngHCKNSnDeT1vLtjJcp41dorziXssshNfYZjp8zN",
+      "name": "Income Solution",
+      "symbol": "INSO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/opo6ds1tmteult9tr130ge3gorqj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

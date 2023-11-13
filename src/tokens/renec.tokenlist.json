@@ -16109,6 +16109,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9azqXWs2NQZiwfVeixheb28L8UmVC5jKJSmTkRAAZxAF",
+      "name": "CandySwap",
+      "symbol": "CANDY",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dl861cipuvyew2pn6nvxltfzbm4b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

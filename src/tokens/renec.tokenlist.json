@@ -16057,6 +16057,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eu4o3v3nU7UP7tyjZSKUJMApNpthxL3H1EMZCaAivSo8",
+      "name": "REN ETHEREUM",
+      "symbol": "RNETH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/su070vp5zw0v59nctr26xeg72ejm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

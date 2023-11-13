@@ -16213,6 +16213,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5yosWg1ea7VjAVBqzA6D1RUCVKLHLCgxJRKyuVj4kLgo",
+      "name": "GO TOGETHER COIN",
+      "symbol": "ADPN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ex6xbbugpsw2c3yifjwrzg3e6zhc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

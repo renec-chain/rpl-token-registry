@@ -16070,6 +16070,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "374VRe32qcbMVjMpCHRyvVHAURX5GGZzHb2xHfH5QFnW",
+      "name": "THESAW",
+      "symbol": "SAW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gmhbq27skdrok69br6hvglajdp1e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

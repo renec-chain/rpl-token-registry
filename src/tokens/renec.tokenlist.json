@@ -16083,6 +16083,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FdinEexFAURKFfyq3ewXbcepmMuX54bB713DW1SyPxws",
+      "name": "OPNX",
+      "symbol": "OX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oit0hftqf770ibbcumbzslyjx2ls",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

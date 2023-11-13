@@ -16096,6 +16096,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GDktDGSe9zMr3aG2keATQavGEvgPsCCbC5NnD5ff7dzd",
+      "name": "Burberry Token",
+      "symbol": "reBBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/upjbf6gurbouhlh4hfwk0ynyxb8o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

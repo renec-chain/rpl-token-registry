@@ -16148,6 +16148,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J9hbKhGAhUUbVj4eTaLHNwDvmpsAZ9zJrygYqyFK5xnr",
+      "name": "Billy The Meme Cat",
+      "symbol": "BILLY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1tab2r6qo7l6o3goeyeg7fpefu5g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16135,6 +16135,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2qgeVNYnttQfrwx55CKgnWH8UjYJ8MEUdsfyuqEzT62J",
+      "name": "duaxiem",
+      "symbol": "DXI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7vwzpwz7rmwq6i9kyjsuhkwht0w3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16031,6 +16031,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6j4ghnUabqKJFPNqWuY9sJEPW1V7t6oPe6Mph7MzZdQS",
+      "name": "SopToken ",
+      "symbol": "Sop",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1s6msxusswvsxc0a6q8eggjn5ozf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

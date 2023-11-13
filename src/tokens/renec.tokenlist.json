@@ -16044,6 +16044,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BvaqS5miRuG1UV297fWL2Z1f6wbTbu6Hjo7iN1Q8nkNH",
+      "name": "SAble",
+      "symbol": "SAT",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zu84hxbewsadx8gwii4lfecjkkn9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

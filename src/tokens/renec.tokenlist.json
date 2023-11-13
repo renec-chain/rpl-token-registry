@@ -16226,6 +16226,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2JBHoWTUDwEUWNrMQTneLbrkjJABkgG8VoL7Xo9BSq8Z",
+      "name": "Mockingjay Token",
+      "symbol": "MJK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a3u07n114lw4j0xp7nvtmu8ocu1q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

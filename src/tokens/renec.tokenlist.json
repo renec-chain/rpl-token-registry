@@ -16200,6 +16200,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Ch88tmMbqqsJSspHppZnh8S3jWzuXbb9BgbmvrhUWaBg",
+      "name": "KTB Food And Drink",
+      "symbol": "KTBtn",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1kxwzq1zscfc44ydtem2h1i1ui1p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

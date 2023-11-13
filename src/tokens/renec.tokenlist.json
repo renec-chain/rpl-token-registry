@@ -16161,6 +16161,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZQP5r36KbA4ojpWzZTzu1FaWxizgFtnonCwvfRvFcM1",
+      "name": "RENEC FATHERS TOKEN",
+      "symbol": "RFT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mj3j2h7o5cflezel7khqjae6e4fd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

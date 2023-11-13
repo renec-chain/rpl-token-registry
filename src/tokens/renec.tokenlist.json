@@ -16252,6 +16252,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "B3VXJExpZdAKLAXKXzopAHUa6WEdFEWgUvM1HVmHFDLC",
+      "name": "Richie author company",
+      "symbol": "RAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uun41lkessfu3xvu7hw2wzabxvck",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16122,6 +16122,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DUZyZkw8GbaHhMjyVxGtWmGVCFGP7npe9gL5MnN8mdh2",
+      "name": "Snowhills ",
+      "symbol": "SNW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hqpxunqcbql9wjgyg2131inqz4gk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

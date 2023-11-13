@@ -16018,6 +16018,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EQHmvguJFHaEjBzxUVToMwdzBHBfnQB3EtapvaiWBGkT",
+      "name": "Billicat meme",
+      "symbol": "Bilme",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r0d43um1mf6wuty9ii4k4ao9ickq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

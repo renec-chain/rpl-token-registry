@@ -16304,6 +16304,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GUEDN4qTNV54m5CgheW82gJwZRc5ubM2kp5fXJ2WJdpy",
+      "name": "RENUP",
+      "symbol": "RNP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iaum7ia9woghtco3hkpnkqjcec6i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16343,6 +16343,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7XeJj1GUtMUafZ2tTTUDmrQfpxm5uhKkQHkMkJnyAixs",
+      "name": "PELOH",
+      "symbol": "PLH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9i7ss2iks04yrie0c8wlyszw48w7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

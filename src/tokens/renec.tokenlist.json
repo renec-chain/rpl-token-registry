@@ -16382,6 +16382,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5nVAjh7GJ31fixvL9X1PBPdnRByi8WXgBnv6WPuiJ1KK",
+      "name": "CAR Token ",
+      "symbol": "Cr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ut2ajdxe3muss0pk7itvyg2dlxe3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

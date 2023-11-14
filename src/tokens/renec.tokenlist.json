@@ -16421,6 +16421,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3caJELhC4RyrGs4JrQdTGrL2QzCVvWQphcqZraXjAENP",
+      "name": "Facker coin",
+      "symbol": "FAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rhu162914ve328vyq814ct9j8htz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

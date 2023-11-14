@@ -16330,6 +16330,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CrR3bJuQ4PcjVbsfQXrzcHw2NznfNiZFiVmDTYSggzwn",
+      "name": "VICAGRI",
+      "symbol": "Vichm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sa3n63tbfk5r2vetcyw1l1ops2xe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

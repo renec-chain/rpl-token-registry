@@ -16278,6 +16278,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3tvuawW5JLXY3Husbbz8LtmdQpueqsX6WUgZSbt84YW6",
+      "name": "VOAPS COIN",
+      "symbol": "VPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yw9cvj1048fo6wuu8zlt7a7uqy77",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

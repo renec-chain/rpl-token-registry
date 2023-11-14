@@ -16434,6 +16434,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3cSgHG4rMFeMLG9zkxAHCRrU98Se8VygbUujRgdJYWJv",
+      "name": "Palm Spring ",
+      "symbol": "PSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kabl8kr4knguorcy3cspnw30myce",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

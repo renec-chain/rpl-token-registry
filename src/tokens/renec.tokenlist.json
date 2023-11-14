@@ -16291,6 +16291,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7BjKmS8EiiLnFJcK1gBA3TLY9kVtGhzg6oZUhbLu8DMZ",
+      "name": "3123a",
+      "symbol": "411",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/apqlzzegd5jpzmke1gjdvsfr9csw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

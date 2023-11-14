@@ -16317,6 +16317,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G7WE7sk6yeRyuB5SDFiE4hEec4EhwA9d7AZPQwZp7qN5",
+      "name": "Cat Coin",
+      "symbol": "MAP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v1w9yx4obixyp1yrcvusajpf8m64",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

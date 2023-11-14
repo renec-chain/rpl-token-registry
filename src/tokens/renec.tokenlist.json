@@ -16408,6 +16408,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2WQyFqDfvoffWLKFjMoa2h8jRQka3RWooAbMpGjivAm2",
+      "name": "Palm Spring Confidential Reaearch",
+      "symbol": "PSCR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gd11dnw697743cqjvmky9nqbq9w4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

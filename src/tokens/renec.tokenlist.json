@@ -16356,6 +16356,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "28maRhzvwVKLDaPtm9FJa4QWWxv4mAW65RPBKaG3fbLR",
+      "name": "Never give up",
+      "symbol": "NGV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nrk4tvig4iq5gdmuh50138afbz2q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

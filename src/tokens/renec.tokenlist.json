@@ -16369,6 +16369,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C4EbHz3utSCspeH77Xmq7QMZMtogA1q1fy5KKpXQefgg",
+      "name": "Eva coin",
+      "symbol": "Eva",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nlted6xnx2dqll688vuc4mqjcwgm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

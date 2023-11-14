@@ -16265,6 +16265,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8n34yyX9ps3QvFvVS9SPu6KEpLM752CHE1GdWvHAH3bm",
+      "name": "Beautiful orange token",
+      "symbol": "Bo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n7zkox7f8ass1euyds2l6rahcoo8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

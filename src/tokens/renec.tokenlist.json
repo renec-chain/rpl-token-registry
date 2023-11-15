@@ -16447,6 +16447,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5nZ5E8bFu9wXNp2EGxkarALV5Z9jc5JtrHBdvX2un7S6",
+      "name": "Elon musk",
+      "symbol": "Elonx",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zyochulkjgvhk4ue34tkhjwldwov",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

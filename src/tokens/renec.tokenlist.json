@@ -16460,6 +16460,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B3NQLRdqp9gmQa14jiAyKfw4xaWdXza78rtofAu2fEQe",
+      "name": "Ultima Token",
+      "symbol": "Ult",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gs51bivsxnunvjgk7xg2pbrmgvbw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

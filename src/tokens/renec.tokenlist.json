@@ -16577,6 +16577,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FJEV2ciuRnfFf8jhp22kx6XPezc6ZbF7BiM33geoZgdm",
+      "name": "rebirth coin",
+      "symbol": "WLS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/itemhn728iy9jqnkn13juzm6z0bq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

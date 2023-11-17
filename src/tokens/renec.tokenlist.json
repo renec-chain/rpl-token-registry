@@ -16499,6 +16499,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FTgcWd9QZWTiMnjfbeVkh3NNpuq74rkJuU9vuqTWNXkz",
+      "name": "Kangiwa",
+      "symbol": "Kgw",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jcp51q9nvxmdhxkqldrn0c3fygxa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16473,6 +16473,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5gEu3cwrrYNPpkmBuuf3UMHzwWM5yDUKi9g5CoS3Mjb7",
+      "name": "Diamond Token",
+      "symbol": "DMD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sg1c2ax2r3puevhnbtgvtpmp6fa8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

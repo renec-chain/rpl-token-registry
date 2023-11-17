@@ -16551,6 +16551,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GcgjP8eCdJDt1JmpPoXj1gEUWEBJuVspzvwYHcV1QkiH",
+      "name": "Inner circle ",
+      "symbol": "ICT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nrphrlguldetlyuest02x9fjn1e2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

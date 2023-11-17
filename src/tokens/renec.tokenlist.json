@@ -16512,6 +16512,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A3XXoEDjBU9T4pZEhqEgHGzzTJXTyi1uoKuorFZr9wee",
+      "name": "Hung",
+      "symbol": "H",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/63fnen0cyo1p7tl7wods5oy86gsu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

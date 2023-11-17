@@ -16486,6 +16486,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "83XYbEQGGGcvHT2QXetkgRUZkLnwp7Lq9ztBDtDxFKWW",
+      "name": "Salihu token ",
+      "symbol": "SLH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ws6fd5makfu2t9c92tjdam6i9yz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16564,6 +16564,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FAPsKMoz2geDyWCVmUriNujXC6ry3b2y9wozevKCgeEH",
+      "name": "CashDan Faforlife Reg",
+      "symbol": "CDNFR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7mn8qdiv5xkci9wilfdh9plpep7y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

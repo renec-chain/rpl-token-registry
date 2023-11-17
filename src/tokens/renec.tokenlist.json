@@ -16538,6 +16538,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2VVECZppKeeo75RyjL9ukUuaML92t5CQ27r1zYLgyNtp",
+      "name": "Lucky Bamboo",
+      "symbol": "bmboo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/klrh42m3gbzopi5fca9broajbs1p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

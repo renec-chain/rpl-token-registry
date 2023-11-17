@@ -16525,6 +16525,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hed6H1dtFNYftasuTT9CidrhzxUtNYGQkZ81xUSdUhnS",
+      "name": "Mjawad ",
+      "symbol": "Mjwad",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/shybo447brhu44uonn71pbp5hbfg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

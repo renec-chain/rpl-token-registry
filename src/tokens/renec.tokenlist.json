@@ -16785,6 +16785,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CGxAcjXs7TSK6GUJuTj4GE2Xi6Qi6czU5jaaQVQXTkH",
+      "name": "Angular",
+      "symbol": "NGLAR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ked8yz9cvy3fo47xgn3olvs9bqno",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

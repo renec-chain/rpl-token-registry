@@ -17149,6 +17149,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FN4mttmt3zKwjZYXQF5bhdR9hoKKxWyzDoLHgDXqE6Uy",
+      "name": "Hello token",
+      "symbol": "Hello",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lp5ou6iwlz4o1hfrxfa9qld67tcm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

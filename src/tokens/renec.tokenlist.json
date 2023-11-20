@@ -16824,6 +16824,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Abn3rbdvEnFZSLWN91sUfL5gjfb8iTmJCmPbwYdP66nL",
+      "name": "Kanden",
+      "symbol": "KNDEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p6gbfzzs5fhh482096oh7zpq0o9f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

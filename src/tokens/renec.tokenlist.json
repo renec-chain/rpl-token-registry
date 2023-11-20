@@ -16590,6 +16590,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HtzrB8LihudQnWPdtK5rMnyExor8jaufXLJeKybxgBzM",
+      "name": "Propeasy Token",
+      "symbol": "PROP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tjkg9tod58inkh94futeuj0ktgij",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

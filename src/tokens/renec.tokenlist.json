@@ -16798,6 +16798,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BbvxXJHfYzhKsHLpEr2yutuB2Nh2oa5a7rmMjE4uyLkG",
+      "name": "Khanh",
+      "symbol": "Khanh",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/43uegcduygyx484w45iw5lch52wx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

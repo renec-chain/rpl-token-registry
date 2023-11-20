@@ -16941,6 +16941,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5QtdxEFcLBehkfJd8BjArHz1b9XUHDXcWPewQWankDgd",
+      "name": "Wrapped cPen",
+      "symbol": "wPEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bs6iprwi3ageph4yjqbc61298lne",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

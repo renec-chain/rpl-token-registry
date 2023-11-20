@@ -16629,6 +16629,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8C4i9cZnDkorqnnbgwaN1qcK56dvLSkdXgfL2DZh9LJg",
+      "name": "GIANT",
+      "symbol": "GIT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pa0agouhz8fl6aho5gbnl9viwr8g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

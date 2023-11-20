@@ -16811,6 +16811,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "27NS1qaVEe3eCto4cDF6pmGtMzxun8JZEd7R2Wm6MpRM",
+      "name": "K13P",
+      "symbol": "K13P",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9b7yoj2e58d12hlyqf3en5wyxk59",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

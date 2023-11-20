@@ -17175,6 +17175,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GrJrGotS9dXKgp6Mu6nkuNiUv4sonQhMgWFYEp9WTPFY",
+      "name": "Czb",
+      "symbol": "Czb",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f2y7c7zhxit521rw8xiczjhhu80d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

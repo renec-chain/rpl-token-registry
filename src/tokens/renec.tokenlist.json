@@ -16928,6 +16928,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "87cTEfG1v3EdFE4VU7DxUY6VcUyWcpE84WYNkPBejYUx",
+      "name": "Wrapped Bitminer",
+      "symbol": "wBMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e03m5rbtsu8vjj9oj5g6ej6p710l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

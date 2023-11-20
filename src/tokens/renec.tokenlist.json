@@ -16616,6 +16616,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2cWjrDepV947cRCR9DP8WMvTjV7XPtMV9xb4VMsz7AqG",
+      "name": "Wrapped Ligh",
+      "symbol": "wLIGH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q651zjfhb5oib8morr0lb77jm4zx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17162,6 +17162,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2jtr4LF8xqVKKC2tAtkg3x3jznwgkTkTxZaXL78XLNKY",
+      "name": "Merge Test",
+      "symbol": "TESTM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wog4j7mtj2dltsiy6at3q7in43ad",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

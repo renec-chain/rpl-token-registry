@@ -17188,6 +17188,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4W4qoYQesyP1mWxgejmUFbc5VwAJb1fWokQMoaj1oUxv",
+      "name": "TIEN XU VIET NAM",
+      "symbol": "VNX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fir5uoc99w2vsr9yk1o1l6yrg1bx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

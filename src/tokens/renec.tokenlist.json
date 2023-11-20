@@ -16902,6 +16902,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D99yTPEoi3kc2FY87dmneuUy1w5tHfpPW4Zd5qSP6CDM",
+      "name": "Phone pe",
+      "symbol": "Phone",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qm91gqdhhg2kzru88mku9o7pmi1x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

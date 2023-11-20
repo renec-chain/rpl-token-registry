@@ -17123,6 +17123,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7zpWRrthEMLk3gR9SXHTg7cy1SpN86C1SUCVyWTvjQwp",
+      "name": "Cruz Meta NFT ",
+      "symbol": "CMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xqmgibfndv6pfct8mpwcawe1zj4n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17084,6 +17084,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EyKyMfrki6CYUWsmMvB11gEh98UjsXKgn4B1edHLsDGJ",
+      "name": "AI Grok Token",
+      "symbol": "Grok",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wihy4b3whnkbvzeoox51i66jtndt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16746,6 +16746,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5YMbi6JrF6e2hoHsDRNdqdAL8B7r8tRYFvjnakoF3Lde",
+      "name": "RENECC",
+      "symbol": "RNCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lux1o4fbf0yyjeuyoi8wkaki98ti",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

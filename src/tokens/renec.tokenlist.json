@@ -16993,6 +16993,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D57mDL4deHg2Zc7oUGnfqS9JPD88PFS3mGRStxiPcgDQ",
+      "name": "Wrapped Dotchain",
+      "symbol": "wD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4es0qry2qzwm38r2v4p1c90lc7p9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

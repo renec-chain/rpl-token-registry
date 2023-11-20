@@ -16733,6 +16733,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AbWfkPRDs91oMRFF2d8zAWda1AD5tmd6GwvRWrPcTPTY",
+      "name": "Galadima coin",
+      "symbol": "Galad",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4nx9kps452vkq8a0wo9s7mxy60a7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

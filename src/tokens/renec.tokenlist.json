@@ -17058,6 +17058,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5FkPGBaNUxBbEXtSPoSUvpLDziXpJ7A6cRM7LBQZr11o",
+      "name": "Crypto Korea Coin ",
+      "symbol": "cKRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/56c9oz9yngdfj8gk2nprgvyzzu2l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

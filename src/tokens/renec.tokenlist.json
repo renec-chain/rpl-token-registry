@@ -17253,6 +17253,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7ieieBDXrVHEJWQ6xDmW9Ab4cpg3CK9qaCxrUb7uw8GZ",
+      "name": "The World Bank",
+      "symbol": "WB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vaor1m7hw1vwryrp77q4ayjws7fa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

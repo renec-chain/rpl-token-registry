@@ -17032,6 +17032,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3A7gWgSkDXgt3PTcX7ZdGGTpssjNdPrMCjjpHmnsdx1K",
+      "name": "Farsa",
+      "symbol": "FRS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wcxu8c94fqoiscme1nyb5q2kcffv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

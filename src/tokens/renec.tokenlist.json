@@ -16668,6 +16668,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J8qAuT3rufLoSqfpQN1hWCz5h1r1frxT7YE15uMPW9Mm",
+      "name": "Kar Zan",
+      "symbol": "KZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ohy5b7187u1po9292h3dgmff42v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

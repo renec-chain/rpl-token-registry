@@ -17201,6 +17201,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3qke87D4cHLS8DnhXLMiqwaT24sf4dvF9MLVMRfEJHJs",
+      "name": "1111",
+      "symbol": "11111",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6ybpjgjpzcz1dn1khd8q1nkvxr6h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

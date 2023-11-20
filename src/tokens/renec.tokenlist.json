@@ -16694,6 +16694,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FBnvqS3LbTp4uLComFXRTNGZRXR2UWVqVzrrMa9qn4CL",
+      "name": "MuleSoft",
+      "symbol": "MULES",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0mympjffg78ee6f209dx30xjfn5s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

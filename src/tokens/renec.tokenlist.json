@@ -16707,6 +16707,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7SwtSuHmYVRtMd9hZVbgNiKZvzqrfNGtJ1xuXSYRkEwj",
+      "name": "CAPTAIN BTC",
+      "symbol": "CAPG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9is9tn7twz7dyl1mnommw3hf9690",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

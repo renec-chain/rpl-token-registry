@@ -16889,6 +16889,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2QxiSNyXCUBkMbR1RUEA9JU1PaJNa4wmyHVxNzGJ4rsm",
+      "name": "Wrapped BNP",
+      "symbol": "wBNP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xs5q90ulwtjmjr4gkjigx9t0vg43",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

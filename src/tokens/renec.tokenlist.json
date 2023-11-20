@@ -16876,6 +16876,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5LiEGWk3rmJRhwW6osr6frCYhVDihmugkCU3U7UrgYZ7",
+      "name": "Wrapped PXR",
+      "symbol": "wPXR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kwe0nsukx0x7n5vjjmlawsglbrgz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

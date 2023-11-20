@@ -17227,6 +17227,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "85jSdDQxFb6dSHude1qhos73Q1TiBZRConFKzjU8pASN",
+      "name": "Trippy coin ",
+      "symbol": "TPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vd819utnbs6ngkc1spncbnhubgue",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

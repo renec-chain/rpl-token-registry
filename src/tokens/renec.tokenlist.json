@@ -16863,6 +16863,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3LmoAwrV5ghmMRc7LDopYT97YxwiYhcQaJQuQrob4V38",
+      "name": "Wrapped MK",
+      "symbol": "wMK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/36u7xee63l6a4faz1g3fmnl1aqyg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

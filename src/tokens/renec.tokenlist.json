@@ -17071,6 +17071,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dg3x425ZecZUnCMsSMnBVHuBcDjrfUDwU2uhroeFroca",
+      "name": "Xander",
+      "symbol": "XND",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xbtuaq7snh3cf5nona9r1wnz8nzt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

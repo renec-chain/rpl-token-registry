@@ -17136,6 +17136,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DdQWutRQRKLSvZwyDRJhvBoy9Qj8TvUtPWjoXLTcoRLQ",
+      "name": "CruzMetaNft ",
+      "symbol": "CRM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fa213ur2efzirx0xa87u5tj8qv9c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

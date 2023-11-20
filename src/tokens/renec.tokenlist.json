@@ -17266,6 +17266,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AFzi1CZkKST652YySZxUFNijAgbC4YmYyrzj1Sq6YgvZ",
+      "name": "NGUYENVU",
+      "symbol": "NVC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g41zqum1tf3ptdtskzajdxe7m2bj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

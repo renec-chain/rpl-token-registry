@@ -16980,6 +16980,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3b5HY7bSA6FKNWDCgZHUzhNDLVXwp2WmLgrYj8EKzepx",
+      "name": "Wrapped Sidrabank ",
+      "symbol": "wSB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m5ljd999wwzfuyh4wwaz59z9h9jw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

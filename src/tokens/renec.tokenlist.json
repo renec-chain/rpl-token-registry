@@ -16603,6 +16603,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7tozaUuDMu3tU3KyDUAY3HVv7FXSp2phcJ5NuuiB6u6R",
+      "name": "Wrapped OTX",
+      "symbol": "wOTX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l1p4xlftnbqv3umdx3gmgh9u7w8d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

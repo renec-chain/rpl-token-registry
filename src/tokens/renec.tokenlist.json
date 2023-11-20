@@ -16655,6 +16655,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "72WCZuZaAqbf1ARK98RK9ayBtGL1AiouhhCArifiUAfg",
+      "name": "Crypto Korea News ",
+      "symbol": "cKRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/63avuph4o1qf8l5ajzjbz922v3yo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

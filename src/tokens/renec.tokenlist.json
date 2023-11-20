@@ -16967,6 +16967,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7bu6pBamBuCwMnzoBbM9GoT49pGQNo4787C1AjHmknUS",
+      "name": "Eboma",
+      "symbol": "EBOMA",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xc7ykuw6opf2gmg75750w3esnrkt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

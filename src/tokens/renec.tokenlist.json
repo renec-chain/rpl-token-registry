@@ -16759,6 +16759,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "676BzNXNf5gUUoHEvMMxfY5q1bveh1mx9iM1Y1PZLaSL",
+      "name": "Boshu inu",
+      "symbol": "BINU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jxb3zmibqfj986bn9ivgxriod0aw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

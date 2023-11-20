@@ -17214,6 +17214,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "TSSGP3QYSAUA8QFyBWeuojqj1kkzvfdh7s3u2KMZHav",
+      "name": "Arkofgod",
+      "symbol": "Ark",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yxh0xeo536xv7hk2uglb27853kwn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

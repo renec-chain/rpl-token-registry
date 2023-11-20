@@ -17019,6 +17019,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "56dwuYptNZzzeVGCLP4HqmQ1fGT4GrmTgSHkpmdRLHzV",
+      "name": "Wrapped Beta X ",
+      "symbol": "wBTX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4a90ya7o2uwuodr50jmuyx5ll0i1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

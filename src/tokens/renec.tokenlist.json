@@ -17045,6 +17045,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Aaq973nD8XcfQm6oAy545y6BqHTDQUaCiFUXKSppmFZ",
+      "name": "Taka",
+      "symbol": "Tk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bb4r8cfo1cpumeds84z7sybvbjip",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

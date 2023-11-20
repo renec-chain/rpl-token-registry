@@ -17097,6 +17097,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sVRpRK92BUbYKNyQZaA9EEaDADaL8JQs6gYcjvs3iMz",
+      "name": "Wrapped Bee",
+      "symbol": "wBEE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h8lvv7vbqjf7sn7pv5knvmxwnj7h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

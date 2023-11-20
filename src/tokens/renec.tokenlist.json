@@ -16954,6 +16954,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5gnjgyvNqQ37f21tPG6pzsG5EqX3PJXCGH9yK1vEe2Qi",
+      "name": "wrapped LGBT",
+      "symbol": "wLGBT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jp68eiibtjl9j8g85vvx85ofzllv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

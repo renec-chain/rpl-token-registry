@@ -17006,6 +17006,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FDQ3gxMQ3Lqo93W3myRmzrbUDgZRdCmQAiUmPwGgevKN",
+      "name": "Wrapped Core",
+      "symbol": "wCORE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ac4f50jgmn2o5ov7nddt50tjtajd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

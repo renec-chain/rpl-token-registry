@@ -16720,6 +16720,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3emnHiwsttyRBALiAcCJZa12u7h5HgUKvSCmfC4kwRzi",
+      "name": "kossan",
+      "symbol": "00001",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c91v89n8xr01b08fi5nvd4zjb7mq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

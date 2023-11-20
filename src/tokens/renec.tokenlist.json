@@ -16850,6 +16850,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4dU56C4sHv3juNiRTMH62cRtFHURYzEwtgTYEFR1wt2U",
+      "name": "Wrapped AZ Coiner",
+      "symbol": "wAZC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dg5yincqgtp5t57u9l99hjswas1j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

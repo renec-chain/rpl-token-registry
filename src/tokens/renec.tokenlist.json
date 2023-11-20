@@ -16681,6 +16681,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6LetrnSxvPfWWQz1jrFA15gfsssG4FAJjQ1SA3izSpFp",
+      "name": "Goodkachi",
+      "symbol": "GKI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/toza92ilycbid20lxm3ztj9nokpr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

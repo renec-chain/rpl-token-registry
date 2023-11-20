@@ -16642,6 +16642,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Df32NF2dvwf8R7gPLCkzGAgsvLXrTVk5UFku6PU3Nzfv",
+      "name": "Auwal Ahmad ",
+      "symbol": "O",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wez7q4ecazcpjzm0cbnahwq5ol0w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -16915,6 +16915,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HqK6ZoaS9f1776tphJBUuNRXKcMgr7Y7qgrDikPhiTRa",
+      "name": "Pinetwork ",
+      "symbol": "PIW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ceu437rah8y5bu7wer4fcmulp7jc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

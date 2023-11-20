@@ -17110,6 +17110,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HCGC9DTyFC7syxzaqH3ojjXe4vt3FXFCz5t9an77eoQd",
+      "name": "Wrapped PSE",
+      "symbol": "wPSE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c0dxcir96ug8kho0kcsc1tzaqib5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

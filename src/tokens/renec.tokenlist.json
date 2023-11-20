@@ -16837,6 +16837,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "54w2oqc6Msxq8GjNwK1R9HSjMsXb1emE9iRHNfzdksuE",
+      "name": "COACLE Foundation",
+      "symbol": "CCL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kv8y6o3sr8gd514etak7xdqlvr11",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

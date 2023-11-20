@@ -16772,6 +16772,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5JT51CEvJnA2WT6G89sC83vZCELYyNkaiW7h2ZDZFX94",
+      "name": "ANA",
+      "symbol": "ANA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4j4cydi54lfue7o4heg5rmnvtvam",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

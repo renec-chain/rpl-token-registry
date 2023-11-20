@@ -17240,6 +17240,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2GQ5CdUJdyUZ7suzffUC2Y23VNGA9gYJbjrvWu1YA9mj",
+      "name": "EGGCHAIN",
+      "symbol": "EGC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/968w1vgb1bzabvxrbhrj6w609ndm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

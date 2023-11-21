@@ -17292,6 +17292,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CibC3WsSWrLKyNawo19q5HjA48mNfoMzwCx9YmFza1Pi",
+      "name": "UMBARA FAMS",
+      "symbol": "UMB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ygiv2xaae8s7iskfbjy9122mbpe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17279,6 +17279,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ch13yyuCRxcNtgicA4aYvkRbZfNmgJyEcrRyLPCj23uu",
+      "name": "Fum",
+      "symbol": "Fum",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ymih94pde6psnob1bojweljuid1k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

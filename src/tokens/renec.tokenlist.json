@@ -17344,6 +17344,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8cVyyuzNYBeKAxtqiudEy7GC5rUAzvjRMfxyk68KGG7T",
+      "name": "Almishary coin ",
+      "symbol": "Alm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5vzhamsml23a5f1p22qbpvvbvpbh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

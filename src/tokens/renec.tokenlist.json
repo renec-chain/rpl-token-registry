@@ -17383,6 +17383,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9VjKTPMeDNPxrG1oM1nEkuSRnoVo7dEQmsJbEoB4EcDu",
+      "name": "Anansee ",
+      "symbol": "ALS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hrqa18ao6ye9j0w2aw1ro39i6fjm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

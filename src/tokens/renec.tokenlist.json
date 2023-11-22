@@ -17305,6 +17305,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GQ34AyiNtJPr7Z49AMMmCN1ULc4hEKECh5XzR5gD79Tc",
+      "name": "RENc",
+      "symbol": "RFCc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7fg1trg0kpulfb2b9tor5sgksbhx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

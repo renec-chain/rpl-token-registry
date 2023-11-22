@@ -17396,6 +17396,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4JUYgeSwNWNxdSZJq5rxtBCA3ePsPCHXZhYUD2uAXMfv",
+      "name": "Sitec Token",
+      "symbol": "STTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iaf7ib5q85pzovl6nn4ebvcbjb1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

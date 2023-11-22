@@ -17370,6 +17370,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8dXebyGzh8HQkBxmsyze2Q1FzF2qrzDiguqUMzps52Ty",
+      "name": "Konoha coin",
+      "symbol": "KNH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xbf2wi8pijw6m39ngc256p3b4391",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

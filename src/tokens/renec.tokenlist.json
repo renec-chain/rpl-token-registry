@@ -17409,6 +17409,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2MQSPtYsqdVsaKiMwk3NwkwMqWYiQ5CUWZj5KqTKjurq",
+      "name": "Wikki tourists fc",
+      "symbol": "Wtfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gs7lgyl0ilc95r6p18imw2ei6v5e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

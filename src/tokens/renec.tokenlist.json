@@ -17318,6 +17318,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GJa4K4RUWhNpcyVn2R5CKfstS1cvVEhvKCoXnXTXwEe2",
+      "name": "Competency Office Coin",
+      "symbol": "COC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2f6tz71kxpef9bswu69m8oaes7sy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

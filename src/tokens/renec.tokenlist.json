@@ -17331,6 +17331,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8kKSn5TbciaQkk9Po1Tzrmn2n6sKzEzv6JzokL6bWtPE",
+      "name": "Pandope",
+      "symbol": "PANDO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p2aakxuni54seex5omny7vlyli7a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

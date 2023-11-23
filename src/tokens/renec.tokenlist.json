@@ -17422,6 +17422,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F8K52c2uq2dKLKhijstdS4uJ96fmAzL5piyifTgipEJp",
+      "name": "Ustaxxkawai ",
+      "symbol": "Ustxx",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hjvx88fccuepoua7p4cq0m023bym",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

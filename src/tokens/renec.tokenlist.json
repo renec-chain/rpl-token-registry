@@ -17500,6 +17500,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GUWc9G4yuK6tLJUX7YvDzniRQiKvPsswCvLjSJYXgqgi",
+      "name": "Propeasytoken",
+      "symbol": "11",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/08kaedc764dv4jjuyv4pps5h26mp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

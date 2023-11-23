@@ -17526,6 +17526,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pmCr6WasJvaXqmnoBKG2bQKbq6rkHhgvmAXcfTW6JSF",
+      "name": "KPALUKWU DYNASTY ",
+      "symbol": "KPAKU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jmq17oqxfo8sm6vzcumyveo6zbek",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

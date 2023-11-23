@@ -17565,6 +17565,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5nGKH6jx6XJf5Qqx4q16mWW22reb8MLaJEQ1R8siHBMB",
+      "name": "UMBARA COIN",
+      "symbol": "UMBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/reqfyzif6fnilr6hhdfhtifvshe1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

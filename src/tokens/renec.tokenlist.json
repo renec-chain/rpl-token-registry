@@ -17435,6 +17435,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CT2hz5Aa8WU13xVcCe6AHkqmpbgvW3R2CWNYPXGvcN3b",
+      "name": "Etherius ",
+      "symbol": "ETS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tmhp89gpwzkpnzqgsiq3wfp68vxd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

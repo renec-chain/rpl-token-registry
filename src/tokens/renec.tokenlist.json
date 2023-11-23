@@ -17513,6 +17513,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9Zug3vbKkS8omoFysZtwaG8DHAuQkgaNHQEVCdGBEGEZ",
+      "name": "Bird of peace",
+      "symbol": "BOPE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c65n5g00oc65r5fa5bm2njnjweom",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

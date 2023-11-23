@@ -17461,6 +17461,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BGZgFn92x5em5vE2fsHMEJXJDbmBA8ETSz6C3and9c2K",
+      "name": "Bitcoin Hunter",
+      "symbol": "BTCH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dfwc425hfeqg8mlfa0oidd0ijqq7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

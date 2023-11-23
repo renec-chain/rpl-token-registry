@@ -17539,6 +17539,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8sX2xcWC2LiwkAk8mvrDQeUa1sPtQVLVsJxFF57i4yLQ",
+      "name": "shinobi",
+      "symbol": "Shi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bkps4luro19tr0t4qhim5j9glqnv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

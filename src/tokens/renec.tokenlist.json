@@ -17552,6 +17552,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GCWiA2jw6ByyK979CyxERHu5VPdArgX1ZBZFaDZSF2g4",
+      "name": "Edo token",
+      "symbol": "Edo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x8k1436p16txq3b9zvc6yed6pqw8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17448,6 +17448,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HbcQwtDD24mmMBZ2935B8vLHQo2Br8cxfFMdEvk3cDb8",
+      "name": "whitewashing",
+      "symbol": "OBG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/did5s8p9ek7m6mmikceicxah971s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

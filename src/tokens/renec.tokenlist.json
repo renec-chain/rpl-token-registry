@@ -17487,6 +17487,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4BcLtbzzyCNR3ehPfLRHqR9XR56kpsWo9QLPjHiM9npm",
+      "name": "Ruble ",
+      "symbol": "RUB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2lo0690uvbfvz0p3ecci1g7tbrv0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

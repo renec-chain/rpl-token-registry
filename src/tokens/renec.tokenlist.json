@@ -17578,6 +17578,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "C5bXwMFGBjdraKvC3p7Ba79p37gc8auiPTTQWQfzGwpm",
+      "name": "RENEC Nguyen Tan Cuong",
+      "symbol": "RFCTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gh9mpkx3m2rgz3iadck9g6potxni",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

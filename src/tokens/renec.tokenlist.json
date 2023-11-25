@@ -17591,6 +17591,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BxZsbSFhPcsWitdQWRZESYpjL8e5CXMzxjcE9z1dgj2K",
+      "name": "VinFast",
+      "symbol": "reVin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dsr2xx8p1g21za7erc12cis0e04k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

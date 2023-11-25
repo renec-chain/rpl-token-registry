@@ -17604,6 +17604,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "98nou66Vo6KJZkCgL7KWD4ozFZE3iexoE9ySH1py44g6",
+      "name": "KG Coin",
+      "symbol": "Nam",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vhe25haxqhhd48twv6u1wk72omb3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

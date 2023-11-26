@@ -17669,6 +17669,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZQG6pXX3ueajpEwRPeMgs73tThXv2EVF44EnKdsRhEc",
+      "name": "AgriVest",
+      "symbol": "AGV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aegwuqpuyn79264rp9iukwr37qos",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

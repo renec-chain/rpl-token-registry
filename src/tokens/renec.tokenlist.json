@@ -17617,6 +17617,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CXJdf34riMPiRCfUjRVWPvon5rhEpJeLcL3c47JTgpYu",
+      "name": "Anh",
+      "symbol": "12345",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/303i7de2p9e1tngd8j8mii63gc1m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

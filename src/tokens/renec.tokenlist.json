@@ -17643,6 +17643,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8fTwoUYRWQLg8y8qfCgXRgQZyMSb88P1f1UqDBwfkdky",
+      "name": "Noma MultiServices",
+      "symbol": "NMS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s4z581n5l2560un8qpxlg2232wzs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

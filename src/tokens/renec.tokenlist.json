@@ -17682,6 +17682,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ENEX8ky6rb2hTcnr7d8v9RY3ksNjyQo3Np4Dim1CzMfC",
+      "name": "Pi network",
+      "symbol": "rePI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j282ffivw7uvgfkl8isjefhifvwq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

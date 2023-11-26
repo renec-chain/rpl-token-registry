@@ -17630,6 +17630,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6U6TJwzXt4hWdC6wwGjMHWdyxzLpd6TGKGXFgee7vUcy",
+      "name": "Baliyaa",
+      "symbol": "Bln",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8vjqymcst1xyn2xmcu3q06ck9e2s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

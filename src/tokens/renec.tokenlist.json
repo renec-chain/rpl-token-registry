@@ -17656,6 +17656,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7iQDttymyEKh4p8pftMJmqawTDAeJEhkZQZRgPV9DJmH",
+      "name": "MANSA Construction Company ",
+      "symbol": "MANSA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7ismcxqbwgvfld18qwd9kzu4zowc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

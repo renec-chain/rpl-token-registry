@@ -17890,6 +17890,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8pRiYuhMHDjFpwMSwXwsfp1hnBuV7uQxkJ3ExkBmzreB",
+      "name": "COMRSAVIS",
+      "symbol": "CST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t20xvdkwjbzx3rgfp2eukc18cfny",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

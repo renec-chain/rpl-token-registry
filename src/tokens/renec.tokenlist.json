@@ -17760,6 +17760,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BfSYryW6Q93iUKE4uNsUtAdxQT9uU4GSVg2si3outLk1",
+      "name": "NGN",
+      "symbol": "reNGN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l51g6wi82relpkmjnnu2bbmhv9lp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

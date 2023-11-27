@@ -17903,6 +17903,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3WdsuABH3tqcKsD6LW46LjBiMKHwm4Q2dwScV7XVJbre",
+      "name": "Renematter",
+      "symbol": "RNMs",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f8deyp56c3gziwg8ux3gjvha3gc1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

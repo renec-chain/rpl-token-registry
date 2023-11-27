@@ -17877,6 +17877,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CEBV7fZGh5d1YWu13aA4S4vF8HrRy3UrA2GhoTuPyLeZ",
+      "name": "UBI COIN ",
+      "symbol": "UBI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/36x8h498ts3c7ull16cp4m90mr8s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

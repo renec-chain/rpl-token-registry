@@ -17994,6 +17994,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9um43gfM2u5bso1sva75z8cp3HiubR1is78fMhtEuYmR",
+      "name": "Huy",
+      "symbol": "Vu",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0gox9w2yhan7srkbb46w2r6hdc49",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

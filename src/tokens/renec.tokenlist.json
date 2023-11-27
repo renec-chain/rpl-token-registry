@@ -17981,6 +17981,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EBoQrUTHhHigB6wcV236PDtNNtGXRxJaqufs1WzZh4TM",
+      "name": "Zeroi",
+      "symbol": "ZRI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nn2r5tnzdkzpg670y6t5t1fkumqq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

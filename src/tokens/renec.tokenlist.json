@@ -17773,6 +17773,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GPiRQ9Gi3gsLN7s44PuohLYSxobVgLT3Ghik7P73ocbR",
+      "name": "PanhMi",
+      "symbol": "PaMi",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9t2af3pkuhelorut0v81isoucwp0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17838,6 +17838,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "36KPJnG5CNyHbhiHocsnfrYGCkpfWkDANvQG4rqh89jA",
+      "name": "BLING",
+      "symbol": "BLI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5fdd0pplrlkystrjbhfx9sdmwwip",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

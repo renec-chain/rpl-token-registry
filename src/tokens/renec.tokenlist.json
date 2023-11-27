@@ -17825,6 +17825,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3QsGhQe5E2xYEtWvG8zrmrNjuZruaDbvPvczmgNtfc5i",
+      "name": "Bao86",
+      "symbol": "Bao86",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sfe527n03tab7joa3afcasqsd486",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

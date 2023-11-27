@@ -18020,6 +18020,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AqbFSaoZaebVSzKkfWpiB1uPS8BrVdMLPCojUoJ9Jwm4",
+      "name": "Pulacoin",
+      "symbol": "PCOIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/43h0praathjf9ghkzb9c04ud2c1i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

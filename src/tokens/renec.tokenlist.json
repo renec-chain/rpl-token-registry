@@ -17916,6 +17916,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JAkEqnJ2yPGfnMstTtXdv3mgbxHRECRYFwDTUZG2MrLG",
+      "name": "Shit meme",
+      "symbol": "SMM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qjkg1cm5d4q48biv57yqnwuutvhm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

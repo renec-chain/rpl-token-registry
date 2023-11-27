@@ -17864,6 +17864,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GKLUEFRW8V4htyhAFckc3bm7TNEgw3rf8jnm8McLitmn",
+      "name": "rc",
+      "symbol": "rc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jn2gn0lsd69h8ht2p64e6dd20bn3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

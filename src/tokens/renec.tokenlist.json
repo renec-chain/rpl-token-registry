@@ -17851,6 +17851,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7BCzSs6MFovwK9LYMqzBfgKiYe19vJvYStefbQB5mayd",
+      "name": "xzc123213",
+      "symbol": "zxc12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g3u653wh67ef5lb8p2fn92kpcft3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18007,6 +18007,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2iE3kR8XnnXHXmYQHbUzDH3zYakC81K28e7g21MDdp9Q",
+      "name": "VNCH",
+      "symbol": "50000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i94yki75stjiiewjwt114783irud",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

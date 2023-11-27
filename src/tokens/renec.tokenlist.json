@@ -17942,6 +17942,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3YvLq9cU1SCKEYrCc2utmhNmVABxdQdnWGSsvfE3XRmF",
+      "name": "Lajawa foundation coin",
+      "symbol": "Ljw",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b28qm7tqwxrnsoct1dtegtohlw5s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

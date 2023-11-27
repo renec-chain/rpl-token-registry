@@ -17799,6 +17799,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FFoCQAcets2Dewj6i6JkSFiPNP2dqk2ZWCyAS44HsoXK",
+      "name": "Kala",
+      "symbol": "180",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sm8cw3usr7zax8tjr0vxj11px8ir",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

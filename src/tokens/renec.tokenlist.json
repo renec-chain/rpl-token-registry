@@ -17760,6 +17760,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Cvq3QyMpm528QhtwDsSfBLgT9g9ZW3dPKuJxfdiN2uj",
+      "name": "XERO",
+      "symbol": "XRO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rrodohsrb81it1hegjc11ep1omqi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17721,6 +17721,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7yebephD3h4U6QZiFW8upbX6nSPkyZRsTgVoddPMUesE",
+      "name": "ALLPE",
+      "symbol": "TAO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rtzdwfua584y9xa33yo4tts0thwc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

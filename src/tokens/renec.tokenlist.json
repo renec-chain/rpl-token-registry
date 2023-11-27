@@ -17968,6 +17968,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HJw8QnLNmFkP24VmSeHr3hRtMu84F1dgb69KG3zorgXP",
+      "name": "Wrapped Celia",
+      "symbol": "CELIA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8s3w6vjsug0gmtqssfhg0k3po0wz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

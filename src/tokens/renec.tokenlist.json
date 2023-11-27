@@ -17929,6 +17929,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DAT1HCEVGJ9L3dViw6xrEUdM2uvMVUgetPosJAsuY4Mp",
+      "name": "Nobelie ",
+      "symbol": "Nbl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kpompvtdsfjbxfqwdndnbanrp710",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

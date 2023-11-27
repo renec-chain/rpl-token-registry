@@ -17747,6 +17747,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6r7iAWnJ7cQJBSEzjRDhRJryTxD39i2AH3nUKr1n76u8",
+      "name": "DiegosCoin",
+      "symbol": "DGC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/it7geron8qedpkyy6b7wpzalj33t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

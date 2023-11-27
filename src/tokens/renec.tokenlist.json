@@ -17786,6 +17786,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Dc1qmk64kHwquhGbtZ8QKGNmpDAizR9dLfKY6QAxpqEn",
+      "name": "Talk Express",
+      "symbol": "TEX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f18w2kdt3a01c9k2ecsmbaf1fyd7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

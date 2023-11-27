@@ -17734,6 +17734,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9TUemNtDnEFbtBC5Dr3Hz2rqHCBbnf5XevfL454a4Qh4",
+      "name": "Photographers in the world",
+      "symbol": "Photo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lbz66h5qbro646um2lz5aito7ez2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17708,6 +17708,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9K9oYDLqzP72E8HByYDSxrwoFNwPtvFGyoGwc2tJ17f1",
+      "name": "iZND Coin",
+      "symbol": "iZND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l4f7j2awiokiuzrlqwq5mig7kxf4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -17812,6 +17812,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4XxogrmCCjJwc8TCR5ecMociwsW6fcUqKqtZy6eFEmTu",
+      "name": "Baliya",
+      "symbol": "Abl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mftnsf7mb5r8if9lhqf74gem1fk4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

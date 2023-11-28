@@ -18046,6 +18046,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AU5EFYWnjkrbavWm2VZsCPne2sDDw8kpa33PtAD2po3K",
+      "name": "ABK",
+      "symbol": "ABK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hb6ydlrp6kxb6utn3ccsdlj14nfh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

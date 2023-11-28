@@ -18111,6 +18111,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BCEoCg1uMU6Q9BekFvbdo37rHwv6a9kZPEMBA3thx4TN",
+      "name": "Renec gold",
+      "symbol": "Rgd",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jrsrmy6oyzpyhgwybv1yacr7scvs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

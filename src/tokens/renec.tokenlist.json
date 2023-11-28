@@ -18215,6 +18215,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C4NDPMbUfhhViWkraBX7cd1Dr7cbo5rf8oKa4M25Wt7G",
+      "name": "NEXTREWARD",
+      "symbol": "NXR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/twgchmpv1bahmadfeywtd3wtakxq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

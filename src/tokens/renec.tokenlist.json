@@ -18280,6 +18280,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7h4bJDkThcjgT5FrM1NM8u7HyPSmkySsUgCKziEktEej",
+      "name": "OBG",
+      "symbol": "Jack",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gdfkf07oi6fr53s6pmr1cena73kb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

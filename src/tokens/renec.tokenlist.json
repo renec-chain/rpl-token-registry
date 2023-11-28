@@ -18163,6 +18163,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQtqHNBggrSAF2uE1rFTjtm3fTR7tVzqoJsUFrHr2amy",
+      "name": "Lillian",
+      "symbol": "LIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kmip2q1krvbcwzv9hab2x52ncyei",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

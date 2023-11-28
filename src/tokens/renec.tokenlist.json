@@ -18033,6 +18033,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5UC3BUXPWrirCnwJqqDmEWoK6fTzNtD7Fi6GBfHjJir",
+      "name": "Eyenn",
+      "symbol": "EYN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9vkrq93wdvzm96k1v8tkvn72hx6z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

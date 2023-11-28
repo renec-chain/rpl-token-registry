@@ -18072,6 +18072,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2wQMDkMuS3EK1wpdws28ZyH9TX4G4t65WE8oWk195ZwR",
+      "name": "Nevermind",
+      "symbol": "NRMND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hq2jk8tjsjpngidvin3l5yofxmvb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

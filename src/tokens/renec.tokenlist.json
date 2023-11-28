@@ -18254,6 +18254,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7z7DiqV3ZVAEWm6xSMMk6ihzr2PjLov5Ah41jD3jRFfi",
+      "name": "Gym token",
+      "symbol": "GYM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zr5ijj4dvydprng2u4tn2b4fa6dt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

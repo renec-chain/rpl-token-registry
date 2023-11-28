@@ -18150,6 +18150,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HqtTL5TwgzA8vb2pP97ghs5bpw552EwWurN3es9QKNg9",
+      "name": "Talk Express",
+      "symbol": "TEX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v3ye2lichc5fadbmb9s57zy4vuxw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18085,6 +18085,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "277Xvjkftux5svAgCrTTqrrnWUaECJc4gqftxzpqAoDD",
+      "name": "RINCLE ",
+      "symbol": "RCL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xwzn09hm31fa07by0sxaelezvf80",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

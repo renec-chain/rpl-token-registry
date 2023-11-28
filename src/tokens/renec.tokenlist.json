@@ -18241,6 +18241,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FJzAU5sgFMLigQ535SHYPzEP9qL9VfkZezoFxuc4hEkg",
+      "name": "Preapple",
+      "symbol": "PA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9p5ok56s3cptbur2yhq3ut4yuri5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18189,6 +18189,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "893WVKJfpydyzxVU7n6TicsWVhU4vp9o5EdUXYPwTYxe",
+      "name": "Johnny Binh Nguyen",
+      "symbol": "JBN",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eqnoqtpm1m9tnqo2cgxo6egqcgs0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

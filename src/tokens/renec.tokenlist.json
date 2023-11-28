@@ -18137,6 +18137,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6Gixzijk1DEcVWeu8TduLmJ3FCLSwSHgK5yss5bvxaLU",
+      "name": "Kamrul Lammi Love ",
+      "symbol": "KLV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8jlfxbz1mr0chv495gq0rvdaghkq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

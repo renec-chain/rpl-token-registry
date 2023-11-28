@@ -18176,6 +18176,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HzG1Rj7fqHwRCWZFgn5LonPiQ86gLNY4bG4QQj3gE6X9",
+      "name": "DMD",
+      "symbol": "DMD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/efwxvx9h57yhw1g79m95z6kvpxd1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

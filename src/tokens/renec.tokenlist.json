@@ -18098,6 +18098,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7j9D1PBqUZBHGydwrsapLN5HvAbK1GS2CN6Zu66GfQUz",
+      "name": "Zora Network Token",
+      "symbol": "ZNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/whrz4ms391hds4te7wx587d9wfu7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

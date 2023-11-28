@@ -18059,6 +18059,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8aYJ64Jzf6cHjHbwY2QuPCkqgKoT72JVEgsDLTBj8QMb",
+      "name": "United States dollar",
+      "symbol": "eUSD",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3b0ciq35rdz0di4vpa5o61t87oxp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

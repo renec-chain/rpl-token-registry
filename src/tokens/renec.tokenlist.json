@@ -18267,6 +18267,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5pHqGFGMPNXkSaZedhU1BjSVaJYYygsUVerzadjFAMKm",
+      "name": "Sitec",
+      "symbol": "SITEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5leg2qipuh7a9fm58ouwtqgn4jk8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

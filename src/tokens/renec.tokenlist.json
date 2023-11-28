@@ -18293,6 +18293,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B2bhWWeghfih3RPfpF61gR14xqeXU1Vdc2CRcYMdtQrX",
+      "name": "A3321",
+      "symbol": "A3321",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gvbhyh3xojpcojse7sbeczbrwcie",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

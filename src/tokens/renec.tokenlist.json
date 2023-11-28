@@ -18202,6 +18202,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FgmkH7dhSGyBj1aWzez5Gx3aimjApmysGzuh5aiGm6CH",
+      "name": "ARJ Token ",
+      "symbol": "ARJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mtroy3rj0l7a90w9cdbtp4wgqnzm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

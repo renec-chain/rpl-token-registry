@@ -18306,6 +18306,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6K3gjQReBfg6vvpW6bxk75qMd8bDVM6KMywMuZs5xHXA",
+      "name": "Sweet Pepe",
+      "symbol": "SPEPE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/djyt2xm6vxulbl7jb7gwe1e7xmsw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

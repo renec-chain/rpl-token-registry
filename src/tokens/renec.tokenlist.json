@@ -18124,6 +18124,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7C887cMuiuqsWbj3W4uR8wYvMJdUbnnWLT9xMmCRfMXC",
+      "name": "RECLYNK",
+      "symbol": "RLK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/499vj61d0gpihgwpgvkpc1o5gy93",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

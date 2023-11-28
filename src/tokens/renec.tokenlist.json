@@ -18228,6 +18228,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "43xHrVWJK7FkBWfD6AFDFW2xcMzEoPyuek31yDj7y2o7",
+      "name": "Doge fake",
+      "symbol": "Dake",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ubpsnom2zdbgu7hvm2enn4opd0b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

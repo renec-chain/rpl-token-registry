@@ -18319,6 +18319,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FEbVXy5vsoG5nJWEscw1mizbd12V5L5rbSRuKewwvTGc",
+      "name": "Earth",
+      "symbol": "ERTH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c557c0mrmy4flhh6v7i9lwzzf0dd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

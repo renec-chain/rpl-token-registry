@@ -18358,6 +18358,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "39YAvCzAapmbh4XPEa4gMqt3syWbackfAjkKBaymLTx2",
+      "name": "OpenAIToken",
+      "symbol": "OAIT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mzb2xfnp5719h1mrq7yb5r8795py",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

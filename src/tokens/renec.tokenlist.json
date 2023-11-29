@@ -18332,6 +18332,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6V7fTvrptsxTzNzenMp6GiMMjZbkf7WsiZZQPeXui5oB",
+      "name": "BTN",
+      "symbol": "99888",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/veaow5iq4g4gufpwookxkc6s59gs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

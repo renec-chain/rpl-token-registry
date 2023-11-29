@@ -18345,6 +18345,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ACrePo9gv2DxkULHJWiV6LtPXFKHAk3NKVXigJ6sCjxF",
+      "name": "Wrapped USTC",
+      "symbol": "wUSTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vpn0qxapm4qck9pk1ix09g0enk3e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

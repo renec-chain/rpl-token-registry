@@ -18449,6 +18449,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8iGCreg5ESjAZ9Zbg1XJFTy81y1o7hEh1wCLYUxXdPj4",
+      "name": "RePapi",
+      "symbol": "ReP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0tb390kmzaezyvx8druyoz8j5ih2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

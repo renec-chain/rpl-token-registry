@@ -18371,6 +18371,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3T13oDMMpStpzvmYXM3ZsLcibKFjr5v382PjbW4RLAKm",
+      "name": "1212xNLyCMytvGX6N6guEGQqrmxHhqNa8Z5KVcMRgY4B",
+      "symbol": "1212x",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qfidcnstejz0di2bpqivcy5op3cf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

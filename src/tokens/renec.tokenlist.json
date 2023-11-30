@@ -18397,6 +18397,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "XsBELrBE1ipPCEHdX7CaBEaPaHXx9tH1YUbKrF8m692",
+      "name": "ManuLie",
+      "symbol": "MNL",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ori59lfmi3a36iftf7gc8kcqki05",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18462,6 +18462,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FDgwGWf2nCssvFNSrxdv2bbY1EAku159sSdNRPwh4maB",
+      "name": "ReFox",
+      "symbol": "ReFox",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jvmn9tlchfwvf5bogpja3tkc3kzj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18384,6 +18384,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BhqhZPqusH3Dnfn5UkUeY48BPM6gxUNdozutYY72cya5",
+      "name": "Endless Wealth Coin",
+      "symbol": "EWC",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ifqzkr1x3w2jurakp7oyx6d9wvl8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

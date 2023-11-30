@@ -18423,6 +18423,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HyeGoUB4Zg7MH8iY8AyJFCuGqXK5Ui6SwmpHcvT3TVsL",
+      "name": "Tether Crypto Earn",
+      "symbol": "USDTr",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kgvwy3n5ufwzuvzluvwdi214cup1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18488,6 +18488,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7qs3QBNUCb2NfEoywczrzo7rEnsseHqnMPhp8Awmmvu6",
+      "name": "Pi Networks",
+      "symbol": "Grown",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x7q3xcevp5w1knl7pr0iul53rdvr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18410,6 +18410,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7y27XJMk7aqQKdcZwk4xyfijzaSBbEb1icsGucizGktk",
+      "name": "United States dollar Crypto Earn",
+      "symbol": "USDr",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rm3xsvfjr6v8gam10gbco4xef34k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

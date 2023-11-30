@@ -18475,6 +18475,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bw4NyVYqYpoBC7QRAeZ875tAjrwARpiipKCkZLfEpB6q",
+      "name": "Global Coin",
+      "symbol": "GC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xosbuhl7kjsrs995au5oqkk6lec9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

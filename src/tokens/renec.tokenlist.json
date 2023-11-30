@@ -18436,6 +18436,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3bPT1t7zMruF4fdx9bT2nTATqJqQ3K8ontgrmBqRLXbZ",
+      "name": "REUR",
+      "symbol": "REUR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dp9uf58v4n8t95yf3olmffk22zbv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

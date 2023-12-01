@@ -18514,6 +18514,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gt9oqTVmAwhrjBpS5j4Nc39fr9gCYArWxVXuHHc8QxnJ",
+      "name": "Relend Token",
+      "symbol": "RELEND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dtbn0916pfhmiaehcyi6s4y0xs7n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

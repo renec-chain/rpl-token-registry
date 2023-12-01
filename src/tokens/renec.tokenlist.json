@@ -18553,6 +18553,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C6zFPh4fQFVNi6vstQ8j9iE8AdZNzVSemaVrezMy8ZUh",
+      "name": "Metaverse",
+      "symbol": "MTV",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ifkhdtqh92l0c0p61mv4aobjeyla",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

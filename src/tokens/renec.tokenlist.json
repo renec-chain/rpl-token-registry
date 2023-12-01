@@ -18540,6 +18540,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Z7vxrbpq7tMBMVe7PjW3RkJ8GziQERX2HLd4fC2GLSJ",
+      "name": "rRabit",
+      "symbol": "Rabit",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fpwtj0zpvyspqzxkjyo4dnw1bc2q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18527,6 +18527,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3uWjkvKZpNMgJUDsj6F8JYZ7QjJGUbquYiCuCmQhHG1Z",
+      "name": "INFINITY",
+      "symbol": "IN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dxsqgw2cftw3hi5qplblrfgn3zea",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

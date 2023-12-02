@@ -18839,6 +18839,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2xHHmEvjCh3wGwXWG36k3ohSyN8gbwN9XX1owoYWAUn4",
+      "name": "A9Labs",
+      "symbol": "A9",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w3dwzho1ac5dj7i4mul65vo2to09",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

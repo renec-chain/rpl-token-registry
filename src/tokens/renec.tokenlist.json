@@ -18748,6 +18748,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "632rPUmiSvanQb54kdUTsyGikQ3hwQS1FJrQmZV97uM8",
+      "name": "HfMo5ziKgtnHHgiGDNPiEYAqx6C94aXS7qX2o5MHFHvF",
+      "symbol": "HfMo5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fh4r36x92aybr4ukn6ujdx9l3eyq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

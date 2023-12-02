@@ -18592,6 +18592,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6Jy1AmSNGfm5NE3CS7CU3PQkrGSm21q3CwUYuNHrnbkK",
+      "name": "rCYBYOTA",
+      "symbol": "rYOTA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ktulbf8ihu862gg5hu6uzijx2q0f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

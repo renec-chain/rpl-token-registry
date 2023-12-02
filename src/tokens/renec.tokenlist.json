@@ -18865,6 +18865,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D5bbHWGVwkG4ofQKSbXZy3SDYVLupRc5CK2JUbipJDAZ",
+      "name": "Abba arrow foundation ",
+      "symbol": "ARRW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1oj2vhkbnkwwdn4q9swcwangwuxv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

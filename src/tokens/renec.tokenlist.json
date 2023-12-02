@@ -18644,6 +18644,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7yH726AAZJG6ydV6TYY8LCwthy8nVwEeRoC1tj8dHQpp",
+      "name": "Rafahrenec",
+      "symbol": "RFHC",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k6v0vuwl7mgedlnemfcph7o6obr4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

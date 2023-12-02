@@ -18826,6 +18826,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "B9AQmRJQMJ97S8E3Mav8Gwwpz4qJgbiRebdV34pEba9P",
+      "name": "Bite",
+      "symbol": "B",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nrz9jmg4hxkymi27nxw677md3aya",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

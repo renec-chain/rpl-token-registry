@@ -18774,6 +18774,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E1n72Vt6VvqHqyPZPUNFBqkJkuZcNfdstPsHeVzJYvsA",
+      "name": "DEX",
+      "symbol": "1212",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/muu3fdte4eceuvoi0gn8trs3fy58",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

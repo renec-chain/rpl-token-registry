@@ -18696,6 +18696,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CMrj6uYWtnGehe8zcvgWzx9USgAK157DJfMYGg5geAYc",
+      "name": "ZorroMillenium",
+      "symbol": "ZM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u4i1334iejv6xrfu8xshwum4yzix",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

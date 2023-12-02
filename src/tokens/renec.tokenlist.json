@@ -18670,6 +18670,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GMA1R2LC8CyrnXqHEHJt7BF6joHFGgzzoJvKrSy3g3ju",
+      "name": "Pi Pay",
+      "symbol": "PIPAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ldn44mky4gj649rmkmon55deilgp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

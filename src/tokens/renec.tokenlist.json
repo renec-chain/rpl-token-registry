@@ -18735,6 +18735,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3uthbQniHZ8ecWVLfF3YLxzVLUpaiJv6DQvkJ2MnvZ7L",
+      "name": "ALEmpire",
+      "symbol": "Alex",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/muj389lr6ai6fw9nh0k8zgrtcyhg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

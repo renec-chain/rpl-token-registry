@@ -18813,6 +18813,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FP4WQPsU7UXWddqPiwCXxPSuuFapsvppTM3n48iu1tZN",
+      "name": "eNAIRA",
+      "symbol": "eNGR",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jeru067g3nnzlga819mzvpf0lg0a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

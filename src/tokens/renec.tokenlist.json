@@ -18891,6 +18891,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EVsK8Mykpzr2DGCHs7mca4LrYyGKDXMLaCyW1c4hCKBT",
+      "name": "Wrapped Phi",
+      "symbol": "wPHI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/teocxkd63c5zw7ynnt6tkzcs1v7z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

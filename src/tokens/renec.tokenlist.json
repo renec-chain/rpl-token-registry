@@ -18787,6 +18787,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2LuPiAtHSm1z44KNBNHJd1h9mMXD4MG45MLQffKXMeju",
+      "name": "Renec global ventures ",
+      "symbol": "RGV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q0kd5r4gsuldc5d0v0de3orrr7nk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

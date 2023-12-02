@@ -18618,6 +18618,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D1UsTwmp9EvRWMq5UpdU9csdkdYc1k2VtFYC8hiCc44T",
+      "name": "FakeSol2",
+      "symbol": "fkSO2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tq1f0ffd3l1g4w042enon9hdi4fd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

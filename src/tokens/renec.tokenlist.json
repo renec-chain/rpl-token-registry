@@ -18657,6 +18657,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8jDkY6jMXP8q5hx663p8oqegF1pr4gr7tucjxHPy6eBV",
+      "name": "Rafahrenec coin",
+      "symbol": "RFNC",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0g0j52lms6flmmjzq0odcitxn0a4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18800,6 +18800,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6DsaDfaQWtEdDrWhKNoXdMKboQCbpqsf8rq1tX5rJ44p",
+      "name": "Wrapped SCS",
+      "symbol": "wSCS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9iddir54gqbg8z50kt8msbk6ajln",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

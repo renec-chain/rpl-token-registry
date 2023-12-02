@@ -18878,6 +18878,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5DKu9Fyge3td66RNKcat1UY38hZtiYasr3pHgKfChnH3",
+      "name": "Dragon ",
+      "symbol": "Drg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zt32l606zociay8bmewsb6rix2zz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

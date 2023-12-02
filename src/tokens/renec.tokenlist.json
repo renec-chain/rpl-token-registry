@@ -18761,6 +18761,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GyV7Gs7Aovc6aEBFN2yc2zwSoF4CU1HYzNJm3XDKWxWa",
+      "name": "Pi Network ",
+      "symbol": "RENE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l25zqqz9gy4s128mx9sg1wzj6ujp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

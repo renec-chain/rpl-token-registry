@@ -18579,6 +18579,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "66mLzwwsFm8ax5TtS67A5SfFzDY6jmDckofQHzG2Yq2P",
+      "name": "Pixie Pals Token",
+      "symbol": "PPL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zt2k3grc59bvwh89nytuoxg93xz1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

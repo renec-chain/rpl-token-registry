@@ -18722,6 +18722,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AsLDSwCFazYbwaZT89ekAQyxZ2rEyb8SaHxAEySGhYmh",
+      "name": "Petra",
+      "symbol": "Ptra",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lp68g0ja1odbjaxd6jzt3d8v48lu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

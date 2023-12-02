@@ -18605,6 +18605,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CvNSve4U3oPzgGZVecWKsQLcrXTqrm7g972YEAc9tE4z",
+      "name": "UnityCoin",
+      "symbol": "UTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pm3z765zahjlg4hgpr3qjerdr5g5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

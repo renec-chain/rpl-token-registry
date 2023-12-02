@@ -18852,6 +18852,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3JLo6x8ZkKzL9HBTHxWbj37nEHuk86LAJSjzpafcmh6S",
+      "name": "ReDee",
+      "symbol": "rDEE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wi7kt7jquc3ssgmjy47t2ck2j1uz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18683,6 +18683,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6NfYFE2Qk87BvpuUzwbhgt2si9X9Sj2A3DWnujHhs4Mi",
+      "name": "Wrapped Alpha ",
+      "symbol": "wa",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/avwp9tmjvgno9gwgqls0b2lphp5s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

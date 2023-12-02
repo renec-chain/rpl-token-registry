@@ -18709,6 +18709,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DoAo5pZFvb8Z4R8VLpVwEJhCXvaEfLf2w6FXQnZHDnkb",
+      "name": "7ayle77 ",
+      "symbol": "777",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q9q4xt4lrkhni3v5sv2w67rjacf3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

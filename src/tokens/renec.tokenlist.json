@@ -18631,6 +18631,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ff1VS9QUDR79VV5NuaN2yH1Qht8JZ3czptNaQ16qoaok",
+      "name": "SilverCoin",
+      "symbol": "SLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kprzv231b0twucf63zpeomv28a6g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

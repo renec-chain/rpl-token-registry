@@ -18904,6 +18904,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "34NSHKm49gbWvkx83zQmcMBsXPUHDWR9dNsaosXv3YiK",
+      "name": "Meme Coin",
+      "symbol": "MEM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k03v3mtrijixgn5tpae87xwi4za0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

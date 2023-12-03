@@ -18930,6 +18930,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4p2yHGBgNcnvA6SHXkcoZhyzZzWZ7WCzEWD5E1Mqn8Uu",
+      "name": "kinhchau",
+      "symbol": "KCI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kyiwbv7gtq78up5kgsjv9u7ee5ev",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

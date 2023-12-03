@@ -19008,6 +19008,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DYFMWbsPwRUHJm6VzJW4G9sw9eM1Lz9RXsHvRL5woCnS",
+      "name": "Cored",
+      "symbol": "Cored",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9qyki28hhfr89t4aoosir3zlwp18",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

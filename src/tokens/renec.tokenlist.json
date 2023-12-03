@@ -18956,6 +18956,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fo1Ue9YQFT4UWn6ZCNyoRn3pLvepMzy1wYoewQJxzrkb",
+      "name": "A9 USD ",
+      "symbol": "USDa",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gb31rj0r1srlvfyl27uc7uvz29ws",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

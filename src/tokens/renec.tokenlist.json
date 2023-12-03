@@ -18995,6 +18995,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3tE4bZqavFr5vjkvy1dhmhiAMVMxjuyEWszLy9GBQGw1",
+      "name": "MSITEDTECH",
+      "symbol": "MSIT",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pv3ka64uqg5mfdmk9xlz8j9939j3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

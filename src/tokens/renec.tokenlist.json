@@ -18917,6 +18917,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ae3FdsBbGrdXVf76E9JZFsCJ59p2zbPzWGCwdCBwR41u",
+      "name": "Kano",
+      "symbol": "rKano",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t7r96gew6877x9uwxj97eufikfbx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -18943,6 +18943,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HX1KFmtvDWQdhhiPyT3S2qtxnqv3BpvdK3AN8jZ43QBT",
+      "name": "OCASH",
+      "symbol": "oCash",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nq5gbum1mmjbyvqiaey2gzhb49pa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

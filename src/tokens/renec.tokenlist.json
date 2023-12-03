@@ -19021,6 +19021,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AdhJZVxmH8diLVnCg2794Qv5ya1Cm3vz1S89BbgVBK7h",
+      "name": "Cristiano Ronaldo ",
+      "symbol": "CR7",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wvnu49gl501umv8agqx2wp0vfufn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

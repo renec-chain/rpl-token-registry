@@ -18982,6 +18982,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8XqTq2VcvwuKJfyRqqkFBVKqpnTZLCq52kAMmiEjvAZL",
+      "name": "SHAZAM",
+      "symbol": "SHZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s1n1dzt1t1tbzwdnngv4hdfbo5sd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

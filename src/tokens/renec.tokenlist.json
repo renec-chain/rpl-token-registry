@@ -18969,6 +18969,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3KvMGYeQrbf8GMudAN5N4YoHYkpsn6ogyN3o5cPWrbjw",
+      "name": "BITVERSE",
+      "symbol": "BTS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fug9gad3vozhslu54hab6wulzcua",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

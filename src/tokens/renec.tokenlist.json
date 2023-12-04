@@ -19099,6 +19099,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "H1Hjd23TDtiwoiMUA4MoZfeZT2cRv1JSGLkYEHaxpAsi",
+      "name": "Khalifa Tech",
+      "symbol": "KTC",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v5k4jz95qszy05wmrhtbwqjv3wi2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

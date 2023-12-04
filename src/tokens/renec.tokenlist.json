@@ -18556,19 +18556,6 @@
     },
     {
       "chainId": 101,
-      "address": "EuzpVDPDyprLF3c6ow67RtRnVwXZcxaCWKJQyDKuKGJh",
-      "name": "Gamefi",
-      "symbol": "GMF",
-      "decimals": 2,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6lzr87z2gh8gl2rjons3d6ustw9y",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "66mLzwwsFm8ax5TtS67A5SfFzDY6jmDckofQHzG2Yq2P",
       "name": "Pixie Pals Token",
       "symbol": "PPL",

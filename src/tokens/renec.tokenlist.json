@@ -19073,6 +19073,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6NXqfEPxhwDGVhWPyNGXseCJ8x2CxnH1fqa4Mt1EP7jb",
+      "name": "Nemo Token",
+      "symbol": "Nem",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ppmvnv5r7c8w67owkiey2j1tgepc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

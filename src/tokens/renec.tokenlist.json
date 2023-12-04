@@ -19034,6 +19034,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DCmKuAk6qB8w9VkdtbZde5G5pecCfxK4SZ4qQror6qai",
+      "name": "A9 BITCOIN",
+      "symbol": "BIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8jhpdwk6gm1aejmoslt1a6j19s5n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19086,6 +19086,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4xxYRoLZCjdodR8ZgbiqUzXaaUidvhoqi5QTLCjjUSa6",
+      "name": "Cruzcoin ",
+      "symbol": "CRUZ",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/euy5ry3s6sn05f075q2jn1n7gknn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

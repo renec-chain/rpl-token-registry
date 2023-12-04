@@ -19008,6 +19008,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4TuoS9nvw1QcvMATYffBDz9Vp7YvHaFXgqEUScbD8xhB",
+      "name": "GameFi token",
+      "symbol": "GFT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pez1xf6c8hrt60pug9njwj7vwy5t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

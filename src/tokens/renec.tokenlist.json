@@ -19021,6 +19021,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6dF25w8LrpXMzv7cAwUrYU7Ur7JB1tAgrRpwJFRywB8S",
+      "name": "Metaverse token",
+      "symbol": "MVT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k5qna7zq36o3se8k6dnpg0bfp3xy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

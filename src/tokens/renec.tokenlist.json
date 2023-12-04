@@ -19047,6 +19047,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7rhi8R6c5VJph8U1TVic7SFuDyWpBRhvDA8KuLqYDebj",
+      "name": "A9 ETHEREUM",
+      "symbol": "ETM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c4ah7oxg8xgun0tkf7wfbxjq44b1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

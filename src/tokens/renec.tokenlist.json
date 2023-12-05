@@ -19177,6 +19177,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3UnvMYXtx2RMzMo7S1rjWb73dy4DE8cVMRdH7NdGDf4T",
+      "name": "Dr Adam",
+      "symbol": "43321",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/161ra1ogzgfi2b68hq6el0w1jmrx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

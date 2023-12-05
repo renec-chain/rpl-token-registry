@@ -19138,6 +19138,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BEzA5WAu9kzq2zUgCHeKunFmJ2us6rgvtmiKmTZ1yXyJ",
+      "name": "XPLUS INTEL",
+      "symbol": "XCOIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x73aw18sk7c9p0lptyt6yo3zwsnp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

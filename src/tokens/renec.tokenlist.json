@@ -19164,6 +19164,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "33oHMJWsEtD3t8vm5kaMSrwZiR5Vcq7PMLaqLeJqBpu2",
+      "name": "reGROK",
+      "symbol": "1116",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2ei51susoevqtc2yog08v0qzhfgm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

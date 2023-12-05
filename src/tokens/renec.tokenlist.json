@@ -19112,6 +19112,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5eEYe8dLLy4W1KNTJXaQjEkGxUfGKEbUNbdT4HnpYTMJ",
+      "name": "SNAKE Token",
+      "symbol": "SNK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n4veio170cqcyzxut7ygqsvfu1ig",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

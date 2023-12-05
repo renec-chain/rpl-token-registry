@@ -19190,6 +19190,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A1cZitTqzdzyjsmmq7AEzidqqhRJq7Gp1b6ddFMKuwU2",
+      "name": "Melonga",
+      "symbol": "Melon",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/slb8u5zb8foncz3g4zv7s4f98oki",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

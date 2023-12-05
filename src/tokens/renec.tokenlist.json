@@ -19125,6 +19125,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EJ8njzq1LA1PjAAHSWLiFm5SvxPiSm7EupPgqttU1w7Y",
+      "name": "Easy",
+      "symbol": "ABC12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2ugh8ca4jyt8v228jmaku0108y1d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19203,6 +19203,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FSMgf7auEvR9QQKKvH4YXVdQW1UU9bsPqLSd73cQiQmv",
+      "name": "Sus",
+      "symbol": "Sus",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qn6tnucz30i1vy9j7hpbkle6x7ho",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

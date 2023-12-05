@@ -19151,6 +19151,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HyeqUFx23z3Sh7ULfkhjfocDTaQWgkGohkiGthDxzQqJ",
+      "name": "Babs",
+      "symbol": "BAB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4cutdaccvkynberjkfvry30hmumf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

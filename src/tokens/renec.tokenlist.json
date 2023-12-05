@@ -19216,6 +19216,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EVVbFd6Vow7DvHYRKWkTLN4uYoMsahqgriDNsss1tLVL",
+      "name": "DigitalBlackCoin",
+      "symbol": "DBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/awj2ls9915i72km9dphzsoctq11a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

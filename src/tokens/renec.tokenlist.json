@@ -19333,6 +19333,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DwdtYcPXQ49QcCHMvKEWrwJram9vAEj194KRKkR6vf4V",
+      "name": "memeRENEC",
+      "symbol": "MEREC",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dwjxe3a0y4hbzghz9rbalju7zbsa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

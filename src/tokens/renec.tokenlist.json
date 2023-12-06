@@ -19242,6 +19242,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EwiHY7Ft9m4rs4yUKzWa7gYoTUZPHkdumHofbnoA1SRn",
+      "name": "Ren",
+      "symbol": "RNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p6jgdk75ghls2pqhg0zxd501xzl0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

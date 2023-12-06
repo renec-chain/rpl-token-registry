@@ -19346,6 +19346,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "G9WXrVjhogdqZ8LL4k6fJureh3aHyUjfa3WaqqniPh49",
+      "name": "Nybentochi coin",
+      "symbol": "NYC23",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zotf03xza91v5w1c6bu8861wghhd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19320,6 +19320,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CpJJAbUAscgBXoXYdUcKHQpzzsvfzw3go98iMXEgr7J5",
+      "name": "kissima",
+      "symbol": "KEBE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mes7bf1zvmpwdqsfj54vk3f4qzan",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

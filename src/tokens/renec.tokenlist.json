@@ -19229,6 +19229,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EvBidnuaBL48rj2biqmYAx3x8dHFTE3iGFwfgnuHpffW",
+      "name": "BronzeCoin",
+      "symbol": "BZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/puves2fkmr17yi2j34wh3eoh8t1l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

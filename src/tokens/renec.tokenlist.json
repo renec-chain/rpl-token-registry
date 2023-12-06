@@ -19281,6 +19281,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DVpGCdjkXN99b4qvVdaFUhtyV1u1hLHzky7kApVBb56m",
+      "name": "Titi",
+      "symbol": "Tham",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iby7pozkaqytaj0yoqdobtpn13ow",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

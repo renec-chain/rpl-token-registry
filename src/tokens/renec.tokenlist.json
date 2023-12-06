@@ -19307,6 +19307,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DarjKBPukVVoqruCCPJocJHfbdRN1mcafRRYcWba3ifV",
+      "name": "As sabreen ",
+      "symbol": "SBRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/touzcrfjvlehv4y92lm0pfb39rww",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

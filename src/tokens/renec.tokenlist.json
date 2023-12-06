@@ -19255,6 +19255,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4K5EWrn8RNg6J93qH1A7cVr7U8UWZfnbf9htkE656Scm",
+      "name": "BigStack ",
+      "symbol": "BSK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qg9glp8ogiemaih3gplj8gxp8agu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

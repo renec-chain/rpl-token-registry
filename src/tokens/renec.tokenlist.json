@@ -19268,6 +19268,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CbJoRoi6ohHd5hVYna6Lmb7A6xTkJFbBLdPYTnE8ehAM",
+      "name": "Kyari ",
+      "symbol": "Kyr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bgsjeboumhc3eqae36dcf0h7yg80",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

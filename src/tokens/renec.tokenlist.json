@@ -19294,6 +19294,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FQJBoRvk8sehdCtQFn6zKT4yzjLmHaKZCUaW7gZ4w4jY",
+      "name": "rePEPE",
+      "symbol": "PEPEr",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uq7zh86xc3ossqvzzq89f9d556pg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

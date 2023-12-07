@@ -19437,6 +19437,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7oBenf5xvs1YPrqckcoMLF1fTdSQKVwtJZSYD8YjBigE",
+      "name": "Hat coin",
+      "symbol": "HAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i7qhdylzatlnq1j0uux026x9zxbl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

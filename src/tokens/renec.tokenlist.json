@@ -19359,6 +19359,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GPimTHVtMvS9vagbwh3wekto9PGPSuwGnJqhqmQfBb57",
+      "name": "RENECoin",
+      "symbol": "RNEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rkkcxsog3qxswobzsae6kjzqly2j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

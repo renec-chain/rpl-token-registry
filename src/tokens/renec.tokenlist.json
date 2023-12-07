@@ -19398,6 +19398,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "13EvvTmKE4giSqUoc7v7hyVqJAd1S4wgmhUinEHLQLzw",
+      "name": " USA Token",
+      "symbol": "USA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rjhuu3yk725plhclph4787dyxnrp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

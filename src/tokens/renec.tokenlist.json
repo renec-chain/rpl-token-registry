@@ -19372,6 +19372,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fep43tKpWXHhMFpTpLp2TK3KFALw1mdXBvNTFpX8n6Ve",
+      "name": "Kazutora",
+      "symbol": "KZT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5sh6b5vwcdcuhu6xeopr68fwyxbi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

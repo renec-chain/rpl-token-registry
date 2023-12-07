@@ -19385,6 +19385,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4nfB7ULe8FLzszLM3ogbsgU1vHxUFEWPyUc3MRwteYqp",
+      "name": "Saba Coin",
+      "symbol": "SABAH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vcxmviqty0d0sj9hq445juqtkmva",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

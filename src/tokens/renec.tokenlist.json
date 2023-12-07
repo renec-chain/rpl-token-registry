@@ -19411,6 +19411,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2ikE6oRZHCAsmJzdnKydcHYszNrrS6RFmU7hun1ztKaT",
+      "name": "Blue Coin",
+      "symbol": "BLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rn4kg574nrjqy1eu33r4cvieyico",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

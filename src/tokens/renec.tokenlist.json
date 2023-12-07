@@ -19424,6 +19424,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "aftmXVFCQQNZ2GoPyJDuB4U1GuNsEJgoNUeqDzq7stG",
+      "name": "artespraticas",
+      "symbol": "AP13",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b4w2ksie7r58unn0sh4llqix1n1t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

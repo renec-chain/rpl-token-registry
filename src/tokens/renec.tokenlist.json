@@ -19450,6 +19450,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D13xSqtU819rahxQtFJsMw5D2wWDLqFG1akeHUeZLhFG",
+      "name": "Eovl",
+      "symbol": "S",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1wx6inj76f7ic1f8vb7bcokc0f6a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

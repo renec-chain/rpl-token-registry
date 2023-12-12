@@ -19463,6 +19463,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Ay6U5itd6FVeDAVkHKrcuFzbLYxna93jv6an2YeeimiP",
+      "name": "EPi",
+      "symbol": "Pire",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1v1vikvvtlkkcsc0l84tchlbxzot",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

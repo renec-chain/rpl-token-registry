@@ -19476,6 +19476,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AsKfA4C4PqQErXSoG1yrAhi7wgveYkw1BVJdG95qjvoW",
+      "name": "DIMTOKEN",
+      "symbol": "DMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g99l88fgiywsmjcy14qiva8nzz7v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

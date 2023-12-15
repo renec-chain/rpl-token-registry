@@ -19489,6 +19489,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CqFr8pLKwgk6AMMh48HUo95DsTRgtf7RMmiwLL6Byaij",
+      "name": "Bee",
+      "symbol": "90",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g42pt5ewljeww3pspgebio30vseg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19528,6 +19528,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BrHxgok88HHgK7PhC6smZwkr5a8kMH2tEsFkuGoTDiw9",
+      "name": "DARGON",
+      "symbol": "DRN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rkl6qhiqy7h2km4gh21ogybzu4h7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19502,6 +19502,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8zybhLQNJs6rRsQjhutWbUA12SnedQB7wYLB8y5nWqYF",
+      "name": "Phuong Nam Telecom",
+      "symbol": "PNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/53x13e685ryaam9kx9lz57agvyw0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

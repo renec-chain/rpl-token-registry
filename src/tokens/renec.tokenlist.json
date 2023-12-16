@@ -19541,6 +19541,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DJbzkj4n8kWurFhA8P12Yg3R9mKHqG6Ht8g1VZRddF5d",
+      "name": "Tiger Inu",
+      "symbol": "TI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/szvvx6sv39fwqamwgp73ted0drif",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19398,6 +19398,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GQEjDmMz7v8kDf744gchsbcwiJHt82navj3PMrhJYmUn",
+      "name": "Gas Station Coin",
+      "symbol": "GAST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n4k0ch6a3dwwqrk3t2gcwqz6kp1b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

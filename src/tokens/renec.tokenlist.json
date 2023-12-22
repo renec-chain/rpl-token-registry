@@ -8091,19 +8091,6 @@
     },
     {
       "chainId": 101,
-      "address": "Ek52dTBYFvs5iJUmt4LTZRDiMvXE1hvctcGwzHFdCRDn",
-      "name": "AUGUST",
-      "symbol": "AGT",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9hi40hsfgph08gzx5h8yz3ns85jw",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "BieoK5VPcVcaUezGdWsmRy5ERiiihj2CrByeA6rQRTiV",
       "name": "Fika",
       "symbol": "FIKA",

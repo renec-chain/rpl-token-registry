@@ -2306,19 +2306,6 @@
     },
     {
       "chainId": 101,
-      "address": "za78GrpSzs7ny5vUoqv9oUoySZDwgDNumnc5sDEEsZM",
-      "name": "HASAGi",
-      "symbol": "YASUO",
-      "decimals": 2,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/av6y2ezw5mdci68l46svaa8pyao1",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "DfocEzYgAjkwHam2LjxpqiWqdzse6fCFCv4coL3pnYq5",
       "name": "RULER",
       "symbol": "ZERI",

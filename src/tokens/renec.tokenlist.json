@@ -2306,19 +2306,6 @@
     },
     {
       "chainId": 101,
-      "address": "14gBdATCTo5k3TGZMvtm8hyGhdfQht2uc5RGeRM5rqdw",
-      "name": "BANG",
-      "symbol": "LUCIA",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4uhtj8lx4uo3gm556okhndinnmvz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "CJLLjKp4m791xXaMySQhB9nM9RueCiNYGJjPDgy7rtTq",
       "name": "Warrior",
       "symbol": "WRR",

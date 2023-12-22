@@ -2371,19 +2371,6 @@
     },
     {
       "chainId": 101,
-      "address": "APdL6mZNx5XJtncWkwuyXY5PRa3o11JEqHzWjSUSBYE5",
-      "name": "YASUOOO",
-      "symbol": "YAH",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sy8oh71ijxeqq4m0uvfkezmsifgn",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "4S3HzeK9nmxyujNWhWGpb4zqbzAXZU41rByV5ZL3w9QL",
       "name": "Nudge",
       "symbol": "NDG",

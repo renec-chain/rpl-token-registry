@@ -8182,19 +8182,6 @@
     },
     {
       "chainId": 101,
-      "address": "7iDUthd7idDd9xKAm6ioaQ4KkKyim36YWNGMCCXuR5dH",
-      "name": "1",
-      "symbol": "1",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/56guk3hv1h3ublgm15rt63an1g2q",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "GptGbSZnA4Lp7rtJz5WZsoxiz9Xeasj1ZXx77Z9yYscG",
       "name": "12",
       "symbol": "22",

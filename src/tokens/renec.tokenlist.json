@@ -6440,19 +6440,6 @@
     },
     {
       "chainId": 101,
-      "address": "E1JatKYYVAehLeVJKtJjzQXrrm8dMTje91XoK1dLfS1X",
-      "name": "CCCC",
-      "symbol": "CCCC",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ioxowvz3iv9a09lk04nr53tno0zp",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "8BdxhsvgTWz7c28QbnLYgYdkmiVqSfa6HrwATzcYB4LD",
       "name": "Rendemy",
       "symbol": "RND",

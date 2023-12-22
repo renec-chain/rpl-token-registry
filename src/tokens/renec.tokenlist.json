@@ -3203,19 +3203,6 @@
     },
     {
       "chainId": 101,
-      "address": "8dNQSdmnwnBp2PSNUwzwXV7axptv3DPrpzCbcFTPjXx5",
-      "name": "CONGHE",
-      "symbol": "COGHE",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oorxmv48ql0yebqictu54f9tphry",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "5aS1HrdYDyzsMNGxPE4mH5aSS6V8FUJi39CH323HMdS7",
       "name": "Nam Viet Coin",
       "symbol": "NVC",

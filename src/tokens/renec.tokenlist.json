@@ -20087,6 +20087,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BFdaRqi14crddzNz7bHkCGW594cnexAMXCUc5pgMZVoB",
+      "name": "CoinM",
+      "symbol": "CIM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ss0eoth8q0ztmnv5cquoufi2g9q3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

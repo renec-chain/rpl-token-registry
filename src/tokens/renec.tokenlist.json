@@ -20594,6 +20594,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CgEJPpJDetsKX6Z7PKtvwZqcjW9KQhnZFzVqTP3jZceA",
+      "name": "18",
+      "symbol": "Sk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0pqw42y0zcp3wpahrqbmecewmh8x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

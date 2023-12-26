@@ -19905,6 +19905,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ArmcpvtCkfzQP7KEzbPvoQDuNE1F1gUzCQoGXp3VaXXX",
+      "name": "AffiNet Token",
+      "symbol": "AFNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/66t4odu6mu2ul9vz9kn3xqwypokw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

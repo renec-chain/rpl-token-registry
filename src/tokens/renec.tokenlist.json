@@ -20152,6 +20152,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BQHWP8sxpmVrP91fMjpDtBFkzDeWCKegV4u4rVseEzjS",
+      "name": "Bonk inu",
+      "symbol": "Bonk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ub3fpll80kf6jfhonnxpscc0o480",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

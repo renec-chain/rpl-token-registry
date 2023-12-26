@@ -20178,6 +20178,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9hMkWbtbKfMf2vaEWoPTpfANfzZBMDzdPoDgMoC74cDB",
+      "name": "RENOOP",
+      "symbol": "RNP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/79v57ixhol8bkfe61jnzhnq74jyq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

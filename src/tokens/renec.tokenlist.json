@@ -19424,6 +19424,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A9aVKeLUpzqEh3HRVhQ3RGyXLRnnxjyoMXidSpVahsrQ",
+      "name": "Rich mem",
+      "symbol": "RIM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iwd48y1grxk1pd9sa4onnrlmaowh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

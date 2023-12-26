@@ -20451,6 +20451,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "717bn9BTYxd2CErSWrw9bfSNjc9FitAY7yWzSiP4rnT3",
+      "name": "ISL",
+      "symbol": "ISLAM",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v4ao6lq11id698s63i4gao68324j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

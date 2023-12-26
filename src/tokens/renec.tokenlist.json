@@ -20256,6 +20256,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Arqu5BcS2KKSdZTg1xegdFE8pEhi5RHiD4n6QGARfQ2D",
+      "name": "Putin",
+      "symbol": "Putin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1r68g3xeviqrn6alim2ni9g1y2tg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

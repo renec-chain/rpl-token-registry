@@ -19814,6 +19814,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9kZhFbchvcZTrxJTs73uRYmpdCSCe4SFDQiyvze3zEkY",
+      "name": "Cryptic Mining Token foundation of crypticmining",
+      "symbol": "ReCRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9vjnxbm03290c6i5dlfbxzhv3ksy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

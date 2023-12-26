@@ -20295,6 +20295,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ByAZxLDzZv2wVTVaxPvdQdAudib3YPdkWFTRNaEDBv4M",
+      "name": "Coups",
+      "symbol": "Coufe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a7qpbxzuxkzh1pnmncbo45m60srz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

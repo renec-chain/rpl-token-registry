@@ -19593,6 +19593,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3j2WswqwRG8gSKURM3AhBkc1BUFvmhUYHePMVt9sGrAS",
+      "name": "Mahadev",
+      "symbol": "MDPL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bqkd4zo44r7q7s490o06agvbwmyg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

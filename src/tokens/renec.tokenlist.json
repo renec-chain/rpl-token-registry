@@ -20503,6 +20503,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CLTeDtMwSAtoDDj3BunS75JFkUhytLA6ojcG8ZR2QDCL",
+      "name": "Studio Muzyczne",
+      "symbol": "FLCN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s2nyawttobv4hkenrgfo261awfbb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

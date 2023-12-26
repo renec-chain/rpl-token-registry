@@ -20139,6 +20139,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7H43x1abFq27i4cMGYTLvMJJiEJNYKbaZAXmMJaGf7tC",
+      "name": "Vendhie69",
+      "symbol": "Vdi69",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0qcwuhz9drog87e9w19m7rp49tcj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20490,6 +20490,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9jmw5deqtKuPzoBfFJy6iK4xfDHFtKen3Hn8Lm3KjBgB",
+      "name": "Falcon STUDIO",
+      "symbol": "FLS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cjfboscy15xo74kpi33t7fhgrnwr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

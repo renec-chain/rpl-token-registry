@@ -20022,6 +20022,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Nyk9Apf9JXusSHtfa5RWvrYDn6muPagyTqJJsVhKbF3",
+      "name": "A9 VND",
+      "symbol": "VNDi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b35ypzj3oydiud042b6e4gmkcjca",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19957,6 +19957,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4CsPs8bkghrajaApB1onGWhSA1Qi2STXvDDpigGf9Fdx",
+      "name": "01",
+      "symbol": "99",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bkvonzcak791q2clsh07wtf0a8by",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

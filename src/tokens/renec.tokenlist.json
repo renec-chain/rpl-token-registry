@@ -20243,6 +20243,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "E65nwBFTbNhbDCNRJEBugksGo3G1vNKp1QDx9ajVRAaw",
+      "name": "Fighters now atack",
+      "symbol": "FNA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/layaw3h3behndcesyk80rhh16ugb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

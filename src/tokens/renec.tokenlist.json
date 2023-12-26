@@ -19619,6 +19619,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5RmJ8RLzBW9r7btzooQ4aZ2anpoCTrTQVA9UPUsSzfGE",
+      "name": "Nike coin",
+      "symbol": "NIKE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jtc6r03pjfnhfy18irp5ivgihugx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

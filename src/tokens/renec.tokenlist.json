@@ -20360,6 +20360,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2uTGq5Mr6jRG776CTjh5arGJKFaH8UnnsZmWU3NjCESf",
+      "name": "Bull Run ",
+      "symbol": "1000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ax1tjk1car1bkpn0hbwv6yy0bjwo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

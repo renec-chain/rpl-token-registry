@@ -19671,6 +19671,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AN9vCbGBqaM34imfopBthg7yZq8Q93LA97oTKqdsmyWF",
+      "name": "JAZ",
+      "symbol": "16",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qp890n2hpjj6l0xcid05zy54z00f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19996,6 +19996,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "J2nZRbbzF9DvzMvUhemLLfBudEs9mkNgayu7LCjqYDzd",
+      "name": "Thuan3105",
+      "symbol": "3105",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5uih9ek7hxzd0qtvg8v29bdvmdn0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

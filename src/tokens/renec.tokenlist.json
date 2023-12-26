@@ -20425,6 +20425,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HmnuPRw1rZA8v5Grph3UHqKDXcaXAtMFYBz2hyqzL9Xo",
+      "name": "Dodnet",
+      "symbol": "DDT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zaf22t2tt15nvduz04umj9z03g49",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

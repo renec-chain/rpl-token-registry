@@ -19463,6 +19463,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AQ1oCQUbJRCY5pK6VckU4tLuN5atMTaA1Ts6toFNH1Vm",
+      "name": "SIBO TOKEN",
+      "symbol": "SIBO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fg64qq06dm00xilyysm252z1yj5o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

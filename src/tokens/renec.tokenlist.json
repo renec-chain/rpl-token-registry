@@ -20217,6 +20217,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "45ga7LPXb1mDMAH3Dutp65So5oP3xw3UqavoWTHnNiFk",
+      "name": "Mahadev ",
+      "symbol": "MD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hqvg68d6uxpxvmktf1j2jbnnt0md",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

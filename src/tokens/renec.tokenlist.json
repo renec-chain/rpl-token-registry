@@ -20633,6 +20633,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9tBGttkY3Usvu5vcqke1z3MZuBi5fM3TqBieny58Tf7d",
+      "name": "Renic",
+      "symbol": "Renic",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vw0yjf9fy3fsg7ca3q469b4q2nu5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

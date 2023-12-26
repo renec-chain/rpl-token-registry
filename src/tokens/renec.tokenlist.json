@@ -20347,6 +20347,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4sHNTFBhZxyysq9Q9VLscsRAzKDtQddFWq7yYhntsDf7",
+      "name": "Renec token ",
+      "symbol": "Max6",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/elms1219xybq32gtw1s3nbyjrmpl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

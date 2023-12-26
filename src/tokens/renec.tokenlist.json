@@ -19892,6 +19892,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "82NYKQ8RtCEYpSNL7v9UG6Mc5KKHVMwfVD5mBCDUdp3R",
+      "name": "TCR",
+      "symbol": "TCR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vrb64e11dfdnsu3gbtmz7hci96bi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

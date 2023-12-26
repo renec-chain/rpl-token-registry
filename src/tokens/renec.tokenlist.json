@@ -19749,6 +19749,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BETBMnC43H97nHiKq3rHyVeAor7xhUasX3HfqxgPTr1B",
+      "name": "LION",
+      "symbol": "LIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0cu4v0ebxa97qgz17q03toxy4x0a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19801,6 +19801,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ASwSyfQSY4fc3VnuF6SRJZaD97brQULTEZTnpgqw3Mq1",
+      "name": "Asia Investment Research Token",
+      "symbol": "AIRT",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y0ddrmupn1h9wcmj2f3g88173p43",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

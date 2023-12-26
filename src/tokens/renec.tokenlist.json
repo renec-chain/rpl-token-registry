@@ -19762,6 +19762,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DnsKGS2WVNMuCSk1nwyDmktfAMf94S6tCkbK8rCThg3j",
+      "name": "REBNB",
+      "symbol": "REBNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nd91mbcx8qmoessxsitydnp6mqu5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20282,6 +20282,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3cz5xSEKwmPfixcksCrNkEgWaXbESCe69o5BHXUqBXMt",
+      "name": "Nike",
+      "symbol": "Nik",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n4xqxwh2m1l3qk7eivdjcsdmbv56",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

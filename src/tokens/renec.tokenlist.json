@@ -19866,6 +19866,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AGCMVmkANhhDMTxVTNFhgkZkLsYhMY4sEQ7Q1YTTtt4y",
+      "name": "Trustchain ",
+      "symbol": "TCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fln9v2itt67jnggovf5g8s96jypu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

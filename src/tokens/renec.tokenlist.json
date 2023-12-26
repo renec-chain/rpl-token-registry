@@ -20048,6 +20048,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CVXnHGS4FcaKTr5WsK4SBLvRhvqFH27rrEJ1DLUYU8TV",
+      "name": "Bonenaka",
+      "symbol": "KNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0cq6265ma8qhrenyw0m97zuo2nia",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

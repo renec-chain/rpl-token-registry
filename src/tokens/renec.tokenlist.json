@@ -20607,6 +20607,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DBUM7JPbayqBJcMYuWxN6D5dhPqxZi6Hz4fG5o98hZhZ",
+      "name": "Tran Hong Son 96",
+      "symbol": "ANONX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wbp1g09k5vq2vpt2ndeel7xhv2f9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

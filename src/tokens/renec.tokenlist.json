@@ -20269,6 +20269,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BcSSoTRzzEXhwA9HfhSza62DLwaxZwRSz5EUeQe44KRY",
+      "name": "Trustcoin",
+      "symbol": "Tcn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y4p6p1qxdv5qo37pygu147l89nnk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

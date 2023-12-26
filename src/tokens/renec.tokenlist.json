@@ -19645,6 +19645,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "XEXggEJvNT9g1gr5AXZmtfkCCyAXhBuNV1jAQAg2Q3F",
+      "name": "vison",
+      "symbol": "vison",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/psrxye7nyzxf7c7ioajf43nz56yg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

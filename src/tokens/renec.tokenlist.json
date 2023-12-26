@@ -20581,6 +20581,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A7AeEPFFhKy1qdREzbcG7YWjPheAjvU4ttZZ3kDPn8Se",
+      "name": "PENTA ORK",
+      "symbol": "ORK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0wsi3oq7p8i2iny1kegjmpp3q4hx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

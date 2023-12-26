@@ -20373,6 +20373,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cnv5SfbLxG3gPNeP1Vju9zVMvDk5CKmYBVUyxYiSXuUh",
+      "name": "A9 CHAINLINK",
+      "symbol": "LINKK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4ook9hds3j6k7tr54ddwpzq2cx8r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

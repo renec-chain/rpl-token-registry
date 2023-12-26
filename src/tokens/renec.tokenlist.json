@@ -19450,6 +19450,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EqGzktXmQ8vbbfTug6BNUGrk3dPucUCX3mGfoEfwn93N",
+      "name": "DOD",
+      "symbol": "dOd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/66i3iqbullty70gsb30c91lab0b2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

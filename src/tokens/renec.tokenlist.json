@@ -19853,6 +19853,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6hEN7dnLM8kkjGkQ74nux4MN2vNF7DdeBW9UCX9XqWvh",
+      "name": "nguyen phuoc",
+      "symbol": "phuoc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/83rj3x2znerr8nqa9sxw771hjrg0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

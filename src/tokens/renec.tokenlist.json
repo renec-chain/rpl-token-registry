@@ -20646,6 +20646,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GvmU8frKoYeZsFin41HVQ6X8JwC3ZKKMGS3zp7KKYCsU",
+      "name": "Ebiads",
+      "symbol": "EBT",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/glt12q2vpvt281dfrv2vygjj5f7i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

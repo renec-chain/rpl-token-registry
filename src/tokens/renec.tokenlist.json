@@ -20438,6 +20438,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4M8VKzPDLKbeHPuWUGmkchq6xTVQbmb3xaR1wJr75raA",
+      "name": "Bponnaka",
+      "symbol": "BNK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bwuvvurvsshrk8bacgtcluuw65a0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

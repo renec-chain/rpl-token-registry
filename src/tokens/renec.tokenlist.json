@@ -20334,6 +20334,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4vAeVaCBnPrjwpnuRLmkGBg2oKxUE9VubHfQ7BuqVQPk",
+      "name": "Renec token foundation ",
+      "symbol": "Max5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b5117gptdhl108lwvq8nk59f74od",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20516,6 +20516,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3quAysM7q99mKuzyLNP5bHAFNdhH6s5r1FT8MknPwixc",
+      "name": "Mourers foundation coin",
+      "symbol": "Mfc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c5z9g5jytmanjbtqzhk4z6sc2apf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

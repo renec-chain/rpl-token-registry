@@ -19528,6 +19528,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GdWKfhrimLik5cS2oz3pVkDrNWS49uWvrE7LnJ4EKsiN",
+      "name": "SIDRA COIN",
+      "symbol": "SIDRA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/38e0a76u1veesibxuz1zv6vz7tiv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

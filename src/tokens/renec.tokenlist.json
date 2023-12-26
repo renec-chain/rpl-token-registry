@@ -19580,6 +19580,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5TaCQh1kYoDFWpjnacmtaT8m5QfbGe8zs3m9EwdLZfMR",
+      "name": "RK Token",
+      "symbol": "R2k",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7wk38jr8324shio122ih39wxxoc0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

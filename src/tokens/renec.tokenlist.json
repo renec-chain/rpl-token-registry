@@ -20230,6 +20230,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DrKhaaJB122iesxyKzuvDarRNrs2iR8vru9wDDV3p2VR",
+      "name": "Tribu des Oliviers",
+      "symbol": "TDO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g4fqha2ww93yze58emd2y4uy8ix9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

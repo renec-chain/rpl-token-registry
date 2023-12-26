@@ -19710,6 +19710,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4HCTVuP3q6Bn3zjRowLrB42529ueJvKyGvAqNk3tz6gm",
+      "name": "MrAmpleCoin",
+      "symbol": "Ample",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1qzd1706kxf1mo36q56ca42dob6l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

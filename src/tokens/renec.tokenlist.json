@@ -20386,6 +20386,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HqwNFUgaXy39AUqxk5zp1iBGQdJ7vJvpTAa9BgwhyEhA",
+      "name": "Bull Bitcoin",
+      "symbol": "BBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3o1qhzfcybeyn9muo4bz535hf3um",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

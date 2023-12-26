@@ -19632,6 +19632,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E3GbnvbqDjrVKHbqsyCvzXNEh1rs1fDePvJeCoiE8kYL",
+      "name": "Environment coin",
+      "symbol": "ENVI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2jqlf3lnplavj2nc2kdg6dozbgzz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

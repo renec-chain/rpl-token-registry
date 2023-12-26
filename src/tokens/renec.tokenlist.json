@@ -20464,6 +20464,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bytf9wFCerqnqkHiDsj5rXCdJdTZVu2TWQPmZR6RM8uU",
+      "name": "Yarbu",
+      "symbol": "YB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fsmvxa9zv52n7mrq8q4m1uab1xt1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

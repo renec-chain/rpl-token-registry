@@ -19788,6 +19788,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3SSanum5BRVBFRrJH8gG1HFZC4SoNGytWD1Zm6CHzTQY",
+      "name": "Carrot",
+      "symbol": "Car",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b62rgkab20ddboqdh8tr8at5jrtw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

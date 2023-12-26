@@ -19554,6 +19554,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8SRkGe4833MkJ7kZouNoxSnaPJocKP5iwby2GueeZPmN",
+      "name": "Sideflush",
+      "symbol": "Lush",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2wfjgko28mgpyhlq6jt6mg00vje8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20321,6 +20321,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E6xrH541CRYjwYSx937EZNxKQknJY9oDnPFA3EfFqdzE",
+      "name": "NFT Bitcoin ",
+      "symbol": "nBTC",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y7z6j9hiu7cg77o7ws347qlmqlhs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

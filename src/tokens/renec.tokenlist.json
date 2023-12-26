@@ -19879,6 +19879,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9pGPK3RHY3HQYshd2Pi9x5QPgu5aSngCMLFQV8CxpBWB",
+      "name": "Bitcoin NFT ",
+      "symbol": "BNFT",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kv6lk37w33bg01agyj415risrqk9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

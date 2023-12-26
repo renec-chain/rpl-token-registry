@@ -20529,6 +20529,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "E84PS76yovAkcf4yLpRr5mAsoiiJFwHhfaBuNe15rikK",
+      "name": "RENC",
+      "symbol": "ENCR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vfxwwogyl6aszga1qbsmnv8dvnf3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

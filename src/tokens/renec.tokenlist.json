@@ -20126,6 +20126,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EWfZsQUfkywTbojn84hRMdSwCAVdJ7GkEZfYfttzb7ba",
+      "name": "WeedMan",
+      "symbol": "WxM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ov4i43diwvshm3h6b4f1oxlss6y4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

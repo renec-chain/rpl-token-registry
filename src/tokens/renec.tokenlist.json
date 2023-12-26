@@ -20412,6 +20412,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GXGM2ZKdD4emx6wF7rbSLeJTJqNsKDK4AQKEk3r4JpgZ",
+      "name": "Dotnat",
+      "symbol": "Dotna",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8gcks43ekfkqjldr4pxfg14g8otc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20191,6 +20191,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CTJdx6LfLceMmWz1uyRUuDLuKWAriKQDa9Zm2rVhnosf",
+      "name": "Keniuw",
+      "symbol": "Knet",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3iz1jxdnd5pqtll5uqppyorjzx9h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

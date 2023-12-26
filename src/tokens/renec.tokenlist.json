@@ -20477,6 +20477,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "E4j6P4MnnjjTZBoGPD4gVnBgEWnfc2L6FBujWA3oQVxk",
+      "name": "RENEC INNOVACOIN",
+      "symbol": "INVA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4hzy13p8u313g4xv0j8yfakfkchf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19918,6 +19918,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DnweBYrnRjjTDCp3MabKBwHrv7aHrcJPtGy1S74E43fk",
+      "name": "RENIEC INU",
+      "symbol": "REINU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/34tt9lju95oc5jrpg6yyptwzhbab",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

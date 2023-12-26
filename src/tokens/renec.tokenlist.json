@@ -20308,6 +20308,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "NKDQwNEzMJQ3VJXjWzjqfLkgpGp41dWpkQqYiPNGwBU",
+      "name": "PAPER SWART ",
+      "symbol": "OTF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wkr5cv28asfhjv711v35vtk7xssz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

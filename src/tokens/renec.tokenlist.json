@@ -20100,6 +20100,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8spG5jWVG9K1g47XX994MUE6p3eYQZgyZ3iuvCGpKE6d",
+      "name": "Mighty coin",
+      "symbol": "Mgt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5gej5dqjrdhxw413yz7ykdwoaetq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

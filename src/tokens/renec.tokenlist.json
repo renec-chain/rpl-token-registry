@@ -19606,6 +19606,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5JFL3h4gFGjk1poWnvc7K9gPkXjJXvq1cmA3Bf4yKUbb",
+      "name": "Black Or Red Token",
+      "symbol": "BORX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/edfbrjgejr81tivw21ugofn28h38",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

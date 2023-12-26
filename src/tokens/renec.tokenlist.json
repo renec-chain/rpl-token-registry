@@ -20620,6 +20620,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2v7D2QtL8q5gMzoNhH5iqPJhhbYEFUdZ8eWChctLLxn9",
+      "name": "Ebiads",
+      "symbol": "EBT",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wdt1l7cgqqucexezo0o72bx06ov8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

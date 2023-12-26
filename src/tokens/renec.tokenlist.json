@@ -19931,6 +19931,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4qXvu7xnFd8DD5nPM5wZsJ9CL4zn6LJX7keiiyC5nzRf",
+      "name": "RFCoin",
+      "symbol": "RyFc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a89kifwa4w30l9rvv2vvon7q1x77",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

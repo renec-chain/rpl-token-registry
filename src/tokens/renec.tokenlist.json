@@ -19476,6 +19476,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DRMRsLvqzaytdqEwY7ppK67xKcDp1GjrCt7hiaKiDm9o",
+      "name": "Sahibeena ",
+      "symbol": "SGR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zwdilosk6heugqvas2a14b5qixlw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

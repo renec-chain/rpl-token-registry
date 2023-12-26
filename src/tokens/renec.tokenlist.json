@@ -19658,6 +19658,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3cZmmpYoGJMxUZY9befBRYgFTuByVKtQfzNNAtUbGnjk",
+      "name": "The Moon Game",
+      "symbol": "TMG",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8idhk20pua1qi14ycfysob6xmd0u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

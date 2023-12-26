@@ -19944,6 +19944,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9YTHzeLt6eWXdCUhWmwbf6cPAV3XnuDVa3j8ew9JBHGk",
+      "name": "Meo",
+      "symbol": "Meo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v63d2f02p83yi7agcqbsjx1oytcs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20399,6 +20399,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EFZjmKZyiYpu9xQJqwEmANiLuUtskBEnrw7J5JaybQ99",
+      "name": "Dotnet",
+      "symbol": "DNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r2iwedjboqn529gpmmyy57mxm7ls",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

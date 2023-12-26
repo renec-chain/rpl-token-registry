@@ -19502,6 +19502,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2MUHXd951sf4BXEc46j1EYSxRV1Z18mdoqHUbFrEJGt1",
+      "name": "Magic Carft",
+      "symbol": "MGC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l3opuem7zkeq37c49hbsi43fxcyv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

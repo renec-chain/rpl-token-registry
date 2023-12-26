@@ -20204,6 +20204,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JASJCjJEoozUy4UPHzuCR4spW8e4GzhKMHgtK42tV1eF",
+      "name": "SHREK",
+      "symbol": "SHREK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gl1cze04tk76f5ci47b4ucmd2wq8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

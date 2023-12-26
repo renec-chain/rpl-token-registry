@@ -20555,6 +20555,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HNaY15rgcLttKbimvmky4Wf4c2onM5nkShnT3HdnNVPp",
+      "name": "Rickroll ",
+      "symbol": "R06",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/st09hpk3ashy4blcqpgugkh76h1a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

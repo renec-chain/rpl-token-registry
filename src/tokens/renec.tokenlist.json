@@ -19567,6 +19567,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6ZJticxETnCEpNaiomVWibBHwwivGRG9W29eEAKhAzGr",
+      "name": "TATAT",
+      "symbol": "AFAFA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/roiln56el4gk9l8d5uvkhmd7mruq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

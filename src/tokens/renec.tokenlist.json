@@ -20074,6 +20074,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DfdYaQtU7cfBMnEx5w65ZBwgYkqiHVHu7AX2riWeHXGN",
+      "name": "SODION Founder Coin",
+      "symbol": "SODI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j2ihtlhwiu6g0i84wup43jcsj4h3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

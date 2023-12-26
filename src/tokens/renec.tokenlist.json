@@ -19489,6 +19489,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GxttLGcp8hXZGuUrF8WhyMg5zeN2udh47erTxrUNHYYY",
+      "name": "Rac coin",
+      "symbol": "Racc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7wh4vilnb7u86sodt9vortshgj26",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

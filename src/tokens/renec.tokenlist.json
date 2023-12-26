@@ -19411,6 +19411,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BeXQbQPhiLrWZW8oYy2BtPZe3b6yL3ELTzH73vuehUM6",
+      "name": "Ebiads Coin",
+      "symbol": "EBD",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bvmjt05hy3ut36mrdl02jege7vax",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

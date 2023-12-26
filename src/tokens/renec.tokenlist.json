@@ -19515,6 +19515,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ERW6rtyQyF7i52FSJupFCES4Cn5HnRdtm3cB3y394Khs",
+      "name": "RECONECT",
+      "symbol": "RECT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/14ao4ualleqezx1niad61lldczzy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19775,6 +19775,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CUuc99iyYi5qi3KRZz8Azo2sLMV5a1wfaw5LMUyTBnxW",
+      "name": "GOKU",
+      "symbol": "GOKU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gl4gyav69txneacnw1lcu8g2j3z9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

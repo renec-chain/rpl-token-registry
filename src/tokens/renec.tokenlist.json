@@ -20165,6 +20165,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F9KPHUDeN4Vue5EBDLzA8X3UqHTYqU1z5vHsk6qP9ggY",
+      "name": "VETERAN",
+      "symbol": "V",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dd22ijh5ez7yrffw6j0woud95l3a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

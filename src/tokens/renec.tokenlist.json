@@ -19970,6 +19970,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5CazWFEoVbjzxFJG7NaUp8tp5oFZBLw6D61xXpzgF3eb",
+      "name": "INU",
+      "symbol": "INU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7f7gew6c358qhwk2wv76fbiukqqe",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -19723,6 +19723,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6CtqEH11BjhrhApnYEHFZtbLCpDxedJV94fCNiywf9yQ",
+      "name": "KABIRU LADAN",
+      "symbol": "KBL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vwpuumx5nfrfyh6b917mng1unsc0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20113,6 +20113,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CVkaAeo1rWMWFbhw9yvi2ifiWnkPoCHh6ZyPfwccpPaR",
+      "name": "Sanni",
+      "symbol": "sai",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ge7dizvco82lspibjf2h80m8k7ko",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

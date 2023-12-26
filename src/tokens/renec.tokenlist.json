@@ -20009,6 +20009,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EviSWn21HApctjNxH7SHLk9Db2mxn5D1LJZoJVA2qDQb",
+      "name": "A9 USD",
+      "symbol": "USDi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bue1ugdo3bvdvl2st3v6c644697y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

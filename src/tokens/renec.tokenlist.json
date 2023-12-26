@@ -20035,6 +20035,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8eokZPs2T6m3vbDJXkdC73XDU1t99AutLwEEe1eEgEpN",
+      "name": "Nabsson",
+      "symbol": "Nbk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t3f4je30dwxr1xdn8ddhwg82mo7h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

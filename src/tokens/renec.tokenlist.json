@@ -19983,6 +19983,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EpDa9eRn5FyTTpNBUbYpxWxmKU1Q6ixFRLu87o3dVSBd",
+      "name": "3KfqzuKYfAM9gxBRm8KEnxJ5aPH3UqsjgCtRC3qKFjpN",
+      "symbol": "ThiNg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1xmipds2y1zz68hxkl1m9hfmhbb5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

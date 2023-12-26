@@ -20568,6 +20568,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5PDPYRGm3AeLmN4GR85ZZeAZjufv5Cx1Vqo4DQMENksS",
+      "name": "Recnet ",
+      "symbol": "RFC5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/euceh3iqo5vtr1da7yxwwxgbs5ek",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

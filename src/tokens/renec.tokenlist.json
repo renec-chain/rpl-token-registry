@@ -19697,6 +19697,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "834PnDhvkHJcPVgpB7cEG4L7s5JpnewQAqGMC8hcDGPJ",
+      "name": "Tran van nhong",
+      "symbol": "5bVeo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eb9zouygiva58vzoxc96twjmhzth",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

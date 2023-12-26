@@ -19736,6 +19736,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "to85hv8MR2i1yabUTh4EDWicnWQua81skRv88tVK551",
+      "name": "DFU",
+      "symbol": "DFU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jx7et95ks9xj2w5rrpiu85sga0zb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

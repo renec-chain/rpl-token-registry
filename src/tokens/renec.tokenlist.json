@@ -19827,6 +19827,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3QhtqzYyVY6ge4G4iTq5kNpME2MQa7iaLg9tx5iX75iM",
+      "name": "Banana Finance",
+      "symbol": "BNN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ar96an8ibznd9fpqr73f1u7ks09v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

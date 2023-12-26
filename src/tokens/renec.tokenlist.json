@@ -19541,6 +19541,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GvqTT9EfCP2D7B2T7E8vfJgAndPab584FZBpHLRYK9Jk",
+      "name": "ATM Coin",
+      "symbol": "ATM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fdmdfmiymipdl4wnoagrnwidl7g7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

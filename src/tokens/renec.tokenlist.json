@@ -19840,6 +19840,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dz9eBLraJaPJDtrCCTqRemNeDkNbN5E5Bc8Tahktzp1K",
+      "name": "Badd coin ",
+      "symbol": "Bcoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9230e53oy9uw3jl2rjro81mdjta4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

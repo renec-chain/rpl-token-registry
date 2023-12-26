@@ -20061,6 +20061,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3pqNGCb8WJUAPhnUgenH3jXgY5sqYLwn6hXfZ55FnMwR",
+      "name": "SODIAN",
+      "symbol": "SOD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4m12c8o33dhotrezoahi65evkytl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

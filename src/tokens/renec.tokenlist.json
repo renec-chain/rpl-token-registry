@@ -19437,6 +19437,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EFXTLmBnsDE5nUB87jtNCGpbaJ2KfRYkuqcVNRzaWEC8",
+      "name": "RND",
+      "symbol": "RND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xqmjx6ru91491nlhhh8p746os8gq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

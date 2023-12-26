@@ -20542,6 +20542,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "346Ji6UzWAG37D3QxhUbuEHCXuUAcnm88H5vWmhjeQtv",
+      "name": "Happy coin",
+      "symbol": "HPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r57ouujq2dsznccz25nkm3emxdwh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

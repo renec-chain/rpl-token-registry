@@ -19684,6 +19684,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3fynd2iYzRZdJ2fLyuPJ5xFEyiJSe2aBQ6DNYeBi8Ux1",
+      "name": "Tran Hong Son",
+      "symbol": "ANON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b3jzafqsjbzbod78j2zadt8tlpqi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

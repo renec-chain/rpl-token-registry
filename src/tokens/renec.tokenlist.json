@@ -20672,6 +20672,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "f8zAx9B8iTzJA8ezP7NtEZEGxnBxRKhnHiQRkvGbVTe",
+      "name": "Bara",
+      "symbol": "Bara1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r51bn1qql5de2hmg3we0ct4yjn9l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20711,6 +20711,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "vHmQktZxvmbwaDeNSo7WxVh4nZ1EUgzkA2pEJbKsW41",
+      "name": "Happy Sea Foundation",
+      "symbol": "HSF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tdvgv61ljz43c1zvn6i241o3e73d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20685,6 +20685,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8y36RnaghFK8H11SAprEQDNR4hqn7uiF1MrFv1dy4ZRK",
+      "name": "CHIPDATA Token",
+      "symbol": "CDA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l474xreyj8n4kgggpc4r0jezumhf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

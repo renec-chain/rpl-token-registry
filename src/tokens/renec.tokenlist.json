@@ -20659,6 +20659,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EZ3YzNgF2f5n8JUg5aFejpKEKNgoM9psYkBxxnXigJfC",
+      "name": "ABBA",
+      "symbol": "ABBA",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ifbs11jhxzalfj1pvcb7eid2vpqd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

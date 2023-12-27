@@ -20698,6 +20698,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FV7BfeCMEcw34wqCQ93We4bHJTaRZztggegS76EMgsxM",
+      "name": "Addicted",
+      "symbol": "Adict",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9aknp1csr4oqykjwyfw0lia8pe4v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

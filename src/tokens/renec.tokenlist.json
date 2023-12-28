@@ -20815,6 +20815,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Q7GmTWXhhVNzWcj4fqPzqzkbb8iF3TyW9UGyVQVqp6y",
+      "name": "Kingdom Glory Token ",
+      "symbol": "KGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nc1i19ycns6dmv21aj7wly7ukngr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

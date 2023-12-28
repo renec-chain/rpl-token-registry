@@ -20802,6 +20802,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EoTv3tr7756GFFnTHaR76oXqBBLVahvUnTTxosogDB86",
+      "name": "BDC",
+      "symbol": "1971",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a680lxxafvrte9y4tqxcvej7c68g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

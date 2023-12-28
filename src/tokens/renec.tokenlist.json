@@ -20828,6 +20828,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DVGivKGhzH7d1NG6voU7RC7gfxVVUkjCpJkBRZDmNGrq",
+      "name": "Renec pondesion coin",
+      "symbol": "Halim",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wjx17n7how44anrmuzzm4d87wgub",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

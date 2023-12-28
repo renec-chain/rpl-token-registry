@@ -20724,6 +20724,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gs2qSh5MsLnz4CQuDq3EtXD4symqVT8U3FgggAVxxkdH",
+      "name": "GAST (propeasy beta)",
+      "symbol": "GAST (beta)",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7oxhi7dx4lepjf4w5fusk1z5b4pd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

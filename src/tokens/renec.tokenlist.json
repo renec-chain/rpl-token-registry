@@ -20841,6 +20841,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Cd3hUeh54FJqfu3Wj7Hs3PLSKoiwD8LLkF2YPT6xqP8k",
+      "name": "Mawevunet",
+      "symbol": "Met",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4l7q49ndnnrua56qiztyj3zpik3c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

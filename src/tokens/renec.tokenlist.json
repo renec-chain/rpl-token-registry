@@ -20776,6 +20776,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5yjj24ko4CqKASuWeVkTzyNosaTyBmNDMet1pupm6teo",
+      "name": "Dream home",
+      "symbol": "DRH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxab4gulyy3zi1i4zk1mcycbmfxm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

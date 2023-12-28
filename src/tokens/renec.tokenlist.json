@@ -20763,6 +20763,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2h9Ce8ypZ6AnSRtdZV7nv5ntv7zYgnkSHY5W96kVQ8qV",
+      "name": "Rickrolling ",
+      "symbol": "RR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qiouynjkvnze17v080hyspn0nics",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

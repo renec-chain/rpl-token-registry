@@ -20854,6 +20854,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7oNbiHJeHaEjThSduuK68bRrcbxNK5LcDf1qqewgD9oP",
+      "name": "Grok",
+      "symbol": "Grk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9pxc3mekul3lq0mjs0le2u1yhcd9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

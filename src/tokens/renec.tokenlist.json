@@ -20789,6 +20789,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "frYBLsrfDXZmTDTeMHJCG4vJGvwX52tEcnEZ3EfZpZk",
+      "name": "Global Core ",
+      "symbol": "GCORE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qe0jadnk0tqb2kbiqsjx89o4738e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

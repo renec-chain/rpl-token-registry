@@ -20737,6 +20737,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PropFgvBGaenqaNU8SXRwJUKCixpebRkdNYXbVV5faA",
+      "name": "PROP (propeasy beta)",
+      "symbol": "PROP (beta)",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/opay7e7s1er8vis657hgsclygru5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

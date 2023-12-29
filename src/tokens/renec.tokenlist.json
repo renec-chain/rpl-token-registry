@@ -20906,6 +20906,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CgRh2WJdPpnuzpkkQ1T8cWWAvbAuwYgoHJvQ2d8zquZ9",
+      "name": "Baba Lee coin",
+      "symbol": "Leec",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f5hwsimli06ffyesev9e8ctozk02",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20867,6 +20867,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4te2C6N6tzKLfdH5o5LKNVcaUS6cPQaAgMRFyk3PAGNC",
+      "name": "Coupu",
+      "symbol": "Coupi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hh87q6wspi2kcgobu93el038b8h2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

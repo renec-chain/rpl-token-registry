@@ -20893,6 +20893,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CLTdNPuQC3RqzZXsbh8jYvu611M5XpNirRdQ7tUo4qGn",
+      "name": "jotun",
+      "symbol": "jo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/37m7e62jmp34k8wmrddh15t5ag4g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

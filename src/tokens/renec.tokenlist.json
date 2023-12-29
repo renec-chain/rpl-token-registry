@@ -20880,6 +20880,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "QEWCEPiC2oERXwtJUFPNfTy9ALdxreXNw1kEVVBRSqq",
+      "name": "CAD Coin ",
+      "symbol": "CADc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j4hlujyum2z0gj3q89fqcfj8a527",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

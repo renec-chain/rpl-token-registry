@@ -20906,6 +20906,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "USDeCDcyiYJ5mZE69ETmU8qan33vFgFyLmgiVfUS2ZL",
+      "name": "USDT (Test)",
+      "symbol": "USDT (Test)",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/81d1b3e72ucjcshvcu6d3i1793nm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

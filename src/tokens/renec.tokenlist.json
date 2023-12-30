@@ -20753,19 +20753,6 @@
     },
     {
       "chainId": 101,
-      "address": "USDeCDcyiYJ5mZE69ETmU8qan33vFgFyLmgiVfUS2ZL",
-      "name": "reUSD (propeasy beta)",
-      "symbol": "reUSD (beta)",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ikqidrw2l6hswqq5f7zolk44t2a3",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "2h9Ce8ypZ6AnSRtdZV7nv5ntv7zYgnkSHY5W96kVQ8qV",
       "name": "Rickrolling ",
       "symbol": "RR",

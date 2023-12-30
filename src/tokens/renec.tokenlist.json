@@ -20893,6 +20893,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "PropFgvBGaenqaNU8SXRwJUKCixpebRkdNYXbVV5faA",
+      "name": "PROP (Test)",
+      "symbol": "PROP (Test)",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hgla34i3ozi06ea0eozsuuqswj5z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

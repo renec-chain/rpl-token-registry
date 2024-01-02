@@ -20919,6 +20919,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G1RoK1LsFJPM3R5vWjTAzqNrumeB5uN9WBKd953qKxUk",
+      "name": "Slim Dollar Token",
+      "symbol": "SDT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xa6mn81ss0oyhthma9y29c8o2301",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

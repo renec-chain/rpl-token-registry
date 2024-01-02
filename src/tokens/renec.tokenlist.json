@@ -20958,6 +20958,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GyqZ882k4TXW9u9i7hZkQpqrauN8HafEdDZWKJNAbmRg",
+      "name": "South West Investment Coin ",
+      "symbol": "SWI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/11fe3y9j27whe960fwur689gng75",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

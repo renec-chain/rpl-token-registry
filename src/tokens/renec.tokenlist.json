@@ -21361,6 +21361,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BJjdVY4ZcFid22Qf2zZhTdMj2Ss1b63H7xWQwGmwiNJZ",
+      "name": "Reno",
+      "symbol": "RENO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hk5js5nts0gw8q2v21e9rrjthcq2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

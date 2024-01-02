@@ -21062,6 +21062,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Ga14ucnGabwvvfuJzJvVjBgTsrDfuSziyKqn7H6w69rC",
+      "name": "FALCON",
+      "symbol": "FLC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dgqid2091bo9am17d4pjqqofzei0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

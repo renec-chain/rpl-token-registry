@@ -21023,6 +21023,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D53vkNuTe2aiDNHEBskHpUN7h3aY9Tfmzc1iWFPWAXSq",
+      "name": "Dee Dee",
+      "symbol": "DeDe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uqygnvdyiwhcezuto98t7nfm7vhw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

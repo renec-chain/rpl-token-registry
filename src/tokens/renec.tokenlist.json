@@ -21166,6 +21166,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GKNXwfHFCT8PKVMkXFa2kn2PYieLFHg9uQxD22o9YvUK",
+      "name": "FCOMm",
+      "symbol": "fcomm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1gwm1vxi7hla1awo3yvl3hf5jl9z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

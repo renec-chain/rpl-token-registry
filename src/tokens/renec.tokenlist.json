@@ -21296,6 +21296,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FcWsVpDgCVb4jPcDDj1SEYVi8NSB2QcuyaqMUccMo73y",
+      "name": "CAF TOKEN ",
+      "symbol": "CToke",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qcu5e89m4zyr21w9fhygygg7g9iq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

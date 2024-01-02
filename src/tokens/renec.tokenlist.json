@@ -21218,6 +21218,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9dgRz44QWEicwhdv1F83xdiwyVdEV66Xa29bdFAjLnZh",
+      "name": "AffiNet",
+      "symbol": "AFN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rp57m72ep170lom4o6vfjjixt796",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

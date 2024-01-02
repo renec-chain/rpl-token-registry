@@ -21088,6 +21088,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D4yL7o6QDueo2RUTgBbtYbakLLZaJanSSJj9wi9avTNT",
+      "name": "PoNhnaka",
+      "symbol": "413x4",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t0wa9norlq3g4uvc297qj31c0d96",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

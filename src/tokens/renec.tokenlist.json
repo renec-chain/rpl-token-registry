@@ -21231,6 +21231,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BHZDKXgaabPoxp8WJ35i2zYzbY4oLXpbJ5B3uPrPArvi",
+      "name": "Millionaire ",
+      "symbol": "MF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/me25s6tcxuqzo2hja01g7uck4ii5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

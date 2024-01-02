@@ -21270,6 +21270,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DWD1G94sTLzVZkfUPeQfuuuPqUKrVVKggWQR1xV6vWGK",
+      "name": "KIEMTRA",
+      "symbol": "KTA",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jqq0q17npkhy70o7f6x1ak85d38w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

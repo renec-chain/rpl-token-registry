@@ -20945,6 +20945,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6Auu7E6uUkoVHdA1Nw2BH1aSzpf1CGTWVt4bMZFrnBoq",
+      "name": "BOR",
+      "symbol": "BOR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n1ioqf3609804k3jy7ahhwc4sd8m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

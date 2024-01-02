@@ -21010,6 +21010,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GttWD8Ym9FDYun5Z3fpgwNiKvh5W3S1E7E5iHQVSS15w",
+      "name": "rMetaDev Qoin",
+      "symbol": "rMDQ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/82d9qtvbw00xnx4oz7r8i5lg8fg1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

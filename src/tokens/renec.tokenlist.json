@@ -21283,6 +21283,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CirkAFPJrvkwrRSBaYyLGaWVGJ9hKdHyAK7HScbtkqa6",
+      "name": "RAMBUTAN",
+      "symbol": "RAMB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1h9eiyqwwgudwsl321f60rjhxtvl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

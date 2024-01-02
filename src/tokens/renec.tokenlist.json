@@ -21075,6 +21075,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8SAnRGWcytcHk2Y6ioxYFbGpE4sCRavTtkifnFPLbGTE",
+      "name": "Coup",
+      "symbol": "PNA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5uztar54dbg5jk0q7mmzvf71hy3e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

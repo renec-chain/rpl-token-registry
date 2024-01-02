@@ -20932,6 +20932,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HftxfYZ4AcbBzNjkcXz5JyE6Xeban6rK3H6umh9e6Yit",
+      "name": "Hawseg Farms basic coin",
+      "symbol": "HFB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zkzapkalteup6ug6omi8uk12mzny",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

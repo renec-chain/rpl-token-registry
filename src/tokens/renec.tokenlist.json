@@ -20971,6 +20971,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "45e13dByv3t6AUU4KhwgfEFH8iFKmpSHYPZcSJ5MkKfG",
+      "name": "MYTHICAL",
+      "symbol": "MTL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bex4l9dsl07nbwjcwtl5u3wmee5t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

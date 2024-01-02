@@ -21257,6 +21257,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "89GgjN8H8CDa6n5ArR8s6fuctYPgm9rpeXigXvxD37X2",
+      "name": "Engineer nasir",
+      "symbol": "Nasin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4sjcug1bydv59vgbrkarli2er0w0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

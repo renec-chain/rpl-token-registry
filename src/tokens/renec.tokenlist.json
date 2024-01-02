@@ -21244,6 +21244,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AXwaxe3YMhPe6Mrqk8KGmrRe4vXSHUzDSCFWG1GUyQxv",
+      "name": "Popis",
+      "symbol": "PPS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aqj5csvon6c0wpn95j9h8u2ncf9e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21335,6 +21335,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BkCQubQph8kbwMQdrTwT4yjvaxuHg151sUATj9usnLgm",
+      "name": "FalconSTUDIO",
+      "symbol": "FS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5dji4spvupx14kffqzk7dt9ja12j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

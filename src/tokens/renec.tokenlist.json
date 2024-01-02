@@ -20997,6 +20997,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2oPqfUrTq1izYzpxKLmSTeEsuuxW8AkQq1xeEeCfwS3H",
+      "name": "Obclan Energies",
+      "symbol": "OBe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w01cb0jhpt5fkpnu7wd8vz3gu8u3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

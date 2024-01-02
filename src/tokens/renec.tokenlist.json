@@ -21322,6 +21322,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AMQJc4WrZrF6J3x4ZfuZ8tHRqC1Ly4bqw7CpPwj3fkfz",
+      "name": "Freedom ",
+      "symbol": "FRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/esedjx1784cne6mhqgxbtxcljdm8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

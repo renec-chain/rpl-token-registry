@@ -21205,6 +21205,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GrpHfTvFLBW1y7BnobnaGmHooKWKwjGgYo3tHestVgdi",
+      "name": "JACK DEFI",
+      "symbol": "JD",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oxahhe4vhnylzma57kdpga3z0614",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20984,6 +20984,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HsMEAbA62XtoBMxyb5TPk2roAVzLLHSXZUYjChtGnfW8",
+      "name": "Pitaya Coin",
+      "symbol": "PTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mtde4uxrhkozi2qtp4yfd4yhlefk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

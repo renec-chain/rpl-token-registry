@@ -21309,6 +21309,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "En2w7qgihu93hpJCFqBq8MTyELvxdYiJfdXsXmc3w4hz",
+      "name": "BoOgie Boi BLu Token",
+      "symbol": "BBBL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/stb96wz54ilhb3mf4bdadv1bfbhl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

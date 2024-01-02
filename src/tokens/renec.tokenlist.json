@@ -21153,6 +21153,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2bm7jmA5nKgf3J5x17td2U2ADdDYCiFKkY9JopE88SVF",
+      "name": "Rambutan Coin",
+      "symbol": "RTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/waxjtupfuj07dg7faamubdafsz7w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

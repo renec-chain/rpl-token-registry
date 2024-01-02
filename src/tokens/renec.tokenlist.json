@@ -21114,6 +21114,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EcSoGX7JSuqB9yjNYEZerq6TicXFSCYdxPpaLiNQEdCa",
+      "name": "RE",
+      "symbol": "RENT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1ybfll2210zwvy0aqhp0tgossr6a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

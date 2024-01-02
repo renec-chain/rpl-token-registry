@@ -21036,6 +21036,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3qSoS9ayR4CAMSqp9L73MejHuZCaHZ5nSRfN4HkZAdee",
+      "name": "Pressure",
+      "symbol": "Press",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qizwwpfe45pmzm6heyy55lz3cfp1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

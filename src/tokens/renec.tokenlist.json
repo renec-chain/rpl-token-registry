@@ -21049,6 +21049,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "jPjg36oULwRQ7X3sCLMtQETijCMTwB7jRwVneFFwUoJ",
+      "name": "Zee Technology Nigeria Ltd",
+      "symbol": "ZTNL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gxhb0znddtmd55smc8etkd7hovhp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

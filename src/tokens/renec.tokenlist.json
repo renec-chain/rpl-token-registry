@@ -21140,6 +21140,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8SFR13HaBFBfmgJcVt8Qze5vhx5xZFXt5ntcza9Dbxew",
+      "name": "Pineapple Coin",
+      "symbol": "PAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o1iqk7sqsoroco4rh14ju74q3dfu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

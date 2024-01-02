@@ -21348,6 +21348,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2UnoMihR9BJzp6jJPe5qTEqsPw6EzHDXwBJjtzVZKBJs",
+      "name": "RUSH COIN",
+      "symbol": "R",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ob9hzbysxj94bxdrdugwq58gipz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

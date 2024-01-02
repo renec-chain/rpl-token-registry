@@ -21192,6 +21192,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3gTjQMKn5M71PRdw9tExGyGz1MLb5cw33o1EojPwxGfn",
+      "name": "GHOST Token",
+      "symbol": "GHOST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ap7azon4asxy3qga7npoha8gm3ef",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

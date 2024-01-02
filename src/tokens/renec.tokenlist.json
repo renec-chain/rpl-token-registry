@@ -21101,6 +21101,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7yrFRqY66yR8HX1QT74WqDUB5JpqF89CjWj7u9i8ZS8a",
+      "name": "TrungAnh",
+      "symbol": "27121",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jow49kjm23ppqqda9hrjygksbhi4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

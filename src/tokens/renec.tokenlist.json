@@ -21179,6 +21179,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4KkdsLQCwTU9e6ZnT8v2xiPVTka3qYES7ZacTx5xTnVU",
+      "name": "Tanle",
+      "symbol": "Tan",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aj104xdi7a0y2ubpfd7ko183wvhs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

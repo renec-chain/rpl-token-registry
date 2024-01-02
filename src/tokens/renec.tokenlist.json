@@ -21127,6 +21127,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D5kokByvYhwRkbn7aDbt4pZJjEGHHJYfgsDrn46ipFax",
+      "name": "Maloves",
+      "symbol": "Mlov",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3l2rt1n7dbuarl1n13b8rp5heghf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

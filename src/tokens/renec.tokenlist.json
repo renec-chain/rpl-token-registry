@@ -21387,6 +21387,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F9Zo3NtgH3ptubdwjX9AdQC5Z3apv9bS4hH8mz5WksqD",
+      "name": "Baby Renec Token",
+      "symbol": "BRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xbo4hhpctgjj7gkth3neyrsmfq7m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

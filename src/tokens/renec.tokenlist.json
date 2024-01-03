@@ -21374,6 +21374,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AuNL8LtqNS8wEVPed8xnPGG59gQWMX5W4B1YX2R64mkn",
+      "name": "op timition",
+      "symbol": "ABR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4we0jxe0d8s64gw6ytj2u0pnl8fh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

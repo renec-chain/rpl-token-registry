@@ -21400,6 +21400,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BdZSYsxumYKzmqfEfMNQK5EsjbbBQENtjAtjh58e8zhi",
+      "name": "Samuel",
+      "symbol": "Zibs",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mte9qso1nfvbvaukvv4d8t6ywwyi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

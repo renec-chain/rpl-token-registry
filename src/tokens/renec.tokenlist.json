@@ -21439,6 +21439,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9RARZcvKeW7ZNZPVsfjLqUpLwTBFmh4JjDz48cxCGhGb",
+      "name": "M10",
+      "symbol": "MESSI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1w5p3k017gw39pzc1afktohy8je9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

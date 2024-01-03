@@ -21413,6 +21413,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LXabuRkSsNphAd665dDGBpMkbgL414w5qybTKjCFwuA",
+      "name": "VNDD",
+      "symbol": "VNDD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fmete3bo0eql9xkawsmf2g0sbjmq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

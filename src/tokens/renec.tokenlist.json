@@ -21426,6 +21426,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8F7Wfyw26MqEt3EisaZ2qqA1gDuCSvy973HSjPBUywW3",
+      "name": "Renec Sterling coin",
+      "symbol": "RSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5q3hgf5i5pkoe6wy91ygrf2o0vm0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

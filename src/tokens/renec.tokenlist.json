@@ -21465,6 +21465,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GtRGbnekqwRzcrSH5ZymsWaJxwhRZrWTh7pfy26KZWgi",
+      "name": "MWG",
+      "symbol": "MWG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q0dhed870h6tqdtrdutkbkw0kicb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

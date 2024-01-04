@@ -21517,6 +21517,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FGeAGaGJALVfr9HDAAWg8cr5RRdZiDPNqxXVNaDo3kYC",
+      "name": "Vingroup Coin",
+      "symbol": "VINC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tk883ct0dxpbd7qclb1n2hx5l8pz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

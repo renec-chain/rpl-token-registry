@@ -21556,6 +21556,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6xKEX6KDTaiYq1EMgHLEyAgeWkQfMPF8iTcPW8nH1udU",
+      "name": "HOA PHAT",
+      "symbol": "HPG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9f4gtu2me4r9fpwvsxeopko5fjjs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

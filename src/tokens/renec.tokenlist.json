@@ -21452,6 +21452,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7HJ6SySjcMGrLCkMU7buMb4a7yTPf5cvLpxsjLbxj7N6",
+      "name": "Viettel Telecom ",
+      "symbol": "VT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5euyq65nhejckawxch93b0mlqwmb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21478,6 +21478,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AXcBsEjnT3azmLENHn1ZLDpa2Z6YUGS65D8YVys5RuJZ",
+      "name": "THACO ",
+      "symbol": "THACO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xza4wmlzy96tuj0yo31vxud8bwfm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

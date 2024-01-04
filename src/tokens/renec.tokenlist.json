@@ -21569,6 +21569,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6qRw4KtcDSMUsrmea3B7wG6MZTUoBFuHrebcMS5MKYfz",
+      "name": "rPi Network",
+      "symbol": "rPI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ygauwhowgrz4ven2kllqc5wra1w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

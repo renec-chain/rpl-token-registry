@@ -21543,6 +21543,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DgXCxnBmRCAbnZAX7DoX3NN16HHKSWPzaZkzhr5g3mmx",
+      "name": "Petrolimex",
+      "symbol": "PLX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0mdj42037iayuruymi0mltpotyi4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

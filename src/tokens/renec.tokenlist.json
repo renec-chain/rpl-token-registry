@@ -21491,6 +21491,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HJ7HExz6qKammyZBQ8J8hmcLwWk2K3LtoaqDxNzV8WKV",
+      "name": "VNPT ",
+      "symbol": "VNPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dh35s1njfc5k3a4wow5pwynhqha3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

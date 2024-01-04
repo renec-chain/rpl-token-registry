@@ -21530,6 +21530,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8mn8wKvTuJGdXCKFn3zHRe6RGBXEpc3VckPbUfWBv9yS",
+      "name": "EVN",
+      "symbol": "EVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b7uc4rpkn8xsoajrcwqgogeai5e7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

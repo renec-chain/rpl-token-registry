@@ -21504,6 +21504,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AHwiAURdFfvXnSmY1QJDSZMMAZfzNaM1fMafKzjnKxKE",
+      "name": "Vietjet Coin",
+      "symbol": "VJC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/of3r0icpww3un9700u6bpygrhl4o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

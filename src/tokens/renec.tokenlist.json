@@ -21582,6 +21582,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8bzrNzgY3dnvgTycZjcehEaECChAj6wEsGk4fkExkiJG",
+      "name": "Gem",
+      "symbol": "Rgem",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tvlsflov5w82l7i74v2xdjefzow2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

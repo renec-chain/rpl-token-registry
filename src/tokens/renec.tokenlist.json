@@ -21595,19 +21595,6 @@
       ],
       "extensions": {
       }
-    },
-    {
-      "chainId": 101,
-      "address": "6MPgBvnd9LWMeBkPL3pCi2qVyeJQSUJrHBV3epBLgsCM",
-      "name": "GAST",
-      "symbol": "GAST",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vyatyh7rvxpdjr11bijuhmzenu6k",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
     }
   ],
   "version": {

@@ -21673,6 +21673,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6mmoD7DASPVMCsP73Gd39L4UpFLQCvFB8JC78DVQYvRK",
+      "name": "Rice Coin",
+      "symbol": "RICE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/66dwhqrokn4h26933mj56wslcfcp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

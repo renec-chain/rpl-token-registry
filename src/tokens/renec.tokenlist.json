@@ -21712,6 +21712,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2p4XaivkBCbeBa4ewGe4uC2LKpoPztGmxpznp8ZCBfXJ",
+      "name": "Hoa Hong Trieu Do ",
+      "symbol": "HHTD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rd9exk6gif250igf8spj68n8zbqb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

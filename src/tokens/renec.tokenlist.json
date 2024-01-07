@@ -21660,6 +21660,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Enupcr7gw4XHhZnd4ZCpP3CvMYxEaEjMNQ4bCDVmioB",
+      "name": "Coconut Coin",
+      "symbol": "CNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wgff3rl5pt0axi1jo95ou208wlr5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

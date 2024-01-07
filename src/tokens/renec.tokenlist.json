@@ -21777,6 +21777,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GiGEW9EBrQ3PckhEdPAqHgxkis6evPk1TUGio2ptfNEN",
+      "name": "ONE Coin",
+      "symbol": "ONEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yl7ls4l4w7obi5tbc6mzdgh1bx46",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21621,6 +21621,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AJvUpaD1H4BzuDj8R8ZVZJXzjvWMQbh9bM3kpfngu6qb",
+      "name": "fb0985046190",
+      "symbol": "00000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/of9ch6v2nbc36euwl4wl9xjafgqy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

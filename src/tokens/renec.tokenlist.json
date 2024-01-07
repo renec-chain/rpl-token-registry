@@ -21647,6 +21647,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EPZwLd6LjkqwgGLCLE87Gw6TkHeRLmTGAW6HvTrRC48K",
+      "name": "Coffee Bean Coin",
+      "symbol": "CBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g6pzqemi5ouxt3d1uyigljr9ubjq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

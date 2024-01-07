@@ -21764,6 +21764,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "81WHpuWSdAsBtF84AE92NaYxFNdYtiFpUgdG6YZx5mwx",
+      "name": "BITCOINF",
+      "symbol": "BTCF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/547wrt0t7444iot7uikte1ewfvoa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

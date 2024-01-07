@@ -21751,6 +21751,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5ASukzktQwa5ptoeRKoHssf7VYEj87ihVcaUqzKQrYVU",
+      "name": "Coin5000 ",
+      "symbol": "C5000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yekqkk2vzmyjlxqritn251jhikz7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

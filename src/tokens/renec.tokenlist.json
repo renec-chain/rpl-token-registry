@@ -21790,6 +21790,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9huNcUF39hvQTbEjC6weT2fGdp5eXEA17owKY5WyTupG",
+      "name": "Hubvel Coin",
+      "symbol": "HVL",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x9a9tnsoow0vrv8qc3donqacjlht",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

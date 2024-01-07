@@ -21725,6 +21725,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GkpYV4hvZhZ1rvjZWxrby1wZ9AYN1ekrJRFSmiQtoAzz",
+      "name": "heavenly dragon",
+      "symbol": "HDRG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qfrqt52fxnanwtgrniabqvok5fim",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21699,6 +21699,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3dbjW9JEa6QtsjMLP35ySE7stAdW5f8Ca8K3iNwKriT2",
+      "name": "Blockchain USD",
+      "symbol": "USDB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r7hn0hmzxr8r8hw7w1eswdfu8sch",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

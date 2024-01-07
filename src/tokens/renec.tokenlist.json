@@ -21634,6 +21634,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HgwX7h4MJZAxhnvfuj7LEfaPPKNPmeqXDQC7ND22kdqA",
+      "name": "ReLGT",
+      "symbol": "50000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6zw097c6lnxnsol76wrmmn5jxrv2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

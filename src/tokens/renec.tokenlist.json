@@ -21803,6 +21803,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5EBbWVshtuydcKSnD1HpzX3u8RrNpTf4j1VPBUFjsg3Z",
+      "name": "Bitcoin Black",
+      "symbol": "BTB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/20vum5liodhrq9tf6yxq2akkjol1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21738,6 +21738,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CejNSkm16rb5Vm6LJzVa4TrnB7uePBqkCVY4aUsb6KcU",
+      "name": "EcoDollar ",
+      "symbol": "USDe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0utwr0tig9eplfm3lp7kpugxulbr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

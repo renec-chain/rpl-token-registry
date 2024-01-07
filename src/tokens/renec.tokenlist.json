@@ -21686,6 +21686,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4wKjqnWs2Fg5AZuawqUMVpJavjybcJ41UcoRF2iBWLxx",
+      "name": "Islamic coin maxis",
+      "symbol": "IslmM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q3leje83ph7km9xityfce1p0j00x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

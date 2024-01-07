@@ -21608,6 +21608,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HSYNkz95iSJiFWaDrGMwq4e6Wtb7Ptvqv7ZntmDiBxYu",
+      "name": "0985046190",
+      "symbol": "00000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fxva3kwm7u3yendntsk9suvryer5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

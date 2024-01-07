@@ -21816,6 +21816,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9rQodJ3pifQT6PgkrF5GNJSMcErEf27UgfnNTDp65ZQ",
+      "name": "OVER PROTOCOL ",
+      "symbol": "OVER",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gff9fo3uq7xkju4i5iksy5s4fn81",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

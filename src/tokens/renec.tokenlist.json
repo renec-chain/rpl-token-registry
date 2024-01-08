@@ -21855,6 +21855,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "94EQ55nTXxbUXnzUsH6PMfQ78B7Lfy5LA8vFRrt7zHGv",
+      "name": "LUNC",
+      "symbol": "IUNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h2hcy9vlc8bgxak83ml79qzs26g9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

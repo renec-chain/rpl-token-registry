@@ -21881,6 +21881,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EfgizuxJkoLmpLU5AdsE1D3VK1XapBoWBrfQEBSSdKn",
+      "name": "mrmuong",
+      "symbol": "vnmax",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mmrlv110mrpcgty4m0b97lj1l51z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21894,6 +21894,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EA6xG6Mv45X5bDQNnqyG2VNf6WNtCdy5gMBc91APP1ad",
+      "name": "Mobile Phone",
+      "symbol": "MP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pjs3mibwdcknlkdybyiwy1x496j2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

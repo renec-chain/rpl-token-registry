@@ -21842,6 +21842,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Aw1ThbLho8ykiyMmkaxetz3EU49MSaifjZZxEaGBJLLh",
+      "name": "Banana Coin",
+      "symbol": "BNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cn4qrb9srwznflzrqjku9gathras",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

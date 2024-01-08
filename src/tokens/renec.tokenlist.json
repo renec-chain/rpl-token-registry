@@ -21829,6 +21829,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GP8A9xtdgte4RaaraaAXMkRFMvkGwuVM5KnXTPAWbvm7",
+      "name": "NDP",
+      "symbol": "NDP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xkd8gpzrhnwh7qhlqwo890cy3nda",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

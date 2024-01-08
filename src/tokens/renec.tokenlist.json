@@ -21868,6 +21868,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7cb7Wtpt7x3VWAajfaHzwTPpKicD7hycVmszpManiutB",
+      "name": "ETHW",
+      "symbol": "ETHWn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wiutkt33xhubxgbp5jbuwt012r9m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21920,6 +21920,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FPsL9DAvCWVeN6TzqedxMKnPqxe1h3seJCvCcc29RDUL",
+      "name": "Kien Lam Fram",
+      "symbol": "KLF",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/etgh55urxdbut0g82z273mr1x895",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

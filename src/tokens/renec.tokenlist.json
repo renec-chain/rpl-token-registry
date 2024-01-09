@@ -21933,6 +21933,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HKwQ8HVYEpdtZhXZS4r1cpSLGQTZx98rfDYLczDtym7M",
+      "name": "1997 TOKEN GROUP",
+      "symbol": "97T",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1foyb4feln0w05bqu8jfmrun38xz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -20883,19 +20883,6 @@
     },
     {
       "chainId": 101,
-      "address": "Gs2qSh5MsLnz4CQuDq3EtXD4symqVT8U3FgggAVxxkdH",
-      "name": "GAST (Test)",
-      "symbol": "GAST (Test)",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o7e0tgv1x1ohdfkxxn8jquj8aqec",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "PropFgvBGaenqaNU8SXRwJUKCixpebRkdNYXbVV5faA",
       "name": "PROP (Test)",
       "symbol": "PROP (Test)",

@@ -21907,6 +21907,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4rarU524iP1QrRRvSzHH36Jeg8wz5aW462EAXAdUR6an",
+      "name": "remi",
+      "symbol": "Roc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cb2vkoa9oiddwu3hpbwsfmfvm1ti",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

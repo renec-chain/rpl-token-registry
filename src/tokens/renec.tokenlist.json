@@ -21933,6 +21933,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G3TPkCLVzBWcn5Fsg8ufUPKiAcmFVRbbuviGUJBZkW4N",
+      "name": "Ninja GO",
+      "symbol": "NJG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w63yw0u5btyhd1rsdc634nxzhw5c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

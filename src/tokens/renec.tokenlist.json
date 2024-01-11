@@ -21972,6 +21972,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "J6T8B8NRXUXV74upN6AabBmCsLXeaTaZsF2DKdEpCJYz",
+      "name": "Teemo",
+      "symbol": "TEEMO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2stpwaxbyggdqxzjw3vkcdplxcat",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

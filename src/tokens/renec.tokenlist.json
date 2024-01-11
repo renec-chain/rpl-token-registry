@@ -21946,6 +21946,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8RLC2AD4LbwZqTyrPCA3XxM9m1Hqo4fSNrbnLeSE882T",
+      "name": "Johnnystar coin",
+      "symbol": "Jhnys",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s2p9gzz9y3t20bf8uksdxkwcf55g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -21959,6 +21959,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DMByZqokPmjCe6cDYQS4J95hDziZKZsoMLSwKAjrf4NF",
+      "name": "Hwei",
+      "symbol": "HWEI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0hzriox2wx025w0hpgb6bss7s7q5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

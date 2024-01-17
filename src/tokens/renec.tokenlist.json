@@ -22141,6 +22141,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HbofcGtPeMnVYBqHs5X75xdj1jn67xWJr2TweBJwFDGe",
+      "name": "Phoenix ",
+      "symbol": "PNX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5uvafye1bqd9l26dnzm7w995iogc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

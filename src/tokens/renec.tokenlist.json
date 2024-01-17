@@ -22232,6 +22232,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G5DmLGVs4PbCK21VAPg9rjmsWzpgvjm71B3Bgtid5VBf",
+      "name": "Dragon",
+      "symbol": "DRA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d6lugwzm1tucc62oes4k60c1p3s7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

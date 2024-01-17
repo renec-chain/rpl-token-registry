@@ -22024,6 +22024,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6LSKwgsyZRkxpWtfyGQzfiKnvmEBYFQkskq1PSunWGi7",
+      "name": "Sindi",
+      "symbol": "ZA123",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9tjwc2se1ite9f1ffxlki1yuqw23",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

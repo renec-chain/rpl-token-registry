@@ -21985,6 +21985,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bmjcod7jTPmSBUuBPyijMYN1NdvoxrGh6Rhmi3woeW9W",
+      "name": "RIDDICK",
+      "symbol": "RID",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hvc4ebtkqtzr08xmzcme31tgpwl8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

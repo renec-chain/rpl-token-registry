@@ -22167,6 +22167,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Fas6hfRqUPwfemYapjc4XExuL1jLGjeHAymYKBiEEhCy",
+      "name": "Interstellar Space Vehicles",
+      "symbol": "ISV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hkecjexp17ouyqcsx44gquwp5wpr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

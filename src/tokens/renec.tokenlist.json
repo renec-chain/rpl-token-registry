@@ -22115,6 +22115,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "98fGHL4BZ1tuNAcYDJ73iu453MMusBzemXX1BS4jUWVd",
+      "name": "Bitcoin ETF ",
+      "symbol": "BETF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0g1bmi6t4crnv974b4x6f8lm694a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22193,6 +22193,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AB5FCWT1xpSvka1prABmXDUHadxBaLTrAqT8Mkk275Ke",
+      "name": "B",
+      "symbol": "ESE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hd52b9fwml8633k2rkg5q9b2e56t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

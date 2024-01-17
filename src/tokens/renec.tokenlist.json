@@ -22258,6 +22258,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FPoW83HimYrTP7drKLwwUFEaz7C1FJZFmK74GbqXjiyc",
+      "name": "Bunne",
+      "symbol": "BNE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/drbtoy7547m1txpa9rgmbrk0bamq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

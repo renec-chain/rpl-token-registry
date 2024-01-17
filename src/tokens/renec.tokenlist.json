@@ -21998,6 +21998,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HJjhPv2EPQDibthWiVtUjrHfxcsFYy3krwficc8YTxhB",
+      "name": "GUpsrLZwQxGpJAqMV1qxz7sSztysuKg8itm95NRt6Zdr",
+      "symbol": "RFRFI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6wnowt3f9m60ltezinj1k9aswt79",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

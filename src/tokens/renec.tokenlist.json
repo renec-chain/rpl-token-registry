@@ -22128,6 +22128,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4Tf4ECUYuUg56S3JRfurjyhHTSxVNkbYDGKXRaRaMvno",
+      "name": "Gold ",
+      "symbol": "GLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c5fccg2grwhggf76esh0rerllrke",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

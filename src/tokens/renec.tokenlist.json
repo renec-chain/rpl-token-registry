@@ -22102,6 +22102,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3CyG57ECpFivN1Rk5YottSEQsujkk4FnZzScUx3A6KDV",
+      "name": "Phone",
+      "symbol": "21323",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6gcw1k3gkbswz3jesuthkkcalpn1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

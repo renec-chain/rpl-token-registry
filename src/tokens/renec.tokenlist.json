@@ -22219,6 +22219,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "44sEmDpsLRkGcjztReWiCo2PQHGpsmVqRE4pp5TqB3f5",
+      "name": "Universe ",
+      "symbol": "UNV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2wae0du85gpis59vtmshkydmjl6z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

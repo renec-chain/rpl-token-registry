@@ -22076,6 +22076,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7jWxs2ciacVMDqgo8MaTHvPhmEjwrXi9ayMjpuaKuTX2",
+      "name": "PD",
+      "symbol": "DPD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/28t85cqypx3g1qgih19qc7w9kcuw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

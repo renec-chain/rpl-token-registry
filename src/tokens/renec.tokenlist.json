@@ -22180,6 +22180,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Wz794cJBnmMQR5Bu8aiuWpMQBR7L93zqKuTuV1ciWnw",
+      "name": "FREELANCER TOKEN",
+      "symbol": "FT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/misgg5s1ahk6xs1h1yh37kx24a5s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

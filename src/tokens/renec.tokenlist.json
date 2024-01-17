@@ -22154,6 +22154,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3xkrPhcxmtQzPGVHtcSbTQZtCEtRqW1TH7ayG8Fh5WL3",
+      "name": "RENECTOHUNDREDDOLLARS",
+      "symbol": "RTHDS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/prqocrkaa7sb0ivhxy4r4b24hne9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

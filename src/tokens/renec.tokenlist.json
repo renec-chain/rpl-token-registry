@@ -22050,6 +22050,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2bKGN4u4WadSws8hPhc6FyJMkmEdVoHDMwJMpEYGp8gi",
+      "name": "RENECn",
+      "symbol": "RENn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mk9yoj02gz988sc6srg2xza3c5ta",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

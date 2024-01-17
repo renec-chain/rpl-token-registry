@@ -22271,6 +22271,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EhzqCP4AEu12wAyizb8f9KJdpwx2fetDXspuia4F9cbb",
+      "name": "CD",
+      "symbol": "Cashd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rah20ekowue6a5vk516y4p8i2j07",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

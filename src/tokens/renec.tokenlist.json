@@ -22206,6 +22206,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3UQBypMVv9FfPJRPG2FmsZwo5sYfsGr92fqMaQWaVde2",
+      "name": "Festclass Coin",
+      "symbol": "FCL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0hau878o1pv45r5r1tkfchwuu6tb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

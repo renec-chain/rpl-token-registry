@@ -22297,6 +22297,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3nMfqamCDFryhDpvZ8R8ekRxA551f92ERYY86NMR4wVF",
+      "name": "Cyber",
+      "symbol": "CBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jupxtriufmxo022w3p2kvjmsxt6i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

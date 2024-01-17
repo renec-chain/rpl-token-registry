@@ -22089,6 +22089,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "892PUUXWfzm5vrepqmVvLZCGjA88WxHtffiAVRJUwj7F",
+      "name": "Ntsikzacoin ",
+      "symbol": "NSKZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c4hihclt7u22bacsopg84gl4bq1m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

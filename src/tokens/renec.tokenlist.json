@@ -22245,6 +22245,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EoXFfyCze5muabY1w4wP4whKqgathieQJiHzrL5cupus",
+      "name": "RENc fun",
+      "symbol": "Rf",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/itdoya2iwk724jgsmhsr2ug0yvdn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22284,6 +22284,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D3Fib1ourR3pWBdGDwetHA14u2LzLjab3QPoU2fPZ5Aj",
+      "name": "Xtsysm Network Coin",
+      "symbol": "XNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cd5za3jxily4tbpjh4de0b5unsmr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22063,6 +22063,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Hpp6kWnxWshqZvQt5k9jTBPaphUpVZihAgM63eUN5eE",
+      "name": "Bwaseh daiyabu",
+      "symbol": "Bwase",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/67wtakrsp3ilconpj6f6hbjzkigq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

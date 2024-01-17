@@ -22037,6 +22037,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7cjXVWL2HabrQmqhZWsWJ1pfWJfbKNAFtbZXUFz3L24",
+      "name": "renec city test",
+      "symbol": "RCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zw8rqpld0wkw9cyf8nuewfwpr4r4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22011,6 +22011,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "F3SNQKdRojdEz8oiUQP2zjKoKqfnPSQYTyqiXzixUsoi",
+      "name": "Gentoken",
+      "symbol": "Gtn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oang86d64yvqpakkwsdrya7wbpfp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22310,6 +22310,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6ELbhF23Fw9xUP1p7HHbVz93v8nNyd6h64r9TZP32QYi",
+      "name": "Renec Shiba",
+      "symbol": "rSiba",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1shcmxcd6jgm0gcfsts5zrkonseq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

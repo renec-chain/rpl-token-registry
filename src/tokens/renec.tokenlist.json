@@ -22466,6 +22466,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B8yNe4T4UvCAxBmhQMDSy3t7zwUz4pxS4KJPUbM7ckX3",
+      "name": "UNO Token",
+      "symbol": "reUNO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/il7b3ifhk6g14h7rqnmrq2dcknzo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22349,6 +22349,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "72thZaWq2hb6aU96hdB3jEf4GWVCDDsqpfv5tEx8e1Ee",
+      "name": "Serafim",
+      "symbol": "SRM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nbr6u0v7b6bd3khpb5n6y9u4qpun",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

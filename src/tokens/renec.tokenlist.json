@@ -22388,6 +22388,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FVPPE8SQN4YYtWzRaHWAaUjCQ66tJWk8LKWXmWwQTYxe",
+      "name": "ETF Bitcoin",
+      "symbol": "ETF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ii7ptapodzn6scb6wx9muwp65xsh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

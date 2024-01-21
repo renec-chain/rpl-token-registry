@@ -22427,6 +22427,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8EpfnDASfwPxFqcvsQY2zoNgqicvudG7pdWmPWnrRLyB",
+      "name": "White Wolf",
+      "symbol": "WEWOF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1ktqpxtgp133j5vs3o1jlja7y90d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

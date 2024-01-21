@@ -22518,6 +22518,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2qNfTfavdd1c9L7SgAta78wQ2pt7AwNcAJwAv9G2DUKN",
+      "name": "Self Token",
+      "symbol": "Self",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sj3kleuk705dfxwq4o8m0hvxghhj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

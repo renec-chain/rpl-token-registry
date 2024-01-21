@@ -22414,6 +22414,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4m2rXG8uukjmJcwRNjXRA2fzP9N5gTXVL8U7y8uxXDkM",
+      "name": "DigitPay",
+      "symbol": "DGP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d3o9fdvshv6devflsowx9f3jae1l",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

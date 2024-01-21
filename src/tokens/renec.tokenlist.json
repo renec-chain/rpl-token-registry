@@ -22375,6 +22375,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8bGDhkZhBnevPYD9JmKmpYu71UBRL8yEZ7jsW6sYHGWM",
+      "name": "Gay coin",
+      "symbol": "GAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85u1chpo341atglle1rt08usoveo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

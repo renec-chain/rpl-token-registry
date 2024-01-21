@@ -22505,6 +22505,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9wwGpuqkVK4J64rZSo5zB2EbzCaihaivd12QXovj3FGy",
+      "name": "RENECIDR",
+      "symbol": "RIDR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6oz1bby34ozdqvnndmotgcs71hf9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

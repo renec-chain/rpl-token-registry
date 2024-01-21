@@ -22323,6 +22323,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7nSBSQAFJwnLyHLaaeWKVy1rfZuewxJfT8BTEkfoYkSn",
+      "name": "Newhope101foundation",
+      "symbol": "NHF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6etbbh4s9i8grhm4zpdt7t5yavqt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

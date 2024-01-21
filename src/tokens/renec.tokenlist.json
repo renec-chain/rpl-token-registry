@@ -22401,6 +22401,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BCTSZj8f1wpDVnNWNXznAiv9hVQ7G6rSeBkj7Xi41KbS",
+      "name": "RENEC KING",
+      "symbol": "RKG",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oq9tfsilqtfo7meei4sh0xc1h487",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

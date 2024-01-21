@@ -22336,6 +22336,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GsJ1o4deWPfnTgjrhQkqB7eS9cj2BvkUriW3uEmhftvb",
+      "name": "Satscoin",
+      "symbol": "SATS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1fb03fxpe37hrztz9z4d3wcpb55",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

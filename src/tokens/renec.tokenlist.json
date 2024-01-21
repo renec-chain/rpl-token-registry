@@ -22440,6 +22440,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "31vGvNKkng8wbRjtiKa2p6VxpmW8kHZfAGiwpoDqcxG2",
+      "name": "Carbon",
+      "symbol": "Carbo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gp4dtm1lr1ed81neqjeiksn8krhz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

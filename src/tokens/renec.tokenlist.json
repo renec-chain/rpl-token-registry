@@ -22479,6 +22479,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4eAFgms69w1bYpoHvGaFVUnZZK4peDLdrPr9K4qaeNEQ",
+      "name": "Pangsapuri Anggun Coin",
+      "symbol": "PACN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bs1a4hp7n9y0no24rymtxsprwpw8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

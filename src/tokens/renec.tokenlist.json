@@ -22492,6 +22492,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "84V93C4eRqvdH8kYaNqkkXqVNoDeV1NgVJZfrneTMcyR",
+      "name": "Tondabolt coin",
+      "symbol": "TDLC",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b5t08xaey6pcsplm1kny6yni8ir0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

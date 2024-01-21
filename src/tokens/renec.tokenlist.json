@@ -22453,6 +22453,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "85QsKuL1ZUCovbCB1AFTANDcL6SFSRi4MxhYznH5rL76",
+      "name": "Sync pay Token",
+      "symbol": "SPAY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i1it9lqwd7kqnsyvltf1uass6vcm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22531,6 +22531,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AWywFFi1n2QxUi1hGj5uN68dL3CgYLGHVKxN6FDkEh3f",
+      "name": "NotCoin",
+      "symbol": "NC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zjyo9z8yi1dx5nw7g3g81738knex",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

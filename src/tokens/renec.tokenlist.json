@@ -22362,6 +22362,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hm8oeCk1tL3NqHb622nLMYw1pBYKdhCHXeZvquLgjmYh",
+      "name": "Dopestuff",
+      "symbol": "Shubi",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h7ztw9ma2s4e6ykv7w4ak5m07kvv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

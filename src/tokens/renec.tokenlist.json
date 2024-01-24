@@ -22752,6 +22752,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2fCJNwbh6dq2LEHikXyEpDxkxr5BCLKB41H7gYXj9WrK",
+      "name": "CyberDoge",
+      "symbol": "CDOGE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zxeicg3dz1bj5upnvkldkmibdlzo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

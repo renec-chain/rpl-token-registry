@@ -22557,6 +22557,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ExF56V5M9UqsVjW5N163viY8h7A2z6zibGYkdYGtoBEm",
+      "name": "BUFFALO HMY",
+      "symbol": "19000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rmk9kfvdnn4h18ns12xmqxfswp98",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

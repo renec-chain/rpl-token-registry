@@ -22700,6 +22700,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H1G5MRwGZnxVM4HHFNXi2rzjgFYnPzQ5bBMrXr6NtJpw",
+      "name": "Duong USD",
+      "symbol": "DUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bp00w8sslyjl6o7c220loiynnlwd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

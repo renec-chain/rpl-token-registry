@@ -22661,6 +22661,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eyk3md21kyaYHYqVcpnLagUMYxPwdHdz6x2WU5YX9WbH",
+      "name": "Bao Huyen Coin",
+      "symbol": "BHC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/njy2whqv6mrdfv0h8gje2yh7s2v5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22596,6 +22596,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6M2iXv2dN1H5bAGVGy52em3dEqJrgy8mYeJ3oDcSniFT",
+      "name": "Savenexit",
+      "symbol": "SE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pe1nfabiuex252cj8a0ymec4j0l7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

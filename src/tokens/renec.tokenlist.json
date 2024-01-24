@@ -22713,6 +22713,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2BmJjpbUHghxgi8uycGHR41sPvk83RJx1RZfV23MhaJY",
+      "name": "Qerbi Azerbaijan ",
+      "symbol": "SMGRO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rvlp8ppinv32ydww5e23tfzj7kyj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22635,6 +22635,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eu2cNwpbdmegXDSLTaewkRUyv5qTqmurvHz64DzEDhQn",
+      "name": "SAS",
+      "symbol": "SKD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tlsc612dba3uotq4gznoggtqp9b2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

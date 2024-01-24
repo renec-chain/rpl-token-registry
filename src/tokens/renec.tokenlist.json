@@ -22609,6 +22609,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GKXTiMRGoM99ByqSuYbct4UeqM3vci85ku8sx6FVmazc",
+      "name": "Couped",
+      "symbol": "CP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a3klm4j4e8uc5i8ybgyj7v1i934p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22674,6 +22674,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AbNGZCVQrVefC1ux8bTWHZYw77XfrN4M8AzGhmTt1Qr",
+      "name": "Hong Sonia Coin",
+      "symbol": "HSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zak8rli3b1u3oz22be0ff3by6n1b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

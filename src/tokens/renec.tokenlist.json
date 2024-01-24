@@ -22570,6 +22570,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9MUMyGbkjjx5gm32Q19a5KscbDg81BqGUCdzpRGB96Vq",
+      "name": "Universal ",
+      "symbol": "UN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/guu0a1kpjji2v166rw7qmb77476m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

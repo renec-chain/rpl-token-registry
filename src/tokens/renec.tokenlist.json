@@ -22622,6 +22622,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "43MwrV5qwEEFBG1oW1yxijkbxUJ4mdhF63vLXbxg175s",
+      "name": "Bitcoin Green",
+      "symbol": "BTCG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s8598nbamrw4gbep2i88xa7bb4cp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

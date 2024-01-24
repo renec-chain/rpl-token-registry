@@ -22739,6 +22739,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CppFwYQDtJyx2UNsiwTEUCmdEutAKstRSTgCmxWV4DKg",
+      "name": "Bitcoin2",
+      "symbol": "BTA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cwqy3zvaub2pbjpqavekd3y9e46o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22687,6 +22687,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Ng7DqhZAsRGaHJTJLN5gKdLZUn4PP4BvbspaXYfZ8H2",
+      "name": "Kim Dung ",
+      "symbol": "KD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fmlb65oeopp1lvzxryewq8nx1mod",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

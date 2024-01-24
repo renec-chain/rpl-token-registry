@@ -22583,6 +22583,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2NiNQC2ts61tXWgo31zPvcwQwkBHKMqWfZU7LbxMMRCp",
+      "name": "Simda",
+      "symbol": "Smd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2hp0snvyh4db7585wpm80rjnx988",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

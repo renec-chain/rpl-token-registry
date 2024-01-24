@@ -22648,6 +22648,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CAkHxYiqxgcT4rXAFEW7VfQRcnp9Qv5WPC1pfYDU6tvi",
+      "name": "Hollyw",
+      "symbol": "owlm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/atxrd2fwoot8sfs6b3glznxxyugo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

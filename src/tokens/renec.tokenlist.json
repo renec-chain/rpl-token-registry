@@ -22726,6 +22726,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AYJ9Pi3WTK6VTFDzQpFo8YYzKutUwNMy8qmaC6nnhtSz",
+      "name": "Thu for dougyer",
+      "symbol": "TQH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0z69uknbn1osd2ale0l3q9xd5gtw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22544,6 +22544,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8gu4e6fUzjnjdmas5XUjwHjKmT2BCiT7dTYKEGD7uszd",
+      "name": "USD Green ",
+      "symbol": "USDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yxs3cxaq9i5kboqch3udpolz4a3d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

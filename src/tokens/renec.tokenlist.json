@@ -22765,6 +22765,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BiY7LzDz4SAvdGfmaUuLpZiGp1r9vaSi6o1c1TSkp7ba",
+      "name": "CUSD",
+      "symbol": "CUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xxyigcgbnbx1axarhxr9dwycoq44",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

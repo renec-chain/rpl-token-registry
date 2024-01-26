@@ -22791,6 +22791,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "aXXcu1C1WR4VdpaAUrfjJtVoYj9kB6F5jLKr9ahKyHV",
+      "name": "Athena ",
+      "symbol": "ATH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ks2ie6yqe8pmt0cj8q2uvblxnuw9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

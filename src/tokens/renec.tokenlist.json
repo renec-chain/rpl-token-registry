@@ -22778,6 +22778,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4aYdkvTepcd3vUSgbmLjk1bQJZ8T1t1uKtXQHk26ZNrk",
+      "name": "Flick fables ",
+      "symbol": "FKS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kxzin909gxj9bpqshlwzzm8ezs1x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

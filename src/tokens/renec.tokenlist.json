@@ -22804,6 +22804,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9NbMWjfHyrrUn8B6qJxMMeSMeQPMZ8FwTi9BrUHGPBLW",
+      "name": "Pi USD",
+      "symbol": "PIUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/siqq8mw02apiwz7vc2hfk8gf9h05",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22908,6 +22908,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D6ss4aMwx1Z7xfaieMsjSfr2V8Pn12B61Ne95yZN2ZxB",
+      "name": "reok",
+      "symbol": "reme",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a05h8pwc0o2x1xq57x1auwrusxg8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

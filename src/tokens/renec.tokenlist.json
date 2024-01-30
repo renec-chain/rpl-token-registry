@@ -22843,6 +22843,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4h1YKhrHRaBnXtB2WHkHhG11jiXZxgmijqFHxfszVEAu",
+      "name": "   Black White",
+      "symbol": "BNW",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mt03i83iv6qpnbfb8diwufca7uw5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

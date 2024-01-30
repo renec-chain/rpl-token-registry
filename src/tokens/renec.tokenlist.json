@@ -22934,6 +22934,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Jjt7K5zcV7NyT1sDGbzCEeSuhQfBvjTF8FQ5Vwzjj8s",
+      "name": "MemmeCat",
+      "symbol": "MCT",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g0k7iluugxrkqp86bmlcllvum3ov",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

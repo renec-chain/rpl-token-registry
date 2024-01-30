@@ -22856,6 +22856,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sgW1BUkrYjMavrim7aVB8THxet5sZs1FxQyzPNA5v1a",
+      "name": "Stellar Network",
+      "symbol": "STN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g8vwh9com7v7yyljy78wcoyi13vj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

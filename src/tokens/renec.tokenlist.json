@@ -22869,6 +22869,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BbH3G9ZaLeVZTauSdW9gyPsKkoW1hKXn8sEHYBYX3Eia",
+      "name": "Nemo",
+      "symbol": "NMW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a1f8s9jws71su0gewuphshighxcw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

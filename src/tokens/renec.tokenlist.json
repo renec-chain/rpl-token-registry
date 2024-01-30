@@ -22973,6 +22973,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7j9zskvJnToWdR6VxsyoVYqEEpLgf1pksBJKfPFJh7wB",
+      "name": "Code",
+      "symbol": "27126",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/43z6f9lz83ep10ep1ervx81fn2np",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

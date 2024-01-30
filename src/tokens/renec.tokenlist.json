@@ -22830,6 +22830,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "p5VkYcYHACYxnEpkT8zLBDrkz6dD47WjyvNrZN4Hcd1",
+      "name": "TeraHash",
+      "symbol": "THS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0fbtid9k58sv5fg0l6r56xc9j0lp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

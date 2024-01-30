@@ -22882,6 +22882,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2kpyMJ22DSfe7P8frNpXNvYHFtvLX2rtk2dGKwzgas1g",
+      "name": "AFRICART GEM",
+      "symbol": "ACGEM",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u60uiehuc6l5jwkc0zau9zehciye",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

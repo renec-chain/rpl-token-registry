@@ -22817,6 +22817,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "T4GN9AuqGmK1gabk8NaswWC1qbAKeo4hTjiagESfW1z",
+      "name": "Dodned",
+      "symbol": "DD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8wq2ad9ufbjcrjtqe1neu3ms8qub",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -22895,6 +22895,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Qd53H4YH6kKwnxdLweVT7xqyHjPsHE16gqSTq1JPtTn",
+      "name": "HANDY",
+      "symbol": "HANDY",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/njozagsszhkd48vctasum6ueeuke",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

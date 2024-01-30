@@ -22921,6 +22921,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3VtWYPYQaoxSpxnuW87Fza9uixzS5aqGSiDxHP49WQzD",
+      "name": "AGAGK",
+      "symbol": "AGAKA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2qmxpkkmz00g2ct9rwhfvhs93fd8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

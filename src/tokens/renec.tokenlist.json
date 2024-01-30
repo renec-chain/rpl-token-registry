@@ -22947,6 +22947,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6DSjVFpsfwmXfxGffUNNctYrBZachnyiKCaEL7YG5aKT",
+      "name": "4yc844ZAtt3n3Dg5iyv1qf2RVmwGRUbn34aLuEyueRpK",
+      "symbol": "Huyma",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lf7eoaqlxzfkxe4ez1hm9u8gl3p6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

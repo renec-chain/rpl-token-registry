@@ -22960,6 +22960,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ffe6TxchKq4rPrgZUgZhLLXmFyZtErkJ5S8tQRqWEuPr",
+      "name": "huymai",
+      "symbol": "27121",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wf1g5jb1f3ev75mbl86tj81t640f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

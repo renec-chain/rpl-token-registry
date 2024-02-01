@@ -22986,6 +22986,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FqxH5UBkYseP8xok9BFCk8j3ZUY71GqwpAWTQqiJg4Xz",
+      "name": "Atoshi",
+      "symbol": "ATOS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wpco3jwp9qwxktqux3o77bbd410g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

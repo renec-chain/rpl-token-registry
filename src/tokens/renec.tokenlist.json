@@ -23103,6 +23103,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9t476z1Q5udX4kZPowSpEsj6XShvYdz5L8T6S8FpLN69",
+      "name": "MITTATTOO",
+      "symbol": "MIT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oslax4dygc2pivgbqzkrpqyv0uyd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23038,6 +23038,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cyqru16QxKdoXStCjRPP239p8z5bjs23EQqJVm3o5iRE",
+      "name": "Airdrop Bitcoin ",
+      "symbol": "ABTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hbcr6026tfly2e9y0y5236pu4x1j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

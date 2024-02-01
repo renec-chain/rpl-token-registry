@@ -23116,6 +23116,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4iB3ifTgGpo3Pk2m69WQhLWdTL1sN3VaAY3QaxHkErZX",
+      "name": "Renec FUTEBOL",
+      "symbol": "12131",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gfalwy5qmcqjfdm8udeogovnurw3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

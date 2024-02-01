@@ -22999,6 +22999,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GprefdTzqXUMZP3QCWYCiiVeCeGJZdQtCZ2m7ZntjzRx",
+      "name": "Renec Demon coin",
+      "symbol": "RD8",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6qj5p0hfr8yqhwi50vx4l6ooth3m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

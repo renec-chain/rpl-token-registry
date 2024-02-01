@@ -23025,6 +23025,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7qY1hpvkMzaCLpDxyUByy7wTeB6GeiTYWBoYG9hdmAfG",
+      "name": "Airdrop USD",
+      "symbol": "AUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rt7uyfl6r6l5cg1gx3oohez1jg9u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

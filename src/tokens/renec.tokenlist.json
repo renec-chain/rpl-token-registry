@@ -23051,6 +23051,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E9xEEan5sfeUHy7oP7AHjDMuZ1SbrQHtv2Cm1Q1PEGzM",
+      "name": "Airdrop ETH",
+      "symbol": "AETH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xoaq8k8s68hc1m43htzabebuh211",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

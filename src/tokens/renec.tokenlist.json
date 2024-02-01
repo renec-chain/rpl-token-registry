@@ -23155,6 +23155,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EEEb8e94ifxtDrmRUeLLgk7gYSrZyCctCUW4dcGPUujM",
+      "name": "RENECPLS",
+      "symbol": "RECP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o0gk2vhtt8le2lg6t7nqd8yf4kh7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23129,6 +23129,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B5SGu4zMjj8o6wNhuzidvgCZJULqVFDWb8GCyu8ozq1z",
+      "name": "TET 2024",
+      "symbol": "TET2024",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1asx9tl8o6artjiw91xhyjjspku3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

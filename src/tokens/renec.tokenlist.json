@@ -23142,6 +23142,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8xbBZa9DQDB2uZpCprNKyChp7RHgS4iRLtnyY1QdPEaD",
+      "name": "FROGNADO",
+      "symbol": "FNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sfghsxgs4cf4lv38wxoejvmb92vj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

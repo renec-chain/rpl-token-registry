@@ -23090,6 +23090,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EZ4wB2QSFvCC55ZWdRx9amLTpjMRG6XDxKvHXM3fhjcc",
+      "name": "DONG TIEN GOI VON  STARTUP NCH",
+      "symbol": "NCH",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jowypv0tl7x8lzy3ezy9knxj9nyq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

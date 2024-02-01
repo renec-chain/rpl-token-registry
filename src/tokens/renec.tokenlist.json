@@ -23012,6 +23012,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3n2eppD17roSMwVoLvqt5XMUFw72pBA4deSQYSywqk5c",
+      "name": "Airdrop Coin",
+      "symbol": "COINA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxlio7pf4yz6rcz9a5qa03ysxu52",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

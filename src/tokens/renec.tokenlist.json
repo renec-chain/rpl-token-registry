@@ -23181,6 +23181,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4hMpy4mECPm24MJsHowggGvdwQhkp9zP8K1tUzoRFdTB",
+      "name": "DEFISHILLER",
+      "symbol": "DEFI",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/70nl13qp0rvrve3imljskymoi364",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

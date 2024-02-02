@@ -23168,6 +23168,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cuo1vUirTVxasmcrSv3Phar79xWwqxPcJW4VyR3NwiqP",
+      "name": "BABY DRAGON",
+      "symbol": "BBD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3c1boyb07oejlcjdrs0swwmpuw79",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

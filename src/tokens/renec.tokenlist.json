@@ -23194,6 +23194,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4LaHLTBatG3cx14BRrYjMXGKVw3ckbMmpEZdW3vWpKDC",
+      "name": "weagaeg",
+      "symbol": "waegweag",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/00lltotxhttbvld9p6fjtwzm7tzc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

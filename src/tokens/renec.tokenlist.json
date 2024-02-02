@@ -23207,6 +23207,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "77EwMPGBsPe2JhgnK3dzU1x5eR2eGK3M6DCyQQJJshRm",
+      "name": "Power",
+      "symbol": "POW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/unl6zvrg8k1c4tzz92o54woglqbv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

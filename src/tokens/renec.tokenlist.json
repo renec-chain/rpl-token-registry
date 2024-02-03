@@ -23233,6 +23233,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BjGt2jenu5gzWKDLjJZVp2AGJBWLgwWDm1K6LR5NKtXv",
+      "name": "Star",
+      "symbol": "8JccbGJtoJ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fh4kend9g5p20bwm1bpjsc69xt53",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

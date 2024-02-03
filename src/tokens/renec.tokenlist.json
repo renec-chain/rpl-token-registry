@@ -23246,6 +23246,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "s2fV7mzGqVYFp9dvyZg3Rv9iKnbzKj1djM5QoAMVFsY",
+      "name": "Athe",
+      "symbol": "Athe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5gq2ukmp5thupq66satmkh835g71",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

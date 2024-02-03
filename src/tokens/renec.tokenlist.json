@@ -23272,6 +23272,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CuMhZNTVZWoCEDGoKS1sfEgANp6t1MttdsGQEkPTeF9z",
+      "name": "Vision Pro",
+      "symbol": "VP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jhvd1d4ddbeaaiysh45dgxr0m8ds",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

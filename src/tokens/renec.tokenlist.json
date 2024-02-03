@@ -23220,6 +23220,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4xyvsY2BwwxPA8UzVmn7jUB3fGzEYqoqNHBANs5nYYJJ",
+      "name": "ODOSE",
+      "symbol": "ODOSE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lgqup5z2zp5d69fxo54khvg747jm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23259,6 +23259,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Sxvno3wJQXxxknv3coYr5y6uGczJS3rNEDtyBwDB9KG",
+      "name": "GEEKLINK",
+      "symbol": "4",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iry9hfko4n2ujduklnshe5zcfvjy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23285,6 +23285,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dg17a8PH7ygfiWco6piPHKKVMEGcqPi3spUCqUe1MRWA",
+      "name": "RENcoin",
+      "symbol": "trc20",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zzxdhsoqvv2152jpd2gg3hnfo4sy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

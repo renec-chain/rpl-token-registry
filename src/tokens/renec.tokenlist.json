@@ -23324,6 +23324,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BRC4LUw3ck31GMcc2pYfC6BSsUUBN2Dj3z888aF6As94",
+      "name": "Sidra",
+      "symbol": "SIDRANIA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wuhca981rxyzffigomhftrhtk9yx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

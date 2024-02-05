@@ -23337,6 +23337,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FVpvUGh2T6rUMVWqxQaXcpPZJz3EAFhxg1ZcRZabENEh",
+      "name": "Bawaige",
+      "symbol": "TOKEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1h0u93km9h7qtsinhe3who0txm1f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23298,6 +23298,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F7p5jnc559D1XtFpRjHpFMWobb7nLPs4L6qnzHQzGQbQ",
+      "name": "ZetaChain",
+      "symbol": "ZETA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jwufyjpsoreko59ekzuej6ia04rq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

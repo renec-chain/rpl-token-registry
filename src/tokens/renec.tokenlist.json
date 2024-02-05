@@ -23311,6 +23311,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5eedgt7csqf9TxUh1DUmu7o4rQuN5XoLDjeFFU7UjNH",
+      "name": "SPORT",
+      "symbol": "SPORT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ck5y6gf23w6qv64matfg8h7pbi4k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

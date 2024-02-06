@@ -23363,6 +23363,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4La9j2aeJmWYvbJbEJcrHq7mCCeL4NafQanpTwen2azy",
+      "name": "BNBS",
+      "symbol": "BNBS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/26d9wstyijgcyu60nnfv91g7lw8e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

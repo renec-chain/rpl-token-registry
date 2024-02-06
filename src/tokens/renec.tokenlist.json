@@ -23350,6 +23350,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FtnuMU9UaKonJPzUmc5pkJgZiLQmStPTzUnZiengm7Yy",
+      "name": "SUSD ",
+      "symbol": "SUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/waollmthv5bq9sh22wau4gvnaeha",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

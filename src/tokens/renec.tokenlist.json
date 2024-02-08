@@ -23415,6 +23415,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5b1xgRUEC1V61LFHmuMLnWcU8nxqGygVgJhcWLt2occV",
+      "name": "renatino",
+      "symbol": "Web3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/id45hjgkwlwrsj9p0ye2hjhzxtvf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

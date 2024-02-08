@@ -23389,6 +23389,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EPmUHqppEa7tXc33ryKTbZaTypqxiVrxyiEWK6khqT7v",
+      "name": "MnF",
+      "symbol": "FnM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wccij3nuk5h9nremnyynrzfb5r8x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

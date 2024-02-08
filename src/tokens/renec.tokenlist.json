@@ -23376,6 +23376,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FZeMVkeYZtjSjZ9pmjFP9mGEPC1NPeo84NyVq4NTx5p5",
+      "name": "Danbaiwa",
+      "symbol": "DBW",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hicad1775jo2e23tr2p8o1zav39b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

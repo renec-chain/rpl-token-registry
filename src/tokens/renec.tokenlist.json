@@ -23428,6 +23428,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CFHy4y4gtQJ6D8qCDrc5VWZ5yvkt6vGXoAsE9UBySYz8",
+      "name": "Point Token",
+      "symbol": "PITK",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fs95zxpqxm73p00awgl6lus91zb8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

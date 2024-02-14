@@ -23506,6 +23506,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AGBBqnbvU5AcLsE2iZaFasa5eTJUpB4BpbVMsF7FBdJo",
+      "name": "TOK",
+      "symbol": "TOKI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/73qhl53naacw2yq8teuhkvihsw35",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

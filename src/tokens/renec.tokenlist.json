@@ -23597,6 +23597,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AKJBpQwN24Y8WgZZqtkUSfBHaTktk4vDE7NeUoFT2L3S",
+      "name": "USD Gold Coin",
+      "symbol": "USDGC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8i3ibbeawbb47otw4thgv2ebztbs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

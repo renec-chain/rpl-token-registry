@@ -23649,6 +23649,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "bqjKx4QuC57Ag7a5AtmdNP5sjEQRsNxz8KY8pMJEacp",
+      "name": "ETHS",
+      "symbol": "ETHS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pjf901mkk39gb8swtwg0w5o0k59g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

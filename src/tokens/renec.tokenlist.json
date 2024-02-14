@@ -23519,6 +23519,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BfaZ5Rnrs5fLsrNbotWY4XAWdua8KbAkLXVknFTf7x54",
+      "name": "WORLD FRIENDSHIP CASH",
+      "symbol": "WFCA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1h30ushkmoxa4jsyqvga4h01ozlv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

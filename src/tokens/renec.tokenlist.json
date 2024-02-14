@@ -23480,6 +23480,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GA5aYSXgiKH98xainDLcYae8F8SKmHd3yYU71bTAymrq",
+      "name": "Yuuh",
+      "symbol": "ggghj",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eynyj4du864grabk5t465i9sgdbh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

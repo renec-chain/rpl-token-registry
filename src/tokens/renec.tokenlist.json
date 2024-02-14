@@ -23623,6 +23623,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4C9UGL1og7a41Ao11aW9ERFAVPivHWBHNJu8sioGkQjQ",
+      "name": "Bytecoin",
+      "symbol": "BEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/acue4pgq6y880u8brf9gcvtwqdth",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

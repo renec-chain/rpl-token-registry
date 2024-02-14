@@ -23545,6 +23545,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "57aqHwUTWkNxxnZDchrrgi1K7d8qDs1pC77CSrTH5nxp",
+      "name": "Vietnamese Dong",
+      "symbol": "VND",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tpe5q1dhq6mp22b8ag81l4tyxuw9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

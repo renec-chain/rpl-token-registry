@@ -23532,6 +23532,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GLdXn7bcKb3MqimDMzYyXShBJRW5SW4jeVnH3icw9tg5",
+      "name": "RENEC EURO ",
+      "symbol": "rEURO",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/19x8cic9a8z9jyac6ofph5jx9ej9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

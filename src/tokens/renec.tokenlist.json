@@ -23636,6 +23636,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4V4K7LpaxSAH2BVJx6NWamyBS7dUqBWaMDMgNNy1ufDF",
+      "name": "BitcoinS",
+      "symbol": "BTCS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5j9g4vqa3bnprhdvfxb44h2no7n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

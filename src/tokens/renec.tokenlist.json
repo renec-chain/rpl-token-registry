@@ -23571,6 +23571,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EtyEAnH7krf669V3RuReZuSSFS1tTQh5HqUtxYR8Cxp2",
+      "name": "Big Monster Truck",
+      "symbol": "BMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/csj12b6uzdgpu9pzj0ed64zc0233",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

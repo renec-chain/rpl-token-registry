@@ -23584,6 +23584,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "75JshfT4hyh8moaoiBj639WTZfuGWsHLneFGHeUWWoKp",
+      "name": "BIG BOSS TOKEN",
+      "symbol": "BBTS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l0kf3wvdrkqls30sa3g1n5qatii3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

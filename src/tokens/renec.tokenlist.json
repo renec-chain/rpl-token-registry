@@ -23467,6 +23467,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7LP9NZ5hGyQxMAGbQwgT6JgE5VsiWkc33Cnx9fvnSa3h",
+      "name": "Elefina",
+      "symbol": "ELEF",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1ckz1qpn6m1cgqme9e954v7xo75",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

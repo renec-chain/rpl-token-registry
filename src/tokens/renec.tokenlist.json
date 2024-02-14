@@ -23493,6 +23493,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DPrU2ibsQCF8H5uhr9F5gKoVFeWCfmqhECWq9YPYaXpA",
+      "name": "ELOST",
+      "symbol": "0227sg62is",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z5u6b7u1viovonsggm5r4ma7uqb8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

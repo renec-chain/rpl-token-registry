@@ -23610,6 +23610,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C8jGwgzyavKq4fiFX4GnTfFu6Zcg4xEHmgBMRczGJxiX",
+      "name": "JOY JUNCTION",
+      "symbol": "JON",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cmxlu45awcr5lxrxc1ex8m9jn1iy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

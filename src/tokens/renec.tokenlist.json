@@ -23441,6 +23441,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FJ2fjibCxfXCqcbSWt7wioQbeUF21tnkpKgparw2eobp",
+      "name": "Token",
+      "symbol": "Recne",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j75p7krxio1bz6gn3019qplcvxpp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

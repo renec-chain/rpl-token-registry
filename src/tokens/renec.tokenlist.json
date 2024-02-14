@@ -23558,6 +23558,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3L6FVpcuLAtsquS4nVWxEGea2utaB8KKM59friUCWvGn",
+      "name": "Goshen",
+      "symbol": "Gosh",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dmy12j048n9t0slbk04d980ae1gg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

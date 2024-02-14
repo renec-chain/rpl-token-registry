@@ -23454,6 +23454,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BvFd3SCKHzEq6UVNXK1HctuRaeq5bu5xR9egiKGexsBw",
+      "name": "Wolfina",
+      "symbol": "WFA",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/op0tof5lic46r467u5an7cgkftnx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

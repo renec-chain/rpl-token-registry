@@ -23662,6 +23662,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "332w4o5wGdK753C6JzYG58tKBLfszSYakA5hEat82vtD",
+      "name": "Taiwotiken",
+      "symbol": "Tken",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r2nlbzutihgzd5cfnp7ickvzwncg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

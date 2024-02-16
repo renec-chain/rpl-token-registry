@@ -23701,6 +23701,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5VaY7o9Lyadri9Fn8vTBzpnc92QsCUNAUFAKw92k9EDD",
+      "name": "SUN",
+      "symbol": "SUN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/weewnnw5lmm2u7f1j9jsat2pgcnn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

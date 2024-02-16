@@ -23675,6 +23675,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GQ9Q1vuMmJPzQt232f5G1jjdNFG1yMx7sXBGbKRDHEjj",
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/buuo95nflm2ou0rliv0jbnm8i2r3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

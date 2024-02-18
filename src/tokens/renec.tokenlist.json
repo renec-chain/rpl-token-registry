@@ -23857,6 +23857,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FYgLh8RXg88FvEpqgLJVJNveE2oSApyf1cVzBiRmvJkR",
+      "name": "Punk Vault NFTX",
+      "symbol": "PUNK",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o7whcumbzug86rujcbdnk6w3zcfa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

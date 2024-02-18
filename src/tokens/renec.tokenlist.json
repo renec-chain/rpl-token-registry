@@ -23753,6 +23753,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GH259eoFJQJ46KLz8N5HN3vSeLQfnEHmgzFhUHPHAMqD",
+      "name": "BLACK FASHION ",
+      "symbol": "BFash",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jiokmwviau4jqxa27h61ewwz5if1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

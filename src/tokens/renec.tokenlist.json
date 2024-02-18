@@ -23844,6 +23844,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8DU5ue3D6i6ffBevz2DsJnnYA2EYT1bhxHETb9pWJWXN",
+      "name": "Grace Token",
+      "symbol": "GR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cyztnma6bl8nheui3n0dxkdmubix",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

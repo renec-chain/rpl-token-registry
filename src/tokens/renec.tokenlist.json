@@ -23691,19 +23691,6 @@
     },
     {
       "chainId": 101,
-      "address": "4Bx7rVaEVTA8fwNR45ycY7QTwZAvVG4zrF7Hwdc2SPs3",
-      "name": "JUST Stablecoin",
-      "symbol": "USDJ",
-      "decimals": 0,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/91dgh3rq78uiz6xx21i0oj0bs58s",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "5VaY7o9Lyadri9Fn8vTBzpnc92QsCUNAUFAKw92k9EDD",
       "name": "SUN",
       "symbol": "SUN",

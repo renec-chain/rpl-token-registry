@@ -23831,6 +23831,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "qaj8qyTmVZt5f3eC9bGEzXHEcgVwAM8o8KVvxmKX9H2",
+      "name": "Relax coin",
+      "symbol": "RELAX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mpkhl6j0qifp1124hki3si06kt5w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23766,6 +23766,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AFM7msNHEcx9sy4KgzkUb42VUZVk8n3BbYck5iCkDeFE",
+      "name": "USD1",
+      "symbol": "USDT1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5pts31uwfi6i2l43z2t0d6lrg4t3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

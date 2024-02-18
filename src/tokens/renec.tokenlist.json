@@ -23779,6 +23779,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "39jhocn8droJ1LhDnvaK29qH82sAEy2R1oSQW3Ae433g",
+      "name": "KAZUKI",
+      "symbol": "ZUKI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3mcepnptlt95qzcgagzvgxd3luyz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

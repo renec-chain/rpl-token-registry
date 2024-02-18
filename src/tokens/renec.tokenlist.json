@@ -23727,6 +23727,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9aNeMSFwsC2zSKyGSnJ56mHjtLwc1dqhLj7tZYgoXi6C",
+      "name": "Mixin",
+      "symbol": "XIN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lrx0fd04elx314dia50434eo0wx3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

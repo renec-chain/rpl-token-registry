@@ -23857,6 +23857,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6KRkxADuTJzVyMd1eJZpLw9LU9HkNbkAnfNmyiWd435e",
+      "name": "Bebus",
+      "symbol": "BEBUS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ijj1u8wu8e99nj9lz5h6wqqenv7h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

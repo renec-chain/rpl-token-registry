@@ -23792,6 +23792,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2r7meggKKT5kKaMQR8q4hj9XKKGQowjUvwKbDEvEG15i",
+      "name": "Viet Nam travel voucher",
+      "symbol": "VNTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z4duct6ujgssvzew0f5bvu65i4yt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

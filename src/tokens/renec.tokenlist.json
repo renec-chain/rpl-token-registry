@@ -23818,6 +23818,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J6gwjFrjj8A1Bju9cZK93BLcRG8i82a1EsiyK7pt6UPr",
+      "name": "Vista",
+      "symbol": "VSA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hfcultrl9olkr3vc9kxbxmcp9cjb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

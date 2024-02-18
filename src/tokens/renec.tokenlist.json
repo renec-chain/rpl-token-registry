@@ -23805,6 +23805,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F4cUu1HuN93Nrs3MkrA8gzVFEXWLZnk2hqNvQRj1UTjX",
+      "name": "friend with benefits",
+      "symbol": "FWB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ztyu4kxrxk1y4d7tcuftfoheb6qd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

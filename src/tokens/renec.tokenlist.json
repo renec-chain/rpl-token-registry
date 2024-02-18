@@ -23740,6 +23740,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HN33AMNA4Vdu3abzETD2n2HSZv15geyHB1e7djmh5aGZ",
+      "name": "Sweet token ",
+      "symbol": "SWT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wnlbz1l88634djnt8dnco342l2c1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

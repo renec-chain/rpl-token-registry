@@ -23714,6 +23714,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5GWpc22pXywi41y4s4xsx49Yw3JKmqD51r9y9yrGHvr8",
+      "name": "Redacted",
+      "symbol": "BTRFLY",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iwc8ys9tnzdpkyndco3e0jt9sxeu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

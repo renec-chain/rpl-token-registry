@@ -23870,6 +23870,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8b5WXY6G6R2bsJwkQ4cf4TQdg6WemLCzgy4jbZhSr3Zk",
+      "name": "Bullcoin",
+      "symbol": "BU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iagtwurs9k9jqpjjt17v0wd5kllx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

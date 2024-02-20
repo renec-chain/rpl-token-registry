@@ -23883,6 +23883,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BJ9W7AtMibkqf7twzNN8TfofHu9QtqR6Cieq35YXnBYj",
+      "name": "Hong Kong Dollar",
+      "symbol": "HKD",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ejac38ilou4wm299xk778yhw4vwb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23922,6 +23922,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hyi5WqdNNuxEUBJ8ZMYpG8KQU1ZWBPz5jJPxZ1ytEexU",
+      "name": "Broken Coin",
+      "symbol": "BRKNp",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nxzxfvjkqynif8k6po7io7a3tt0g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

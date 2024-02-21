@@ -23896,6 +23896,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AFGjBseE712U8RLofdR1EzByF6rMePSwuRSTkNzGSzQR",
+      "name": "Advaltad Finance Token ",
+      "symbol": "ADVT",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bhfth12fqxmmoyzuopupmao1uq7j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

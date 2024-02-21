@@ -23909,6 +23909,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6GGpSVbyCNTyEYRaG5sDwWAfxXWb52uWSjVX9qL9nh7a",
+      "name": "mini Bitcoin",
+      "symbol": "mBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/45zhasn221h7jvnxnzpza60quepr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

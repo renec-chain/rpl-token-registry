@@ -23948,6 +23948,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DU7vDPPUDXgqsJ7fwCe35kJr2YdHL9ovAzaMt4DycNpw",
+      "name": "LightSpeed Dreams",
+      "symbol": "LSD",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1d3or7bxm96of67duwn94yml6fe7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

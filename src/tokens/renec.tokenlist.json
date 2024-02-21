@@ -23935,6 +23935,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BTb1PYVzb9FZmMnnBYiQMBjTfULCfUpehFYMMMepJYsc",
+      "name": "AZUKI",
+      "symbol": "AZUKI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bzt9ykw045kc9k02gdwdb33h333h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

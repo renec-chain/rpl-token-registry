@@ -24039,6 +24039,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Gt41ndVuvzz8GK4bkx67cqnE7bjVqq13sA2VgMCXYL8",
+      "name": "Dubic",
+      "symbol": "Dub",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/che8cgvt7o2eyzzfqefrkwde9ciq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

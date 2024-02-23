@@ -23961,6 +23961,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HthPnkJjgyrJvx8eFMv9SQMC5yD5YnnWuPhyq1f1ijBj",
+      "name": "Black Ants",
+      "symbol": "A",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7z7ytekcysz27skf5lang2bqw7yz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

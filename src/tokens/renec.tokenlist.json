@@ -23987,6 +23987,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GL1TByzqS7QDdX7U2xgFEK98iRHUtRyGB2oDuTjeka4i",
+      "name": "Travis ",
+      "symbol": "CTF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zsh8sjymnf7xsjaioaig8jiw0z4q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

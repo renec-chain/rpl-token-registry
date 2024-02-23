@@ -24026,6 +24026,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "sZbKGwEj8Wh7134ZkYtChkEFAHfLvEEEmmYvefqtQZW",
+      "name": "boombd",
+      "symbol": "boom",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yndru4xsh6q7c3jkihq76rhl4ene",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

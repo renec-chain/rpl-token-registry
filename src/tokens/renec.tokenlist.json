@@ -24000,6 +24000,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E6QtMbu1Um7QosuZnNAtd7VMDwcYGjcmy8ukhsDc4t4q",
+      "name": "Smart choice",
+      "symbol": "SMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/el9we1gymq3do3zck682mbdc2xle",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

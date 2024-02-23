@@ -24013,6 +24013,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "qq3pPZB3CJ7vrkFDZ2xygYhDvbeXBZcNAfpVcdd5yiQ",
+      "name": "Godday1212",
+      "symbol": "Gfet4589",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p7fpzl0h9p203ke0ej47jlgj2vq4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -23974,6 +23974,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9NUDLi1uA66Qj9aPoHx7uwpDJgmkymAQh2A2t5pkj3Ny",
+      "name": "TIVE GOLD",
+      "symbol": "TVG",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xcemua87h3xfeee3nduum4v9it3f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -129,7 +129,7 @@ export class TokenListProvider {
 }
 
 export class TokenListContainer {
-  constructor(private tokenList: TokenInfo[]) { }
+  constructor(private tokenList: TokenInfo[]) {}
 
   filterByTag = (tag: string) => {
     return new TokenListContainer(

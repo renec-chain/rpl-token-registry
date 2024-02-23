@@ -22210,11 +22210,11 @@
     },
     {
       "chainId": 102,
-      "address": "2Gt41ndVuvzz8GK4bkx67cqnE7bjVqq13sA2VgMCXYL8",
+      "address": "Grv5ptxRURAWamGUqxgxiyQRQpJz7FbpXeqpEkyTbfD2",
       "name": "Cash Coin Token",
       "symbol": "CCT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/testnet/2Gt41ndVuvzz8GK4bkx67cqnE7bjVqq13sA2VgMCXYL8/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/testnet/Grv5ptxRURAWamGUqxgxiyQRQpJz7FbpXeqpEkyTbfD2/logo.png",
       "tags": [
         "utility-token"
       ],

@@ -24054,19 +24054,6 @@
       }
     },
     {
-      "chainId": 102,
-      "address": "Grv5ptxRURAWamGUqxgxiyQRQpJz7FbpXeqpEkyTbfD2",
-      "name": "Cash Coin Token",
-      "symbol": "CCT",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/testnet/Grv5ptxRURAWamGUqxgxiyQRQpJz7FbpXeqpEkyTbfD2/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
       "chainId": 101,
       "address": "2pNut93z9EZo8ffoe3kTdW3fZYek6KfW7ZVvm1omxsD7",
       "name": "LogiRide",

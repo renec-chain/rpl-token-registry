@@ -24286,6 +24286,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Hnz8yBdATzqTN63GpBCJzTQhz1Jr9KiaDLWGdgay2yNx",
+      "name": "Guaranteed Win Game",
+      "symbol": "GWG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a98vred4wjgi6mh5r57r59tzzoy1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

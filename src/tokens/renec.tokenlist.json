@@ -24273,6 +24273,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HrYm7B9Tp3WsU72f1b8SxJEtZRxSWQMAgvNQCRD29aWk",
+      "name": "Living Without Working",
+      "symbol": "LWW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3oqyxt94s5ljqzv2pc4nnkmmchyu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

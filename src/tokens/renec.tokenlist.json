@@ -24156,6 +24156,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4DydQ8LGkYgcQCwr63mwL4yW6DPdTrZfZj5WoGYz4By6",
+      "name": "Meme Bank",
+      "symbol": "MMB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vty4ec8bpqgd9tmic5ebnwk9zher",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

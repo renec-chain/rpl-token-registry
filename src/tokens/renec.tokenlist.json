@@ -24221,6 +24221,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8h32TFUD3GNeXbbyv9MXaeFTok1wRrD713AkubsHnCNd",
+      "name": "Oskyelo",
+      "symbol": "Kylo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6avq9zkc5npp4cabnidgoc8xqzwi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

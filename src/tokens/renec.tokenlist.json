@@ -24117,6 +24117,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AaAiY85KtEjifiSHbR2xiCbC7jGBEuyCcdgsuc7W11je",
+      "name": "THAI DOAN SON",
+      "symbol": "TDS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j5da7jp2f3vi7xat5gfakdcmzfj0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

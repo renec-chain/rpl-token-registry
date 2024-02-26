@@ -24130,6 +24130,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4s7Jkww8LuVvMQPZqy5SQorVupdDgWaQP5dvquZ6E1CG",
+      "name": "Teu VL",
+      "symbol": "TVL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n9fm0sbkghasx6bx839p5v2ixfh5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

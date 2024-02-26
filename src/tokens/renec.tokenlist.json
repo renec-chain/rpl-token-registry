@@ -24143,6 +24143,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cb5NMDNSYK4CajSAM9tERfW9aCMewvebGPFYBQJ83dp9",
+      "name": "An xin onlone",
+      "symbol": "AXO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jemflig3022wifbv0mpmokm94bb3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

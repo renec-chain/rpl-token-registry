@@ -24104,6 +24104,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ffPkjkiBY6FdyWR76mnH9xnuUeSu4JvrcVPbz7ebLzQ",
+      "name": "Gemini",
+      "symbol": "GAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5e720xt75446icz61m9kc3kvlk5e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

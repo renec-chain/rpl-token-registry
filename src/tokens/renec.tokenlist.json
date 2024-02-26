@@ -24234,6 +24234,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4qgRfP2dbxn27tpyb2pQJLBdGRD6JVobjgF9eewYqxkk",
+      "name": "GN FOOD",
+      "symbol": "GN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p2v5tuce8430qstzyeb6wf9096nu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

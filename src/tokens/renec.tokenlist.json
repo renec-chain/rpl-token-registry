@@ -24169,6 +24169,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3Gyydno5mWXZt5BGHYjncaU8EM4A5M7QLcY1K95r7sV3",
+      "name": "Nightmare coin",
+      "symbol": "NMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2zyqdza58udfetyiuupy8bjm925b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

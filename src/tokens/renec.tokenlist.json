@@ -24299,6 +24299,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Grv5ptxRURAWamGUqxgxiyQRQpJz7FbpXeqpEkyTbfD2",
+      "name": "Cash Coin Token",
+      "symbol": "CCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hb18cqd3tb42x0ezruyidz2ju2at",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

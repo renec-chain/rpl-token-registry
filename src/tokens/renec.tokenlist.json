@@ -24195,6 +24195,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EQ75Mdsv9BH94FhpSTfS987FYR29cJV4E3jgVjCXzv7W",
+      "name": "HAYLAM CON TRAI",
+      "symbol": "CCD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nxqkkfqcp567ms8vtdulvjjyxjzf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

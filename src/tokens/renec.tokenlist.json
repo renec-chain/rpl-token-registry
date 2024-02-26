@@ -24182,6 +24182,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8VgfcuqvWRS9zY3G2E9FCWe6BJ9PCFMDKDtwPsbncRSM",
+      "name": "Free The Developers",
+      "symbol": "FTD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iehqlt01yaxmp3tgvx0zm9k7sg60",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

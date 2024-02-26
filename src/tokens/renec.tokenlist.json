@@ -24260,6 +24260,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D8mMd6tQBzLTmmV2RT5ZPgQ3DU2ScNoqSwi63CN92KLx",
+      "name": "Farmer",
+      "symbol": "FMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uahnnye4oo3lkrzk5gtw766n2skk",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

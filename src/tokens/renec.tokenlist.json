@@ -24078,6 +24078,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HGhEWBcqJc8nZ1yHkFCNZuiptSUWdJi4eTvWf4kMXJZV",
+      "name": "Peejay",
+      "symbol": "Peejay",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fmly5ezprfu6w7ozrj6dfudcomw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

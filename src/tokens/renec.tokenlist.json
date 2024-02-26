@@ -24091,6 +24091,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FgTH3pnWfcC4PuU36YmPmdNLUGcbJsmK61CZWB29RTKC",
+      "name": "RVN",
+      "symbol": "RVND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8f4k2f8mt6v6lysaaf61mtj989dd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

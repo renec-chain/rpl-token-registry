@@ -24312,6 +24312,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AhDXc3sRW1xKPXwDwAmGb4JonRTka5rdSjg43owF53gg",
+      "name": "PLUS1",
+      "symbol": "PLUS1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pyrzvhzvylgegr5rpi9npvfuracj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

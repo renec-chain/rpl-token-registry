@@ -24351,6 +24351,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C9knruiTMmvFm7voa9pbvZTKd8YDx7RtqdFA72hTpwo5",
+      "name": "CO2",
+      "symbol": "CO2",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lnn4chwrqterg7qo66x7ptvea12z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

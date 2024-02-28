@@ -24325,6 +24325,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D7ndkqgZBHk8BbrVs2dvX9aaRX3R9rVwyaruqBQQSU5Y",
+      "name": "XLPre",
+      "symbol": "XLP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m5d64whu6cdeiflhgxrpds2n6325",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -24338,6 +24338,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DRbn24j7vRvJP9FzydLAmP2SvgDY7wDuPfNiu997DMG1",
+      "name": "Credit Union Coin",
+      "symbol": "CUC",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nkba7ttkskv5fz0krvn7aik7rixi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

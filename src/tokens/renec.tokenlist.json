@@ -24364,6 +24364,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "wtfWScufdbeqSxzCcujGPggaZcjqN6H38ZXebR33cvW",
+      "name": "Mrrar",
+      "symbol": "Mra",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/egyzbvrtuh01936wkoipdigz8tz5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

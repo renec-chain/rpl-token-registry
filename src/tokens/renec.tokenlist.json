@@ -24377,6 +24377,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ESWav8rw4cAZraaKXbRP4MpJZypDSrAr8r33Twkwt6JB",
+      "name": "Blockchain Chapel",
+      "symbol": "BCC",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qex1vjd3v5usxtqur6q0n4r0zvoz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -24390,6 +24390,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "29bgzFi8tFWBDmtfo6dnRmvKZow8Fm8uprAWr2LvbBx6",
+      "name": "Nigeria",
+      "symbol": "NGN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u53bio1psf5754neznechq2y8jq1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

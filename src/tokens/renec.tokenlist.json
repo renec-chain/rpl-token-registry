@@ -24403,6 +24403,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E5GCTDz4uGMNLF7jSQY4F6w1WMTX8wxfzeWd5AiWxiZF",
+      "name": "Aniedo",
+      "symbol": "AXIK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lw7rl0ixxc3mbj5jk11iimzeqfqy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

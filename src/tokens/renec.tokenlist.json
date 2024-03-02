@@ -24416,6 +24416,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A39NuXaRGdu8cqXLiZyT8sJfpnBzbDW5mSKfUVSFQFCj",
+      "name": "JEFCOIN",
+      "symbol": "JEFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nj6ou66tfjwyqwo4l9qnftfr6gwb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

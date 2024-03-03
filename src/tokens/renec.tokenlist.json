@@ -24442,6 +24442,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GHvGiEZeQhX3dn1eqFtCZ2J6oQGvMksgT1ErkTKHgrfJ",
+      "name": "Dori Coin",
+      "symbol": "DORIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0nt5hod615gjcdrdmbdn1p48kuzf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

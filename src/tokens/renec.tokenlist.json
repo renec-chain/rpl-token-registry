@@ -24468,6 +24468,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HtB92z3EZqvvPGZM6XNyfP5WnFC2HmCQ4UYawm2gTQ5L",
+      "name": "AJEwXvqFN4sZb5iKxrR4fUHS9rZQ6KBS3tNAhkR41AMg",
+      "symbol": "20",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e60bbl20oj6109c84e6dna5zbjfd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

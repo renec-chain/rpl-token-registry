@@ -24455,6 +24455,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5MGG27uxD5pADuihXj2fPYPdqNqq4c7PR34WRmJV9Cpr",
+      "name": "Yemen",
+      "symbol": "Yer",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ffaz8kkux6rnwwedemy56v0rn6sl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

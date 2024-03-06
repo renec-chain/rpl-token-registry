@@ -24481,6 +24481,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GV6K3vt2ZFK1QoEHRg5n8gQoCdbb1TYASXAdqCwd35Rz",
+      "name": "AWOBA",
+      "symbol": "AWOBA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ipy0ozp18xu2eyn3m87ui8snc6r1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

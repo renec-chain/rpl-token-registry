@@ -24507,6 +24507,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "E47RA2T9EAsKCyKt3NBVJjEjctEXxqqxuw8Mw987gE1C",
+      "name": "FLAST",
+      "symbol": "FLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c8ffnpx1tme9ns7bp9l7r5scg0km",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

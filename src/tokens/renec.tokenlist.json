@@ -24520,6 +24520,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2WkWFQHE6ArELAVCW13UcLdaeBhT4YSAf3zzwH3xdqqC",
+      "name": "Angry Cupcake",
+      "symbol": "ACK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kfbu43xczi5k4py2lnk5kryexw05",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

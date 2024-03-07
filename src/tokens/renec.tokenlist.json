@@ -24533,6 +24533,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ELHwCGTNNXPqwtBEqRUuVcYNv5ee7wA6p62aPU9fp21x",
+      "name": "ST25",
+      "symbol": "ST25",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i0vt9nwcumf25nijzs54vo13esr7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

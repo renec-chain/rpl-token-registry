@@ -24546,6 +24546,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BAEtHBQ2RPAm3bH3LaPjmwDniCN3CmUjaoVhHrzMnxoA",
+      "name": "LAUNCHPAD",
+      "symbol": "LAU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fhkh9k80zh1a1stj3mtysuyeh22r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -24559,6 +24559,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "ANXdaz7xfuAB6FMBA5kUoDN3GQCcXhLwtcKhNsFohodU",
+      "name": "SAD TOKEN",
+      "symbol": "SAD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0sc1e6lkuwt7x1rumnive5by2bgq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

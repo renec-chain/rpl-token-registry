@@ -24572,6 +24572,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4XXnTG9wxXi8qDiqEkiTuuyhYvYY41Bd1Tda38eXg8zA",
+      "name": "My token ",
+      "symbol": "AVG21",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/298491f8cxzriql6lp0zwbo9pq87",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

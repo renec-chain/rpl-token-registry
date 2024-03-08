@@ -24598,6 +24598,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5QN7ZpY3Mxc4sknjMwiFaorgM6raErduPZezN46htJrV",
+      "name": "SNUKU",
+      "symbol": "SNU",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e56xlifwku03ny42bco9njhnkpv2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

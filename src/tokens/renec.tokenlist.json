@@ -24611,6 +24611,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8bq1YCwinp584J3ynjvjvV9YUCutwHj2xmmV6QYHnY33",
+      "name": "Goodi",
+      "symbol": "RFC29",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/whs6tidyuzhlulbvq9ujxmw5h6kj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

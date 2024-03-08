@@ -24585,6 +24585,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3bG2jXJtbrcwUpZttC4NhjiUwGjz25F6DkE9FRQmJ8EB",
+      "name": "BITCOIN REC",
+      "symbol": "BTCRe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vmo7j1fnd8wd3bpq404zri1gjjw8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

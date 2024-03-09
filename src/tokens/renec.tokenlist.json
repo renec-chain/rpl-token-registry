@@ -24624,6 +24624,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HLW6Z9fMYjjkR1Y229vJQgyKPivk5CWTK8uRNmLZp1L4",
+      "name": "XAI",
+      "symbol": "XAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lrx3lttmwnoomwf3fs9h91onm6ki",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

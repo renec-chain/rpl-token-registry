@@ -24650,6 +24650,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D3UMXMUEawM4guWBipopH8of4YpH1RV77YmHMwosnARC",
+      "name": "BTC RECNEC",
+      "symbol": "BTCRE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qzm5opd5sh9116zeterohjutx3ia",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

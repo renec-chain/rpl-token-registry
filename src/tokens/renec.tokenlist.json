@@ -24637,6 +24637,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3mBKNk7ibPZAkiAnVwHMBcL4oFhi6zwbQ4LSZX8WR8hk",
+      "name": "LoiLuxy",
+      "symbol": "LUXY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/geuqz2pw3i9vqcurxddfzdv7zzk8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

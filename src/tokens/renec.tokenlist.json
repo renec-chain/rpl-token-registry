@@ -24663,6 +24663,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8i3gjEmjdZmPetEYXBR1YWnwSg4RCEbw7CpBdXm4T2t8",
+      "name": "CCYtFsd8EshfKek5uWKffL8uyvFBvyKjWo1gAGY5xnos",
+      "symbol": "1988",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v86dl45czhb2wg0moyhp1budv86b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

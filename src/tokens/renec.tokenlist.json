@@ -24676,6 +24676,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EMGEEsFLfFhVNPod3AFBbshhuZnLBrMQxcp1H1nGQJLV",
+      "name": "HOT DAO",
+      "symbol": "H0T",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/orpbuhqhrcmnejgftndwmh64rxsw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

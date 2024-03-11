@@ -24702,6 +24702,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "M5DMuatmGG3PKwYatDm3vxdwQj3KTAiL3qhpaEaxD8i",
+      "name": "Addynsj",
+      "symbol": "Addynsj",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hkv3qy564fpjggn276j8erwyf3nv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

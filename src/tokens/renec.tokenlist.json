@@ -24715,6 +24715,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "72wJFnM18BvS6j2yjaJmsRKYJJwT3yJ5MPJfnut9KLSU",
+      "name": "NHC3",
+      "symbol": "NHC3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zvs21blegjbgqsstigc3eoa049il",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

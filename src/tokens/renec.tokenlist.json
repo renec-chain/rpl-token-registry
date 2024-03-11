@@ -24728,6 +24728,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2rJcXy2HEe6KELJjmHz5Ls2LEF9CyFbZ6i1RQJ2AVLFq",
+      "name": "Remitano Network Coin",
+      "symbol": "Remit",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pnx27faa6lfbal1q5v2erp5r0l88",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

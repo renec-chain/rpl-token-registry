@@ -24689,6 +24689,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BDbeHsQC2HRdNiyq9dNCKzMGcNhy3BKTyFAr9Cj4WKLC",
+      "name": "NHC2",
+      "symbol": "NHC2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g00yvhqrnoh982g77esac6jzx0yf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

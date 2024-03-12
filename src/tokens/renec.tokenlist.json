@@ -24741,6 +24741,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5ReVf5xmD2RZZkuUAWyVaAx77h3CG8ZRaAQ5KXg4NGBM",
+      "name": "NHC5",
+      "symbol": "NHC5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i4ctuns82amljbbhbum5gsbomzko",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

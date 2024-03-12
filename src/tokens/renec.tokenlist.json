@@ -24754,6 +24754,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9rxvg6czhpWP6WgTQrS6JnY1BdqbHuaSoyenGZqaGdrZ",
+      "name": "NHC6",
+      "symbol": "NHC6",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6uji8oocgbqfpfhrlngqtjsydqcl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -24793,6 +24793,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BFZBc9tKHWoghmjdLNvMVLvUVYS1cDLsnadum3WZLuMY",
+      "name": "NHC9",
+      "symbol": "NHC9",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d816tfwqurxsvchygnvakvpukfxg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

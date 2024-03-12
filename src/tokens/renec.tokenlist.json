@@ -24780,6 +24780,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Duv4ghXkSJ4Ek7Q7pe4dT8dAtCzW9PKhT9y5FnWyoEyG",
+      "name": "NHC8",
+      "symbol": "NHC8",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kquzk3ffkqf5m6ejt98rb3y5r37u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

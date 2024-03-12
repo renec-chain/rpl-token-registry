@@ -24767,6 +24767,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7vqbg19Xih255YAjfXfawiGVS5KjXiqxHUzxdKcG4AQF",
+      "name": "NHC7",
+      "symbol": "NHC7",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d5lqs7dw2vkmgvo4a35mcjpjo7lj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

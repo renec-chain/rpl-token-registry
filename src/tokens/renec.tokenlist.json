@@ -24806,6 +24806,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DE8VFLfbTsrNS2gVLFXUDR4vnyz1idpSMvajmnQn7JLE",
+      "name": "TEST10",
+      "symbol": "NHC10",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/54itlyxo815xy1r17ha3ifzjdwqr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

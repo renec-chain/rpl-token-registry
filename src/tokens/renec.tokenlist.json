@@ -24819,6 +24819,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6nQCzs2HKZwPewzA2p1UaRJ21SduLuuHEjeRDJVs2Vii",
+      "symbol": "ECOX",
+      "name": "ECOX",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/bHAgMde.png",
+      "tags": [
+        "ECOX"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

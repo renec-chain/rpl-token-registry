@@ -24819,6 +24819,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2FPnAhCZULWJ3WrfMtURJoJJvDHi1pdCpjZxo6DPeWWy",
+      "name": "NHCTEST",
+      "symbol": "NHC11",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mdwyja52ud39rg9signk6gpg6xwf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

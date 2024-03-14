@@ -24832,6 +24832,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CFec3uMhyEdVCad7MN1LH15Pra6vX82KXevSKUJ7jp7n",
+      "name": "NHC12",
+      "symbol": "NHC12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hqvpu7chcbf8vwsnh8rpqj1an5ri",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -24845,6 +24845,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BerQJtBXN27XymfgRBDZqhD1T9AaE98aJaYLxhek8NU5",
+      "name": "Pi Network",
+      "symbol": "PI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/17y7ejix9l5yl8zkp43n0gxwptwm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

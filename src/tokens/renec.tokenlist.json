@@ -13356,19 +13356,6 @@
     },
     {
       "chainId": 101,
-      "address": "EeXED3Z3xiMqc9xPfTzDdUqsEcQLSHhdzX8RRVQwNBKg",
-      "name": "Wrapped pi Network ",
-      "symbol": "Pi",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ljyrzi90w1d2cw777mrk6syugrki",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "3eLAKE2a2D7b4NKvehiKfY56QaXiwcxroVBsPJckVGy3",
       "name": "ABTECH",
       "symbol": "ABY",

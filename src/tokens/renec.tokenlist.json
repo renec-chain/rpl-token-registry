@@ -24845,6 +24845,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5EEHWQUwfQGsTDSY9x2SRb4WEd8gjJ5zpbjparYT6J4M",
+      "name": "RAVER Baby Crew Coin",
+      "symbol": "RBCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/md0v02tnrbug0vq33g20v5m2sh0f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

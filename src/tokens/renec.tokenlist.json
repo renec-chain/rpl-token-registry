@@ -24819,6 +24819,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5frp3QNpf9jT6SzXhFq8CtLSnbb5RYANgnwU4xxiWQPE",
+      "name": "AAA",
+      "symbol": "AAA",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xshzhrz5ruj8gboomgz3trzzn8av",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

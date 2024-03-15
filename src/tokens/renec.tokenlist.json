@@ -24832,6 +24832,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HdiPgjLGhq9Qo1b7DsGzwYrbRzQbGspqK1HU4MxDKxA5",
+      "name": "NABI AHMAD ",
+      "symbol": "AHMAD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/058t6ddr2soyqb6csekqhmonfdi1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

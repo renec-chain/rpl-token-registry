@@ -24884,6 +24884,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EPwgS38YDYEm5ApWQbcLpfKKTVDG2hMfMJoQ7nuZnfSw",
+      "name": "Fw73Bj5AG2L2ZAHdczWywEKJFZq8WxCmdAvwTXSuMqrD",
+      "symbol": "Fw73Bj5AG2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dxpnd9su0ulrvfqk0kwdnzeqa2qs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

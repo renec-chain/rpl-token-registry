@@ -24871,6 +24871,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4jddw9JomHztnA3yG4k2HNKYPb4JMfhFP2sqrmFWCgrp",
+      "name": "aliendollar ",
+      "symbol": "AND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hmcjrcw52s27q9ikm0q1meg3snjd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

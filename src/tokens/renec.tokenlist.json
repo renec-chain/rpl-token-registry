@@ -24845,6 +24845,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HR7RpZcbJqc2U3wFYSoy3QQSPc6gUyHDjG5MD5roexPk",
+      "name": "FENIX",
+      "symbol": "FNX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ut5q0qscnmbnhhuecs2djbc9vmwl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

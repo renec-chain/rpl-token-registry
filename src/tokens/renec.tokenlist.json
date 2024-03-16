@@ -24858,6 +24858,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Bh12aeGC7cmtckRTYCM7TFqzQmYrAnwYPyCJYWYjCowy",
+      "name": "OKMEN",
+      "symbol": "OKMEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wdj22314pwnal2per3nz1ub3ty3v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

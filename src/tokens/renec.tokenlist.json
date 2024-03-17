@@ -24988,6 +24988,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9ZiK7SwH57oeedsVfmskRJbz1DENPiNZ6SBE4ju8mdmF",
+      "name": "CANDY TOKEN",
+      "symbol": "CAND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ezuemjpyc0nkod379zx6af7tdudb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

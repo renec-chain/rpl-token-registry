@@ -24923,6 +24923,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eq3ghs1MX3xSFTvtr7wJAjzGY8x7S1s2VTB8zKNYCfJq",
+      "name": "BMV",
+      "symbol": "112",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0p07is1rjcdj4o1kalkx59pozh34",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

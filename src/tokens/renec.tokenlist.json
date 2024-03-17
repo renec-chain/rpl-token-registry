@@ -24936,6 +24936,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "81YAV6t3NEC7fbrPN3GvTtZQfqwYvNsHkimvWNC7L7XR",
+      "name": "NOT",
+      "symbol": "COIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ok90e9t1lpb61uoxuy6fsf5k71w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -24897,6 +24897,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "22Knfw9G49FXRjfUVGxfCs6RQf1UH5CNtQFfjqnFCHaP",
+      "name": "BTC",
+      "symbol": "eBTC",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ylc3b67j5byx8eov5tgp8434bemz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

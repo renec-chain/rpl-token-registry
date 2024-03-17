@@ -24975,6 +24975,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eiq7rQeJKVWNLrQqwYSAuribra1HjLxCFJJcspWVxvM",
+      "name": "ICE NETWORK",
+      "symbol": "ION",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/th70qiw4qfbv09whehw1m6qo84wl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

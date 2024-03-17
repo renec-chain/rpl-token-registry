@@ -25040,6 +25040,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GN84sDKJU4gawAcmPkCJf5yWTpHpSe7Cg2Eq4tpRzYQb",
+      "name": "Xx",
+      "symbol": "Xxxbbbh",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gshajd9l4kj6rjvsumpjmqaq4urh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

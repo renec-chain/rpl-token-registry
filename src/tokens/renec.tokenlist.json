@@ -25053,6 +25053,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Adia4ukNpmPaMWtU6EB1A7FhuUSjH7h6d8QF4tZcom7R",
+      "name": "Pl Network",
+      "symbol": "Pl",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xg21exz87ndfyr3brav4c77fynqx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

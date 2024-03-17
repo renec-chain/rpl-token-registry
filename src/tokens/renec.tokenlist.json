@@ -24962,6 +24962,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7JqRHUeXxJ2vdyU26q1wgCkeB4sZLXaKqnpPas2dPidQ",
+      "name": "DogeRich",
+      "symbol": "DogeR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85ibb97jhhqjwlybldjscqud362n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

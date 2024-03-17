@@ -25079,6 +25079,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F9vBjdpupjDjw7XqyE5yVSyUouUrkzn5GDPy15rAh77f",
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wgqhw3brgvnm8kogjmwmek1nc2pi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

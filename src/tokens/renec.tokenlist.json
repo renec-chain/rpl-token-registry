@@ -24949,6 +24949,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eh8LDHWGPU16BWNZtaJPfa2ZVg98t4P4jP9tSCCNQaPk",
+      "name": "BabyRenec",
+      "symbol": "BRNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qc2ar3okb3gm12t0zc8jlt3w5xce",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

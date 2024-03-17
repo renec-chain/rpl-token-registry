@@ -25092,6 +25092,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DKR9DGYbekcooKM1iKP3P2Z6NsAZUvqwjehjAC5aU3CH",
+      "name": "Eth",
+      "symbol": "ETHFI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/950w0spc9lgkf9cjz9yx21scexnp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

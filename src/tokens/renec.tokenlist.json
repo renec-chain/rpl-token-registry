@@ -25014,6 +25014,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BZVXLsy3GY4EuEZAPJoT8A7Kry4U4BuBg54KmXGApDdq",
+      "name": "Token Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s4c3l6puoab3kuwlsgh5dl9qk9f9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

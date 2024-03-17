@@ -25027,6 +25027,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8VBJpNbsHHzpqMHp1ynS8KigJkVnTL3vPGxpTc7kBVU6",
+      "name": "Apple ",
+      "symbol": "Apple",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a9pgsaoxgos3th5vhtaxliwpa7oa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

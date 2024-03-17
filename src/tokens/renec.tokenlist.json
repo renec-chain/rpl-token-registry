@@ -25001,6 +25001,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H8yDR3ETX1RQMD7Bv4YbJYiyEJScomD3WVMPA7cTWCgb",
+      "name": "RUBY NETWORK",
+      "symbol": "RUBY",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/npf40lsztsffge8afgj4w3yokmbw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

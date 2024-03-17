@@ -25066,6 +25066,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5kUTjUCKp9q6UB5GNCzqhHrsaKYzKRMU7b8ETJpDttLS",
+      "name": "Toncoiin",
+      "symbol": "Toncoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/43is7gwqizvmet0hncei5kh8u10s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

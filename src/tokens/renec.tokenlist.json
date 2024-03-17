@@ -24910,6 +24910,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "73UonUFBUbNCoxeJ3GwR9E8KuSftXhJw8WFgtWDNdiC1",
+      "name": "Animal",
+      "symbol": "Animal",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/od0jtxhboqq5wqkyym9papn2nb5d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

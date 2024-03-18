@@ -25157,6 +25157,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6t5TtSscuHK48ixfTbGqAdxpsK43rujNM6q4mafmT9Lo",
+      "name": "USDC",
+      "symbol": "nUSDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mqwq9e3868rpol6nvxyxb1gf796j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

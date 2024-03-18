@@ -25313,6 +25313,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DZgKZVwSxt3MmBjeVdTju8B6o45nZd9EA2gcbiuzo7Xj",
+      "name": "Real Value Bank ",
+      "symbol": "RVB",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f412litkf8ljbr2ln0vf70n89kef",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

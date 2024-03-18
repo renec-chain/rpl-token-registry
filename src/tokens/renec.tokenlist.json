@@ -25170,6 +25170,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HeEa4cZFyUhDfJkRj5j6WxxLZ6XAeEuDkThCSU6KxGAk",
+      "name": "AiCat",
+      "symbol": "AIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zkkhvqrvcjx6te9kqnirp1bxd28j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

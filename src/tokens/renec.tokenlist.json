@@ -25300,6 +25300,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4Mwr4qDa79WZNAuzHZu2GJFTua4NJ3k93goRKqDiNV2r",
+      "name": "Pinetwork",
+      "symbol": "Pinet",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hcbpd5fosjg8835ga67bwght7765",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

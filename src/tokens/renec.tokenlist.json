@@ -25183,6 +25183,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BCGNVZdUaHss8NmSqsUaEwiU9VEP2LcGqhtB7NcyawTN",
+      "name": "SWORD OF MEME",
+      "symbol": "SOME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1l6bwyrlpf30wrdmpm86oltmilhp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

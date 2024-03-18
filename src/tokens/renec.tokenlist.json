@@ -25209,6 +25209,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3rSenruWGNs5eQtim2FUVoWKbfaiK4KdshDQcVoHUdWR",
+      "name": "Pi NetWork Mainnet",
+      "symbol": "PiCoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ackze3iyrqa5v6lyb1al9yt0cmd6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

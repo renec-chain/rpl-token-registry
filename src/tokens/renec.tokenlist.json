@@ -25131,6 +25131,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5NbxcYz1XxaEF1XFzkhKFW7wT5bH9WaW4iFEZbN2m6Ah",
+      "name": "GAST7",
+      "symbol": "GAST7",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p2684g45b6j3gv4da8vkidw6sdw2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

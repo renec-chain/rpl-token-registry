@@ -25196,6 +25196,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Bp53Aq3PGz3K13oEQT2o4GvrrCiyiRtMLxFjDDpRrRd",
+      "name": "Pi Network Enclosed Mainnet",
+      "symbol": "PiNetwork",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lkyc6qweh6311ukxmo8azvk1wvsn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

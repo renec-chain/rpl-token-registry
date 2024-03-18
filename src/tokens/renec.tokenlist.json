@@ -25287,6 +25287,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5GQyBEQib6oNnfpNWQto3mP3Lq7zUERJHL5nUgq65Rbs",
+      "name": "AntiBank",
+      "symbol": "ATB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t1odd8zefwqbhcp6pcll4umeau58",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

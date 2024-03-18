@@ -25118,6 +25118,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2A4LExMBBXajRR3UN864EtTDVFjuU6hvRSK24b7n1Lct",
+      "name": "zkSync Pepe",
+      "symbol": "zkPEPE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hgnbgifbyx7xpkxfhd7vh5hdwkry",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25248,6 +25248,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bhhi7fWoji2H4uGcmfqxBiJVZ7rbtJJZYHDZxi9JWWMh",
+      "name": "TON social meme token",
+      "symbol": "TONcats",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tkjuj2lx8iszw14ux1g01b4bpuws",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

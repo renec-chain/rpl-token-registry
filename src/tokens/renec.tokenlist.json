@@ -25105,6 +25105,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7GRRz5eN62kiKoER8zVuHQ2kv9KbsejPjao11d95hupJ",
+      "name": "BOOK OF MEME",
+      "symbol": "BOME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5bb1s7wmm30f6yw2foqe904y8jp6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

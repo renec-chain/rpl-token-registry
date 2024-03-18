@@ -25222,6 +25222,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2cXZ3b6qaxKYGyYJWFtfFhpV8VCEX8cpYdxJsY8BPxDa",
+      "name": "Pi Network Mainnet Blockchain",
+      "symbol": "PiNetworks",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2lu9egb7a2j3doznr0ifofg01h67",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

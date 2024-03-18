@@ -25209,6 +25209,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6nQCzs2HKZwPewzA2p1UaRJ21SduLuuHEjeRDJVs2Vii",
+      "symbol": "EKOX",
+      "name": "EKOX",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/bHAgMde.png",
+      "tags": [
+        "EKOX"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25144,6 +25144,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D8cBJj1s55J4cvar5fc5hDBV2rHqb8pPvgLhh1TMh2d4",
+      "name": "Lmao",
+      "symbol": "LmA",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/igt69gngjm2xq9ax68iw3jaz4n3u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25261,6 +25261,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7d3wXXJ6bcGFDVVQdtXDNf339LtVLXhX1xDGMUpoCGrQ",
+      "name": "DOGE coin meme",
+      "symbol": "DOGEcoin",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yhykaikarwa2gxu98796h9qlsbh0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

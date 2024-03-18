@@ -25235,6 +25235,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Yp2a1hFjinpRogjGjKDbKG4NyN1hnfHEwL6sWA6EJR8",
+      "name": "TON coin Telegram Open Network",
+      "symbol": "TONusd",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z5cdqb2dfntz0rmmkxs9cnjy2xg2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

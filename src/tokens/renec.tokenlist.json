@@ -25274,6 +25274,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C36prKkyTu8uUdSifY2bdbXWbdqanD9Hg8vAh9F5KfM8",
+      "name": "DOGE coin ",
+      "symbol": "DOGEs",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1ubh5yqljscbhaenfl0edqlyepz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

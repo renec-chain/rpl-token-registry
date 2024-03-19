@@ -25404,6 +25404,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7DYGv6TKcxqVWayMK7EFuWmoLR6FcCD9LHtUV9qbzHsj",
+      "name": "Zing Play Fan Club",
+      "symbol": "ZiP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nt69tkgn9124m4z9i53mya6ggwwt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

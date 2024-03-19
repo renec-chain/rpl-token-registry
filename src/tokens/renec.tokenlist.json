@@ -25352,6 +25352,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "62L7QCVbUiS2qRcjt4pPZJQ1zArFF6aU7D8Ay9E7zDgu",
+      "name": "snap",
+      "symbol": "SNAP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zbm791gj7wl07wzbztje8tq2339b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

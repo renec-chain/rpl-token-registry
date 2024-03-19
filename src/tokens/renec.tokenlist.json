@@ -25326,6 +25326,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZFzZDrAgtHW6XkGqUvMnJnUkTHxA2Gb9t3tNxbkwisF",
+      "name": "BENQI",
+      "symbol": "Qi",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0yjjck8hswwqflg0udnsphj50cge",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

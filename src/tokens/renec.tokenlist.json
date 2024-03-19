@@ -25339,6 +25339,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GZLzuJJ6Fdz9qMh8a8gD4dk4bjDSfiHLzXGts12UnaHQ",
+      "name": "B00K 0F MEME",
+      "symbol": "B0ME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/80hjb9zkdsso64pn5mjmmj1mtu2v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

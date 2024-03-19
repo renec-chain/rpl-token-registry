@@ -25378,6 +25378,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AauyYSDxe9Ff5PQEg7ZDRhQJu2aaApZrhsK8ZgeqQkcp",
+      "name": "Hp Rhado",
+      "symbol": "HPR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1syc1zetixseejma95eg1fjr77zq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

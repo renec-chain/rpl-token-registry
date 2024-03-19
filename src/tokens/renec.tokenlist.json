@@ -25222,6 +25222,162 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3rSenruWGNs5eQtim2FUVoWKbfaiK4KdshDQcVoHUdWR",
+      "name": "Pi NetWork Mainnet",
+      "symbol": "PiCoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ackze3iyrqa5v6lyb1al9yt0cmd6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2cXZ3b6qaxKYGyYJWFtfFhpV8VCEX8cpYdxJsY8BPxDa",
+      "name": "Pi Network Mainnet Blockchain",
+      "symbol": "PiNetworks",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2lu9egb7a2j3doznr0ifofg01h67",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8Yp2a1hFjinpRogjGjKDbKG4NyN1hnfHEwL6sWA6EJR8",
+      "name": "TON coin Telegram Open Network",
+      "symbol": "TONusd",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z5cdqb2dfntz0rmmkxs9cnjy2xg2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Bhhi7fWoji2H4uGcmfqxBiJVZ7rbtJJZYHDZxi9JWWMh",
+      "name": "TON social meme token",
+      "symbol": "TONcats",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tkjuj2lx8iszw14ux1g01b4bpuws",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7d3wXXJ6bcGFDVVQdtXDNf339LtVLXhX1xDGMUpoCGrQ",
+      "name": "DOGE coin meme",
+      "symbol": "DOGEcoin",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yhykaikarwa2gxu98796h9qlsbh0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C36prKkyTu8uUdSifY2bdbXWbdqanD9Hg8vAh9F5KfM8",
+      "name": "DOGE coin ",
+      "symbol": "DOGEs",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1ubh5yqljscbhaenfl0edqlyepz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5GQyBEQib6oNnfpNWQto3mP3Lq7zUERJHL5nUgq65Rbs",
+      "name": "AntiBank",
+      "symbol": "ATB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t1odd8zefwqbhcp6pcll4umeau58",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4Mwr4qDa79WZNAuzHZu2GJFTua4NJ3k93goRKqDiNV2r",
+      "name": "Pinetwork",
+      "symbol": "Pinet",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hcbpd5fosjg8835ga67bwght7765",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DZgKZVwSxt3MmBjeVdTju8B6o45nZd9EA2gcbiuzo7Xj",
+      "name": "Real Value Bank ",
+      "symbol": "RVB",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f412litkf8ljbr2ln0vf70n89kef",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZFzZDrAgtHW6XkGqUvMnJnUkTHxA2Gb9t3tNxbkwisF",
+      "name": "BENQI",
+      "symbol": "Qi",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0yjjck8hswwqflg0udnsphj50cge",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GZLzuJJ6Fdz9qMh8a8gD4dk4bjDSfiHLzXGts12UnaHQ",
+      "name": "B00K 0F MEME",
+      "symbol": "B0ME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/80hjb9zkdsso64pn5mjmmj1mtu2v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "62L7QCVbUiS2qRcjt4pPZJQ1zArFF6aU7D8Ay9E7zDgu",
+      "name": "snap",
+      "symbol": "SNAP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zbm791gj7wl07wzbztje8tq2339b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

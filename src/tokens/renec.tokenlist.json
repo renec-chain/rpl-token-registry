@@ -25391,6 +25391,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D9oSBdKMhjiDAxnPuQjvU1VaMLLmmk72SwgcxW7wNHXU",
+      "name": "ONYSON token",
+      "symbol": "ONS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fu5zsube8j9wxqi6396coxxe4ubt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

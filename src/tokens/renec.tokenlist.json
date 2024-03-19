@@ -8199,7 +8199,7 @@
       "name": "Westeros Lucky Coin",
       "symbol": "WLUCK",
       "decimals": 9,
-      "logoURI": "https://i.imgur.com/sC91J0Q.png",
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GreuRcxG4k8PQCPPMyXeGK5dgxVMjMk7NyCZ1q2nMBBA/logo.png",
       "tags": [
         "utility-token"
       ],
@@ -25216,7 +25216,7 @@
       "symbol": "EKOX",
       "name": "EKOX",
       "decimals": 9,
-      "logoURI": "https://i.imgur.com/bHAgMde.png",
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6nQCzs2HKZwPewzA2p1UaRJ21SduLuuHEjeRDJVs2Vii/logo.png",
       "tags": [
         "EKOX"
       ],

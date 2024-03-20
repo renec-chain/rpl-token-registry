@@ -25456,6 +25456,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FddTb8pxQDcjkxVbjhGsZq8Mm7RU99VMM9PtomCTFp2s",
+      "name": "Sidra bank",
+      "symbol": "SidraBank",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2hipbwork8ykro20nd7d1i7i7xry",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

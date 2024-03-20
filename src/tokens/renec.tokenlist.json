@@ -25443,6 +25443,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ikFZahWaUzSekAp5VFGk5tgQbd8Mc99tYio8xa9KbBe",
+      "name": "WOW",
+      "symbol": "WOWCOIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aprpxya27z8gkskeceaydeaiiv9s",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

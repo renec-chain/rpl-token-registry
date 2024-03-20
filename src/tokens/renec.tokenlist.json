@@ -25430,6 +25430,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6MuGKXAUPqvmfkD46TRyCzphgxoi5D6Vv7sCfJs8u3n3",
+      "name": "POLO DOGE",
+      "symbol": "Polodoge",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iksi3189q8flxbzgj8wi7tway486",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25495,6 +25495,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HwrNWk248QJL33hMPZzY8W2bP55SbQEHcrn9WKuPzE8u",
+      "name": "Okeyego ",
+      "symbol": "Uli",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rnf7tcihz8kwbad1l28hegiz4eih",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25534,6 +25534,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gz2fRfQ5xhdsByyJzftbsBsgm7PWqToXiuGy5Y15eyxZ",
+      "name": "ADAKU",
+      "symbol": "OBI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2y4v0vns538t0lusyfm1gar9pc6k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

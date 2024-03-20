@@ -25482,6 +25482,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4mNhYZ9MReF3mKvS64RttFewUroMRXsJHkRnxgGBThGr",
+      "name": "BTC ",
+      "symbol": "Bitcoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/na9kguus0u3fry10sbsczwq3ucot",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25521,6 +25521,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "29VLqtS7HofcLjkZdUHpFyQaknMe3gww9Y6MjZiYX9hc",
+      "name": "Andrew",
+      "symbol": "Ewu",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u5k20hix1dwys5iy4r9vrikmh6nf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

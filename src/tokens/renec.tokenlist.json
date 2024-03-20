@@ -25417,6 +25417,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3BZCT2DARgdX2zTX5u7RNMKsnCYrtJjYWSCT1yaLqXt9",
+      "name": "TON Cats",
+      "symbol": "CATS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ard6ai8qalexulxk81nayxtw6pef",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

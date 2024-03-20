@@ -25508,6 +25508,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DqBCAvvBvDNczPmuAhtpSghYXVDZedCuSNKxeeSx4PBT",
+      "name": "Amazing ",
+      "symbol": "AGU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4x5b3l5t84fop39obls8xl76zeuq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

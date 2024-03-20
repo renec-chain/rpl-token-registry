@@ -25547,6 +25547,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EKefqkoquuRCTt9Ui5TU9fnYRg4XMicnXwwuzyML1vNQ",
+      "name": "IKENNA",
+      "symbol": "OKEY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0u6t392ihpdaucxqnppnyy66lt69",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

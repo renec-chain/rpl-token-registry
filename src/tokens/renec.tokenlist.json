@@ -25469,6 +25469,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2zCn3jPkLEmAcBLvN8ATUsbG99nvKkWJFMRi88A59Soy",
+      "name": "Artine",
+      "symbol": "ART",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k03v9q9k1mhndczmr6fssd0go6g4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25729,6 +25729,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6RUg1yNJfN9yyXoUyrqEQ2vmvAhY4vuXMAgAN2G1e7R5",
+      "name": "RBook of meme",
+      "symbol": "RBOME",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/78ab2gr7ezivzgrinxr7b9i4ooje",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

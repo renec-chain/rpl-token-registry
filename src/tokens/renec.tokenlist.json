@@ -25625,6 +25625,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HJq9upQdMbDFaKox1FN1payVFMb9NtPQwRYvKUgzwZ2m",
+      "name": "Joy Giver",
+      "symbol": "Cute",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fp6d42pmueexx65y1jl2prxqv4te",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

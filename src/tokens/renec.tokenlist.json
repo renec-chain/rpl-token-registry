@@ -25898,6 +25898,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2whcAJRY5mXeqh6NFEq9YvzLjFjcNB2WSG9sJksT5Guu",
+      "name": "Mens ",
+      "symbol": "MBS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iev3tso5if6po2toy0wmu15hjyur",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

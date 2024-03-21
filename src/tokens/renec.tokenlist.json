@@ -25859,6 +25859,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EYcXaT4iLNdk6ysSvPicwnghEnwg2NgsfXVm62GRsJXr",
+      "name": "Synchronise ",
+      "symbol": "SYNCAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ilv9hokxibmhebb4lcjbcjbsdtok",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

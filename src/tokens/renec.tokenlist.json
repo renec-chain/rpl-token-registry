@@ -25560,6 +25560,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G6Rn7s8Wy3PQJbMGR3DXodrG2rSBWh8z52ckxArWs4Dn",
+      "name": "CBNCOIN",
+      "symbol": "OKCBN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mxei8bdqpqudzdw2xsvmexh9xwfu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

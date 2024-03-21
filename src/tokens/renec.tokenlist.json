@@ -25664,6 +25664,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2t54QztimJfPbNzYASamBRjxP2XLzqmyFFTSXgNrWaUk",
+      "name": "Guy relax ",
+      "symbol": "GRAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lsqzdw25q415zyjkhe4s7zo3qasb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

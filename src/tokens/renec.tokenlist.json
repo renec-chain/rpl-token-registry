@@ -25846,6 +25846,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "usfV4Uu8t1zafySxtC5yohrVuHkvhSyeKHeKxu31BvF",
+      "name": "ducpm1311",
+      "symbol": "duc15",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6uliiqwib3ek3zgj7ksj6dzq99uv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

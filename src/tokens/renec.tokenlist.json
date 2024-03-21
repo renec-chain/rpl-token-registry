@@ -25651,6 +25651,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2VPo6y2meYGs31RUF87Y9cEaq1gNmkBwe8qMZCFVAD2k",
+      "name": "Bull run 2025",
+      "symbol": "BR2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kncf7l0m2jyjt6weyu45v0yioy6x",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

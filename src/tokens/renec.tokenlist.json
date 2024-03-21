@@ -25742,6 +25742,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DFd9gHN4CNfC28GLmf61H1mNAQYbN1jWH2bo4pCvE95R",
+      "name": "TON ",
+      "symbol": "Toncoins",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/32bktjtr9fq3i8p1shss9cgd6zmd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

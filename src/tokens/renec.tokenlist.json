@@ -25755,6 +25755,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "76Ym5RdGo3jzJXcftUxKUgWWYahU29tF96R6MMeggmA3",
+      "name": "USD First Digital ",
+      "symbol": "PDUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cyrdbmf2h3f5ovp6bu29z34m1inh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

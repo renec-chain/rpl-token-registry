@@ -25768,6 +25768,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AN9joxDXWvthdZduMagw1CUvDNba1X53pgf8HR72PL1q",
+      "name": "Amazing Pepe",
+      "symbol": "Apc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w9lnissx05jj457a0fx3d29y8a0v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

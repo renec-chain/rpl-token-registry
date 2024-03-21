@@ -25573,6 +25573,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H6bBHGJ51nrqgemWznErCrDB4DMrcxPcbrMKwDxKCExu",
+      "name": "Chichi",
+      "symbol": "Mylove",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n9mwci0vueltwtv9bxckoz8uijf1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

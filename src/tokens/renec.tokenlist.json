@@ -25794,6 +25794,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ndn43drGxVyvZR1DmQsK546vaqriQke111hhJUAJmyf",
+      "name": "Are you kidding me ",
+      "symbol": "420kX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a9z269pmy28mlgi5bwv5ig38ryoh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

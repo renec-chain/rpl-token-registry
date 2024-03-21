@@ -25703,6 +25703,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CsnQvD2nxB9zix1M93zLC64D9i4ZJhJceGN5pgRL1B9V",
+      "name": "SolanaAI",
+      "symbol": "SA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2mnk0g30ej6gxc3ath8atr6esa5c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

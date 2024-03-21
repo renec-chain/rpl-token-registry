@@ -25586,6 +25586,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "968MTwHAHNrreSoHjZpgqR4vtAEMFcRCS9cjcP3tM5av",
+      "name": "General election ",
+      "symbol": "BidenTrump",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vjifzatz6hz29e7oatzd5qud5ae3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

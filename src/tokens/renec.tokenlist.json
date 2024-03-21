@@ -25872,6 +25872,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GCS66w6bXc9D6qbpJ1dCE4yppdf1qLBXVg1m6SJuExfE",
+      "name": "OKEYEGO ULI",
+      "symbol": "KUSD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xkndjj5fy68gab1an1wrkswns4e8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

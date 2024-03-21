@@ -25885,6 +25885,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AdacxqurUAktGWTjcqwcQR7bD7fssSuvHy6zDdpxhzNP",
+      "name": "Biafra ",
+      "symbol": "BPonds",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fqxmpjbl6a0g2g6hqd7vy2vbe6x9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -25781,6 +25781,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "687HiHrcZH3nbSX6o3qsSpyGeN8nU3Ehos6kyc4SxzE2",
+      "name": "Go and fuck yourself",
+      "symbol": "Simple",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rn9j8rki3kqorjn51qx9h02qsg9e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

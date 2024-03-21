@@ -25807,6 +25807,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EwqMd2VNfPsGXDAYn5M1LCGjdi4SPxBcrAxWUBkTsJM",
+      "name": "Cardi B ",
+      "symbol": "PizzaX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aegzj9fwb5ywljiidctgs4lpo18h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

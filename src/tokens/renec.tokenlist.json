@@ -25716,6 +25716,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9SWRpGfuB5ZtWhxgadLneoitcxTVUCsRFAeZoktURpn9",
+      "name": "BitcoinFi",
+      "symbol": "BFi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n47m47w28ipil2xxf4scs7qphqez",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

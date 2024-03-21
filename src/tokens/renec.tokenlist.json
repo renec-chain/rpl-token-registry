@@ -25612,6 +25612,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AM1A11X4pgBCT31U8PpEv84qGDbV2CKErggjXMWMA1Rv",
+      "name": "Single",
+      "symbol": "Rich",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hnlidhmm5pwwal38848x7apv442r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

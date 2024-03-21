@@ -25690,6 +25690,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4vRtG6hJWSAnF1mRESzq1Cm1oPrpDvujimhyRj5T5nns",
+      "name": "ICE ",
+      "symbol": "ICEnetwork",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5rrfug0egug93fkx7m9qguyikkfm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

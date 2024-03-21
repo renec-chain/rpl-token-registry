@@ -25677,6 +25677,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6kr9iu9g7zi35mjqt7NsQENxhN7RQiiFsTFLCPWBRKUh",
+      "name": "All Meme Coin Leader",
+      "symbol": "AMCSLAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t9s7nlp5akr1yot6kpdhl5pk0nk9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

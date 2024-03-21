@@ -25833,6 +25833,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eec35i9pncfQLPsvp78ZCkYdMkvCpvoh49zfnbzwAVVE",
+      "name": "Elon Shiba Inu",
+      "symbol": "ESI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ehi7lpgpauacts9fmoaylzs1cs1j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

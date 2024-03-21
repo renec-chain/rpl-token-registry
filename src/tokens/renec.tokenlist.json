@@ -25820,6 +25820,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DuCKwi1p1QiBKQn46nsU4jXzJ2Fsidfh2kRD193zmQyN",
+      "name": "Alone",
+      "symbol": "PAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mqpu3qwkcdxuv83d495llho4slnu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

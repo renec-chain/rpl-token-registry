@@ -25599,6 +25599,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "f97Tf7DiXomzD51xgCKAtqLXAmFizRQQ8cTYXtaVgSR",
+      "name": "BTCFI COIN",
+      "symbol": "BTCFI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/54ikllzm88ineiy8hfw8djl1mwme",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

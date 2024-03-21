@@ -25638,6 +25638,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GxtvrqKCRVYySTAjJMiSzKTX7QqnjgAP5FFxTZUJoNgF",
+      "name": "RENEC GOLD ",
+      "symbol": "REG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hev9tdcavdz5apaxlnmlcbioxv3e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

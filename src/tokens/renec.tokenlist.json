@@ -25937,6 +25937,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EgvkD2LuBqfKHSNPyojg3UL4s6WQWagh8QuuM2pdaGZP",
+      "name": "Bondez",
+      "symbol": "50000000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vjpmypjvj5yauyxtc1t0vgs2zl1n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

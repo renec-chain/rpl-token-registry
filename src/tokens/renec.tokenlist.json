@@ -25963,6 +25963,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DkAaVT5jUWD6nLmmTdLYVRwCKLVfmWYNciNioCEuPJkN",
+      "name": "Trump ",
+      "symbol": "Mens",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qeyk5zlycz2xj27c21mcs2q4c2tb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

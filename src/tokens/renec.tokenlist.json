@@ -26080,6 +26080,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4yJH5pbB3E24MwxbQeYvwMmNhwDyGsTkzigQbK5YfYVL",
+      "name": "eMoney",
+      "symbol": "eN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mildt8vddmia816rmagqm5fq2tx4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

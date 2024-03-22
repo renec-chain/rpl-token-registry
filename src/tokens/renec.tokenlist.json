@@ -26002,6 +26002,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8fFHtSmkdD8BL2c1KtUeyN19Nvp8qYTQvSTYyUsT96cn",
+      "name": "KingFloki",
+      "symbol": "KF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vd8l40nnuvuqrwzuwpe85foavj4z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

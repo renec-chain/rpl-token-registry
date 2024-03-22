@@ -25911,6 +25911,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E8ZT859yT5kYhCfmZAkg7VX3h4tkf6PnwMAWQpS9AMZc",
+      "name": "High Blood Pressure ",
+      "symbol": "HBP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/va4k1ydyg6bhgh3qzrotfx545dqw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

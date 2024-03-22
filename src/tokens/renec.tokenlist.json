@@ -25989,6 +25989,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4yxDbNxtuwFu5cKM6Uw7qkNpmsTt3hLZZk72JVFuwsz6",
+      "name": "Leonard",
+      "symbol": "LOK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pi7xuugj1z7513equvnqd68evmck",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

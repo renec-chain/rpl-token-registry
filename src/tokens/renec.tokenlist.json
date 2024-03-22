@@ -26054,6 +26054,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "247ZVTMjuGGRWXuY8x36nqxvLQuv4pH53SzVXe8pvxVg",
+      "name": "iBitcoin",
+      "symbol": "IBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vwdh7dhfm990seaf06sk7zpzzfba",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

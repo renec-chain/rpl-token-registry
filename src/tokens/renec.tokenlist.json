@@ -26015,6 +26015,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dxox4ECmZC1hfXpcvsqmXNB7WvNvH2yTQZbxosSpoxfM",
+      "name": "Favourite Moment ",
+      "symbol": "FTMx",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/spsmsnxob4v1dvaxies9vrff72h0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

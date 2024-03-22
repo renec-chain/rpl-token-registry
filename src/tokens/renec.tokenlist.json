@@ -26028,6 +26028,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CoGRR9ZKFiZiYHHxzvP9Jv167DkRAE3uEV9ei5YHJBhX",
+      "name": "BTCFI COIN ",
+      "symbol": "BTCFI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ndm8070h11j5qmpgy8l4vgspsbp2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

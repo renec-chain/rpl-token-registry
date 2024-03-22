@@ -26041,6 +26041,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7K5VRdkrD3ni2Ay3ijbvCjPNPuaWCESeRr1DhWME5niA",
+      "name": "Babynology",
+      "symbol": "MYRO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8psh000sdnek2cj73smwrh8pjxjq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

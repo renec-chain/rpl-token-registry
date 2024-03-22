@@ -25924,6 +25924,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AewYczBUpXRZT6KQ9wTLcXrhNgqUUV5nmCd2nf8x9vyZ",
+      "name": "Usdt",
+      "symbol": "ducpm",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jf7tc47vrdulkev0jajpinhnsc2u",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

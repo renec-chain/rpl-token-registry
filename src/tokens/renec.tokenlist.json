@@ -25950,6 +25950,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BW7sJxHE2F7LGVVGz8YroWHS5tCvASV4PX1pzJrneVqs",
+      "name": "Cat Token",
+      "symbol": "CATO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ej5cq8n2ky5yvs9x2p5d7cxxcinh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

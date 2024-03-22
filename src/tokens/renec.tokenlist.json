@@ -25976,6 +25976,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C7ZKyNz3DDyDnmQLbFsfDfuKTSbh4Ju3AwBHLKkBsEnY",
+      "name": "BOME",
+      "symbol": "BULLISH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ml9w3wom2rhld5int7l6v1yt992c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

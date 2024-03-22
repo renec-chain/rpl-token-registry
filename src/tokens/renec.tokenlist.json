@@ -26067,6 +26067,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Cn2sb4Jwdj2V2af5Y27jcBz1sqSq7gU7wx4j8zWw2FjY",
+      "name": "Justice ",
+      "symbol": "WJT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q6yqruupj7kfji0m192vt8h6zyzh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

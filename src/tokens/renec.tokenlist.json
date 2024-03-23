@@ -26145,6 +26145,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7Dq1f9VqX4CPabKxbEjNnr8X1FoYtMgrdrSNCxBeK5P5",
+      "name": "eg renec foundation coin",
+      "symbol": "egRFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w6z1vmn0ensiuu02wlxvd1e57708",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

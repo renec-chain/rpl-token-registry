@@ -26158,6 +26158,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxLUGCQXCcXSw5kAha6qjLG8Arc2VwH7MaDjn2L3bTY",
+      "name": "Btc",
+      "symbol": "Bcc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mkvvc0ulnieq36vnblzsjd4idlzx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

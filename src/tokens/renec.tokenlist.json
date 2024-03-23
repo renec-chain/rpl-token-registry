@@ -26132,6 +26132,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "454tFZ4dz9rKP2PryX6AhGzrX9jiLQ1hfy2WAW6G8LWm",
+      "name": "OHAPITABC",
+      "symbol": "HIHE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kfqzaxjc389sgz2ln8mkjcpjslmz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

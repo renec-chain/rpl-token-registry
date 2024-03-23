@@ -26119,6 +26119,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3yCDknv3zabCGqfxH98vTmgCeiBfcXkWX3Hc9ZEz18d1",
+      "name": "Spot",
+      "symbol": "Spt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7e0txqnzkmuslkwb21xlkmqiyuzs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

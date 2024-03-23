@@ -26171,6 +26171,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6oCy5MSAGH8PYsGu6zGnETWso3EFDJxaPxoK9jvtJU4T",
+      "name": "Nature",
+      "symbol": "NokAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wk65tznka69t0bz58q05c3hwsypr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

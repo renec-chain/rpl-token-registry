@@ -26210,6 +26210,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2uEnE4bp6wiu2m3Z2it7LrpA5usLgCbBTAmEuBY9W5Lq",
+      "name": "Earth Coin",
+      "symbol": "Ex",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0jomt1a84mallv8e86xl2gw6i8iv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

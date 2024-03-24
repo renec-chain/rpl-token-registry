@@ -26223,6 +26223,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AnkkRTt5MHpZRkG2BDqY3Ywta7p1Lt7RSEm3eKAFMrfD",
+      "name": "Bovine AI",
+      "symbol": "BVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ll75nlocppv6stdke1kefg2nt4bp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

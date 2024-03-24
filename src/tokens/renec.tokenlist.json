@@ -26184,6 +26184,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BFhEgPv4SsPdoR7fHQR1yTdfUUvMfobuZgQGHHtmYDxS",
+      "name": "Definitely ",
+      "symbol": "DC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o4e1xkotrf65efuz2ozfkwpgb9wi",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

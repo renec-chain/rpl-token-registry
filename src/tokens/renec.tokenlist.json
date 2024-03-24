@@ -26197,6 +26197,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "45DY29oLnp6tPuKCjh6aGyMnEUL7hAKbutdsMV5MBYK7",
+      "name": "Nice Token ",
+      "symbol": "NTAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/52d66embfputwk399vumgsep76gz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

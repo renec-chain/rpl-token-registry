@@ -26275,6 +26275,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EoU5gaunuxVKAT4w3ohTPCgCsfCDor4yL9xMFNp5cmYE",
+      "name": "Original Gangster ",
+      "symbol": "OGAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rw7vrkf076qlp85oq9zdwipp4fr5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

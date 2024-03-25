@@ -26262,6 +26262,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CMn8nQQ29y9nctGnJusmZhe8ecZvqrHFQLSgdjBsrEbp",
+      "name": "OKAI",
+      "symbol": "OKC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m4jlcznqb6as9781lbfxc50ey6h1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

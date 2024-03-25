@@ -26249,6 +26249,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4PTKpC9j9JQR3TfRrND5yimuELxebYnUEYrYMdtD3prZ",
+      "name": "NEWt",
+      "symbol": "RNW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3yv2cwluomg8qlrwij0gcna6s1r1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

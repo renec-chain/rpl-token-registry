@@ -26288,6 +26288,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FyPXJysfCvQFeCGbHDNNqpktmGhiHPLMDSwARn2KdDtT",
+      "name": "Crypto ",
+      "symbol": "CityBoy",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4vr3c8s2r2t09tv0hzp15d59faa8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

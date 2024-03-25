@@ -26327,6 +26327,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GmPYHpPSZZDsF2RTgM9sxoATMXHU1FNqAfaifQjswn8V",
+      "name": "Olololo",
+      "symbol": "OToken",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a642s4uyer4ly0y0vtvjpmkmbt6b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

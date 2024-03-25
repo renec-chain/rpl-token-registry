@@ -26301,6 +26301,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BZAkRCNdBqgMn3dLCNzdYHJivm4d6D2HSba2GHc9za6i",
+      "name": "TokenAI",
+      "symbol": "AI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7jcacgh1h2xl004x0ontvih0q4f0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

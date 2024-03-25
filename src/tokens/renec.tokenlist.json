@@ -26314,6 +26314,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "79cSG8Xm1DsGjtGwmTD7HjKv6e4wVu5YDAAk2rTSM926",
+      "name": "RuffCoin",
+      "symbol": "Rcoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vb74gh3dynivs5zd8spo2qiwa0wt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

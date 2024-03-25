@@ -26236,6 +26236,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7BjU9JwFUUvkdWuPrDWFEiTuej979Zztvu6JWS7LWuck",
+      "name": "StarCoin",
+      "symbol": "KBOY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t9rcqvsi1kdu93k9ebmird6rj6z3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

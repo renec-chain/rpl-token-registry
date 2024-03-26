@@ -26457,6 +26457,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ANj1HNRpGmZPM95cBWZgKsxfurFazgMaJf87W91PNNrQ",
+      "name": "FortunaToken",
+      "symbol": "FOT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/usvxk5dp0zds3jo5vxmspahr7xzs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

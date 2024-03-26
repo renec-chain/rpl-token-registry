@@ -26418,6 +26418,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AvtPD8z3dG8HGTw2dYoKh5iu1a6XsawzZF2vyNhRAhQE",
+      "name": "GameGoldToken",
+      "symbol": "GGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8lhb32p8n7p0ph5g5fspoztj8veu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

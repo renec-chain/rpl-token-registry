@@ -26444,6 +26444,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EE47JHPMqE4o3ZAn8DQ6r3qBFpKn4NupkbD91BzgPDD3",
+      "name": "NexGenToken",
+      "symbol": "NGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/69duc2fmxuv7x1agdbmzpqeiufg0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

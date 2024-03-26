@@ -26379,6 +26379,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "93YnL8qRVbyoi3j197LYKTVbtw1TSY7qX5sE375UK1Nn",
+      "name": "FastGrowCoin",
+      "symbol": "FGC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nbrsaw8d8fj0nb81tb6tb2hy9boo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

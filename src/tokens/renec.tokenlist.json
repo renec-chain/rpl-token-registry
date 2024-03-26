@@ -26392,6 +26392,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6SesFhGwQSd3zFvqJgg6XYsgmbP9JMvVoarU9qs69t26",
+      "name": "CuteCat",
+      "symbol": "CCAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0ah1jau54z91zbjzi7qwc4a2q3nc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

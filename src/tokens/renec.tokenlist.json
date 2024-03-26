@@ -26405,6 +26405,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8rtM8Cemzz4NGcfZWmDjAHLwBEBWsoLcRe29SdPTxzkJ",
+      "name": "VortexCoin",
+      "symbol": "VORX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/driyq9cjd4uy0mwhymotechis4sa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

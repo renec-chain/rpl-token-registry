@@ -26340,6 +26340,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6nQCzs2HKZwPewzA2p1UaRJ21SduLuuHEjeRDJVs2Vii",
+      "name": "EconoX Token",
+      "symbol": "EKOX ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cu5ha2sv3hc112pru24nv2mospar",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

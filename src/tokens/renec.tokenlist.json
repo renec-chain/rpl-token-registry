@@ -26366,6 +26366,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "En9qaaxJf3mck8mbsQdZeYCnvuodsyNv1R88dwHTpZwG",
+      "name": "BnBite",
+      "symbol": "BNBT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ujwat8bm890tnkyl9rcpewuwdnbj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

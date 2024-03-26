@@ -26431,6 +26431,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DdQPPk66BLsGMs1RHBx5VDMkSTTUiGqAw8PncFyZF8c3",
+      "name": "SynergyHub",
+      "symbol": "SYH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bv6phxaokusvdwlpb82gmtw6zbzz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

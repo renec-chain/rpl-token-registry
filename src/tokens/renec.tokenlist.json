@@ -26340,6 +26340,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5A8SxESaxN9q3ZDbtbKrxRGqD75wYcXbvB2KF9Ts33Af",
+      "name": "CAT",
+      "symbol": "CatCoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zvr3msaaps55hfhntnem9b8pl70y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

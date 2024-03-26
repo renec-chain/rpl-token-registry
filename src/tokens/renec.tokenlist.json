@@ -26353,6 +26353,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JEJgSFyWyjaaedzfFSngToa6kLoyXVtiWjtZnmir3uRH",
+      "name": "DUtiliCoin",
+      "symbol": "DUT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1kume55cct8eeatnvb4b8883zpfg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

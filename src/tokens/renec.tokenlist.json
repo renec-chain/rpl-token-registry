@@ -25212,19 +25212,6 @@
     },
     {
       "chainId": 101,
-      "address": "6nQCzs2HKZwPewzA2p1UaRJ21SduLuuHEjeRDJVs2Vii",
-      "symbol": "EKOX",
-      "name": "EKOX",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6nQCzs2HKZwPewzA2p1UaRJ21SduLuuHEjeRDJVs2Vii/logo.png",
-      "tags": [
-        "EKOX"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "3rSenruWGNs5eQtim2FUVoWKbfaiK4KdshDQcVoHUdWR",
       "name": "Pi NetWork Mainnet",
       "symbol": "PiCoin",

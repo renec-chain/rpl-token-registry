@@ -26535,6 +26535,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5kUeTuih6BLKXXBH779p5Tn5x9zF5v7T8v1XFTB34GcT",
+      "name": "SwiftMesh",
+      "symbol": "SWFT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r9i4vy848282b345wth02mb0gl37",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -26548,6 +26548,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3b4LE6e1eH5yScQH12P5vsGFdm8YqbFmqPtA2Rp7GQ2x",
+      "name": "CryptoGold",
+      "symbol": "CG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gyhh2cckxorqiadlr8fssp4sr77t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

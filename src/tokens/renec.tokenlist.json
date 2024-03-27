@@ -26600,6 +26600,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BXyMMGvp6n2Xrq7rbsDE3FREhUh7AC2sfecSk1e7ecGh",
+      "name": "NexusCoin",
+      "symbol": "NXS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/juz8kqi2y2gbhfd9rhwgy5qcuo74",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

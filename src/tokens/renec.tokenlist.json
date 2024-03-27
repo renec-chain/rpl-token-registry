@@ -26470,6 +26470,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9CYKJLVf6gyW39XZFcMKSL9BKSebMRahsHuDJLadzxFF",
+      "name": "MindAIcoin",
+      "symbol": "MACi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/om0orw2aa4fymv4msto49a3chjbg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

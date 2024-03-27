@@ -26574,6 +26574,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9aHihdAjU4LfZumLG3WxH7UXfrTBLBMGpghz33eYGS11",
+      "name": "Bitle",
+      "symbol": "BTL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cummhimo017uqlxz4x5y9jyk0480",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

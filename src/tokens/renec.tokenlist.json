@@ -26587,6 +26587,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "816MjyqswXsTzm2oubi2qvRB4CPzpHxbtC3dNbQoZHcy",
+      "name": "DAT COIN",
+      "symbol": "DAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wlpz6xmrrzimod3igfhm60pbseos",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

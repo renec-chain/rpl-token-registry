@@ -26561,6 +26561,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9pTS9DNKjzAPdLqMtXQF1FxeVtA6HrLteCNM5g8Uz6RF",
+      "name": "ReDogeCoin",
+      "symbol": "ReDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r6siilmikz2dp0bijn5qwogbc0rt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

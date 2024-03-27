@@ -26483,6 +26483,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BAgKB4Shjgo6t9mM7sEkGtDA9SBagiS1xpTNCKcddTbe",
+      "name": "NHC17",
+      "symbol": "NCH17",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pn702gouvrdtqj3bpfd6kavxa19b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

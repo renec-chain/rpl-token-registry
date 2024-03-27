@@ -26509,6 +26509,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4nmNLu8QYabRm2MwyVkGCjQVnFm2hf97sgNm4mra8NEy",
+      "name": "Monkey",
+      "symbol": "MONKEY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ocghdqimq1f9jnc870ib9kfosf9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

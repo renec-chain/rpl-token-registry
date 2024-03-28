@@ -26613,6 +26613,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FrcDhPaiUhiScfKYn3wtyoJJdYt3B5DinDaLCvH1k59n",
+      "name": "Cute Cat 3",
+      "symbol": "CCAT3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zsdts5v48wph5jyjuh2dd5u59pna",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

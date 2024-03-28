@@ -26652,6 +26652,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GBeehQZefcxp4n3UAoBUiPTfPRPCbVdkFa6GJDHNGfmk",
+      "name": "Cute Cat 4",
+      "symbol": "CCAT4",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2h2g49bn0ucpjeyz3ububzupjfci",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

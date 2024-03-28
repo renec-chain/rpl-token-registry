@@ -26626,6 +26626,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CU9xfi8n51H5FoUUiRtBEYtuzafqTS7iBV2vU7D81HhR",
+      "name": "Cat Cute",
+      "symbol": "CATC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sy45o9ib4x1lf1eujb003avi58bs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -26639,6 +26639,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7MV4c7pxxoKZhqjeQXP9MUjkuZovZcDaVz1b2khyHe4T",
+      "name": "Cat Cute 2",
+      "symbol": "CATC2",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/73k89nnsgrr2lh7jkjg0x41krqo8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

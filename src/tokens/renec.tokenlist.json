@@ -26691,6 +26691,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BnFKk59ebkpGNQ9baNaVZ7zXtoTtmcYDRds3J42rvx4",
+      "name": "RENEC Noo",
+      "symbol": "RENN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wwhkj4uqb3vsezwcjbchjqi0oju7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

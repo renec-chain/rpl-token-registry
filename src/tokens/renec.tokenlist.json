@@ -26665,6 +26665,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DX1oYzei1vGFxQieo8ipqasLb1LVosATFu8YKD4CSSjS",
+      "name": "Piupiu",
+      "symbol": "Gd",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6z3ipgbbnl7mpzbg95vrn4wp7wtg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

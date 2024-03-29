@@ -26717,6 +26717,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ek8gjPLsUfLaNwZV77Hkr4EcsySQKiCwEBDcjFum1Li5",
+      "name": "ApexCurrency",
+      "symbol": "ACi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3jetlqyk4rk21m35au5cevkadhwh",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

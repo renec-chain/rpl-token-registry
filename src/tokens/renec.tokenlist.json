@@ -26678,6 +26678,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D9NeBWcfnzToKS9GKq3QJonmiyV3wUAzU1G9sVvvRju5",
+      "name": "NHC18",
+      "symbol": "NHC18",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6w1wwr4kj2ckbq1qiqkfaatrl4kq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

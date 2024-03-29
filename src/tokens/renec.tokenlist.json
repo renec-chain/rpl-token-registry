@@ -26704,6 +26704,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BeLyNXHaAcuVX84n1Y53tfW66KXYvxWhzogbovsYUXJK",
+      "name": "PrismCoin",
+      "symbol": "PRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nhuvsgiehlc3w21flarxfg7u12ku",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -26769,6 +26769,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B6RppHLGTJmQe4YYXM92VsF9ukBJjcvKbu3jkrW2tpn3",
+      "name": "HOR FOUNDER COIN",
+      "symbol": "HOR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dz1v4ox9nw3mn1thyja3vr6gqnu6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

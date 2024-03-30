@@ -26756,6 +26756,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CFUBVb8LVxUvckP3u8nuDkkP3wG8ceFjQR2yk98Yg7BF",
+      "name": "Ayoxxx",
+      "symbol": "Ayx",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yt2qk3rt77jkcoqmj0ekwwn8vu60",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

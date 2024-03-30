@@ -26730,6 +26730,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7aPoTKRXXb1vCsGw1vvzzFfvjcbaanjAUce79q8Prdey",
+      "name": "African child",
+      "symbol": "AFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mdqmqg2ddnc0ac5l915ocppesfd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

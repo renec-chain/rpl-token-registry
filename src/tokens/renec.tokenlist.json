@@ -26795,6 +26795,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3xED25ZSZWoiursjgCC6NHHXaGH24HMZvakvJWpj5gc2",
+      "name": "Cute Cat 6",
+      "symbol": "CCAT6",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kjjchw9rx4j62fmgetwani02bpp8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

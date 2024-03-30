@@ -26743,6 +26743,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CSx6URm5h6gtxx1aeWttFpoTYb4WQXEKLTYMEHS6Vk7Q",
+      "name": "Spencer",
+      "symbol": "SPX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/czrl2a7ux52eid3x9my95esewb4t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

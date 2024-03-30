@@ -26782,6 +26782,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "72vgMRkk1oEFe6LPibuMBkkPzbLU6CrMFisTezJ6uuGa",
+      "name": "Cute Cat 5",
+      "symbol": "CCAT5",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c3mgyy9omeu132tw4263inrolckc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

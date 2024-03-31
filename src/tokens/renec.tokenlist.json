@@ -26808,6 +26808,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5V3cf93pgG7XqJ6XbFk4SKb3wphJZAkHmPwYU5FQ2gNA",
+      "name": "Newgold ",
+      "symbol": "Newg",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t3g8tfw6uqq4a79o4vnr7nmuf4iq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

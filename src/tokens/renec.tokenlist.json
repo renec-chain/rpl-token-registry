@@ -26834,6 +26834,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FygaP3kxHSN6jieYxMfoYCWUVJvhCx5UyqxGrmQsqp5p",
+      "name": "TEST WHITELIST",
+      "symbol": "WHITE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3lpseyvh50t9mwjpbypoozybfgec",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

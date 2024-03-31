@@ -26860,6 +26860,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GCnRZ7NVbK51gNArfE3PXCfZcu3EWUApFRLXRXoWM6mV",
+      "name": "Test whitelist 2",
+      "symbol": "WHILT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ml1nxfrw9k44sqd346ychpbkrp46",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

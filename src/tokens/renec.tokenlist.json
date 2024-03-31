@@ -26847,6 +26847,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6MctCKVztweBNwWVtkZPHNbPSFPUoTqNm3Ti1sT96yx4",
+      "name": "Test INFINITY amount",
+      "symbol": "INFIT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pq3ek4b6d1cxl6x5uzecb55kncc9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

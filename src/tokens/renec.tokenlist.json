@@ -26873,6 +26873,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5xZgsafp1MrM6QHvNjENuRDLaP1ccpcSGYW1MFAxSRmL",
+      "name": "DJX",
+      "symbol": "DJX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cmwvpon0a22fga73t0z2w9yefj9f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

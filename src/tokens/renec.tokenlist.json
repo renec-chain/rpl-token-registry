@@ -26821,6 +26821,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "54nqAkZu3NeGmqVW3unSMoge31CDVBwuFkjWjewC3RBN",
+      "name": "TEST INFINITY TOKEN",
+      "symbol": "INFI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o4zda0s9h13rzemlw1jmhd8w5zc5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

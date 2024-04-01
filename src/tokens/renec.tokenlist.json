@@ -26912,6 +26912,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "F4buZfBcdnRb5hBFTxYjiYgMGhEErU2KGohaaYMtnKXp",
+      "name": "Test Infi 3",
+      "symbol": "INFI3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/16r9561a8e81vdpim5vxv650pai1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

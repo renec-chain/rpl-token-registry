@@ -27003,6 +27003,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "G9eVP9LMiiuc19c3byXhKXTf5njZ915hDLrmFR2YqGF6",
+      "name": "Test whitelist and buy max",
+      "symbol": "WHIBM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6awab4yezqrz9qy9xy48yu7dj1su",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

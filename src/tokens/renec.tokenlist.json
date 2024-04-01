@@ -27029,6 +27029,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4xpX7oSQE27BttL5DqQW4ktxRiKEx9pdHTznHWtpjNKr",
+      "name": "NovaCoin",
+      "symbol": "NVCAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o41cyn3z7u68f25tbdvpvpr62qg4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

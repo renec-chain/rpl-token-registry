@@ -26951,6 +26951,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2DfJPJ8Kqd6gpZZaRpWRWdnFw4n5a1hV4Hs4FRV9L9zL",
+      "name": "Test Buy Max and Unlock",
+      "symbol": "BMUL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vtt1s7qth3j28hq469rvuc32rxk1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

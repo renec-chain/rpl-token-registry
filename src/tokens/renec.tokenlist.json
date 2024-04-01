@@ -26977,6 +26977,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "icycs93KMkZedLx5uQMj3JxFYeCer7dvhMrS6X3hZ5c",
+      "name": "Catcoin",
+      "symbol": "Cattoken",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7xy34cpjlw6f16z472nk5z01n0kv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

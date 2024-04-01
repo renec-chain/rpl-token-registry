@@ -26990,6 +26990,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "D4VrCMAb2pVBNjnzmFZ42SEvAPKppqcUi27Vi58hu9rY",
+      "name": "Test Buy Max and Unlocked",
+      "symbol": "BMULK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cl6hsqcm8ix3de0xzj8d2ay9pu0k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -26899,6 +26899,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FysphiVZA2ciHa9jHW4QE1PZme2SFyuU2isR4ibB2ANi",
+      "name": "Joe Boden",
+      "symbol": "BODEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hlplr88f047mdb80xk8g83jcmvq7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

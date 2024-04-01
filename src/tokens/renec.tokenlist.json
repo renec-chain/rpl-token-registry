@@ -26964,6 +26964,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "677TT5V61ke1BpA3eCBP2BE4cyz69Vfrk5YePr9Jca6D",
+      "name": "Gjjvtoken",
+      "symbol": "GGT55",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8bt7685mwv8mahg5rk387w9rt9zz",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

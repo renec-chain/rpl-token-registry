@@ -26925,6 +26925,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6GrDiJeT8uUovdiwYMqmCyZgQoWbm4UfDDL6MMVjoLQQ",
+      "name": "Test Infi and unlock token",
+      "symbol": "INFUL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eiqiyepwdgr1a5oi67vqmqrm7s7f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

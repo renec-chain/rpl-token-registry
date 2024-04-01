@@ -27042,6 +27042,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7H3CJqYzSRzborSMKDAA3thEvxU4UqJfMGqV1hnTNJCz",
+      "name": "EquinoxToken \t",
+      "symbol": "EQT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wsgp2afiitdal7v1ua0ju8gn8gtn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -26886,6 +26886,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3xf6SDX8p4jvG1wKq35eSZ2qrqyM6J1Tb23Ka7eebRPf",
+      "name": "Donal Tremp",
+      "symbol": "TREMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rrx6ij52ewaw1lljolt9am5eh2yy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

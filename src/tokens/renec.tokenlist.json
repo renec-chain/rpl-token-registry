@@ -27016,6 +27016,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DyxWvShCrhfWXnQbWdFaQe6VM31RsZXMVeV9hxQY7dwY",
+      "name": "NexusTech Solutions ",
+      "symbol": "NT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/987lomn30tlnwq6efbvmxcm2ku0i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

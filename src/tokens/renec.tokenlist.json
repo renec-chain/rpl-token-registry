@@ -26938,6 +26938,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3PpmbUH4hQ1kBiaaus7khSZMJoUN3mH68dc2Y4mNicvb",
+      "name": "Test Whitelist and Unlock",
+      "symbol": "WHIUL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kfu35twmgdw29l54qpw8lm1nkwwn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

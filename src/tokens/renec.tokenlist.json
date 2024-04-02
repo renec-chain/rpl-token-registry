@@ -27055,6 +27055,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CiYBZgZ1ni32Mt87Nn8iBUNA1a6suXUauhbxxMo2Myfd",
+      "name": "Test Negative and Buy Max",
+      "symbol": "TNABM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/huo3d9nijued7mk6xrckr1nmg0xd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

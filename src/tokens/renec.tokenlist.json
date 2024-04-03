@@ -27094,6 +27094,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQsd7ZhNpx1WqKewCEwPr22KR9FRkbzgHM6ksRnEZbT9",
+      "name": "J7ay",
+      "symbol": "J7",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6dijgo1tyb656s2yd5i663hromff",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

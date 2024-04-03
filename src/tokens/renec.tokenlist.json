@@ -27068,6 +27068,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FHns8uphdcvdbW5BFFiMstbPpHioHuKbjvC1sYKe1Rkf",
+      "name": "Test Claim and Unlock",
+      "symbol": "TCAUL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pq87e6k3tf113ads5wrs84rj1xyq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

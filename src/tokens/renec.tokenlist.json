@@ -27107,6 +27107,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6tcFqBEuEX9tgm1KrL5mkGXEvXAXcbAVM7EM9qJgYKS",
+      "name": "USACAT",
+      "symbol": "USACAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/44zunmzxmxp8prxjoilrhqgrtmeu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27081,6 +27081,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9xXbUgZWeM8xdr2MzegUXUdSovbTdMCb4Cjwx2riTSdK",
+      "name": "Flash Coin",
+      "symbol": "FLA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kugj3tyc0jbjs820zcxp05du0c3h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

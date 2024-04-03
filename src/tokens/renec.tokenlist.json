@@ -27133,6 +27133,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4A5FXW1GAQS4qX9DqZGHnsPnrMwipLicyT6Wvqi7EHdc",
+      "name": "MAGICXPLUS",
+      "symbol": "MXP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/882edz8n2j93vukykl54eqw30ocr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

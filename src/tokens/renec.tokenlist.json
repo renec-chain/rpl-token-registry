@@ -27120,6 +27120,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8uEcEftbPxGqMnrFRDqw4QbMuJkogk5Fjh7RtNe5FTPT",
+      "name": "xDD coin",
+      "symbol": "xD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5mdbt85km8oqza5cdnteaten78pq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27146,6 +27146,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "99L42Jbb9Ln7HKStqjFeDL5w4KkY5YC1LhSe79ozrLL4",
+      "name": "ZERRAFROG",
+      "symbol": "ZEFOG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qxud5ku0o2no0kr1f5vii9u39mte",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

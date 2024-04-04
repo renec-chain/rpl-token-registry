@@ -27159,6 +27159,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7KvkrwrFvTzTyaL4cwqmVjGgirZSh6WP8FvhzYLzLqUc",
+      "name": "We Love Renec",
+      "symbol": "WLR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xel1sdnv0atr9vosefjjqjr0rmf8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

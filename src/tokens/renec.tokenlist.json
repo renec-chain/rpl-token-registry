@@ -27172,6 +27172,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "GosUpFXAbzANfFNyjVgTp9HSYju9GdcwRXdvJ3KMoJ1Z",
+      "name": "eg",
+      "symbol": "egRF",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3b2teetwvdn91j01dkv57zjcy4t0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

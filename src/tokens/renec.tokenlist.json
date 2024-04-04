@@ -27185,6 +27185,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8NutDHL522zUFmAnS5XmCqPwaDivuHpaVnFQjWuXzGcu",
+      "name": "LordchrisPay Token Testing",
+      "symbol": "LCPTG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g36bp6bnmxe9e51833i0zgx6kahm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

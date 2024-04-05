@@ -27198,6 +27198,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H4uLLzJVvmrExYJjMNv8ppSvUR7tgupN29zyooZcK44t",
+      "name": "Okeyego Governance Token ",
+      "symbol": "OGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pw1u9qhqy7gynza18mlhep59jzk1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

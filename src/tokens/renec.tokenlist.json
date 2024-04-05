@@ -27198,6 +27198,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3T8nttxJBGdKTQSsPL7Dpcp2yN5NiR34hmhS9vZ8mZPt",
+      "name": "KimKim92",
+      "symbol": "8b2eM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ciyigfgby95u3cx6gvy44mcxbs33",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

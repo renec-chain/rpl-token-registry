@@ -27211,6 +27211,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D6dYnW9u5Pgeq54oThPvjsCXG9m61VsBUzX7GUQAxG6r",
+      "name": "VNDigitalCash",
+      "symbol": "reVNDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tkyj5dbgw4ywt48jb8qzbu39kpz9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

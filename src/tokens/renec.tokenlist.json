@@ -27224,6 +27224,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "G8vVWKA2jLbQ5b3QSMUowdHQGvx4NJEQHTMxBTx5yBLu",
+      "name": "InnovateX Token",
+      "symbol": "INX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/87v8k7kxjk0s1tioteay2q4nwocu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27237,6 +27237,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HMc9PhnLsRzdj8Xhi46e5goEoCSTFF2ixD3irSYtUUXA",
+      "name": "\tInstantArmor Token",
+      "symbol": "IAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c0c0nr30aor3sktshw8p0tgwggco",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

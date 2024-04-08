@@ -27250,6 +27250,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6pjLv5ESF5cfLJoHmg59T87i6AMBcVUZdrjHYTN7WGiB",
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d3dtwbzinwuy97nkpekmex7r7fji",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

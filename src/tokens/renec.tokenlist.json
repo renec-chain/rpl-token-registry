@@ -27263,6 +27263,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2KLmfG7WURgXLmd4qR1v2s6Q6xAP1A8eTskwriwgnojT",
+      "name": "PandoNet",
+      "symbol": "PaNet",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ushfivzeuilytkosfvu4pt04lbe",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

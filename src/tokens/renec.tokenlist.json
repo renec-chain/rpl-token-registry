@@ -27276,6 +27276,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5zMpLn1doV2sHehtYySBmLpfpJAXeZoceoSMJN6j4jkk",
+      "name": "ReG7",
+      "symbol": "G7",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k5zyfo3syvqi5lrse3pjqop3g0n3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

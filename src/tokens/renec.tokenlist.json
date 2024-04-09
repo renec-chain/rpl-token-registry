@@ -27289,6 +27289,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H1EpinmSFYVYF1Hfp1qo46FrvAgpTmAjmRGFXEkyVxgN",
+      "name": "G3T",
+      "symbol": "G3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/52xcpvx5glt4a2iwwjyvj9w7ydgz",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27393,6 +27393,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EaL1EtY4ck7MwcaR5LybEePu1kMp1YPDvp8YinEYxXPR",
+      "name": "DACH",
+      "symbol": "75000000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yguds25bate10f47eipjk4kx9vd3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

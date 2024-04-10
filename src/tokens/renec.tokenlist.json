@@ -27367,6 +27367,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CHqS2DYp8tpcyhuyd8M4cvw9s5Svzk1pUTe91gYP96J3",
+      "name": "JPM Investor ",
+      "symbol": "JPMI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ei20p9xc0gs1f7dzpmw33t2ky1x3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

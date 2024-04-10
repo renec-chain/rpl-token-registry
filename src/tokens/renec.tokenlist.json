@@ -27406,6 +27406,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4RtBXY1KHU9rB1dXkQ4TGqa4Kd7giGsbJo2M7gDLu39q",
+      "name": "ReBxngacams",
+      "symbol": "X18",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xs2bug70ktkzgxd309yi635csktq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

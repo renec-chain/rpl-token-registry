@@ -27328,6 +27328,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FAiyysth5sRRHkd8D1CpwkmZYSH5G2uWo8ca5WK5nDH1",
+      "name": "JPM stock",
+      "symbol": "JPMs",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hn8k8yrzsf4jqqr4mxuwszp4rfsk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27341,6 +27341,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GqH9EQivNf5TAtRGisr6YYpok4wFWxqnJv1iutMiDk8L",
+      "name": "JPM DAO",
+      "symbol": "JPMD",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fqnedc53ew0auglhsrc896y736lh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

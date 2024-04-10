@@ -27354,6 +27354,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Z81SGSAt3gsMb8pxncnxY5ZdDEeYDwADKPYZKohzVro",
+      "name": "JPM Community",
+      "symbol": "JPMC",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e3ly69nx3edugh25vo2r4ol6du8r",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

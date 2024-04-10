@@ -27380,6 +27380,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FwrJPn8sPvgnS3iGzJKSSLaWNM5sPZLpAY1VxrQ9wtYr",
+      "name": "MATRIX PRO",
+      "symbol": "MATRIX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ginfwif20ax7rkl7vsh1rm5k52n4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

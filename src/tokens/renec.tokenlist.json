@@ -27302,6 +27302,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CVjRCBxyZWakPnkxeHHGxDEycfMx4wkDsWUYvVLSzuM3",
+      "name": "JPM Bank",
+      "symbol": "USDbank",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j9z4kp8amv5bm9vc41y311z903x9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

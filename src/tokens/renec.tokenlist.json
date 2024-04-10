@@ -27315,6 +27315,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "81shQvQaDHoiNf43N9vcPNptX3CT9BCVN71r2hqP2F1P",
+      "name": "JPM Finance",
+      "symbol": "JPM",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0iuszzetre965i6ws69qbuey5gjq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27471,6 +27471,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4BpVgenR15z4u2C3GcrmMgQc73oRA3U11BJZGXgeeyQ4",
+      "name": "USD KIN",
+      "symbol": "USDKIN",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b07zfiggqokt1o7cqhvt6thstqcr",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27445,6 +27445,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8gpzgm32tNAkwg9CKkHkYGycMrD7Bc2YMYCk6nsJ13qh",
+      "name": "B21",
+      "symbol": "B",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ke7ndb92fig3m5699fupm84g56ph",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

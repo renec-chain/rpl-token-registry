@@ -27458,6 +27458,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4UWN3N4AejmzKCmwit2qzBtR9fWB4tsP98nAcBTuXg7Q",
+      "name": "Dollo",
+      "symbol": "Dollo",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2oletpelrwwx3acd0momrqnalwl3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

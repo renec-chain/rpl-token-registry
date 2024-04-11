@@ -27419,6 +27419,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4aALPB8rvV6sKRa8HgMZwPJVsRqMPTHmZRgqx4ZSqEsr",
+      "name": "1USD",
+      "symbol": "1USD",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kzu0u7jicbdwhw82a7v9rjn0dgz8",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

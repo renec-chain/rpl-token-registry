@@ -27432,6 +27432,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Fh8ugwYWN3RWKgBhoAKW72JWx2QAbhp65CHxNqGCxnb",
+      "name": "8100s",
+      "symbol": "8100s",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ij4gxtigjrwt6hffesww4aoq2byy",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

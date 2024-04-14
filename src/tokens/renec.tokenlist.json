@@ -27497,6 +27497,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "87oTFjYqeuJ5rYTHvyzzoJLJG1GUHZ1Kwe7DB1iEA7Tt",
+      "name": "Digital Fiat Currency",
+      "symbol": "DFCT",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1rlwbga8m9pqq1ref21zdr7vs14k",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

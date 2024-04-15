@@ -27510,6 +27510,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5DifY2UwZXd9PVN2HQywzK1FZCSGhwkaAXngbZmX8Jx3",
+      "name": "GOLD",
+      "symbol": "XAU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/teace1sxqufz8chn176cxanguo8a",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27523,6 +27523,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AC3XfdM7QXuuVpkWDfSSjLvookLPG3Bch9YiEey4rwV6",
+      "name": "MemeFire",
+      "symbol": "MEF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4wi4t51e6d02b9fr9lll89yq5qi3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

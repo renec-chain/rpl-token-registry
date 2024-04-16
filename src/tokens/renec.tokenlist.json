@@ -27549,6 +27549,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9tqfCuf85957HU5o6CymKmDUmwW9Ue6FqxUWFktd3jQf",
+      "name": "SeaNtoK Coin Foundation",
+      "symbol": "SNK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gdjidv11vca68d1moezg9mckz4c4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

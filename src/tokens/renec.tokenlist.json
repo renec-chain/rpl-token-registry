@@ -27536,6 +27536,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4rKQAo2NY1DKmcnQpLUG8e5ZYXucaMKMneeq3iUtTQ1b",
+      "name": "degen",
+      "symbol": "DEGEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v726vep3qwefcwoh6sb6l7npsu2t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

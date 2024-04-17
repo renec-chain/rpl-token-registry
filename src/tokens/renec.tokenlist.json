@@ -27588,6 +27588,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ECgd7m776L7v15bwcX9qrSdUf1EsoVvfU8pdphqcMKBW",
+      "name": "Doge BTC",
+      "symbol": "DBTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/unt94tnpyg82uf8famhxvnb0ozlk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27575,6 +27575,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6vCctbLkfYM8eZBPf2FuXSvWVV7qScZEVNoa52PkVhrL",
+      "name": "Doge Dollar ",
+      "symbol": "USDDOGE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h8kzhz4nxg0d04zez9z9atjrghvd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

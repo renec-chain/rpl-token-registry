@@ -27614,6 +27614,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BSdyAK8RvtTug4xb2Q1tjRYwBPPuA1wMkoA7oGApMBdz",
+      "name": "catwifnemo",
+      "symbol": "CWIF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qqq5vr55g78f7fezpadr2g6elj5c",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27640,6 +27640,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DdBTzaTjqwhLpcKC1tCBLbhE8uU51dDcZskTxdLEkVA3",
+      "name": "Tin",
+      "symbol": "999999999",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4te7fnd7v7jvoferdayxpsed61ek",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

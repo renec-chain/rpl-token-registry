@@ -27562,6 +27562,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5kibL4SvbSFBaPSuwRjE8VkZwtyvqGSRRA7N51RLrXZ6",
+      "name": "Bitcoin Future Money",
+      "symbol": "BTCFM",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lguurvnv10x5c7ysxbp1hyg067q8",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

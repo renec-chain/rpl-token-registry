@@ -27601,6 +27601,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6cLSsDeTFv5VQoYQR3yp3KPVMwdu6DrTCFmxTfPmFJS5",
+      "name": "Doge 11K",
+      "symbol": "D11K",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dhzqtnxelj39u941onjd6fewwk25",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

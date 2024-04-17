@@ -27627,6 +27627,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Da18RXsUpfCEH2iDQeFQMnmmvRRFAgWFPnyEb4SgzVkb",
+      "name": "Bitcoinos",
+      "symbol": "BTCOS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ghavg5d1mqo3vfu1i6s3k871ud8w",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

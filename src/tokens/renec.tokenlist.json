@@ -27653,6 +27653,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2TQ3iytFLRgizZyDUHWEqLQXQ8qNMSh5gVCseDccygyv",
+      "name": "EduBlock",
+      "symbol": "EDB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ivel6kqihjtyy6unnvz0rzezum0u",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

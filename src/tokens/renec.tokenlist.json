@@ -27666,6 +27666,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dyg35xmQJmkYpHiUyX57i7bpTei8L5VQpR5VvAQxmns9",
+      "name": "ArtClub",
+      "symbol": "ARC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3vg7oak69b638f5tpes6oqs78ysl",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

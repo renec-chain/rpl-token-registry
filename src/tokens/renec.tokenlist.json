@@ -27679,6 +27679,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CtewKxTZ3m5jJp9921aG1AwSakVFBakYZtTTerXc1AWM",
+      "name": "ArtGarden NFT Token",
+      "symbol": "ARG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4b2240yggtfrp5crdd2os8zoxyt3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

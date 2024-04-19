@@ -27692,6 +27692,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "52GqJX9CEQCCi5bPJaG43VvG4nHsJxkNQyBJMnLFzXys",
+      "name": "Kplus",
+      "symbol": "Kcoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r1qy84sl7tqd8a7bhkcxozuo78de",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

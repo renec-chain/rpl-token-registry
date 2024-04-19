@@ -27705,6 +27705,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DwLvFPE8cD2dXMxPidCheKCFSbCrNun8KiTaGnad3tP",
+      "name": "Tiktok ",
+      "symbol": "TIKTOK",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rhheinya76f1eerj6tz5eh4szhdi",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

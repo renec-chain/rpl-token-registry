@@ -27770,6 +27770,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3NycbA1KZLvuo9mK2gYFyAML2Z7S3m7BcabZri1Mef3g",
+      "name": "Dog Min ",
+      "symbol": "DOGMIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wck6lzggm521atrwewv8gdxqb83a",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

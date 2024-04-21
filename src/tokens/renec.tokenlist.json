@@ -27796,6 +27796,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "72craHAQevNae4wHTaLrT46qPi2tE9jtDHM5tdiQHJuJ",
+      "name": "BTC Green ",
+      "symbol": "BTCGREEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cgjwcy30v46ugez45n3g9egne2xn",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

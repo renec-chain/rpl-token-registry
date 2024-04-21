@@ -27809,6 +27809,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3A7ZJbESMK25Qsxw7uYfszphaesLthouQKyjkWExc6cT",
+      "name": "S Dollar S",
+      "symbol": "SDLS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qilrhuwlfws1faoe2sj458tznpq5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27718,6 +27718,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AdBq7qAAFxQRNBAyg2ULjQcXezZuHsgJVnjK2woeq7pt",
+      "name": "Dog Coin Me",
+      "symbol": "DCM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pawynsy6cfz2qcx9aqdiql22ro7p",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

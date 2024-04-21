@@ -27744,6 +27744,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AomKhx5HBFuu32jqqFnkAvRX7WSwKWwMLdCYWJTP6ayK",
+      "name": "Demon Dog",
+      "symbol": "DDOG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o6sr48372x5oa2anzlcy1yoaircs",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

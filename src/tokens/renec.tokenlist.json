@@ -27731,6 +27731,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3kRvafVSwn7kcXTkvbjXg1zZtyHLjwdxCYjP81L1f1ga",
+      "name": "Doge8",
+      "symbol": "DOGE8",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zpviw2ebtldinmb6uep8lj9lyi1y",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

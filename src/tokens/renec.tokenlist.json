@@ -27783,6 +27783,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Bn6dHUkPKJ1729mjcMJ7Rb8utkcvv64FMKA6miNpjY5Y",
+      "name": "Doge brc20",
+      "symbol": "DOGE20",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lv73u85c151oypm3ydqv2kztck81",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27835,6 +27835,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CriuZrkqGJVxC59ij2AkDB46A5XmTv4DVh6z47uj4czE",
+      "name": "SAFE",
+      "symbol": "SAFE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vcefsl6v5zcauu8zv0azxa15m78k",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

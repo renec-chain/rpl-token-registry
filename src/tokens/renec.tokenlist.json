@@ -27822,6 +27822,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G2Bbz5dhzW9tfkxDUm4osugyxin3pzvovDJuno8TLRwG",
+      "name": "DLLOR",
+      "symbol": "DLLOR",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p4wiro0w8bdjidp29r4ba33esxys",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

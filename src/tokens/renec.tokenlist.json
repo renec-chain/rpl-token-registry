@@ -27848,6 +27848,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H7s4g9AuHjSDtjmLYgNjwfbyeq6ekQ8DdDyPr8Vo5D78",
+      "name": "Kininextthing",
+      "symbol": "KNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m3oflwoqtzvx5nhyafqxbzs1uvqy",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

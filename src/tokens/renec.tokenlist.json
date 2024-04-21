@@ -27757,6 +27757,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fg2JS1dTkcacFqoLAVfFJkkZKMnvnKefjF8bALmbpXy8",
+      "name": "Doge Meme ",
+      "symbol": "DOGEM",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7u6tmgp89rtttkcimtn6oc5l9u1g",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -27900,6 +27900,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "77DJTyQtpSNPkcSrU9rbx8PjKj9HqE7pyFgSNMBmBtXX",
+      "name": "Majacoins",
+      "symbol": "MJC",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/htknub2dxka1rgkbsnajugsyv3bi",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

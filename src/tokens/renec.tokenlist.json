@@ -27848,6 +27848,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3r7AzTijvTDoLGgMqcNXTJimwg8XyxUG6EaVqHXF8EWC",
+      "name": "reSOL",
+      "symbol": "reSOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ix3jme6hwnk8b0pngwv5jlxgeijz",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

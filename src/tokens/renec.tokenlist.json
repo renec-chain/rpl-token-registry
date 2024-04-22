@@ -27874,6 +27874,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Yx2kgiPaSXKARhbkeZXufefmTJXMgUpuiKU5139ZzxB",
+      "name": "Huynh",
+      "symbol": "000555",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yy2dg837p83wgyslee79gp5a827s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

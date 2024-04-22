@@ -27861,6 +27861,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6ytigxwGYviX3HjDeUZnXZ5ZxDJMJAqjbb4jgY46Ddcm",
+      "name": "Huyn",
+      "symbol": "1234",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fd4kdqg8qih6ze967s7y4bctb9x4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

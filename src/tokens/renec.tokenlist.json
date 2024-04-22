@@ -27835,19 +27835,6 @@
       ],
       "extensions": {
       }
-    },
-    {
-      "chainId": 101,
-      "address": "7G8x2UZSgVDZzbPSUKGjg2e2YAkMV8zwiP1525yxEK47",
-      "name": "reBNB",
-      "symbol": "reBNB",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l897z7q9i6avpgzov55yvjim387c",
-      "tags": [
-
-      ],
-      "extensions": {
-      }
     }
   ],
   "version": {

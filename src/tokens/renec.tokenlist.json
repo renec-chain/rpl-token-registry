@@ -27835,6 +27835,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2RwNF1ezDf8Fc3MF8WDVWihBUcN4H3Qn8cq5C5ibyytk",
+      "name": "Help Me",
+      "symbol": "HM",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/omvsubb89x59wiiy4e0u7q2eu6ay",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

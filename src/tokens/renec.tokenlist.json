@@ -27848,6 +27848,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C6PuKZedc1aJ7qoMQAiYCyFVmqwqEy6WbRPoNJMzeQqc",
+      "name": "VORTEX EXCHANGE ",
+      "symbol": "VEX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pfwocvcab36v28hl6t46x8yhkpqb",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

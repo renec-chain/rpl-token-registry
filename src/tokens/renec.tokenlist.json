@@ -27887,6 +27887,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7GRaFvMEUJCwNEme4DsNRhrQ2Vbb3gBkKgJ8P5TV5Ho5",
+      "name": "NHIN",
+      "symbol": "00055",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lfn50igmnwxnctt3vdr139t3ial3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

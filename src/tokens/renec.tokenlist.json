@@ -27926,6 +27926,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7G8x2UZSgVDZzbPSUKGjg2e2YAkMV8zwiP1525yxEK47",
+      "name": "BNB",
+      "symbol": "reBNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7gugsoz5j6d2tnu9omg8ymjwu2qx",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

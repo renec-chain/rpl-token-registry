@@ -27939,6 +27939,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3r7AzTijvTDoLGgMqcNXTJimwg8XyxUG6EaVqHXF8EWC",
+      "name": "SOL",
+      "symbol": "reSOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/34xpjhmfxaa1yo72xndn8nob6g9z",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

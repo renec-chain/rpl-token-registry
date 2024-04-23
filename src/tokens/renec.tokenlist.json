@@ -27952,6 +27952,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E9ETiwjpYcJPZ8RHjhKiP3Kxjve12kKEciux2Zh952KC",
+      "name": "BITTOI ",
+      "symbol": "BITTOI",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hnzrrncudmrd5jup4caxiwmppxdu",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

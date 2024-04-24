@@ -28004,6 +28004,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6R7oj7LhsrYVw6aZ5KqwXuJHWmcmUWmScR6jq1ChwfLj",
+      "name": "Mart",
+      "symbol": "Mart",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g9sa1nmb353s27aq7ujeombb26wl",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

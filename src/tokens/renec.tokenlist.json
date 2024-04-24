@@ -1721,19 +1721,6 @@
     },
     {
       "chainId": 101,
-      "address": "Fj1EL9LFkNgKuqN745PTGkDb5qGfdVi4nLkJvErgtQMh",
-      "name": "SHP BANK CRYPTO",
-      "symbol": "SHP",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f4ujvyicd50j39tplwjxwwig4cgz",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "5Ld1hPeFjRnYer8YrBDhczu4FTg1aYs6GaiFAHofJ2oE",
       "name": "Zksync ren",
       "symbol": "ZKR",

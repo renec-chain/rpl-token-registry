@@ -27952,6 +27952,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8bG9H83V3w5kGvDozm7sNNa8nPeMTSfa4SYsPakehayt",
+      "name": "TONCON",
+      "symbol": "TONCON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ms5t0yunh7g8sxrkidvf78cg15v1",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

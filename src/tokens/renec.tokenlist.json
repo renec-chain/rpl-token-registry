@@ -27991,6 +27991,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9E8Lt4J6dmmiUAptwjqZUjfb7FC78Rj55QGKFuVSWoFX",
+      "name": "DePIN",
+      "symbol": "DEPIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8css1r2mp1czgev0rwhs4c4yfb17",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

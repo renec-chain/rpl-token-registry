@@ -28004,6 +28004,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AbQFBJZAFWNq3cG8phggbgdFMf1cfr81p3NiuputoorJ",
+      "name": "Shape",
+      "symbol": "SHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nmbr35r6a8ala9zmj18xif5qp30d",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

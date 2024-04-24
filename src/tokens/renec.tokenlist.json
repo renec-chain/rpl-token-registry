@@ -27978,6 +27978,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JaFxRyAbmuEByx129N1gDsWiyp3vgqUJe8AvXf2iAfp",
+      "name": "SocialFi",
+      "symbol": "SOCIALFI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h0ook5gukuzj1pf8mudt3cp88yf6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

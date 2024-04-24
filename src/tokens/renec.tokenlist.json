@@ -10379,19 +10379,6 @@
     },
     {
       "chainId": 102,
-      "address": "3JGNmPnWetR2gcGJk6mKUTmqMNb7sBUFKRbtmKPFrUsN",
-      "name": "REBNB",
-      "symbol": "REBNB",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yx6jiehxsekiez0ftmomrl7owfbb",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
       "address": "7NpXkAgoQV3WqWUVksz86FfbCheJpM3VvHoMRtWD9FbW",
       "name": "YUMMY",
       "symbol": "YUM",

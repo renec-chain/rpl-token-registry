@@ -28017,6 +28017,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CN7pLWoBcvQ597tQ7surcMtMBzrD2TaXSrh1CCybu6Mk",
+      "name": "Relend",
+      "symbol": "REL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cv523vkcqfteje18e07rrf2ozg2l",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

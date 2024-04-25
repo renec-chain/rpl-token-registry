@@ -28030,6 +28030,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FBsus6Be1D4y9M4KwvWgV8CyryN85h6kmskv4Jzb3ar9",
+      "name": "Bunny Bucks",
+      "symbol": "Bunny",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m7w9ss9fr3wlj4zqw2ut8tnerxon",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

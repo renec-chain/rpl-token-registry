@@ -28056,6 +28056,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EPttFE3mbzMCrmPKJCpkur1YfWGEbDDhHkbVXeqAftvu",
+      "name": "ABC123",
+      "symbol": "ABC12",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uzgfl5hhgmpbexaw9sxter3na593",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

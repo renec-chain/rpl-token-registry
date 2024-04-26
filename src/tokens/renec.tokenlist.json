@@ -28043,6 +28043,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5qsc3U5JGj4GWkj4CjNfBZS7npgb4S6AhzzNCbPTjUST",
+      "name": "First Digital Coin",
+      "symbol": "COINOS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nlxpzkyu8cyeiwyoyg42o7ykl46w",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28069,6 +28069,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HR9sqgqXbTAgYmpLJqU5oPLpSQFBRT736bMZ5chrkJAk",
+      "name": "NONG qua di",
+      "symbol": "NONG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n13z6kumvtja48fdyhkackaj5igb",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28082,6 +28082,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BQEZ2K6Gj662kdKtaH4RhpuZDrPpxKm5ANFc9e27k2YU",
+      "name": "APS",
+      "symbol": "APS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6ih1klb7pgxeu4c2qjlcihulunbq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

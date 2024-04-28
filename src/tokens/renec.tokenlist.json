@@ -28095,6 +28095,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DqLzA9NpZyznCj8TK3Mf9nwNs6rR2JbVkdBn5QsV2zbW",
+      "name": "VORTEXCOINAI",
+      "symbol": "VCAI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3gd32638kpmbnuh9h3rpvbg2zish",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

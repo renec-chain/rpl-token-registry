@@ -28134,6 +28134,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BNFKxJya1DVj3kAHpLT38C58g1GKj8ZT5P2NGKWDfCzn",
+      "name": "Seahorse",
+      "symbol": "SEAHORSE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/g0nctwasq9agjpu28fg8irl110ty",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

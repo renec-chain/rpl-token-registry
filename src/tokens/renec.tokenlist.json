@@ -28108,6 +28108,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7QuWTt9tcWsT1YHGrf8h4bYRCFDnQR8RATZMLBs3XEVn",
+      "name": "Seahorse Coin",
+      "symbol": "SHC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rofgfljcomsz6bm9msh65pfcj5zi",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

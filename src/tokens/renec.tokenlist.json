@@ -28121,6 +28121,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3k7xeGnLEBzpsxikJiPCCXhZ2bT3R3Y8KxZ6eYb9tGui",
+      "name": "Seahorse Dollar ",
+      "symbol": "USDSH",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d25pzje3z1q8uvvz0qfvwdg5q027",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

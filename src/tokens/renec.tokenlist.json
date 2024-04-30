@@ -28186,6 +28186,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8WaSGBZvFzgX5Nhwb1q8iSCvpFG2Q6mwJ3QfuZTKkpVM",
+      "name": "Seahorse Platinum Card",
+      "symbol": "SHPC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/07guvatmnhcnwknukyybjq1nstd2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

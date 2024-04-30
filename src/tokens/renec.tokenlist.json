@@ -28160,6 +28160,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "33Pmnb44yaG6DC51XCRKDiAh7XskZeZYf2jNXH9fJteP",
+      "name": "Seahorse Black Card",
+      "symbol": "SHBC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w4kmpndtuvvb4wm1my1zbqvxgles",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

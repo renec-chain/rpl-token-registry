@@ -28173,6 +28173,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DsJ6DuP8aSReDVJkoNsphjkhGrh6j4mpfBB5Nzj8mLqT",
+      "name": "Seahorse Gold Card",
+      "symbol": "SHGC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/852b71ck4vdx85nlnv62op0xob2g",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

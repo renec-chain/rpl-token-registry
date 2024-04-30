@@ -28147,6 +28147,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fs8UBoNPJCWaGRvKx6hL33cy3Z3K4fM9dRK7y2Ah4eWk",
+      "name": "Punisher",
+      "symbol": "Maximum",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e082jw8npbb0qv5m6w4s0tsf6x3q",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

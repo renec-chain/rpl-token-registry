@@ -28212,6 +28212,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A37EQUMvWa9VrdGnVZFuMQwRBF7Pqh5RXM63E7hYERo3",
+      "name": "Funny Driver 668",
+      "symbol": "FNND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5wlqzt7oyz5th0ntktlyzi6pl5lo",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

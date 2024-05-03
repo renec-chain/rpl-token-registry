@@ -28199,6 +28199,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8qbgMVnUKBMnogYPTTUhNUYnqUD9r9DvhiygANPusdQT",
+      "name": "S3018",
+      "symbol": "Max",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eisutkw5y851yqju12230cocx0ha",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

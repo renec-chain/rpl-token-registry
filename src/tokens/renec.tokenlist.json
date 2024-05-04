@@ -28225,6 +28225,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2fr1PSBvqZbukoL4JnQq7JSiEF5cGfoRB8vdBUnBPpH8",
+      "name": "EMMYCOIN",
+      "symbol": "Emmycoin",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/db5nb09s67islc09lbe8j2ay7gnu",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

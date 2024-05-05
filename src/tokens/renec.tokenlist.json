@@ -28238,6 +28238,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ak1CCujHiskjo6a4wShQUnnNJb8sqQhpq7mBcaB1fhYu",
+      "name": "MASTERISE HOMES",
+      "symbol": "BLV",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7d3ne47rlz3uqmcum6g17ltzncf8",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28264,19 +28264,6 @@
       ],
       "extensions": {
       }
-    },
-    {
-      "chainId": 101,
-      "address": "5fqj1BZFXSgSedL7uRu6GoaZiBvvN44Lb53yzXbjqrHt",
-      "name": "EASHO",
-      "symbol": "EASHO",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/edeaaz2r7nvplw2w5ecu39b3cekq",
-      "tags": [
-
-      ],
-      "extensions": {
-      }
     }
   ],
   "version": {

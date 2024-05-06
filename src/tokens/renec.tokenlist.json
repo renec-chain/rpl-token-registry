@@ -28251,6 +28251,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ZgR8cXGhnrxS783DTbAedT5HBTAA7goWGdD7j4VeK5o",
+      "name": "stRENEC Token",
+      "symbol": "stRENEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gvq72cquoty7xclkuelltq9cbh1l",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

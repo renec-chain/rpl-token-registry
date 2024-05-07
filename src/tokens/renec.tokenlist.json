@@ -28264,6 +28264,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EEKtb8qxd94eiAJQVWzhan1mDM8b3mN4rYr58ZHXAaQP",
+      "name": "Mmwin ",
+      "symbol": "B7cps",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pqvdsuqcsil07jzigztjsc8g1jwt",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

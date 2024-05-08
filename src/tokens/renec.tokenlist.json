@@ -28277,6 +28277,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Ha11QYUDT2TfHJv6enX7RLpPvQ9mD66jPqxUkAGc8FbW",
+      "name": "STONKS",
+      "symbol": "STK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gj1ctpydx4uzvl5gbguow0u5eox4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

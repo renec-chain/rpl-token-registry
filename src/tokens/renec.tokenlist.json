@@ -28316,6 +28316,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9CVe3JKH1MmdVs8TCydyAbUaRkZg9aRKnsGAGBLPpvj5",
+      "name": "OVIC ",
+      "symbol": "Ovic",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hdh4aetd0avq4vyza2ej92nidhkj",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

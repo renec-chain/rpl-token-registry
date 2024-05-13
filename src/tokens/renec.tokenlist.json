@@ -28303,6 +28303,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5h882XTYv7dHzMyo9k6qjwpHRFDxP2PFjKATuPY5s6KW",
+      "name": "Memecoins for Fun",
+      "symbol": "Funny",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t5plnc5k9reja7uupw7zr8q0ai6a",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

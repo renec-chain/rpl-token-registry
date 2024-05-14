@@ -28342,6 +28342,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "52F2Fc2jrykfWKJuVaHEddeyTLavghBPirn9Mb7nY5cF",
+      "name": "First Digital Gold",
+      "symbol": "FDGOLD",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x1n04jrbdexvglbqeagnp334v5wv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

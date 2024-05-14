@@ -28329,6 +28329,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "YsDWDLvc4qF3s7UNcR1Th7fMnmCjvGdJRfUJgAF4Pz9",
+      "name": "Kiki Dog",
+      "symbol": "KDOG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4q9bez9hpc5vr8wlc4yl0ip8jilq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

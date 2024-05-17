@@ -28355,6 +28355,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FZp6ne6UK56YsYJWFMxSGLivPoAn1ZmLVwn1RPMsDHhP",
+      "name": "Donguyenptag",
+      "symbol": "Dnag",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b728t9ritdzxjtfhxaeih76dga8z",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

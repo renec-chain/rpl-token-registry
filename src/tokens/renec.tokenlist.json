@@ -28368,6 +28368,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "12BBxEsLZFrKPSEn1Rqc7WuCw9m5DicYBaTZ49xJpsQf",
+      "name": "RENEC DEVELOPMENT COIN",
+      "symbol": "RDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4azt3ux6vtl7tpvav23tsv99vjid",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

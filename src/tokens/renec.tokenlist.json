@@ -28293,19 +28293,6 @@
     },
     {
       "chainId": 101,
-      "address": "JDFSqXLCXTg2AB6CJQ89WpGscMi4AZ7m6UcBJ1TmMc4c",
-      "name": "SOL BNB on reLend",
-      "symbol": "SnB",
-      "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bq7bt2t31mda3iykvf363rj6rp70",
-      "tags": [
-
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 101,
       "address": "5h882XTYv7dHzMyo9k6qjwpHRFDxP2PFjKATuPY5s6KW",
       "name": "Memecoins for Fun",
       "symbol": "Funny",

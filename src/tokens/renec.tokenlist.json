@@ -28342,6 +28342,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JDFSqXLCXTg2AB6CJQ89WpGscMi4AZ7m6UcBJ1TmMc4c",
+      "name": "SOL BNB on RENEC Lend",
+      "symbol": "SnB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x06eut52axdeopxdhaiynv3xzvfl",
+      "tags": [
+        "Meme"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

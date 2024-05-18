@@ -28394,6 +28394,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FQyiB3siQtFca6YwY8VGC18MEQ2BuSYrxUFGrpVuyypR",
+      "name": "VimFest VF3",
+      "symbol": "VF3",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gjcskiy4wu2nitz1trbm8t8dyxlm",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28381,6 +28381,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DfocEzYgAjkwHam2LjxpqiWqdzse6fCFCv4coL3pnYq5",
+      "name": "RULER",
+      "symbol": "ZERI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vob9g0gd73qgfbpinee2gyyxxhdv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

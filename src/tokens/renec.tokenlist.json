@@ -28407,6 +28407,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4zyZVZ1vscHzWKAztTqSWnAdvSVVJwyux2XCnFjKoMZF",
+      "name": "Taken",
+      "symbol": "Re",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zy3t3bs76zkgx0hxmq1du02p38uk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

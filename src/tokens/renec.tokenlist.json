@@ -189,11 +189,11 @@
       "chainId": 101,
       "address": "GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4",
       "symbol": "reBTC",
-      "name": "BTC (reBTC)",
+      "name": "BTC",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fekfml3bxsd7ix5986x5nlzj4wne",
       "tags": [
-        "wrapped-coin"
+
       ],
       "extensions": {
       }

@@ -28420,6 +28420,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4RqoYRJJRqzunkPXGem9GeM4aXZysKfpULGwfAJ6uBLg",
+      "name": "Cute Cat",
+      "symbol": "CCAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aezsrq376b31rxiu88ek8st2nzkg",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

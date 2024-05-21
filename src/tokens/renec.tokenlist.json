@@ -215,11 +215,11 @@
       "chainId": 101,
       "address": "2kNzm2v6KR5dpzgavS2nssLV9RxogVP6py2S6doJEfuZ",
       "symbol": "reVND",
-      "name": "reVND",
+      "name": "VND",
       "decimals": 0,
-      "logoURI": "https://renec-homepage.s3.amazonaws.com/tokens/reVND.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y5ugt406h4x6nrat5u4s1cbyyaw9",
       "tags": [
-        "wrapped-coin"
+        "Fiat"
       ],
       "extensions": {
       }

@@ -202,11 +202,11 @@
       "chainId": 101,
       "address": "GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL",
       "symbol": "reETH",
-      "name": "ETH (reETH)",
+      "name": "ETH",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v376tactycwroq1etczgs1cjcdyg",
       "tags": [
-        "wrapped-coin"
+
       ],
       "extensions": {
       }

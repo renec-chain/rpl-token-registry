@@ -28446,6 +28446,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D78wGwxMnaSXXETorJiBgjconUBuyca5TWVSuHNaStY4",
+      "name": "Liquid Stake on RENEC",
+      "symbol": "LIQ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ji44xno1ze33534fj30z1acka0vf",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

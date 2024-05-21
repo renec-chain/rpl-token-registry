@@ -28433,6 +28433,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6HawyDUCUVtswhDGiAhsVtp4fqXDeoAn8m88JyAJ5jQT",
+      "name": "Hoodie Cat",
+      "symbol": "HCAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sgcnvmgrvws30gy62n2vwyejjkgv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

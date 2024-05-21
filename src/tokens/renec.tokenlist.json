@@ -132,14 +132,14 @@
       }
     },
     {
-      "chainId": 102,
+      "chainId": 101,
       "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
       "symbol": "reUSD",
-      "name": "reUSD",
+      "name": "USDT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v81a196jv7lppbf5745v8e9ax1i3",
       "tags": [
-        "stablecoin"
+
       ],
       "extensions": {
       }

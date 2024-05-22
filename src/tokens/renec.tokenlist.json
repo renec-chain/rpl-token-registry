@@ -28459,6 +28459,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G9ccdfQTvaxGbFgGWSMj5EcuBxUTpe6ysqo3LSTwEwfL",
+      "name": "Genk",
+      "symbol": "Genk",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xf9x536k6e63j8ap5flbgyt06fyq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28472,6 +28472,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3k8iKwFocKjB2MX4ufvQYGLJnk2PXQtvwSBRBJvYJ8gN",
+      "name": "VORTEX ",
+      "symbol": "VORXi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ych84tftc4f7wljstw4fi39q6vyz",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

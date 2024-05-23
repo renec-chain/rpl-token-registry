@@ -28485,6 +28485,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E4W4jxzR7VWx3PmvpQ23Em2pPPx93i3TxRhmikCuiPbv",
+      "name": "Remitano Network Coin",
+      "symbol": "Remitano",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vzufjj2vsjn3yk2v3azpct5isfvz",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

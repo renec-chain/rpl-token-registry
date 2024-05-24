@@ -28498,6 +28498,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4MgRpdunMgiNtGwP7L2WHCPyTtgvFDpVaPhprykiYcSG",
+      "name": "Kobixt",
+      "symbol": "KBXT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pmolknt3h06rdvth6vyf9ewuxoej",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

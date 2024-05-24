@@ -28511,6 +28511,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3g5aTo9iaANmdtWAchwpwvEnDu81Z8jnuLLufed2Hk6R",
+      "name": "RENEC Coin",
+      "symbol": "RCN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/db68yq7fekwxsnq352xl3gkb2ce4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

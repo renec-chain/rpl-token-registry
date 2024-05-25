@@ -28524,6 +28524,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DJLnZAzV7WDVn7pxzDiZAAGryz9kdyF9yGjHRn9cwb5s",
+      "name": "PHIZIH",
+      "symbol": "Ejema",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9dgao6l46l7dlu9kzd56xl77finp",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

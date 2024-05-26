@@ -28537,6 +28537,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9h8zGT9nMrKXDjk95Y58abSzXALhfDAW6c6xYR6R3eVH",
+      "name": "DBEN",
+      "symbol": "DBEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kam16ehvwu9swlr81ydgom3qbg13",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

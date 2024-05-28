@@ -28589,6 +28589,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CwB694ZQhTLZskrNsmDRiyeN2C9o7vQFpVdt6qpYUFcs",
+      "name": "Nigeria",
+      "symbol": "NGN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zf54lkku42rs3pm29dgz0vz6cmpw",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

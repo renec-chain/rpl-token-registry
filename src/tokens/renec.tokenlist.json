@@ -28563,6 +28563,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3feDQJGiSSMsJfoSUvv9x3peMrN7vV7ZEuzdwvo3rZDX",
+      "name": "Cute Cat Hoodie",
+      "symbol": "CCAH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/si50w8xutlxivtwvn6ze3w7uhfx0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

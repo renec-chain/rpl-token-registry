@@ -28576,6 +28576,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "fvfuhCwhQMcE3DqRY1t72aBCmJzBa6CdkzMnR5ehtcF",
+      "name": "Vietnamese Dong",
+      "symbol": "reVND",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/49eub7281ftwec6s2ehecsycmvby",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

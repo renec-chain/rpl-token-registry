@@ -28550,6 +28550,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9izhx5B6UEVMQQcyN3GTtBGXczt93SFwQ4GYW23PmU9E",
+      "name": "BUKY",
+      "symbol": "BUKY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gmoc5frr995ovodv3fwk9d6spdbh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28602,6 +28602,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HYhWcHygPpeMybddqkdEPvcb3nZ7Z6EQKFdYrU9CYL1n",
+      "name": "Thich Minh Tue",
+      "symbol": "TMT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bl08jun2ulbw8zxneyy5m85vdhm5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

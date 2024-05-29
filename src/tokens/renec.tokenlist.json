@@ -28615,6 +28615,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "xbxgZwWX5PxU7zw2oHoeA2yEaDwD56V3nupZQUPkJtn",
+      "name": "White Cat",
+      "symbol": "WCAT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rvxzosc06456vkjfdxrxsubgak0i",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

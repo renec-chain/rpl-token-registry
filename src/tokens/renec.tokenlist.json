@@ -28641,6 +28641,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4QTuikCkKGjsT6FtWzWSCgz81ashxpKvXQHipkrbtXMp",
+      "name": "PrastawaNEC",
+      "symbol": "PNEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eahasx2xdje1ge3undbzggqr2o7s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28628,6 +28628,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GZVFQ4v9cextvWqhtdBcpcdWX4RLxxF1DuunrcvThRq9",
+      "name": "DogeWifCooker",
+      "symbol": "DWIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wv9kpgclh300obad9bjz7nia5nq6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

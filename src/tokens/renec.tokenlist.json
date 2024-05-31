@@ -28654,6 +28654,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Gp9AeXr6BZ1XoHtF5xiAoNkRkK3zTCKajjEaTqFEVQAb",
+      "name": "EllyPrastawaNEC",
+      "symbol": "EPNEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iw2trdieeq69bjhxvdeek6mhfw6t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28667,6 +28667,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "8JcXiH5hjJpQV1eQA4f6ouBV6tLBTmFH5rC9NZ1dQjZp",
+      "name": "PrastawaRENEC",
+      "symbol": "PRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/evq3tmyb5vggqsufhkaa6ad0dci2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

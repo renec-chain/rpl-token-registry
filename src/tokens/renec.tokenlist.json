@@ -28680,6 +28680,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "G2qmFDtByNUaAFgCVd4UFdkuxRVaKmpYHmYoVkKtX7Z7",
+      "name": "Hoianphotographer",
+      "symbol": "H2H",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qe96oneucm8h1iyz2oztwb5a4jdk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

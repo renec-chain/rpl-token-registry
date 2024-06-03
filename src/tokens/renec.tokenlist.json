@@ -28784,6 +28784,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9JLXW73VZCN7hNP7AWA6TRvHZvg5hYrkb1B87KCLK3kC",
+      "name": "Portugal Team",
+      "symbol": "PRTG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5no20irrppb2jjfcpg52dzwljucd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

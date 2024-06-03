@@ -28758,6 +28758,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4VDTAGT3FaQVucKZrq4f9TsPNCabChcpfGmSdsEB5EpW",
+      "name": "Belgium Team",
+      "symbol": "BLG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7pa4lxhqkiufcrxvsvrc2r7kbf6k",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

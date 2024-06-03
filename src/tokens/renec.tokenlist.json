@@ -28706,6 +28706,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9yG3kjLsJaN7FnGWhQEJEpZEkhvkMJqbU7b8uGso7dtQ",
+      "name": "Hoianmedia",
+      "symbol": "HAM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/37cth32hx86ofujt02ci33pux80p",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

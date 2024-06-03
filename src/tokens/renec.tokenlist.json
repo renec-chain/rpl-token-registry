@@ -28693,6 +28693,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FK9EUkqBr4LXzqzj84pZ8FG4Mr86hqiCToDTTn7YcTMr",
+      "name": "Germany Team",
+      "symbol": "GER",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yeti3z2mg15hqp3z7a3l7t0qqo44",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

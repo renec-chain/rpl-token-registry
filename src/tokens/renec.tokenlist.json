@@ -28797,6 +28797,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5k6t8YKm26UCaecuakfEb5aWReSasLY44U2PCAxAqF5B",
+      "name": "cat in a dogs world",
+      "symbol": "MEW",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sz2ozupwrgjl0eq2gljv0a09yodb",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

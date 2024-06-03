@@ -28745,6 +28745,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7R55TZ9egNQ9w1CVAWySSHbpcCEdQuLZVxDa5qmoRAsa",
+      "name": "England Team",
+      "symbol": "ENG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zwvlty04unn2glohepmq21xbyfu9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

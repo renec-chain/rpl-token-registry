@@ -28771,6 +28771,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3BmXC1GS5GSC3VGarBpEwGPHUdDedvSVMBqrjbTYukih",
+      "name": "Spain Team",
+      "symbol": "SPN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ykjs3b10d9gj10407uczduhk8pd4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28823,6 +28823,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "webdvZqJJiSYhvU6roEn29C9fbpmuQ3tjeN6m3HVTUw",
+      "name": "Lizard",
+      "symbol": "LIZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iwnikh368bdck5qhptjdvj0f86i2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

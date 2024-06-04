@@ -28875,6 +28875,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HvNoGYAS24qEUPYVoGMm9v68hxUq9W5n8aStDTaWtt6E",
+      "name": "AVAX Coin",
+      "symbol": "reAVAX",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q0yg0nwn2h0ieh6u6zi8s6rs0fo3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28810,6 +28810,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CWQrkSHdRQhXJcMPhjXcH88rvm7WDBQo24zrDRq9NUz8",
+      "name": "3hy79vuREn3und3oEvgSFrY6qKyHHhDdedc5scQTHmEz",
+      "symbol": "3hy79",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yh3iyoyz8nfjlwenxa21rkvqgjdu",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

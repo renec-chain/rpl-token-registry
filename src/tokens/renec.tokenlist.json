@@ -28836,6 +28836,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6T6YD6fei33w5g7pueBNV7FEhdKx8jADvnD3GhdoW85P",
+      "name": "TRX Coin",
+      "symbol": "reTRX",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vt01wq1ut7jtdmg8j9en069rfx07",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

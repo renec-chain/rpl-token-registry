@@ -28888,6 +28888,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6aGwFGcDfm8KFhqZsb2gzDKcqpLz8TYbds46UpHN4Nmo",
+      "name": "Cao Lanh Cat Chu Mango",
+      "symbol": "CHUMANGO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/26kopqbzaz7fp7rj44zj812f1eih",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -28849,6 +28849,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DeWZ1nniZTieCMYSDEAo3aY17iHz9hnno8Mz3UuKSitW",
+      "name": "SHIB Coin",
+      "symbol": "reSHIB",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m5k60veo0uqb5lav401a0d7i6wcc",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

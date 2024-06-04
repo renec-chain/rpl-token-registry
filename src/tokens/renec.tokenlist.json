@@ -28862,6 +28862,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F9pB5srA1HfPYY1E2s6MzZ1D858nDYaeVwnjdUsSnFWk",
+      "name": "FTM Coin",
+      "symbol": "reFTM",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ctpt8j2ziuitmq3519wz58x7hlay",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

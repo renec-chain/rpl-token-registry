@@ -28901,6 +28901,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "68bVTVkhzu3KR8dJxqpxjLndfXN6bBKAx6NJF8iwnTsj",
+      "name": "JotCoin",
+      "symbol": "JCoin",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lycy2qo9xh4vyiuwcuxdygp1p8vw",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

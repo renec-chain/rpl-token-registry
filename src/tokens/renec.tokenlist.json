@@ -28914,6 +28914,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FD8DxPQ9Zx8nYgD84T2cz6yBrjkciBNSWqWXb2Rnto53",
+      "name": "JENNYCOIN",
+      "symbol": "JENC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zihclydmiwc7n2ppnbuza7aniomo",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

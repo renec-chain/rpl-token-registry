@@ -28927,6 +28927,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2Jk8tSjNaHCcrjeWMFFJiUiydBC91G4H3JSTcjt9GHtk",
+      "name": "Star",
+      "symbol": "Str",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z3zjtvl7q19rfpcb3ggcwsqpg5nw",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

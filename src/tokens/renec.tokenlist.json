@@ -28966,6 +28966,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7hQQZnkQFM7X8eeQWPwucfeWY1kGkLJnv3odkjkmdsUr",
+      "name": "Croatia fan token",
+      "symbol": "HRV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bea4l5wydeif3azjbbd3qbwz5nz3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

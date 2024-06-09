@@ -28940,6 +28940,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5ibLm336mrwZv6b9dE7vFNmKeNjBXXMct8qf3B3VN5Vr",
+      "name": "Hungary fan token",
+      "symbol": "HUN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4cuws4lpyupdjssrs4yqlgmyboh4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

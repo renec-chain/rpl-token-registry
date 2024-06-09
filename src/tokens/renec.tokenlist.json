@@ -28953,6 +28953,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DkW6ghbnDsAsoukhtzTaT8udaG3aYcL1fqKBXT6rM4nT",
+      "name": "Switzerland fan token",
+      "symbol": "CHE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qwnh89weioo0nxweykan05xgjlbk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

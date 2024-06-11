@@ -29018,6 +29018,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8P4sTSJjRXA8bGiwUYaxq6sBjmoF4CWEi1oRwZgBWsK1",
+      "name": "MATC",
+      "symbol": "reMATIC",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/edxq9ria98v88z6w8esq7d1w8b0m",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

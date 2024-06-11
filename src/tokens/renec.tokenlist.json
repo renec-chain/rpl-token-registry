@@ -29070,6 +29070,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GhdfoBmaMmhZk5y5Vjy2ZmKNSW5geNWsLc9eN3q7ht1b",
+      "name": "ADA Coin",
+      "symbol": "reADA",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gh40qvwv7ucteha7rtg7pi8ykkg5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

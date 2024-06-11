@@ -29148,6 +29148,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AqGWzCptVpYak9wQNampUTfprLD5Hh3uvSVnyZbBu81T",
+      "name": "AXS Coin",
+      "symbol": "reAXS",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k9vq0fu2azdut39qxxj5042ztwa3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

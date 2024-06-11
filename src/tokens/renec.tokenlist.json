@@ -29005,6 +29005,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6PxvcvQm3nCcqoRHCseeXDAnKzTcKf1MQmgNP1KD1NyZ",
+      "name": "LTC Coin",
+      "symbol": "reLTC",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fkq3x76lacqu6jo6yxxjsoy4jn2z",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

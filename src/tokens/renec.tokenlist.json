@@ -28979,6 +28979,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DaQGrvMvSpeqmZFnwk2YWcAGCktdDiHHk1fMfkK69iN",
+      "name": "MKR Coin",
+      "symbol": "reMKR",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fgywqbcb8kgowwuogsurjxu9rnv9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

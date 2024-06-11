@@ -29122,6 +29122,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FGQpQyQDRfNEquooBfP3gfn2VNdHEGtDzN4A6w3MAqCh",
+      "name": "DOT Coin",
+      "symbol": "reDOT",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oka5zojw3tkdluov3t4moztklhwc",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

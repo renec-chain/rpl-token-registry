@@ -29135,6 +29135,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7sd3AiLnvR5e9Ebstzx7ZAX4TtetcTd48Ev1uNhAL3sH",
+      "name": "ETC Coin",
+      "symbol": "reETC",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rs1vd5u7qe03nosvna2of8qacy9o",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

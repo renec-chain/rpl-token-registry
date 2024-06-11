@@ -29083,6 +29083,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AQspsA4HCfcCaZQMAqGreyg6Y1mpTq89SBQvgxrQM6vm",
+      "name": "XTZ Coin",
+      "symbol": "reXTZ",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bi9t8jniwuyuusftvuvbtc8pv0cd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -29109,6 +29109,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FQChUPUMVwf5t7VhMNUDYdU7UH4PkbMkuXEAykEo9Dxs",
+      "name": "UNI Coin",
+      "symbol": "reUNI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/com4g1p37soi3sq7suajbq2zjn5d",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

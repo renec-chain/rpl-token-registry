@@ -29096,6 +29096,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GF8N9zWVWxxLrBBw8K1ebbUo8vzdhbAGsPaFKkGRSgBL",
+      "name": "LINK Coin",
+      "symbol": "reLINK",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vgm6x86ea0uwa4bnoop9j7g577fa",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

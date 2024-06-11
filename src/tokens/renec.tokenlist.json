@@ -29031,6 +29031,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BzauSGpNLxNgzJ1PaVStxmJ9GyES8BceGGCZ1Acfw5hu",
+      "name": "NEAR Coin",
+      "symbol": "reNEAR",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5fj0pm0szbk3csna2lg8xwdcgaen",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

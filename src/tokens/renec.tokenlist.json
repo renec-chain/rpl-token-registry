@@ -29057,6 +29057,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7TF7P8aZbGNeiCACZWgSRcTRUDNEpSfzsQKPmC531r7Q",
+      "name": "EOS Coin",
+      "symbol": "reEOS",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fkbd7ni5638mo4011hk2x1xsbf2s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

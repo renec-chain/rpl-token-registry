@@ -29044,6 +29044,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6cP4CnDDqi4g6mHWegotM2cECtLQtHJSTnJSMD8rVsH6",
+      "name": "XRP Coin",
+      "symbol": "reXRP",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6khucz9bm4cgkb1mgu6rexcqy6c7",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

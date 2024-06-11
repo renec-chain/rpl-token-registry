@@ -28992,6 +28992,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EZrdKr7JL5ucEsjW5bBNeTMsQFtsAWpwuLgoZXBZBZ8Y",
+      "name": "DOGE Coin",
+      "symbol": "reDOGE",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ys6ay74odsvx3kr9ujer6bfld72",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

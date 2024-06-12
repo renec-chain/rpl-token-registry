@@ -29213,6 +29213,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9mVyCGpnERo1bQUkFagzq8xyzXaqx7QF4Bc1kZVTL2fC",
+      "name": "Ukraine fan token",
+      "symbol": "UKR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u4wenkhjgvoaysy425n5l8n4isoq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

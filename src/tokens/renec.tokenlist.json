@@ -29187,6 +29187,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cadd4ZD8zrsjH2Bf9QFXgYRnqVP1kABPiAzQxLFcGGZT",
+      "name": "Serbia fan token",
+      "symbol": "SRB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m4z58ads5ng1syciunjdq1h9g38t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

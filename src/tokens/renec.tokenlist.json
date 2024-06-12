@@ -29252,6 +29252,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4AczpXjmqY3ngfSp6aFjaNJ4ZJwJTq6bq2xu1Yha2WSG",
+      "name": "Turkey fan token",
+      "symbol": "TUR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xtrr2nbe770ak8ozaqr435ogjc6f",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

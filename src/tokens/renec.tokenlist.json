@@ -29161,6 +29161,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GRtiCvbsBHuvRRspmh1XG5ikt8JRqEG1JHw3HyHzq9DW",
+      "name": "Netherlands fan token",
+      "symbol": "NLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/honvlgte3891uaypvn9v5uq28efu",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

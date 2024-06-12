@@ -29200,6 +29200,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8HyGvsGJQPg4QuGGgsQ7FctbCE4vSCh6yjtCtA9AyccJ",
+      "name": "Romania fan token ",
+      "symbol": "ROU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m3qyk95x4hy67majuslw2eru2nmn",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

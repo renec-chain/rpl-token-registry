@@ -29265,6 +29265,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8JdNT62jsErrpUPCmgKQmUByLadis49iPb8jhEvCksYb",
+      "name": "Czechia fan token",
+      "symbol": "CZE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0b73jjfl0krgildzhf5mf4ap9dw0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

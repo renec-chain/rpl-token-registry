@@ -29226,6 +29226,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AMaAij39QdJZVA4A6fJzZsXzvbQbPByezamKbNQmruBx",
+      "name": "Slovakia fan token",
+      "symbol": "SVK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ct0cyf2tko94pbp02xh5miahdryc",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -29174,6 +29174,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8LdEGSGm5dBJuw4BDHVKFcb8J4qEyWmtdRYECu93Jnaf",
+      "name": "Slovenia",
+      "symbol": "SVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ahajpj7swb5rqu4nnl2d927f5lsd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

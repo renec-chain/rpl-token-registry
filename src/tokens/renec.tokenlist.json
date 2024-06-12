@@ -29239,6 +29239,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2U3SBuhLCvhFUZvenNBtixn6sdE4z9StQDwmHmmmM8hM",
+      "name": "Austria fan token",
+      "symbol": "AUT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zbjgrdq8b6j76mj15fx18x3hkfem",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -29278,6 +29278,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EhL6rMygFmAsxopxAokU4RirxHr9PjGtgvjswDcMgiVy",
+      "name": "Albania fan token",
+      "symbol": "ALB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ol4p8wn7yu4shltff5o1qnuxwhg5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

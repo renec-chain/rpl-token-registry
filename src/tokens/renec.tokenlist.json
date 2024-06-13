@@ -29291,6 +29291,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2cmUHavYB9rvQTs3aEwg9JNuwJJCNu2MJdH5bMjvJRe2",
+      "name": "Wyre ",
+      "symbol": "WYRe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9jtt17qymvn2vvd6yx3ysf5unz9x",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

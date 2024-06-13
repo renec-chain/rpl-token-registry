@@ -29304,6 +29304,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZYTcGpK7GbqPnXTnF47KYvSBT9sBq5MU2yJ6c4gKMCa",
+      "name": "Wire",
+      "symbol": "Wire",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oqb7jvi8l8neaym3426sc1tmware",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

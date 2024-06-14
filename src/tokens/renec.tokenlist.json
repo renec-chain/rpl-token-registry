@@ -29356,6 +29356,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BPr4acszjfyGSCPf7YGzwtVwyqzAYwY5JVLBAr7Qz1Eo",
+      "name": "Italy fan token",
+      "symbol": "ITA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oxrhmlk66rhxb1lhqublkfgyksga",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

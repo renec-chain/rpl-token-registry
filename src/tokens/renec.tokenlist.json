@@ -29382,6 +29382,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Ef7BTbp3gK6cUwEDYpp3QgF5nb8wicg24J46JDm31t1d",
+      "name": "Bee",
+      "symbol": "Bee",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/azmqvs7uu8r6w7t5994abwqwl1p1",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

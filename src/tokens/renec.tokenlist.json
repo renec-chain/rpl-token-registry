@@ -29330,6 +29330,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2EE2Mu9C1QEQYTm7eh65UPxTBUo7tbP58kajCh4CQGsJ",
+      "name": "Poland fan token",
+      "symbol": "POL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ejn2vkrw9aukpkw0lha3rjj5dzae",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

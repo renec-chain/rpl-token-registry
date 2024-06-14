@@ -29343,6 +29343,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VLeBAv2m2w8zxBgQpDV6X1qs7C6Sh8e5CUxC33YuJGz",
+      "name": "Georgia fan token",
+      "symbol": "GEO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r6dnkkqoadyyvcdl2mdev9030lzf",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

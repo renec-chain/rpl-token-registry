@@ -29395,6 +29395,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5L7LvwuL4VVXwv1n1PkppFHjzJP3AGw5eMGB7ZQCVsqa",
+      "name": "Bee meme coin",
+      "symbol": "BMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1qr1h3wy3yt1kqnla6gy5hx9dp9q",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

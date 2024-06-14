@@ -29317,6 +29317,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9CR7SJjcYc9w9z9khzmzaZpJpwPy7sxSfiofHwf4gHmU",
+      "name": "Scotland fan token",
+      "symbol": "SCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j7jj6mwtyppsj9st01khtd8jeweg",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

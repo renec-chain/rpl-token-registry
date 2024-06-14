@@ -29369,6 +29369,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BcaU69nNEZWPo2Z37njS2rUWobG933gibFueQLiJMyMP",
+      "name": "Denmark fan token",
+      "symbol": "DEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mowtcoxlovz3x54fhnwccaifr2qh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

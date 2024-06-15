@@ -29421,6 +29421,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EWbavSA53W5ZWNXfpFg31zFcb5bMXjyVh3HVm4BtAo68",
+      "name": "PILOTS",
+      "symbol": "PL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/we1y25pv2lx904eaubdjt4nxg850",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

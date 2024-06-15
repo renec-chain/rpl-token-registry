@@ -29408,6 +29408,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2W1Ax124fwbEEi37iet1Q5zJrdJLKhYzGdmjG3NQi8vz",
+      "name": "veRELEND",
+      "symbol": "veREL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qvug2qzr7knl0aamwhab9gjqqsv0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

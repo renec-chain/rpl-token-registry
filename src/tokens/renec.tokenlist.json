@@ -29434,6 +29434,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HytZDcZ8ruZZ27ZdFCA4kGXpyJM1EpKmMkwPEX5h2dwo",
+      "name": "TCN ESTATE ",
+      "symbol": "TNE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b8jmnf1hc2jk2pfekt8r2wo9ec85",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

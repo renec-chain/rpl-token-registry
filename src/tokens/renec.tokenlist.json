@@ -29460,6 +29460,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EwB8H5G5nDLWx6qpiCiTwKBTBWJGZrX6FzzW92FbZExt",
+      "name": "DTTC",
+      "symbol": "DTTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mkfc1xki9bp3794acu971wfptqc2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

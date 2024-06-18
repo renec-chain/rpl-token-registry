@@ -29473,6 +29473,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "77Ykynzee2qkxXZTBAXVZLpsR9P6EQwjErQW4ANfrKe8",
+      "name": "46",
+      "symbol": "46",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fxn1huuxvx5d1586vpp4ykewi62r",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

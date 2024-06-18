@@ -29486,6 +29486,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9P4AqEfXST2MTp2AsVyzyJaKyVRqKwKpzf1pFuCd41xs",
+      "name": "4600",
+      "symbol": "4600",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rbr95ad1iwhwrxji6lri68wzmye2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

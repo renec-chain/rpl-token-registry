@@ -29499,6 +29499,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BEHHCk1tBTBLzhRkEbDLWBSynzuPznF5A6v3h8ezHpVD",
+      "name": "KHOA tran",
+      "symbol": "ToKen",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xodxpokvmtd293gdqwmjk7tw1aq5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

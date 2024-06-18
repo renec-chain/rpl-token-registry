@@ -29512,6 +29512,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9xn8zoTgr9uitTWPq6f6kfjK3YorvodFAcJh8DR4Zurt",
+      "name": "Nrenec",
+      "symbol": "nrene",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gfgc7tgfdgoel4lh6vhpax05n50r",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

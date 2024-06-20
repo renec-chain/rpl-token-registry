@@ -29525,6 +29525,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5eyJ1F7nMFrx7izbBVUpnpN4Vhiycj4RaadbWqVtRE4L",
+      "name": "Rennec",
+      "symbol": "Rfn",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c6toziy8y3rox5bsgi07mdmhbd1l",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

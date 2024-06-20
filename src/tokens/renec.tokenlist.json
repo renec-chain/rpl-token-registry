@@ -29551,6 +29551,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8xLkHYphN8LtDgCZYtDjesWZAFGn3oA1XPa3Udpa4igC",
+      "name": "WETH",
+      "symbol": "reWETH",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jsp2bpn1ce4kbrd21z2i87nvbsaf",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

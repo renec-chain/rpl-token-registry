@@ -29538,6 +29538,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7xZqEzZG9trMcqUwpciTQyi9aMjrfXve6uXHTGNhF11C",
+      "name": "Kumar",
+      "symbol": "Kum",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uoi7yjb9wpaejz85t7l5qoy2whwv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

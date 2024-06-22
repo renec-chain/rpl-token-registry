@@ -29564,6 +29564,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BpVA5ypodkz4UhE6ZZAMNrq1FpSE8VAyvbyZZMShxzmG",
+      "name": "Nakcoin",
+      "symbol": "RatanakCo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l3b0vgvxf1sevsg14ut3ljccpfzi",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

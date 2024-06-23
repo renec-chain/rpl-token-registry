@@ -29577,6 +29577,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A6xF69mFLH8NkibqhrbY5eRakaQtqE8aN7gbw5Ee69Y",
+      "name": "The Boys",
+      "symbol": "BOYS",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q0iwjpdlkbxziqo7lvkawpoevzxh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -29590,6 +29590,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5STwV93SdsfAS91EssB3QLKzuSmfFDBSAY3RkCLDBUGe",
+      "name": "CR7CGCEKP17Mx7rutWVR9E9iAScqAmh7Nv6H713GRcre",
+      "symbol": "CR7CGCEKP1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dyulj7u6x8be0oos57okt0izj6yp",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

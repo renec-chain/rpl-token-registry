@@ -29603,6 +29603,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VBjVsrgxwYCmEEfRBX5eH8x4KZyCgs72MXUWeUUmfD5",
+      "name": "5STwV93SdsfAS91EssB3QLKzuSmfFDBSAY3RkCLDBUGe",
+      "symbol": "Google79",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gz6rjkjzl5utxk1qbv7h39phug1c",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

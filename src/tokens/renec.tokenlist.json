@@ -29759,6 +29759,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "B6zVAf6jkaGwH5V47QR2JTzjMA9KWWMSCdr5tmn1q5hy",
+      "name": "Light Massage with Kerokan Token",
+      "symbol": "LMK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s80a6s7ikbx5k8vlg4nc8tizjle0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

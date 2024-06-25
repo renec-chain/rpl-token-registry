@@ -29746,6 +29746,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8HcouBmXRYMKADQboazo7htHR89HGE41gMU2g3QgmL4H",
+      "name": "Light Massage Token",
+      "symbol": "LGM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xln4mzornvk75s57o2tzsjthdlrq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

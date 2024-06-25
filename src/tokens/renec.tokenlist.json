@@ -29837,6 +29837,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8g4RkcegnzUMaKvEBTVrRGT8ksygELBBeFm2SvmfUcy",
+      "name": "Light Massage and Accupressure Token",
+      "symbol": "LMAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r3moxs5qfc9e6ifta5cpjafw7nw9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

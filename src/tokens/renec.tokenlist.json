@@ -29902,6 +29902,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F8uFiWETmc3BtZsZzxftyiMFaENkhZuzDzyPcp85fA3r",
+      "name": "Light Massage and Laser Akupunktur Pen",
+      "symbol": "LMLAP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vpfn8d9w4au7pfj9v6edg6yrw88e",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

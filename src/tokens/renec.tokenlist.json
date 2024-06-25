@@ -29720,6 +29720,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxKePHsC5C5GKdCFqeUYRWhMniksSJ5A89TDHZxocp8H",
+      "name": "Bang Ndin Terapis Massage Token",
+      "symbol": "BNTM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hjmk6n9b4b0d9tbybr0s0o4c2yr9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

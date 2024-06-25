@@ -29772,6 +29772,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H3mWKYoL7KGDSzMNQ82zgL6DSDzT6yujHqTALzgCz26H",
+      "name": " Light Massage with Warming Oil",
+      "symbol": "LMWO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0b59xq9jz7u1g08a8yzj1l55s5o4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

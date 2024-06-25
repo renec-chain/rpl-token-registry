@@ -29785,6 +29785,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EYxyuC12dEDTf8qCAZaba6LyQcG5DAeZEPn2Jd8BqS6d",
+      "name": "Light Massage with Gurah Flu",
+      "symbol": "LMGF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uovezejnpw8q8lcjnxxc7gnmx93u",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

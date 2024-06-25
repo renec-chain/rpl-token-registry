@@ -29681,6 +29681,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "C3rWLUxNtQDZfu4MJkb6yg3d4UD7WHHZd8myEBjWbQZo",
+      "name": "OK Token",
+      "symbol": "OK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a7lg0sn433tue0s61a14ktxndplk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

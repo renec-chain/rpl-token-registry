@@ -29616,6 +29616,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "UBnvJTQhpa4WqZvz3UbDheCNyAyYkQNsR9z8i5aHFM8",
+      "name": "Love Token",
+      "symbol": "LOV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ez0kdjowwyprhmtfrfbcwbajhl7e",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

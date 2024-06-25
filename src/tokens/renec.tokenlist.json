@@ -29876,6 +29876,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "E19FcqFP5gTcCLfBDCG9oAESKan5M6s8vj9Rg8zsaYwS",
+      "name": "Light Massage and Reflexology Massage Gun Token",
+      "symbol": "LMRMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u42ohbpvzzyr0px3t4dd0t0dojph",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

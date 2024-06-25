@@ -29954,6 +29954,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GfRBxMNngRQ5Qu4SMAZithZrXTYDbxwFPXnPgi15d1Ca",
+      "name": "Light Massage and Bekam Api Token",
+      "symbol": "LMBA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pwl9q9t58ghnvp6pi14py2tfaam6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -29629,6 +29629,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9U8ccPhB6HzhAic8rVb1qqfMVyASBUzzdy1VxSCcyS8n",
+      "name": "Bang Ndin Massage Token",
+      "symbol": "BNM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0rsjx62dyldjxus3vk7oyectwz1y",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

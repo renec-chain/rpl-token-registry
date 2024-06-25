@@ -29941,6 +29941,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9MKAYtPFkRqxS6LsHL1JdW2ZZCEqmh3SYpXDgRbRyZN9",
+      "name": "Light Massage and Bekam Kering Silikon Token",
+      "symbol": "LMBKS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/k2119fnzq8ffx60ffjiiejz80o9t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

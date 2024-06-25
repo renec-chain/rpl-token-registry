@@ -29915,6 +29915,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BQTS8YnEJQd5Gpx8iw2xrQaWBG84HSA41i4u3oBVodcA",
+      "name": "Light Massage and Pijat Terkilir",
+      "symbol": "LMPT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a1vqun3ll8tz6u3dvx8gnnydcut6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

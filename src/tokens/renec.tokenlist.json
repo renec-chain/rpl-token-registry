@@ -29668,6 +29668,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9iGfNAVMCUQdeuTU1nRU3m2Kd9WZmZuVFySqCWyu1wTG",
+      "name": "POWER Token",
+      "symbol": "POWER",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gzwqz3mjbglfi2vxdtk8lpk36xu2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

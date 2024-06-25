@@ -29694,6 +29694,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "KjcMP3R2cjfY1QxeGkebUeZrxjDVUzawvqGnczNNE5y",
+      "name": "MATOAIE Token",
+      "symbol": "MATOAIE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q42ykgmid48ghxwav1fsk2wagy7z",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

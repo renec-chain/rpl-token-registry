@@ -29707,6 +29707,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fk191yjkgdPqn2XVZPd5VRocwYhpB8cRtUxyjnxa5UTZ",
+      "name": "Bang Ndin Token",
+      "symbol": "BND",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/iftq76tpt54fp7acsb2oncsv9hkn",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

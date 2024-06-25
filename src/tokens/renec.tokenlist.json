@@ -29733,6 +29733,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9DXkKXQszPgUFb752mkiV42oEvAVV1A8rQqSx7EEdkw5",
+      "name": "Kids Massage Token",
+      "symbol": "KM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qj1u24psbrxnhu56rjnt7pwesl30",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

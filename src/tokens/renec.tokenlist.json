@@ -29824,6 +29824,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "F6kfKqoviYqfVsMSf2gdrqcXUDVQH7zoPr7erg97jB3T",
+      "name": "Light Massage and Ultrasound Token",
+      "symbol": "LMU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b1qe99155h597nvqnuoaqq3tj3fd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

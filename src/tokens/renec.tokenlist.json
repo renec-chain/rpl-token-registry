@@ -29863,6 +29863,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HdX4w6jqPvZeSLyHY5VhUQbCsMPrEkMBNbYUSxkeQJg2",
+      "name": "Light Massage and Reflexology Token",
+      "symbol": "LMRF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwrsnsvd2fgeh2h2oeo60hfxnj4p",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

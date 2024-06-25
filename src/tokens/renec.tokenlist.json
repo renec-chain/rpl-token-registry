@@ -29850,6 +29850,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BzoRgKw81KG1nwTyR9v1bceAxeR1ftpdj4bY74QJ9cjn",
+      "name": "Light Massage and Accupressure Massage Gun Token",
+      "symbol": "LMAMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j5kljh8fidwl77tiv7ywuzi03607",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

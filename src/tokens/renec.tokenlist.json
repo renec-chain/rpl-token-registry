@@ -29811,6 +29811,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2zJHYPDrNM6uARDBoKdFMPWnV6PSUDqtn2Uuza4UZimT",
+      "name": "Light Massage with Complete Face Accupressure",
+      "symbol": "LMCFA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ml3chk0zdd4fubv46879ijby422t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

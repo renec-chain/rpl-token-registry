@@ -29928,6 +29928,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZTDqnSToWMPgc5MTAuQSwF9gRSMJtmz5BrizzLBX4oL",
+      "name": "Light Massage and Moxibution Token",
+      "symbol": "LMM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z5wzuu80hmvagw69cvd3dzeffomv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

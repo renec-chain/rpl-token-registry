@@ -29655,6 +29655,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9Jcd8dL3VV13GrHHULxy7i8FfppnLJDmvmyDZsrd6Bss",
+      "name": "WOKEH Token",
+      "symbol": "WOKEH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ag6rqinfth19p63ou19drc0jlq9s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

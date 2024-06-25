@@ -29798,6 +29798,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CBhFXAgrfe4CU9nLnVEpBnGv25tXu5veghFqGXzfBuh7",
+      "name": "Light Massage with Face Accupressure",
+      "symbol": "LMFA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/evi4lwpmehxb2oa7dp69pxoqca87",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

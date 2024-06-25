@@ -29889,6 +29889,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8V8Rzep6TqhZnz7R3sG2ewiYC9Pr6fzdse25YrR8ph1g",
+      "name": "Light Massage and Ear Candle Token",
+      "symbol": "LMEC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lbpminf9793ohjem28fjxm8s7g91",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

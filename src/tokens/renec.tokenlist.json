@@ -29980,6 +29980,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gq8jCuzG4UFaMnXVZtXPHebDdPzeLXp3SqXDK3eqswfe",
+      "name": "Light Massage and ITera Care Token",
+      "symbol": "LMIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yzuau95kru0jcgr445689tb8hx3d",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

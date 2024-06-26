@@ -30045,6 +30045,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9grJznxSw3VgFQWyuFgmWc4g1o4ankJ6sivt3QbGHu68",
+      "name": "Light Massage and Shock Wave Therapy",
+      "symbol": "LMSW",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p0503jiiznbyqd7ead0slm3211zj",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

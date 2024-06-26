@@ -30019,6 +30019,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6sYGYhGdnSvzFwa9EomL9e8WC3V28S5mc56Lz2NADj8W",
+      "name": "Light Massage and Bio Electric Token",
+      "symbol": "LMBE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/seo1c6ab5eveb5zg78fx9ii1ey80",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

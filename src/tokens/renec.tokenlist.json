@@ -29993,6 +29993,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "859RSMTGhxDNxUHjkMX35AZaXP3fmg9CDnoDHvksL6gd",
+      "name": "Light Massage and Infra Red Token",
+      "symbol": "LMIR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/szghvaaivmbi8dod549poivr9nf6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

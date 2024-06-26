@@ -30058,6 +30058,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6s1ptxBfZ8Rkk64iz2g7x2UNuf2mCSiD5VbZwrdroDkM",
+      "name": "Body Massage Token",
+      "symbol": "BM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lssn4c26xnz8rq7r5os0eacm8jqa",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

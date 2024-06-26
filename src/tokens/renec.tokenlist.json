@@ -30123,6 +30123,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "SghdTyCQCnNLs5cGknNbCXeNzhdHNHeY2DHupepgP8V",
+      "name": "Body Massage and Face Accupressure Lengkap Token",
+      "symbol": "BMFAL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1xeisc8d3k01eq4d99fuj0elqfz9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30084,6 +30084,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HRQxUSiJn4KdLwcvqecxzVgEfC8GggzeYCfjg64MhVA6",
+      "name": "Body Massage and Minyak Penghangat Token",
+      "symbol": "BMMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nt9i7lwwc42mqmv90qtydi1vyq1e",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

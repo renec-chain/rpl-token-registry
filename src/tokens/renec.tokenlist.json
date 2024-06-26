@@ -30032,6 +30032,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7Y5W1rh5eqdo3VgDnQoh5u6E2wonEztjDVYT1Xrt5iF9",
+      "name": "Light Massage and Terapi Tens or EMS Token",
+      "symbol": "LMTTE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/69tf4pl0ho98rfir77hgo5e9vnj0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

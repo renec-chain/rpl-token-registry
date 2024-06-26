@@ -30110,6 +30110,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "zf7g6oNmhvM2KnMPdE2Sk5PyN7QwaVyNND9gEcTLiwH",
+      "name": "Body Massage and Face Accupressure Token",
+      "symbol": "BMFA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/04w2rlhey5m1p2j4ovd1wj6zo6i3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

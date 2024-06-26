@@ -30097,6 +30097,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DMmdc9NwRZXVo7c44K8EcuEChs9GAADHJneQmWhvm54H",
+      "name": "Body Massage and Gurah Flu Token",
+      "symbol": "BMGF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/13d051shkig7zzrodxuhtz6xz9qf",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

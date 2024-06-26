@@ -30006,6 +30006,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GAAUHGuAsWV4ud36T4EsY3wDdtabkLCjFpmzycZXMQsq",
+      "name": "Light Massage and Terapi Laser Infra Red Token",
+      "symbol": "LMTLIR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/de39eefcqd218yus05peg1bgqbt3",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

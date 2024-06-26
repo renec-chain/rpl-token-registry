@@ -30071,6 +30071,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AobizgPPpyjXsLmd1mgPT3fRnymsuAtorZKsuYGAYghB",
+      "name": "Body Massage and Kerokan Token",
+      "symbol": "BMK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/f8bit1v2mna2mx67vu878sr4ihd5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

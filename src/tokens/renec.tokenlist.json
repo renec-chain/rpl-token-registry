@@ -29967,6 +29967,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4CKzVwZoe1tuaLHs75ADiXCHH6j83p7UxoRqwYXQ8F5a",
+      "name": "ONUS",
+      "symbol": "reONUS",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8i1obwo7b1u1wo0z5ia0w124vpfx",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

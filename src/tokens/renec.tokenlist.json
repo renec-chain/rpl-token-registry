@@ -30136,6 +30136,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4pcqTgALrNQr1C7kRNg2SpbAHfwRnJervTPNGCcBWnda",
+      "name": "Body Massage and Ultra Sound Token",
+      "symbol": "BMUS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2hv33wmsxdlws3fr7vh2o2014rgb",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

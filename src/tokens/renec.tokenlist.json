@@ -30201,6 +30201,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5t8ZfkNLHdEnC5HZ9wyFPsRa2H5WhCGRMfRKu4YLXemu",
+      "name": "minhtran04",
+      "symbol": "04119",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cveyvka6zrafxa030o240777vg1t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

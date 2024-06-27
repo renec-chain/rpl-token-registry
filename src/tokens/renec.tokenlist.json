@@ -30149,6 +30149,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Fi7cJQw5a6vvpKxJGTSYPUJaWEG7HVNMxVzkZniAD98h",
+      "name": "Body Massage and Accupressure Token",
+      "symbol": "BMA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4xw5jb8476d684l3o1yg7ypwuyy7",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

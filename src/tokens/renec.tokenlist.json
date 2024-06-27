@@ -30175,6 +30175,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EcCzkvRhN9XGhUt7JJk2GRjNcQrJDoB6DuXZd3eaet8z",
+      "name": "Body Massage and Foot Reflexology",
+      "symbol": "BMFR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/773g4tcz8q1wlx8nvemvhvu34yj5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

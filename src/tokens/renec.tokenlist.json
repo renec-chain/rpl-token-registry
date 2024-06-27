@@ -30162,6 +30162,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5gGbhPqZYpiMhMMKxWh4nkekJvUNneLSNeEeuPPk1CDB",
+      "name": "Body Massage and Accupressure Massage Gun Token",
+      "symbol": "BMAMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yw5284r8ae9exrfgrocpwv70m259",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

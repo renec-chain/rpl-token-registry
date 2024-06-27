@@ -30188,6 +30188,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7fu57hN3Gr8B5Evv1sbG5h37dQc6uYASEmYK9Rp8ZESh",
+      "name": "Body Massage and Foot Reflexology Massage Gun",
+      "symbol": "BMFRMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u8gy1j3w9xf9g3xrkc9er043prio",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

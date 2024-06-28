@@ -30227,6 +30227,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CTAmQbMARV2tss8tiBqV7xpqoayLb3qyuf3uX8YTgF8S",
+      "name": "Pi Vietnam",
+      "symbol": "PIVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7axcqp1l1vrvk58zgnd8kn44crjr",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

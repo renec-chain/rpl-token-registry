@@ -30214,6 +30214,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "237zkjEg5vZbAfx9UwW7wfQ25DttmBNUDWTBWNFgBiXb",
+      "name": "Massage Token",
+      "symbol": "MASSAGE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nl0aayqjz5vxorl9amom1y90ju96",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30240,6 +30240,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8BTpWukyDGGRS8VsBnyj4pT8RjyHNvn7mso3gzW8QHN9",
+      "name": "YES Token",
+      "symbol": "YES",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wjpc9n6bm1c565q47fudxea904nd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

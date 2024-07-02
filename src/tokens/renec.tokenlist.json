@@ -30253,6 +30253,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9dYhsVd38VZvJHmWcBb5cNDXqz8BneFNZzjvv7L4sVYm",
+      "name": "Rainbow",
+      "symbol": "RANI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b2r2wrn4zb0torl9qnotxg5i4322",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

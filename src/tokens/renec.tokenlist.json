@@ -30266,6 +30266,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "FLN39LPmq2QCgTW4CVJedi8vGKGmmnugd3Y2G54Uhcup",
+      "name": "Re nec",
+      "symbol": "Rene",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2l6mgofgedqkaens6jsd27udqr6x",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

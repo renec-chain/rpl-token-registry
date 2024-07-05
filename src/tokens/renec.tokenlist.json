@@ -30279,6 +30279,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4UfEzgNCevp9ATFz2FYqm2KDgZPjWfhwyh6ZTDrmWoTE",
+      "name": "TallGOAT",
+      "symbol": "TLGT",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qxk9mx179gerve7zz2m88dqrxkxj",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

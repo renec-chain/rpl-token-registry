@@ -30292,6 +30292,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4KaTRsdUBCzmTksFD5weuDYtprRNqGq9ug3DFyLQ5yQB",
+      "name": "ACT Token",
+      "symbol": "ACT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zqa98tjts7tjl79p736c5gqx062u",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

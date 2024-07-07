@@ -30305,6 +30305,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AE5gy4pRP1tzhLg114qSBujNabpk9cPWLxtiuDmCEi96",
+      "name": "TPP",
+      "symbol": "10000000",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xszs91mx2ihbnueth5hct9w58vsj",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

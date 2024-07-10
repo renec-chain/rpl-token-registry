@@ -30331,6 +30331,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2PcomEusRg1DpWqQEMgiMth5SRstdhzSvxJSj1NqDJp8",
+      "name": "BULL DOG COIN",
+      "symbol": "BullDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x0w6ylkbo41s6z5la58dej864t12",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

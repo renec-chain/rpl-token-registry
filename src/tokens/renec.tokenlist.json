@@ -30318,6 +30318,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HTeUunveFKMcZf84Uzq8LfgB9SsGCWo21qvVfEi2fVDz",
+      "name": "ChessNec",
+      "symbol": "CEN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eullzh4fu8kyin9kfwdwkp2kodq9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

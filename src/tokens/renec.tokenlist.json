@@ -30344,6 +30344,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4wJyrawp9VUzawu4jQXJevjv2GbPpFjAfgUGmgYmfYMp",
+      "name": "Kolana",
+      "symbol": "Ka",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ddqxsk7aze565yq2o7f1cvgwn8nt",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

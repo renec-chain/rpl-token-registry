@@ -30357,6 +30357,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9jMXTCgB1JmCh9GiKWt1fcpcWPTSE2cq2xfKgTXjYtK1",
+      "name": "KhoaT",
+      "symbol": "MKT1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v6ma2jgionpipijw7gvzsrm9vp48",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30383,6 +30383,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7v7kgvyhp6Vs56k2DQopToQhLZcUgh2i94YbJhBrDSao",
+      "name": "Raph",
+      "symbol": "Raf",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3hxyufvegfx12g5kaj1lk6ivdo2e",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

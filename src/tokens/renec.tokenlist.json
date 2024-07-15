@@ -30370,6 +30370,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FcqFXRL4Lu6kWcB9qqSZekWMpsV12G58NCrhJxB9KN9r",
+      "name": "Naira gold",
+      "symbol": "NGD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qzdbzeo6byrsu9fyleib0dqyjsj0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

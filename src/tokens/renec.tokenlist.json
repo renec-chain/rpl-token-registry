@@ -30396,6 +30396,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FtzimzTF6Tgxf7e4J33mkCmPrZM6onddJofxJv7dr77g",
+      "name": "ROBURAN LOMBANG",
+      "symbol": "RLG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uwebe2pf84t4eyhl1vx1i9cfgqtp",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

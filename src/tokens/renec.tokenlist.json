@@ -30409,6 +30409,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9eaDHDE7y2HSoAQSmd5wS8cRFVdfMJMYp6FFKNquoVM1",
+      "name": "MAMA",
+      "symbol": "MAMA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ssnev03xn5cmqsceafx51mn2t2jr",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

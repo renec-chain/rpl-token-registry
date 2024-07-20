@@ -30422,6 +30422,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4jexGsGhPyU1xnwXLPHAoJYCU9d5UxZjXSA3SEQBTM1C",
+      "name": "Ivanka Trump ",
+      "symbol": "IVANKA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/49gztl9dhob15ngk8wzv71wel9mn",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30435,6 +30435,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EijY2kuxDyksAqNxgP9dmxgeKU3VFFTFmTMVKK5N1vnG",
+      "name": "KH",
+      "symbol": "Khang",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7xd6svwag4zdrnjkgoizg72w6fqv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

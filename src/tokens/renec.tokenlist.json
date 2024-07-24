@@ -30461,6 +30461,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DQfvd7bWfJANPmBRa4xvHnNhXvomHNimgjYr7M1jwqBp",
+      "name": "myVND",
+      "symbol": "myVND",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/d3voz7b3p85nfhue36617ksqzz8y",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

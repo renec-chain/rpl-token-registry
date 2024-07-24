@@ -30448,6 +30448,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FPz9PGJpW74yE8HBsJ4m7uhschPdyuM5sRDsnnSk5K1",
+      "name": "Renecchill",
+      "symbol": "Renecchill",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3kx2ts8f7v63xvxv144rbhq3olyd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

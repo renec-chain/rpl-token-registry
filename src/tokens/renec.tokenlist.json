@@ -30474,6 +30474,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AAesVmUUYPpE4K2c9jeWSA5SqGk4fZWVuJfCyB24XGAj",
+      "name": "Ghana Digital Currency ",
+      "symbol": "GDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tsimk3a7mmd6704hg1liptwf51r0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

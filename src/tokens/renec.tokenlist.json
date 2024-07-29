@@ -30487,6 +30487,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CBXSJSekkcqwpVpHjJPVXaP3aLAV89bxG1iX9knZs2Aq",
+      "name": "GRAVITAS ",
+      "symbol": "GVT",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/b95qyfibc428ynkxyxslp4w95rar",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

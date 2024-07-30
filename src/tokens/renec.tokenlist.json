@@ -30513,6 +30513,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GZsHEr2ma2pyzUKLKqSyrVTS1bxwJT7r1XajS24Y4xmz",
+      "name": "Elon Musk project lovers ",
+      "symbol": "EmL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8gzxuoe8u04uptxutoax7g7ubs31",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

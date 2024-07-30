@@ -30500,6 +30500,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A9aTFjteNhuDDftEeWCMCgcsDXW61B22aN6tgu9ueShN",
+      "name": "Seezen projects lovers",
+      "symbol": "SznL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ftba2yezp1vkd2gwmgfa2kqmwsn9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

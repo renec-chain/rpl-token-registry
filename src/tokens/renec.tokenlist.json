@@ -30526,6 +30526,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BBKk3zzEp7nLjmbu46PRTEpBZP7EGFjPuZ7pWGCtDaVS",
+      "name": "Earth Coins",
+      "symbol": "EC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/06lnvd47ii90nsxw97u2l0bxrzs4",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

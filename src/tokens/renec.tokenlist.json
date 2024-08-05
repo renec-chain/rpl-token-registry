@@ -30552,6 +30552,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3GtjwTfvCJRmkjcYY6EvKn1TT7Bx9tQMvXGxYMM2ybnE",
+      "name": "NFT Dollar ",
+      "symbol": "USDN",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/21nyhk4eyhs9wk8v30jkx5zsaoaz",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

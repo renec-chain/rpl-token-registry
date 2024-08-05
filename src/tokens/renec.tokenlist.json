@@ -30539,6 +30539,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7VZsHL1d1iK49dMGprbaaB7aSV1SYyficDVNLxrSFruM",
+      "name": "ReFRB",
+      "symbol": "RFRB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/81q459vp8ggcg5cfs0lv8da3wn4j",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

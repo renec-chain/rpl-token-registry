@@ -30565,6 +30565,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EUEXxh3dfxNQQ36cwYrfke6mHeVTMJSn6Xsx8woY7vWs",
+      "name": "TKT",
+      "symbol": "999",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/znazc68jlu9p7su6jupaw66ifg2f",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30578,6 +30578,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HQN96JVWjhK5iwKFrLC1Y81Jojq5JHQJRRupEGZAPYMp",
+      "name": "Frankstar coin",
+      "symbol": "Ftc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z1csruhi1r36ux5c4nvxjm2x8v8s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30591,6 +30591,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4sXBudHugXFZtr9SKtgF3Z443UPPts4EBb9YnJjT4AyM",
+      "name": "Haunteddog",
+      "symbol": "Haunt",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l1r03b47a4fgfttsf3yv6ng95q2n",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

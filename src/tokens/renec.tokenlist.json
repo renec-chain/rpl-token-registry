@@ -30604,6 +30604,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5X3RQtiiYTzzqcA8updhnfFPEwHC7Y4ujzrpD98J3W9m",
+      "name": "Anime",
+      "symbol": "Anime",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aybz5d934h0rxsb9kvugdtdqhy2w",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

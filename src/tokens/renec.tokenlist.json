@@ -30617,6 +30617,17 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "So11111111111111111111111111111111111111112",
+      "symbol": "RENEC",
+      "name": "Wrapped RENEC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "extensions": {
+        "website": "https://renec.org/"
+      }
     }
   ],
   "version": {

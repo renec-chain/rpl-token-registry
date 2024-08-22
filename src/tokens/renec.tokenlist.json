@@ -30628,6 +30628,19 @@
       "extensions": {
         "website": "https://renec.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9y1dcmjCMiL997ncNnneYPoH9PdakCZyyKCrAUSJXVhH",
+      "name": "OKVIP",
+      "symbol": "OKVIP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m2ic4lp070obf3du4vcvhebey59b",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

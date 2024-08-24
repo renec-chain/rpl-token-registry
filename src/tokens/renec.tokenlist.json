@@ -30654,6 +30654,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3B2Ay3VTiz2fXAFPQ8WnU9pxB1UzM4YdetqLce71vVi6",
+      "name": "Argentinas ",
+      "symbol": "Unodos",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1jmvmjw0aiecnt8szahvijztlzwt",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

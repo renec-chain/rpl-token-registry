@@ -30667,6 +30667,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FY8eCA7fk1sZGJV778RqE96g9t1aRjK1czxZ3mXzuMnv",
+      "name": "CADENAS",
+      "symbol": "Cadenas",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ipff1misf3uqjjxfnwi731agsh7d",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30680,6 +30680,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8geDaKkvoWpfxLmAP1UGnprkiBKfNs72VxtDAKo3rvcj",
+      "name": "TEAM BURHAN",
+      "symbol": "TMB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q5bn797kobjli2vj038d1x4wno9e",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

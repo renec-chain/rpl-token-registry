@@ -30784,6 +30784,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Dr1GvFdTSr9FrJiqc6yenQbupMkVNmqWxBvD48EJD12i",
+      "name": "TokenKO",
+      "symbol": "TKO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/26zfshkyjuklpkkmbnb9kq5ouvtq",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

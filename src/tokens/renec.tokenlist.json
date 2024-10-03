@@ -30732,6 +30732,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CiRb44mcnwQxgwQ4m7yubXsrdW65hawbgk4zhp1Lp1iN",
+      "name": "TIME",
+      "symbol": "TIMEL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/kqje2cnsmnweusmdua44nl6y0ku5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30771,6 +30771,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8qMGZqLiEFhg3Qn4ukyEnxyqb7EsjpYbbKHSwdQZwDEY",
+      "name": "ANDY",
+      "symbol": "ANDY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fiiz1ckhooim0s50afffktcu9siy",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

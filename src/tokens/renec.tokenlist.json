@@ -30758,6 +30758,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "13d7mCdk4JmDKkeXniy2CoemypegKVmwMRJuMVLBJVEJ",
+      "name": "Enigma",
+      "symbol": "EGM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rlt9r5mxbsof35wnfr1qmb83oswg",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

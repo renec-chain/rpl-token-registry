@@ -30693,6 +30693,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AR4eEQnfhScSoGtDu2S8FbAbjhH9Q2onkFWTJvbxNQ6N",
+      "name": "KAI",
+      "symbol": "reKAI",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fmdcfyzmzykrk52v1r5qtye94r48",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

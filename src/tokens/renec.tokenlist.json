@@ -30706,6 +30706,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Eh6uamZZWde8gBp1u5mj3e7n6sJm3avJtVbqBy9RKXfD",
+      "name": "HIT Token",
+      "symbol": "HIT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/m67f6osgtsy2ecxg2eb193w1fqai",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

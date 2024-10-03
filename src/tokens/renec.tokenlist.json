@@ -30745,6 +30745,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CgRojMMk2W9iEGdRnTZ2dp5PXGQHwsDSkXvGia9y2b9T",
+      "name": "KhoaTran",
+      "symbol": "MKT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q5n0bhty03fmghdnnc960gar4lff",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

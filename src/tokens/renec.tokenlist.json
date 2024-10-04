@@ -30797,6 +30797,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2aZ5rsHm2uhq8UXYBKkZsVysv5JZEHuCnuM2opv75ua2",
+      "name": "Renectoken",
+      "symbol": "https",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xazg1kidrmfulpxbvb27k3wl2o0c",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

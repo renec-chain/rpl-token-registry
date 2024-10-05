@@ -30810,6 +30810,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FMFptKUdUH1x6bWS6yRnTJhDePV8f84DiEuS97WM6aiQ",
+      "name": "Rietcoin",
+      "symbol": "RTN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h7esatuf28908v3xxfc5pcq3hecx",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

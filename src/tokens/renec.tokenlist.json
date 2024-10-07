@@ -30823,6 +30823,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2Y3rYkCsqxNUQJjwtYpegQSj6MMpfR9iFkQGyo3pEGSA",
+      "name": "GOIFORAGE",
+      "symbol": "GOI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p6cthbsfu39mtsyb3prvcmbrguz0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

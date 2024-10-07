@@ -30836,6 +30836,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HRgbek71xqEaHA32wYmwwAxNZ5qvuYY9MNGPpH9sYjuy",
+      "name": "The O2 Arena",
+      "symbol": "O2Arena",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/urf9pmmzfn63yeaajmdu5t6m17nh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

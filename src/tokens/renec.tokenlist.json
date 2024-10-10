@@ -30849,6 +30849,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ybJaHNGDNJizRgJBBQEUj6R2KbxDLVKk1MpQZ5M6MEp",
+      "name": "VND Token Ga ",
+      "symbol": "VNDGA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hshouqizznx52orudtkihp3df6i5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

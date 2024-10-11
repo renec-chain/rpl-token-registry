@@ -30862,6 +30862,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5FznSaTFJ9KUoCzbarAegvwzPcsU78RAqqi6exmZY9ep",
+      "name": "GoldPerryReneCoin",
+      "symbol": "GPRC",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hcw2msu2t7xqczyf98k338gjewv6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

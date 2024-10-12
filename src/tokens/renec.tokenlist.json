@@ -30888,6 +30888,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "HUMoLeWqEJpwzPZWw7N4vcAtHWaFGaj8XNpZmt3KxscW",
+      "name": "Ecotrans",
+      "symbol": "ECO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x3jorcyzgci61s1cs2zumix6kkho",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

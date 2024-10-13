@@ -30901,6 +30901,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3MUXdS3Sy6dw1rQfJvnGBdSo6d8Te3EAB9TAfRpsBZsu",
+      "name": "Revolution",
+      "symbol": "RLT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/z1yd9srs72bhzdvnshi2qeygh2ys",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

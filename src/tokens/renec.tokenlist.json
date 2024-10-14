@@ -30914,6 +30914,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "EX8UGWs1XVesiDGY8izeusWN21eVdSiJegfSJMJgXzZy",
+      "name": "Bitcoin Cat",
+      "symbol": "BCat",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hsuzx33l7h8avhsrvtjpq44ylwpb",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

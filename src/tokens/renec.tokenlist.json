@@ -30927,6 +30927,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "29oixRaG64sLyHTHMdVTCCbvS3zr2VfGiP4pxTwosSDW",
+      "name": "RENEC Azatoken Coin",
+      "symbol": "RAZCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cc822qip88k7ddnkezy1ctg7tf1i",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -30940,6 +30940,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8Xxr5tdvub3TeBEFwY75MZVCvkYL3UtvyU4eL9UgBScn",
+      "name": "My Last Bet",
+      "symbol": "MLB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hl0lmpaqnz2lo2vr87e6ys34135s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

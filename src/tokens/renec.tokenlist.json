@@ -30953,6 +30953,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "D9QasSW8igMXeoEX4S1nh75aHk2vUxP86rAtHd5QuCHP",
+      "name": "X Empire ",
+      "symbol": "XER",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/82e6u117vctkrqucl0pggvcft1jm",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

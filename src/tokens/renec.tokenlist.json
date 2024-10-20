@@ -30966,6 +30966,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "25HzUo7EtKqofzdJGFkLidaVReVXGbrQKgB9nmSPduGF",
+      "name": "Pakcoin ",
+      "symbol": "PKC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w4965rw9nsn64ao9wo8wcrwaa1hd",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

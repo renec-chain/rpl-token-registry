@@ -30979,6 +30979,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7925TZAqAoqj5ngkp3nSrvFFuRfwZ4ebxZTKZHiDXiZS",
+      "name": "Space Cloud 9 ",
+      "symbol": "SC9",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uunhf9rzqeq1oswsxk266pk3y9bj",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

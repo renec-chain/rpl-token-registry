@@ -30992,6 +30992,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "gugTTFUNQzppBM38w441NREd2jUtfHdQGyHxDJq4ZYZ",
+      "name": "Catty",
+      "symbol": "CT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j0eatl9wms041t48m3rx7ugxrsjr",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

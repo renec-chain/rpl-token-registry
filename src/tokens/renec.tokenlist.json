@@ -31018,6 +31018,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3YZissAf9LFNqrRq4ynQv89VSQnBJoLG7ykprtvaDyAB",
+      "name": "Knights",
+      "symbol": "KSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y59puj1f2fdzjsi3ydkv17mtbpqk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

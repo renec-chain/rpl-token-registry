@@ -31005,6 +31005,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AYSNVyrMb8qe2eUEyHCcCyUG9ZTHPzFd13Jg1G1VBhCS",
+      "name": "Relentless Credit Token ",
+      "symbol": "RLCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wgvmn162smioe4lblcfodsaxg5y0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

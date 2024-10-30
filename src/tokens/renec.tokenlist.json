@@ -31044,6 +31044,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HGdeLQJHPyjM5o43pbgVa1nb1wTHpgLGwKHaAeir3RMm",
+      "name": "Pak RACECOIN ",
+      "symbol": "PAKRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i3ae4dcvm7n3ojl5b0oxwyqxlwm6",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

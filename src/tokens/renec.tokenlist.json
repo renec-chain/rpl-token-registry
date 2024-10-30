@@ -31031,6 +31031,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8gFkzqp1GMALW7W5GUxxiePXvPWWB34TPktQj1GVUUWT",
+      "name": "ReBRICS coin",
+      "symbol": "ReBIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l05vw0l3lnzo5tio9tzdsfud1ejj",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31057,6 +31057,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9GSWrK54JQASrV5uHN2Yz6QHWB5n3cnamKBUk9FcGm5m",
+      "name": "POKcoin",
+      "symbol": "POKC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sxebyxbe13xh1i2isc7iipwpssce",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31070,6 +31070,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BJn2JjwQedLevF8rGypsXhmUmuaKGwJmCKTANkHeJACs",
+      "name": "CONG TY TNHH DICH VU VA DAU TU 9P DCHGS",
+      "symbol": "DHRS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qyqltbyahsj79cneam38ognyn2ei",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

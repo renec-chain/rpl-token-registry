@@ -31083,6 +31083,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9cYWKBAZKBhusX134fXyrxiDvpCx6oEEwN18keZTrxW6",
+      "name": "Brics Token",
+      "symbol": "BRICS",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2063sggffg8hd74c5s6sqmu3z3un",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

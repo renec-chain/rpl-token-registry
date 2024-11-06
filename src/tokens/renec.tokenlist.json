@@ -31096,6 +31096,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HdbvtsmywuJs6dDVk9a3DgEwSoG6Zxyi89pWKcfGUkwA",
+      "name": "Nhann",
+      "symbol": "99",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3wjlhr7q60lttc6uujybjtz307ms",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

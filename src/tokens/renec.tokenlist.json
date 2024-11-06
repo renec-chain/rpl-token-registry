@@ -31109,6 +31109,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2XGH7DAiinKUv6qfku8DfLgtxfGaL3PNt3jchHFvB8mi",
+      "name": "Nhan",
+      "symbol": "RFCS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h4ctu7k8d7p233lclxbiwujqmiv7",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

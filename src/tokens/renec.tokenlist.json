@@ -31122,6 +31122,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "26Y8BDvXUinHK16N4xALNNQH8is22tojHEFsCmEsmuqX",
+      "name": "Le",
+      "symbol": "LE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/51tc163rvapwhzpvcdxtr8fytqgm",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

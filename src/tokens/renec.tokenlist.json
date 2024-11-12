@@ -31135,6 +31135,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GFsvWT3mgnnNYvicUou9epikFN6TrmBbt5LEpG5hbQHc",
+      "name": "E payment ",
+      "symbol": "ECSH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hnyof7y46enr4uotupbokd23c18s",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

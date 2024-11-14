@@ -31148,6 +31148,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "JAH5cQkCmaVSdPB2G5LVZ2J46BG63MbeXYAmoQB9CQ8c",
+      "name": "Easylook",
+      "symbol": "ITCAK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/valddva0mgfl5d0r7i0dvtyao17r",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

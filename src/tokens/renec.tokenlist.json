@@ -31161,6 +31161,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GVgB7RoPkBuq1MbfdFW7HvXJ1wNtTdGDYkC59LDVTifi",
+      "name": "SETH",
+      "symbol": "SETH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/td7sqsa78f8p9cx3ilw4hi5tyt7c",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

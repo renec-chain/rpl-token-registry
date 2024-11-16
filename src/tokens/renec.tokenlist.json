@@ -31174,6 +31174,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5HZf9tQGvubwZXepxbrBJ2decBroeVTm2cpm9BGeSyDa",
+      "name": "Bui Gia Trang",
+      "symbol": "BGT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gj975o76ivyqz6c0coq4cl4ils6t",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

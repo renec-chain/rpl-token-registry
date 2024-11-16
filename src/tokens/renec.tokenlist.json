@@ -31187,6 +31187,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9YCEx4nkgnUiWHfw1tWYH88neqmfSjBtaEQuyrBhbWC",
+      "name": "BOT",
+      "symbol": "BOT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/zgshzu65kcpveo9ohhbjnpq28yfp",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

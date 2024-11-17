@@ -31200,6 +31200,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZwJRMeKvPQs4P11NfwzNj5KnKP7U3K9vG6YkruiFMN9",
+      "name": "DYNASTY INU",
+      "symbol": "DINU",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lcr3oepae8p3aiytrh0nmsf95qvp",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31213,6 +31213,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7DHc2dTcU2i9rbPRqu8BeDs4nfEp2syFU3bkRxX2Su4y",
+      "name": "USDTr",
+      "symbol": "us",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rflbr4hvb26yudecpv8lfyei94ih",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

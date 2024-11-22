@@ -31226,6 +31226,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CNY9gJ8KkhMtTdm53iaLe5Lr3e6kuSBP73RUhbvk3VGS",
+      "name": "Dane",
+      "symbol": "Blood",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jv7rv156h1o8ey108itw0jare07v",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

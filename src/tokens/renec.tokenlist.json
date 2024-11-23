@@ -31239,6 +31239,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DkS1BUZikQfgaioCegAYjK7M5tAQkQGcwotJPZAastFd",
+      "name": "Jgnj",
+      "symbol": "Bchjk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/alton0uagb08re7n1vo4cdnxlrgo",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

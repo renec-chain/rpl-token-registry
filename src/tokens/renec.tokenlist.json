@@ -31252,6 +31252,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9A1qhoZwGcHy93mfjb7gsu47kwtcnFYAxiqvLbL6xbBT",
+      "name": "Daw Flower",
+      "symbol": "Hatha",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fepf1w35rb5gul7xryqsps09mtej",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

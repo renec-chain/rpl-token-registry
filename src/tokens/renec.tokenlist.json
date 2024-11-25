@@ -31265,6 +31265,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6uraGH1U3jyVxB4879fYg4ZMjCXFdsbHYG4ZXq7grcku",
+      "name": "Jack Alfred ",
+      "symbol": "JFREN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yo83rjj9hib2zjsgb1khggpj6oee",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

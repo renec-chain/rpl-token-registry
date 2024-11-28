@@ -31278,6 +31278,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DFvs2u19MsfvmoiJ4N2o4hrSnDHqrG2sDnnEyvPUnaeC",
+      "name": "NASA",
+      "symbol": "NASA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7mo50tncd8wg0hep38p9a3x3h10a",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

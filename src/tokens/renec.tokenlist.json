@@ -31291,6 +31291,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CmTKopn671xJ1Ton9rKrnNGrsyqQBER9mC9JHLgjrXx1",
+      "name": "BONDOG",
+      "symbol": "BON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/70hvri8jeckggneql6htihep3qd1",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

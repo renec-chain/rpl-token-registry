@@ -31304,6 +31304,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HkvHFiaiUdVtGF3se98ETiaWk9VzxY1M4ioAUupq2QT9",
+      "name": "BLUM",
+      "symbol": "Blummepaid",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c8td1cy8dt364vvasokxsw2a14ht",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

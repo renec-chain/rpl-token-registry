@@ -31382,6 +31382,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "A1Mg8exksHbm7dFYND4PexVhCzF1U4jjTyBfAuE1Wmkt",
+      "name": "a",
+      "symbol": "111",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uaj4rf11q5kdv5tvs1nxdjd4uyzh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

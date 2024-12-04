@@ -31369,6 +31369,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3BtWX8x47ZgruK9cKG8XTJ9J56PRtnWH8dLMUoYd7jps",
+      "name": "long",
+      "symbol": "long",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xre0hwzrwa3leejljlxt5q1r9lrv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

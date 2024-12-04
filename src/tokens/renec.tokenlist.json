@@ -31356,6 +31356,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FNXZygRAdFNzsysW3DeFSnhJ93RZ63NgFe86ziPm4yZU",
+      "name": "Huy88",
+      "symbol": "Huy88",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2bvrufcn9e9otxlyfuf3yrviaved",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

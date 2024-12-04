@@ -31317,6 +31317,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7cP3yKaUjbAs2bgcjJtYUKS1QyHAA324Xo1NnkK55Kw7",
+      "name": "hui",
+      "symbol": "hui",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/et5acoyyuep8q8yidl1tw018q6x1",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31343,6 +31343,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FmPqxn6xMLNs2u818KS65mJAoU2HNaf7YhJAudttB9Ed",
+      "name": "Huyngo",
+      "symbol": "Huyngo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qaby9zj31l4sjj7gx97xekishy98",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

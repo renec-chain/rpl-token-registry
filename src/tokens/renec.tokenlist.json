@@ -31395,6 +31395,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6iqWgfJhkUp2dBD4VUQfpXG3capLgAXZoxiqAZNUzDdV",
+      "name": "Hi",
+      "symbol": "Hi",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r10lnsrqvd5d8mqm5dl1n8owhuco",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

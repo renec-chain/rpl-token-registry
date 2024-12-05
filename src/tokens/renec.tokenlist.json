@@ -31408,6 +31408,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3bcpXVWAxpu3GtU71B5N2CVYedeaeqwxsm5VQPJ9k6SJ",
+      "name": "Phat",
+      "symbol": "Phat",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xdo6njosa35fbs1hsbifnh8131o2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

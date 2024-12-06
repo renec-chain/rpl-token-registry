@@ -31421,6 +31421,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GaRfrNBtqcJkbsNX6jkze36PMfFrMWS7NTTPd6mhWTkQ",
+      "name": "Eaz",
+      "symbol": "Eaz",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rnul7pw3c6h3lxazn2d1y1ghz9m5",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31447,6 +31447,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "7rLhVQrh6VR16ejq3LKCVkv3GFj83fCKRG3XnB4AJwgD",
+      "name": "VAD",
+      "symbol": "VAD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9afupql7twq6a8zm5vo0uq0xsg16",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

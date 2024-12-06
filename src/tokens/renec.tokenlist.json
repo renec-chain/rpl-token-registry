@@ -31434,6 +31434,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2iXyQnwa25aC3GAT7gEiFyrmtYNWKhc4ZgjdNFVc8vZG",
+      "name": "Huskyy",
+      "symbol": "hsk",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qrdoa7thxjh2re0vn9p1osajzvay",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

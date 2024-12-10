@@ -31460,6 +31460,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5M44r29Hc2kXLQ4U5pWGLHRyyswLn37poXDHVVMybdAJ",
+      "name": "emira",
+      "symbol": "emira",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/febi71jx45fe71m365rd25dnty6v",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

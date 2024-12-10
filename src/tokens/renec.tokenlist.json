@@ -31473,6 +31473,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6PWA9F66uCkxfzYcj9kwaXNqMNSd1RrBSvs8xhg7diUr",
+      "name": "MFC",
+      "symbol": "MFC",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vwwnapf34b7rhqkbaaxw02n2pqzf",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

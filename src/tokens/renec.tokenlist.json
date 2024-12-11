@@ -31499,6 +31499,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "45XUzYTdarvW2fhWm11iWkFco4PzWZqzXkXZTbzfdW8q",
+      "name": "Pi Fake",
+      "symbol": "PIFAKE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gm1zov7lds0fo2nz8yw3xxudeviv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31486,6 +31486,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "H2WzLA5s49ig4k8k2KxpWNMxdgHPTRH236VJCUUnvkwC",
+      "name": "token TT",
+      "symbol": "symbol",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oszbhwlv8knobtpce2fyvj9x5x91",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

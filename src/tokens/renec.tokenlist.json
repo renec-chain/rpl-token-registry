@@ -31538,6 +31538,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "5mDen8eQNd8cgK9ebdCNmKyf45Y8iFFLd4ZnPxG8UKZc",
+      "name": "HHP",
+      "symbol": "HHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6yjj7fhcj1lrrbugv2pm8uk1mgy9",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

@@ -31512,6 +31512,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "9y43JnrB26k6QjHyeXTvmUv2ZLCK5bfiTYZUffo9Y6z4",
+      "name": "TLong",
+      "symbol": "TLong",
+      "decimals": 5,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/7pxsqnyppo4tfd7872vre4rsigy1",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

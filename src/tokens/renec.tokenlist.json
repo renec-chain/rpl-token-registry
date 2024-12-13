@@ -31525,6 +31525,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "3QDCctDU78KSaA9m4z23nC3hLpQakT9TmQMvYzMAG763",
+      "name": "VINF",
+      "symbol": "VIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ver2oi8lzecqic7pck1kc67eax1f",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

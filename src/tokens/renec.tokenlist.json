@@ -31551,6 +31551,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "Fh38DHCsdTMfVav6q6A4xeMFbjCvta3nPt2aLy41775Q",
+      "name": "HPVN",
+      "symbol": "HPVN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/td6zb9d1nlefjjo5k8wfw9ezrpwh",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

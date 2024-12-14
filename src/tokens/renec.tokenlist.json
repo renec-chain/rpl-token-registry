@@ -31564,6 +31564,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "72CgamTyJCqiTCU2NjA5wAuByHtL8bR3mnYiP2JekzEY",
+      "name": "Bryant Lock",
+      "symbol": "BRL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vl6kesqpq0g3wqffqfwro6m3r8nc",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

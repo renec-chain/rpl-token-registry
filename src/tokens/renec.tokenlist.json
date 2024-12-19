@@ -31577,6 +31577,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "GCLW5KD9F6KFz9D5TCfGpLeyeMphJ6MSM82ACzjnrzRR",
+      "name": "AirdropHunter",
+      "symbol": "AIRHU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4100uhvft7pzrlb89757gld28bd0",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

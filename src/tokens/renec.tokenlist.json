@@ -31590,6 +31590,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "BeLUeCbAmVK8qPHiLqT1fq679UmxFWv9pqLsqw4Lear4",
+      "name": "KIU Token",
+      "symbol": "KIU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/sg9s5rpx1okyuza04cjoz7dhlxgv",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

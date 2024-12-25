@@ -31603,6 +31603,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9mTpDWEiXo5MimERmtcX9hA3XTAuyJTfneZPRjCx4wXY",
+      "name": "Pii network",
+      "symbol": "Piinetwork",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r2b3yrik67i8uwsie6annz1f75e7",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

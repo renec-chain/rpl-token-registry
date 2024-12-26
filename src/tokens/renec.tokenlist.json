@@ -31616,6 +31616,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "2SZ39J2Yoi2xsee8JdktvDriWE6dqACuG4xHVNGNnEnj",
+      "name": "Suslik coin",
+      "symbol": "SUSL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5goozawkmr3z5uxnynui5iuu3qif",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

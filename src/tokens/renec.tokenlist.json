@@ -31629,6 +31629,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "AoLGHixx7tQkBPdBo45mZRpR9o6SEBWAzk4MpzBX8rss",
+      "name": "Token RENEC",
+      "symbol": "KG68",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qfgnrpz7phhr29gm4auwe8cd5717",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

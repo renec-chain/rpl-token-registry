@@ -31642,6 +31642,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "EVwLQtMUs6cjWWxx7EQCRfqTvudbn3mtKStAFmtdQLk1",
+      "name": "QA",
+      "symbol": "Qavvc",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lz35g7yvxvl78sszczhjs7sgwibu",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

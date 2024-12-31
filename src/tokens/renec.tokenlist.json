@@ -31655,6 +31655,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DdvdSSrGwQj82zSSx9P7X1gy9HZ9eX2mvL4hbXzPJY6S",
+      "name": "SIDRA TOKEN",
+      "symbol": "SDA",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5tfhqd0qqt219bboty9b1fqm5gfk",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

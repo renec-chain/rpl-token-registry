@@ -31681,6 +31681,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "BLDEiFzGVktPDHy9N2EdFj27bsoRwf3rD5imZr4tBpyj",
+      "name": "Pi United State Dollars",
+      "symbol": "PIUSD",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/15ox94cc5y8mthkl86l6xklfo7g2",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {

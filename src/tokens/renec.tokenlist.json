@@ -31668,6 +31668,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "6uSwazkNkWH21ie4LYp5u5d5z1kuD7Lp6eT9yBknxAcD",
+      "name": "Pi Coin",
+      "symbol": "rePI",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l2h724fybnz4be2n0uehgsnlhmdz",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
